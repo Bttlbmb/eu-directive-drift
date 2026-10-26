@@ -39,7 +39,7 @@ function coverage(){
 function detail(id){
  const r=records.find(x=>x.id===id), el=$('#detail-page');
  if(!r){el.innerHTML='<a class="back" href="#">← Back to findings</a><h1>Outside the open-issues catalogue</h1><p>This record is not listed in the current catalogue. Fully resolved cases are excluded.</p>';return;}
- document.title=`${r.country}: ${r.amendingAct} — EU Update Chain`;
+ document.title=`${r.country}: ${r.amendingAct} — EU Directive Drift`;
  const c=r.comparison, ns=r.noveltySearch;
  const quote=(label,text)=>`<div class="case-quote"><span>${esc(label)}</span>${esc(text)}</div>`;
  const points=[...(r.baseActPublished?[{date:r.baseActPublished,event:`${r.baseAct} published.`,who:'eu'}]:[]),...r.timeline,...(r.timeline.some(t=>t.date===r.evidenceDate)?[]:[{date:r.evidenceDate,event:`${r.evidenceLabel||'Checked'}.`,who:'check'}])].sort((a,b)=>a.date.localeCompare(b.date)), whoLabel={eu:'EU',national:r.country,court:'Court',commission:'Commission',check:'Our check',commentary:'Commentary'};
@@ -50,7 +50,7 @@ function route(){
  const hash=location.hash; if(hash==='#main'){$('#main').focus();return;} const type=hash.startsWith('#case/')?'detail':hash==='#method'?'method':hash==='#coverage'?'coverage':'catalogue';
  ['catalogue','detail','method','coverage'].forEach(t=>$('#'+t+'-page').hidden=t!==type);
  document.querySelectorAll('[data-page]').forEach(a=>{const active=a.dataset.page===type;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
- document.title='EU Update Chain — National implementation gaps';
+ document.title='EU Directive Drift — National implementation gaps';
  if(type==='detail'){try{detail(decodeURIComponent(hash.slice(6)));}catch{detail('');}}
  window.scrollTo(0,0);$('#main').focus({preventScroll:true});
 }

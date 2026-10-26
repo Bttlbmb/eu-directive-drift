@@ -14,6 +14,7 @@
       "stage": "judgment",
       "evidenceDate": "2026-10-01",
       "euChange": "Article 1(42) of the 2013 amendment inserted Article 55a. Paragraph 2 requires published guidelines on organising and recognising professional traineeships undertaken in another Member State or a third country, particularly the supervisor’s role.",
+      "consequence": "Yes. The Court found the guidelines incomplete, and the Commission says gaps remain for some professions. The 2024 ruling assessed the situation as it was on 28 March 2020, and the October 2026 step is a Commission assessment, not a new Court ruling.",
       "nationalGap": "The Court assessed incomplete coverage at 28 March 2020. Act 422/2015 Section 15(6) already recognised traineeships in principle. A later duty to publish guidelines under Section 50(1)(g) did not establish that complete guidelines had actually been adopted.",
       "caveat": "The 2024 judgment assessed the situation on 28 March 2020. Some professional guidelines existed; the finding concerns incomplete coverage. The October 2026 follow-up is a Commission assessment, rather than a fresh Court ruling or imposed financial sanction. Guidelines need not be an Act of Parliament. Other claims in the original action were dismissed.",
       "nationalLaw": "Act 422/2015 Sections 15(6) and 50(1)(g); actual published guidelines required under EU Article 55a(2).",
@@ -115,6 +116,7 @@
       "stage": "commission",
       "evidenceDate": "2024-04-30",
       "euChange": "The amendment added host-state accommodation conditions and reimbursement for professional journeys within the posting assignment to Article 3(1). It requires equal treatment where host-state entitlements exist, not universal employer-provided accommodation.",
+      "consequence": "Yes, on paper. Slovenia’s core list for workers posted into the country leaves out accommodation and expenses, which the EU now requires to be treated equally where local workers have such entitlements. Other laws, collective agreements and practice were not fully audited, and we do not claim that posted workers lack these rights.",
       "nationalGap": "The Commission identified inbound coverage gaps. Official ZDR-1 Article 210(2) omits accommodation and expense reimbursement from the core list, while Article 130(1) gives ordinary employees expense rights. The 2023 cross-border-services act lists both heads for outbound postings but refers inbound employers to ZDR-1.",
       "caveat": "This is a scoped list omission and Commission concern, not a court finding. Other laws, collective agreements and practice were not fully audited. Longer postings receive broader rights after 12 months (18 after a motivated extension) under Article 210(6)–(7). No claim is made that every posted worker lacks these rights.",
       "nationalLaw": "ZDR-1 Articles 3(3), 130(1), 139 and 210(2); ZČmIS-1 Articles 3(3), 6(3), 16(12).",
@@ -218,6 +220,7 @@
       "evidenceDate": "2026-10-25",
       "summary": "In 2022 the EU corrected the Danish text of its definition of environmental information. Denmark’s statute still uses the earlier words, but official guidance tells authorities to apply the EU definition.",
       "euChange": "Article 2(1)(b) and (c) changed from factors or measures that affect or can affect the environment to those that affect or are likely to affect it.",
+      "consequence": "Yes, on paper. The Danish statute still defines environmental information with “can affect” where the corrected EU text says “are likely to affect”. This does not show that anyone’s access to information was reduced: official guidance applies the EU definition, and EU law permits wider national access.",
       "nationalGap": "Consolidation Act 980 of 16 August 2017, § 3 nos 2–3, still uses the former Danish words. Denmark’s 2025 Aarhus implementation report explicitly acknowledges the divergence.",
       "nationalLaw": "Miljøoplysningsloven, Consolidation Act 980 of 16 August 2017, § 3 nos 2–3; current official consolidation marked applicable.",
       "provisions": "Directive 2003/4/EC Article 2(1)(b), (c); corrigendum OJ L 266, 13 October 2022, p. 22; national § 3 nos 2–3.",
@@ -319,6 +322,7 @@
       "deadlineLabel": "EU correction published",
       "summary": "Two formulas in the national exposure table divide by the frequency (0.07/f and 0.0028/f). The corrected EU table has a constant 0.07 and multiplies by the frequency in the second (0.0028 × f). No official explanation was found; a deliberately stricter national limit remains possible.",
       "euChange": "EU Table A3, rows 2–3: 0.07/f → 0.07; 0.0028/f → 0.0028 × f (V/m).",
+      "consequence": "Possibly. Two limits in the national table are calculated differently from the corrected EU table. The national limits are lower than the EU’s in the ranges compared, and stricter national limits are allowed, so this alone shows neither a breach nor an overlooked correction. No official explanation was found, and whether it has affected anyone in practice has not been established.",
       "nationalGap": "Decree 33/2016 (XI. 29.) EMMI, Annex 2 Table 1.3 rows 2–3, printed both division formulas in the 2016 Gazette. The official consolidated text, displaying a version date of 11 August 2023, retains them when checked 25 October 2026. Section 12 expressly identifies the decree as implementing Directive 2013/35/EU.",
       "nationalLaw": "33/2016 (XI. 29.) EMMI Decree, Annex 2 Table 1.3 rows 2–3; Sections 3 and 12",
       "provisions": "Directive 2013/35/EU Annex II Table A3; national counterpart below.",
@@ -406,6 +410,7 @@
       "evidenceDate": "2026-10-01",
       "summary": "Belgium has admitted that its jam decree is late. In October 2026 the Commission reported that Belgium had not fully notified its measures.",
       "euChange": "Article 3(4) and Annex II(1)(a) raised the general fruit-content minimum per 1,000 g of finished ordinary jam from 350 g to 450 g, and extra jam from 450 g to 500 g. Specific fruits have separate thresholds. Article 5 required national adoption/publication by 14 December 2025 and application from 14 June 2026.",
+      "consequence": "Yes, on paper. Belgium’s 2004 rules set the old minimums (350 g of fruit per kg of ordinary jam, 450 g for extra jam). Belgium has admitted that its replacement is late and it was still forthcoming in July 2026; we have not treated the draft as enacted. Jam placed on the market or labelled before 14 June 2026 may still be sold until stocks run out, and the Commission’s opinion is an allegation of incomplete notification, not a judgment.",
       "nationalGap": "The 2004 decree used general minima of 350 g/kg for ordinary jam and 450 g/kg for extra jam. The Economy Ministry said its replacement remained forthcoming on 3 June 2026; a written ministerial answer on 8 July confirmed a delay involving national fruit-spread rules and the EU technical-notification process.",
       "nationalLaw": "Royal Decree 19 March 2004 on manufacture and marketing of jams, jellies, fruit marmalades, chestnut purée and fruit spreads, Article 1§2; replacement decree pending in the government’s July 2026 account.",
       "provisions": "Directive 2024/1438 Article 3(4), Annex II(1)(a), Articles 5–6; Belgian 2004 decree Article 1§2(1)(a),(2)(a).",
@@ -523,6 +528,7 @@
       "deadline": "2020-07-05",
       "summary": "Germany still uses the earlier terminology in its definition of waste prevention (“harmful” instead of “hazardous” substances). The environment ministry has a draft that would update it.",
       "euChange": "Article 1(3)(e) replaced Article 3(12)(c) of the Waste Framework Directive: the prevention definition now refers to reducing hazardous substances in materials and products, replacing harmful substances.",
+      "consequence": "Yes, on paper. German law says “harmful” substances where the EU text now says “hazardous”. “Harmful” may be the broader word, no practical difference in scope has been established, and the ministry’s draft would update the wording.",
       "nationalGap": "KrWG Section 3(20) retains schädlichen Stoffen. The ministry proposes gefährlichen Stoffen, expressly linking the replacement to the 2018 amendment.",
       "nationalLaw": "Kreislaufwirtschaftsgesetz (KrWG), Section 3(20), sentence 1; draft amendment Article 1(4)(c).",
       "provisions": "Directive 2018/851 Article 1(3)(e), replacing Directive 2008/98 Article 3(12)(c); Article 2(1) transposition deadline.",
@@ -620,6 +626,7 @@
       "deadlineLabel": "EU correction published",
       "summary": "Two formulas in the national exposure table divide by the frequency (0.07/f and 0.0028/f). The corrected EU table has a constant 0.07 and multiplies by the frequency in the second (0.0028 × f). No official explanation was found; a deliberately stricter national limit remains possible.",
       "euChange": "EU Table A3, rows 2–3: 0.07/f → 0.07; 0.0028/f → 0.0028 × f (V/m).",
+      "consequence": "Possibly. Two limits in the national table are calculated differently from the corrected EU table. The national limits are lower than the EU’s in the ranges compared, and stricter national limits are allowed, so this alone shows neither a breach nor an overlooked correction. No official explanation was found, and whether it has affected anyone in practice has not been established.",
       "nationalGap": "Cabinet Regulation 584, adopted 13 October 2015, Annex 1 Table 2 rows 2.2–2.3, prints 0.07/f and 0.0028/f V/m. The official legislation publisher’s current consolidated page marks the regulation in force and still displays those formulas on 25 October 2026. Point 6 requires employers to limit exposure to the Annex 1 non-thermal exposure limits.",
       "nationalLaw": "Cabinet Regulation No. 584 of 13 October 2015, points 5–7; Annex 1 Table 2 rows 2.2–2.3; informative reference to Directive 2013/35/EU.",
       "provisions": "Directive 2013/35/EU Annex II Table A3; national counterpart below.",
@@ -715,6 +722,7 @@
       "deadlineLabel": "EU correction published",
       "summary": "Two formulas in the national exposure table divide by the frequency (0.07/f and 0.0028/f). The corrected EU table has a constant 0.07 and multiplies by the frequency in the second (0.0028 × f). No official explanation was found; a deliberately stricter national limit remains possible.",
       "euChange": "EU Table A3, rows 2–3: 0.07/f → 0.07; 0.0028/f → 0.0028 × f (V/m).",
+      "consequence": "Possibly. Two limits in the national table are calculated differently from the corrected EU table. The national limits are lower than the EU’s in the ranges compared, and stricter national limits are allowed, so this alone shows neither a breach nor an overlooked correction. No official explanation was found, and whether it has affected anyone in practice has not been established.",
       "nationalGap": "Order A1-614 of 30 October 2015, Annex 2 Table 2.3, retains both division formulas. The live official E-TAR page marks the order in force and lists zero amendments. Paragraph 9 binds employers to the annex limits.",
       "nationalLaw": "Minister for Social Security and Labour Order A1-614, 30 October 2015; Annex 2 Table 2.3 rows 2–3; paragraphs 8–9.",
       "provisions": "Directive 2013/35/EU Annex II Table A3; national counterpart below.",
@@ -798,6 +806,7 @@
       "deadline": "2020-07-05",
       "summary": "Germany still lets companies skip separating illegally mixed hazardous waste if separation is economically unreasonable. The ministry proposes deleting this exception.",
       "euChange": "Article 1(16) replaced Article 18(3). Unlawfully mixed hazardous waste must be separated where technically feasible and necessary for Article 13 environmental and health protection. The earlier EU text expressly mentioned economic feasibility; the replacement omits that qualification.",
+      "consequence": "Yes, on paper. German law still lets operators skip separating unlawfully mixed hazardous waste when that is economically unreasonable, which the revised EU rule no longer mentions. This concerns only unlawfully mixed hazardous waste, not ordinary household waste, and the ministry itself proposes deleting the exception. Whether any operator used it, or any harm resulted, was not checked.",
       "nationalGap": "Current KrWG Section 9a(3), sentence 2, permits transfer to an authorized treatment facility when separation is economically unreasonable. The ministry proposes deleting that exception as incompatible with the revised EU rule.",
       "nationalLaw": "Kreislaufwirtschaftsgesetz Section 9a(3), sentence 2; proposed amendment Article 1(9).",
       "provisions": "Directive 2018/851 Article 1(16), replacing Directive 2008/98 Article 18(3); Article 2(1) deadline.",
@@ -909,7 +918,7 @@
       "nationalLaw": "Burgerlijk Wetboek Boek 7, Articles 545a and 550; official consolidation in force from 8 October 2026, accessed 25 October 2026.",
       "provisions": "EU Articles 61(1), 90, 107(1); national counterparts below.",
       "resolution": "Searches in Dutch and English found no Dutch correction, no official recognition of this precise omission and no infringement finding. The current text was read independently by two agents in the official live register.",
-      "consequence": "In practice the Dutch list seems to narrow what businesses can agree, while keeping payment protection in place. We have not verified any practical effect on contracts.",
+      "consequence": "Yes, on paper. The Dutch list lets businesses opt out of fewer payment rules than the corrected EU list, which seems to narrow what they can agree while payment protection stays in place. Whether this has affected any contract has not been established.",
       "caveat": "Legal-review lead: full harmonisation may require this business contracting choice. Alternative legal routes and actual contracts need assessment. Statutory payment protection remains; this is not a missing consumer refund. The correction imposed no fresh deadline.",
       "comparison": {
         "beforeLabel": "Current Dutch opt-out list",
@@ -1016,7 +1025,7 @@
       "priorRecognition": "not-located",
       "recognizedBy": [],
       "euChange": "Article 61(1) now includes Article 90 (payment-initiation liability).",
-      "consequence": "In practice the French list seems to narrow what businesses can agree, while keeping payment protection in place. We have not verified any practical effect on contracts.",
+      "consequence": "Yes, on paper. The French list lets businesses opt out of fewer payment rules than the corrected EU list, which seems to narrow what they can agree while payment protection stays in place. Whether this has affected any contract has not been established.",
       "caveat": "Legal-review lead: full harmonisation may require this business contracting choice. Alternative legal routes and actual contracts need assessment. Statutory payment protection remains; this is not a missing consumer refund. The correction imposed no fresh deadline.",
       "noveltySearch": {
         "date": "2026-10-25",
@@ -1134,7 +1143,7 @@
       "priorRecognition": "not-located",
       "recognizedBy": [],
       "euChange": "Article 61(1) now includes Article 90 (payment-initiation liability).",
-      "consequence": "In practice the Danish list seems to narrow what businesses can agree, while keeping payment protection in place. We have not verified any practical effect on contracts.",
+      "consequence": "Yes, on paper. The Danish list lets businesses opt out of fewer payment rules than the corrected EU list, which seems to narrow what they can agree while payment protection stays in place. Whether this has affected any contract has not been established.",
       "caveat": "Legal-review lead: full harmonisation may require this business contracting choice. Alternative legal routes and actual contracts need assessment. Statutory payment protection remains; this is not a missing consumer refund. The correction imposed no fresh deadline.",
       "noveltySearch": {
         "date": "2026-10-25",
@@ -1253,7 +1262,7 @@
       "priorRecognition": "not-located",
       "recognizedBy": [],
       "euChange": "Article 61(1) now includes Article 90 (payment-initiation liability).",
-      "consequence": "In practice the Latvian list seems to narrow what businesses can agree, while keeping payment protection in place. We have not verified any practical effect on contracts.",
+      "consequence": "Yes, on paper. The Latvian list lets businesses opt out of fewer payment rules than the corrected EU list, which seems to narrow what they can agree while payment protection stays in place. Whether this has affected any contract has not been established.",
       "caveat": "Legal-review lead: full harmonisation may require this business contracting choice. Alternative legal routes and actual contracts need assessment. Statutory payment protection remains; this is not a missing consumer refund. The correction imposed no fresh deadline.",
       "noveltySearch": {
         "date": "2026-10-25",
@@ -1354,7 +1363,7 @@
       "euChange": "The Slovenian correction limits the exception to non-type-approved electric two-wheel vehicles in Article 2(4)(f).",
       "nationalGap": "Article 2(3), fifth indent, excludes passenger and goods transport but makes an exception for non-type-approved two-wheel vehicles without saying electric. Those excepted vehicles therefore remain within RoHS if they meet the EEE definition. Official NPB18 applies from 1 July 2026.",
       "nationalLaw": "Pravilnik o omejevanju uporabe določenih nevarnih snovi v električni in elektronski opremi, PRAV11083, Article 2(3), fifth indent; official NPB18.",
-      "consequence": "Slovenia’s rule keeps all qualifying two-wheel vehicles without type approval inside the RoHS rules, while the corrected EU exception keeps only electric ones. Practical effects were not established.",
+      "consequence": "Possibly. Slovenia’s rule keeps two-wheel vehicles without type approval within the RoHS rules if they meet the electrical-equipment definition, while the corrected EU exception keeps only electric ones. This is a textual mismatch, not an infringement finding. It matters only for a non-electric vehicle that also qualifies as electrical equipment, and no affected vehicle has been identified.",
       "caveat": "Only relevant where a non-electric two-wheel vehicle nevertheless meets the separate electrical/electronic equipment definition. Ordinary pedal bicycles are not claimed to be covered. Conforming interpretation and the directive reference may affect application. This is a current textual mismatch, not a finding of infringement; the correction set no new deadline. Commission guidance explains that petrol-powered equipment can qualify as EEE through integrated electric ignition; motive power alone is not decisive. No affected vehicle was identified.",
       "currentness": "Latest amendment PRAV16146, adopted 15 May 2026, published 18 May, effective 2 June and applicable 1 July, replaces Article 1 only. Article 2 is untouched.",
       "recognitionNote": "Targeted searches of PRAV11083, the national vehicle phrase, the 2023 correction and Slovenian correction terminology found the EU correction and copied national text, but no prior official acknowledgment of the exact national mismatch. Not a first-discovery claim.",
@@ -1445,7 +1454,7 @@
       "nationalGap": "S.I.350/2022 Regulation 6(4) deems solid biomass fuels used in installations with total rated thermal input below 20 MW to fulfil the sustainability and greenhouse-gas criteria. Regulation 6(10) limits financial-support eligibility to compliant fuels; Regulation 8 establishes SEAI's verification procedure by reference to Regulation 6. The official amendment register records many later changes to S.I.350/2022 but none to Regulation 6 or Schedule 3. This leaves the express automatic-compliance provision covering the 7.5–less-than-20 MW band newly covered by the EU amendment.",
       "nationalLaw": "European Union (Renewable Energy) Regulations (2) 2022, S.I.350/2022, Regulations 6(4), 6(10) and 8; official chronological amendment table updated to 13 October 2026.",
       "provisions": "RED III Articles 1(19)(a)(iii), 5(1); RED Article 29(1),(15); national Regulation 6(4).",
-      "consequence": "Ireland’s automatic exemption covers plants between 7.5 and 20 MW that the EU now includes. We found no particular subsidy decision, fuel delivery or miscounted plant affected.",
+      "consequence": "Yes, on paper. Ireland’s automatic exemption covers plants between 7.5 and 20 MW that the EU now includes. Whether any subsidy decision, fuel delivery or miscounted plant has been affected has not been established.",
       "resolution": "We found no Irish law changing Regulation 6(4) and no official acknowledgment of this mismatch. The SEAI verification page still points operators to S.I. 350/2022 and the RED II criteria. A separate SEAI report had already described the EU threshold falling to 7.5 MW in 2025; that shows awareness of the EU change, not an admission that Irish law omitted it.",
       "caveat": "This is a statutory-text lead. The criteria govern renewable-energy accounting, obligations and support, rather than general permission to burn biomass. Article 29(15) preserves old criteria until 31 December 2030 for qualifying support granted before 20 November 2023, with fixed long-term amounts and an anti-overcompensation mechanism; focus on installations outside that route. Separate scheme conditions, EU ETS requirements and verification practice need further review. The official amendment register stops 13 October 2026; targeted later-enactment searches found no correction.",
       "comparison": {
@@ -1572,7 +1581,7 @@
       "nationalGap": "The French Community decree of 11 June 2026 inserts the old reference in Article 2(1), seventh subparagraph, point 32, of its 12 January 2017 tax-cooperation decree. The same old reference survives in the reporting provisions inserted as Articles 5/11(2)(c) and 5/13(2)(i). Wallonia’s 19 December 2025 decree also inserts it in Article 64bis, point 31, of the 6 May 1999 regional-tax decree.",
       "nationalLaw": "French Community: decree 12 January 2017, as amended by decree 11 June 2026, NUMAC 2026005033. Wallonia: decree 6 May 1999, as amended by decree 19 December 2025, NUMAC 2026200320.",
       "provisions": "EU correction points 1, 2, 4; national provisions identified above.",
-      "consequence": "The national citation is inconsistent with the corrected EU one. We found no omitted report or tax loss.",
+      "consequence": "Yes, on paper. Each of the two decrees cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
       "resolution": "The French Community’s register shows a July 2026 amendment as the latest. The Walloon consolidated decree, in force from 13 July 2026 to 31 December 2027, keeps the old reference (point 31). We found no later correction and no exact official acknowledgment.",
       "caveat": "These separate devolved instruments cover tax cooperation for the French Community and Walloon Region, not all Belgian crypto reporting. General EU-law references, conforming interpretation, directly applicable definitions and administrative practice could limit practical uncertainty. No omitted reporting coverage is established; no fresh deadline.",
       "comparison": {
@@ -1693,7 +1702,7 @@
       "euChange": "Article 1 adds three cobalt uses to Annex II Appendix A: stainless steel as a nickel impurity, electrical-conducting components, and neodymium magnets that cannot be swallowed or inhaled. Article 2 requires publication by 29 July 2026 and application from 29 August.",
       "nationalGap": "Annex 2 Appendix A of Decree 38/2011 lists only nickel. Part III point 4.3 requires Commission approval and Appendix A listing for that permission route. The separate low-concentration and inaccessibility alternatives in points 4.1–4.2 remain available.",
       "nationalLaw": "38/2011. (X. 5.) NGM rendelet a gyermekjátékok biztonságáról, Annex 2 Part III points 3–4 and Appendix A; current official NJT version dated 31 December 2022.",
-      "consequence": "The Hungarian list does not yet include the new EU permission for cobalt uses that cannot rely on the low-concentration or inaccessibility exceptions. We found no rejected product or enforcement consequence.",
+      "consequence": "Yes, on paper. Hungary’s list does not yet include the new EU permission for cobalt uses that cannot rely on the low-concentration or inaccessibility exceptions. No rejected product or enforcement consequence has been established.",
       "caveat": "The amendment permits specified uses; it does not generally relax all cobalt restrictions. Existing concentration and inaccessibility exceptions still apply. Directive-consistent interpretation and EU free-movement rights may protect compliant products despite the national text. No claim of unsafe toys, actual trade obstruction or deliberate disregard is made. The new Toy Safety Regulation does not fully replace these rules until 2030.",
       "provisions": "EU 2026/192 Articles 1–2; Directive 2009/48 Article 12; national Annex 2 Part III points 3, 4.1–4.3 and Appendix A.",
       "resolution": "The current official text, checked on 25 October, still lists nickel only. A government consultation draft published on 8 October (comments due 16 October) would add cobalt and take effect eight days after publication. We found no enacted correcting amendment in the official registers.",
@@ -1793,7 +1802,7 @@
       "nationalGap": "Real Decreto 56/2016 Article 2 applies the audit chapter to large enterprises and qualifying consolidated groups, expressly excluding micro, small and medium enterprises. Article 3 links its four-year audit duty to that scope. The live BOE consolidation lists its latest amendment as published 2 June 2021. No nationwide enactment removing this exclusion or independently imposing the new consumption-based duty was located.",
       "nationalLaw": "Real Decreto 56/2016, Articles 2(1)–(2) and 3(1); live BOE consolidation, latest amendment published 2 June 2021.",
       "provisions": "Directive 2023/1791 Article 11(2),(9)–(11), Article 36(1); national Articles 2–3.",
-      "consequence": "An SME using more than 10 TJ of energy can stay outside Spain’s express national audit duty, even though it now falls into the EU category. No particular unaudited firm was identified.",
+      "consequence": "Yes, on paper. An SME using more than 10 TJ of energy can stay outside Spain’s express national audit duty, even though it now falls into the EU category. No particular unaudited firm has been identified.",
       "resolution": "MITECO’s current FAQ says the EU rule (Article 11) is still being turned into Spanish law, with no approval date, and Royal Decree 56/2016 remains the national reference. On 1 October 2026 the Commission sent a reasoned opinion (INFR(2025)0319) about incomplete transposition more broadly; its public announcement does not mention this provision.",
       "caveat": "This concerns the nationwide framework. Regional or sectoral duties, voluntary audits and certified systems may cover some SMEs. Article 11 alternatives and existing audit cycles remain applicable. The 2027 management-system duty is outside this finding. Direct effect, conforming interpretation and enforcement need separate assessment.",
       "comparison": {
@@ -1910,7 +1919,7 @@
       "nationalGap": "Article 5(3)(c)(ix) still refers to Regulation 2023/1114 when specifying aggregate transfers to ledger addresses not known to be associated with a virtual-asset service provider or financial institution.",
       "nationalLaw": "Law of 27 March 2026, Mémorial A144, Article 5(3)(c)(ix).",
       "provisions": "EU correction point 2; national provisions identified above.",
-      "consequence": "The national citation is inconsistent with the corrected EU one. We found no omitted report or tax loss.",
+      "consequence": "Yes, on paper. The Luxembourg law cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
       "resolution": "The publisher’s “currently applicable” link points to the March 2026 law, and the tax administration’s page, updated 15 October 2026, links it as the governing law. A May implementing regulation sets electronic filing rules without changing this reference. We found no later correction and no exact official acknowledgment.",
       "caveat": "A statutory reference mismatch, not proof that transactions escape reporting. Directly applicable EU definitions, conforming interpretation and administrative reporting practice may limit or cure practical uncertainty. The first annual reporting deadline is in 2027, so this is not evidence of a missed filing or tax loss. No fresh deadline.",
       "comparison": {
@@ -2019,7 +2028,7 @@
       "nationalGap": "Annex XLIII retains 0.15 mg/m³ for inorganic lead and its compounds. Annex XLIII-bis retains a blood-lead limit of 60 µg Pb/100 ml. Both values appear in the inspectorate-hosted October 2026 compilation and match the authentic 2024 enactment.",
       "nationalLaw": "Legislative Decree 81/2008, Annexes XLIII and XLIII-bis, as amended by Legislative Decree 135/2024, Article 21 and Annexes B–C.",
       "provisions": "EU Article 3(1) and Annex II(2)–(3); national Annex XLIII lead row and Annex XLIII-bis point 1.",
-      "consequence": "Italy’s numerical limits have not yet been brought into line with the new EU limits. Employers’ general duties on prevention, substitution and keeping exposure low still apply. This does not mean that any particular workplace exposure is lawful, or that anyone was harmed.",
+      "consequence": "Yes, on paper. Italy’s numerical limits for lead are higher than the new EU limits. Employers’ general duties on prevention, substitution and keeping exposure low still apply, and this does not mean that any particular workplace exposure is lawful, or that anyone was harmed.",
       "resolution": "The national register (Normattiva), read on 25 October, lists its latest amendment as published on 23 March 2026. A Senate document (Dossier 768) records the government’s explanation of the delay and a pending delegation of power to legislate. We found no later implementing act.",
       "caveat": "The inspectorate-hosted October compilation disclaims official status; authentic Gazette tables and the current amendment register corroborate it. Workers already above 30 but below 70 due to pre-9-April-2026 exposure may continue under regular surveillance if levels decline towards 30. The 2029 limit is not today’s requirement. No court ruling on this comparison is claimed.",
       "comparison": {
@@ -2142,7 +2151,7 @@
       "nationalGap": "Legislative Decree 199/2021 Article 42(16), replaced by Decree 5/2026 Article 20(n), permits electricity and heat from solid biomass in 7.5–20 MW plants to count towards national objectives/obligations and access support without verification of Article 42(5)–(12), pending simplified-certification decrees and no later 30 June 2027. The current Finance Ministry text retains it; the July 2026 Gazette reproduces the same provision. MASE’s 26 May 2026 FAQ says the criteria are automatically considered satisfied during this period.",
       "nationalLaw": "Legislative Decree 199/2021 Article 42(16), as replaced by Legislative Decree 5/2026 Article 20(n); current official Finance Ministry reproduction, in force 4 February 2026.",
       "provisions": "RED III Articles 1(19), 1(21)(e), 5(1); national Article 42(16),(18-ter).",
-      "consequence": "The automatic-compliance transition looks broader than the simplified verification the EU requires. We found no individual plant, unsustainable fuel delivery or improper subsidy payment.",
+      "consequence": "Yes, until the decrees are adopted (30 June 2027 at the latest). Italy lets plants of 7.5–20 MW count and receive support without verification, which looks broader than the simplified verification the EU requires. No individual plant, unsustainable fuel delivery or improper subsidy payment has been identified.",
       "resolution": "We found no later decree ending the transition. The ministry and Parliament openly describe it, and we found no official finding that it conflicts with the EU rule. The 7 August 2024 decree is the earlier general certification scheme, made under the former rule; the ministry’s May 2026 FAQ still treats the new simplified-system decrees as pending.",
       "caveat": "This is a qualified implementation lead. The Article 29(15) legacy-support exception remains relevant; focus on plants outside it. National Article 42(3), support-scheme conditions, EU ETS requirements and voluntary certification may independently impose protections. Permitting simplified audits is different from proving any particular automatic-compliance policy unlawful. Current decree status requires monitoring because an implementing decree could end this transition before its stated outer date.",
       "comparison": {
@@ -2259,7 +2268,7 @@
         "Autorité des marchés financiers"
       ],
       "euChange": "The 2024 revision removes the issuer-size cap from MiFID II Article 24(9a), while adding payment-policy, transparency and annual research-assessment conditions. Application began on 6 June 2026.",
-      "consequence": "French law has not caught up with the EU’s wider choice of payment methods. This does not mean firms are prevented from using joint payments: the AMF itself describes that option as available from June 2026.",
+      "consequence": "Yes, on paper. French law has not caught up with the EU’s wider choice of payment methods. This does not mean firms are prevented from using joint payments: the regulator (AMF) itself describes that option as available from June 2026.",
       "caveat": "A legislative-text mismatch, not a finding that any payment is unlawful. MiFID II Article 24(12) permits exceptional, justified additional national requirements subject to notification; no notification retaining this cap was located. General inducement rules, directive-consistent interpretation and supervisory practice may affect the result.",
       "noveltySearch": {
         "date": "2026-10-25",
@@ -2385,7 +2394,7 @@
         "European Commission"
       ],
       "euChange": "The 2024 revision replaces the quantitative systematic-internaliser test with qualitative criteria for equity instruments, while retaining an opt-in route. National implementation was due on 29 September 2025.",
-      "consequence": "French wording has not caught up with the revised EU definition. We have not established a continuing burden: the European securities regulator (ESMA) says firms are relieved of the fixed test.",
+      "consequence": "Yes, on paper. French wording has not caught up with the revised EU definition. A continuing burden on firms has not been established: the European securities regulator (ESMA) says they are relieved of the fixed test.",
       "caveat": "A recognised stale-text issue, not evidence that firms must still perform the old calculation or that any registration is unlawful. ESMA’s 10 October 2025 transition statement says the mandatory quantitative regime no longer applies and firms are relieved of the test; qualitative equity registration and opt-in remain. Directly applicable MiFIR provisions and subsequent technical standards also affect practice.",
       "noveltySearch": {
         "date": "2026-10-25",
@@ -2520,7 +2529,7 @@
       "nationalGap": "Regulation 4 of KDP 316/2006 specifies 0.1 fibres/cm³ over eight hours. The 2015 amendment leaves that provision untouched. The ministry’s October 2026 legislation page continues to list these instruments.",
       "nationalLaw": "Safety and Health at Work (Protection from Asbestos) Regulations 2006, KDP 316/2006, Regulation 4, with KDP 46/2015.",
       "provisions": "EU Article 1(7), inserted Article 8(1), and Article 2(1)–(2); national Regulation 4.",
-      "consequence": "The national limit is ten times the new EU limit. Employers’ wider duties to prevent and minimise exposure still apply; comparing the numbers does not show that exposure at any particular site is lawful, or that anyone was injured.",
+      "consequence": "Yes, on paper. The national limit is ten times the new EU limit. Employers’ wider duties to prevent and minimise exposure still apply; comparing the numbers does not show that exposure at any particular site is lawful, or that anyone was injured.",
       "resolution": "On 22 September 2026 the minister acknowledged the delay and said replacement regulations had been sent to Parliament. A parliamentary committee discussed them on 20 October. No asbestos instrument appears in the latest Gazette (23 October), and searches found no published replacement.",
       "caveat": "This concerns the limit already due, not the separate measurement changes due in 2029. The 2015 instrument gives more-favourable carcinogen provisions priority; no alternative national provision imposing the revised asbestos limit was located. No claim of an actual unsafe workplace or individual injury is made.",
       "comparison": {
@@ -2655,7 +2664,7 @@
       "nationalGap": "Sektorenverordnung §58(1) requires bidders’ consumption information, but §58(2) only permits energy use to be considered when awarding equipment contracts. It does not express the revised purchase requirement. The government proposes replacing this section and explains that the recast newly includes the utilities sector.",
       "nationalLaw": "Sektorenverordnung, current §58(1)–(2); government corrective bill Bundestag document 21/8027, Article 4(3).",
       "provisions": "Directive 2023/1791 Articles 7(1), 36(1), Annex IV; current SektVO §58; draft replacement Article 4(3).",
-      "consequence": "Some utilities’ procurements can fall outside a mandatory high-efficiency requirement in this national rule. No individual tender or inefficient purchase was audited.",
+      "consequence": "Yes, on paper. Some utilities’ procurements can fall outside a mandatory high-efficiency requirement in this rule. No individual tender or inefficient purchase has been audited.",
       "resolution": "The current official text of §58 is unchanged. A government bill submitted in September expressly acknowledges that procurement rules still need implementing and proposes a replacement. Parliament considered it in September and held a hearing in October; those steps are not enacted corrections.",
       "caveat": "A nationwide sectoral-framework comparison, not a claim that every German tender ignores efficiency. EU thresholds, Annex IV categories and technical feasibility limit the duty. Federal AVV Klima binds immediate federal departments; Climate Act §13 imposes general consideration duties. Regional instructions, sectoral duties, tender conditions and conforming interpretation may cover particular buyers or contracts. Their combined practical effect requires further review. Draft legislation is not law in force.",
       "comparison": {
@@ -2762,7 +2771,7 @@
       "nationalGap": "Building Regulations 1997, Second Schedule Part L2A(a), still requires ducting infrastructure consisting of conduits for electrical cables, for subsequent charger installation. That nationwide minimum does not itself require pre-cabling or an installed charger. Its last identified insertion is S.I. 535/2022; the official amendment table, updated through 13 October 2026, lists no replacement.",
       "nationalLaw": "Building Regulations 1997, Second Schedule Part L2A(a), inserted by S.I. 535/2022, Regulation 2.",
       "provisions": "EPBD Article 14(4)–(5), Article 35(1); national Part L2A(a).",
-      "consequence": "Meeting this national building rule alone does not secure the new EU minimum. A particular project may face stronger planning conditions, local rules or contract specifications; we found no actual building lacking chargers.",
+      "consequence": "Yes, on paper. Meeting this national building rule alone does not secure the new EU minimum, although a particular project may face stronger planning conditions, local rules or contract specifications. No actual building lacking chargers has been found.",
       "caveat": "This comparison concerns qualifying new multi-unit residential buildings with parking inside or physically adjacent, rather than the separate 2027 duties for existing car parks. EU exemptions for specific micro-isolated systems and outermost regions remain relevant where their conditions are met. Some Irish planning decisions already require functioning chargers. No exhaustive census of local planning rules was undertaken, and no court finding on this precise mismatch is claimed.",
       "resolution": "We checked the Law Reform Commission’s February 2026 consolidation, the original 2022 rule and the Attorney General’s amendment table (updated to 13 October 2026), and found no national replacement or separate charging rule that closes the gap. Recent energy-rating and building-automation rules cover other parts of the EU directive. The July 2025 Apartment Guidelines contain no general charging or pre-cabling requirement.",
       "comparison": {
@@ -2898,7 +2907,7 @@
       "nationalGap": "The April 2026 order puts 0.01 and 0.02 mg NCO/m³ in the indicative table. R4412-150 describes those limits as prevention objectives. The binding table contains 0.006 and 0.012 mg NCO/m³, applicable only from 2029. The figures convert correctly; their current legal character differs.",
       "nationalLaw": "Order of 30 June 2004, as amended by the order of 8 April 2026; Labour Code R4412-149 and R4412-150, and Decree 2026-253.",
       "provisions": "Amendment Article 1 and Annex I; base Article 3(5); national order Article 1, R4412-149/150 and R4412-28/29.",
-      "consequence": "The EU directive requires a matching binding limit in national law. French law treats exceeding a binding limit (immediate protection under R4412-28) differently from exceeding an indicative one (reassessment under R4412-29). We did not find an equivalent binding interim limit.",
+      "consequence": "Yes, on paper. The EU directive requires a matching binding limit in national law. French law treats exceeding a binding limit (immediate protection) differently from exceeding an indicative one (reassessment), and we did not find an equivalent binding interim limit.",
       "resolution": "We checked the live tables on 25 October 2026: R4412-149 is unchanged since 10 April 2026, and later measures contain no binding interim correction. INRS guidance describes indicative limits now and binding limits from 2029; we found no acknowledgment resolving this difference.",
       "caveat": "General prevention and exposure-minimisation duties, accredited monitoring and other enforcement powers remain. This comparison does not establish that any specific exceedance is lawful or that harm occurred. The later binding values are already enacted; the issue concerns the interim period.",
       "comparison": {
@@ -3020,7 +3029,7 @@
       "nationalGap": "Law 41/1999 Article 2(c)(2°) omits the new non-bank categories. Separately, Royal Decree-law 19/2018 Article 8(2)(a) still exempts designated systems from its general access safeguards. The July bill proposes both changes. The current BOE texts retain both provisions.",
       "nationalLaw": "Law 41/1999, Article 2(c)(2°); Royal Decree-law 19/2018, Article 8(1)–(2), current BOE consolidations.",
       "provisions": "Regulation 2024/886 Articles 3(2)(a), 4(1) and 5; PSD2 Article 35(2); Settlement Finality Directive Article 2(b); national Law 41/1999 Article 2(c)(2°) and Royal Decree-law 19/2018 Article 8(2)(a).",
-      "consequence": "Spanish statutes keep narrower eligibility and an express exception from the general direct-access safeguards. This does not mean all direct access is unavailable: TARGET rules allow non-banks to be admitted at discretion, and Spanish law separately protects indirect access through a participant.",
+      "consequence": "Yes, on paper. Spanish statutes keep narrower eligibility and an express exception from the general direct-access safeguards. This does not mean all direct access is unavailable: TARGET rules allow non-banks to be admitted at discretion, and Spanish law separately protects indirect access through a participant.",
       "caveat": "TARGET’s September 2025 non-bank admission route survives the May 2026 amendment, subject to safeguards. Existing indirect-access protection also remains. Eligibility depends on authorisation and system rules, and excludes exempt small institutions. The statutory differences establish neither a blanket access ban nor an actual discriminatory refusal or quantified harm.",
       "resolution": "We read the current official statute and the 2025/2026 TARGET changes on 25 October 2026. The July proposal is not law: Congress was dissolved on 6 October, and an older page still showed the amendment stage, so we do not describe the bill as currently progressing. We found no later statutory correction.",
       "comparison": {
@@ -3156,7 +3165,7 @@
       "nationalGap": "Article 135a(8)(2) applies the sustainability and greenhouse-gas criteria to solid biomass used in installations commissioned after 31 December 2020 with total rated thermal input of at least 20 MW. Article 129(5) uses that same installation definition for renewable-energy accounting, and Article 135b links it to certification. The official consolidated text dated 3 August 2026 retains the threshold. The original act’s amendment metadata, updated 16 October, lists only one later amendment: Act 4 September 2026, Dz.U.1347. Its final text does not amend Article 135a, proceeding from changes to Article 124a to Article 136. Government project UC118 remains distinct and expressly proposes the lower threshold.",
       "nationalLaw": "Act 20 February 2015 on renewable energy sources, Articles 129(5), 135a(8)(2) and 135b; consolidated text Dz.U.2026.68; subsequent amendment Dz.U.2026.1347.",
       "provisions": "Directive 2023/2413 Article 1(19)(a)(iii), Article 5(1); Directive 2018/2001 Article 29(1), (15); Polish renewable-energy act Article 135a(8)(2).",
-      "consequence": "Poland’s threshold leaves plants between 7.5 and 20 MW outside these statutory checks. No particular fuel delivery, accounting decision or subsidy payment was examined.",
+      "consequence": "Yes, on paper. Poland’s threshold leaves plants between 7.5 and 20 MW outside these statutory checks. Whether any fuel delivery, accounting decision or subsidy payment has been affected has not been established.",
       "resolution": "We found no enacted correction of the threshold. The government’s UC118 register, updated 1 July 2026, describes extending the criteria to solid-biomass installations of at least 7.5 MW. A separate law (UD332), signed on 15 October and published on 16 October 2026, does not change Article 135a; most of it takes effect on 1 December 2026, with listed exceptions.",
       "caveat": "This comparison concerns installations commissioned after 20 November 2023 in the 7.5–less-than-20 MW band, outside qualifying legacy support under Article 29(15). These criteria concern accounting and support, rather than general permission to burn biomass. EU ETS rules, grant conditions and certification practice may independently constrain operators. A government draft is not enacted law; no judicial finding about this precise mismatch was located.",
       "comparison": {
@@ -3297,7 +3306,7 @@
       "nationalGap": "Article L217-13 continues to provide a six-month extension for goods repaired under the conformity warranty. The current official article, checked with a 25 October 2026 version header, has not been replaced with twelve months. Article L217-3 still makes the seller liable for defects appearing within two years of delivery. Service Public, updated 10 September 2026, expressly contrasts the forthcoming one-year extension with the existing six months and states that national transposition remains underway.",
       "nationalLaw": "Consumer Code Articles L217-3 and L217-13; Civil Code Article 1648.",
       "provisions": "Directive 2024/1799 Article 16(2), inserting Directive 2019/771 Article 10(2a) and (5a); Articles 21 and 22; French Consumer Code L217-3 and L217-13.",
-      "consequence": "The French extension after a repair is six months shorter than the EU one. No individual consumer dispute or refused claim was examined.",
+      "consequence": "Yes, on paper. The French extension after a repair is six months shorter than the EU one. Whether any consumer dispute or refused claim has resulted has not been established.",
       "resolution": "We found no enacted twelve-month replacement in the current official code or in a bounded search of later legislation. The government itself acknowledges that the extension awaits transposition.",
       "caveat": "Focus this comparison on contracts concluded after 31 July 2026 and goods actually repaired. The EU alternative for systems without a fixed liability period does not obviously fit France's express two-year period. Repair downtime, replacement rights, commercial guarantees and the separate hidden-defects remedy can provide additional protection; this is not a claim that every repaired product has only thirty months of coverage. The practical effect of consistent interpretation requires legal assessment.",
       "comparison": {
@@ -3405,7 +3414,7 @@
       "nationalGap": "Energy Code L315-2 requires producers and consumers in ordinary and extended collective self-consumption operations to be linked within a legal person. D315-9, rewritten in June 2026 and effective 1 July, still requires that person to contract with the distribution-system operator. The current framework therefore retains the organisational requirement rather than expressly providing the private-agreement alternative. The 2026 allocation reforms do not remove it.",
       "nationalLaw": "Energy Code L315-2 and D315-9; direct-sale alternative L333-1(I)(2).",
       "provisions": "Amending Article 2(5); revised Article 15a(2), (4); Article 3(1). National L315-2, D315-9, L333-1.",
-      "consequence": "The collective-sharing route we identified still requires an organising legal entity. This does not show a general ban on private electricity transactions, a refused project or quantified harm.",
+      "consequence": "Yes, on paper. The collective-sharing route we identified still requires an organising legal entity. This does not show a general ban on private electricity transactions, a refused project or quantified harm.",
       "resolution": "We read the current provisions L315-2 and D315-9 on 25 October 2026. Searches of later legislation and official sources found no separate sharing framework without a legal entity. The Commission’s September 2026 procedure concerns incomplete implementation of energy sharing and supplier choice more broadly; it does not prove this specific difference.",
       "caveat": "L333-1(I)(2) permits direct private sales where the producer has supplier authorisation or delegates the obligations to an authorised third party. Such a sale is not automatically equivalent to energy sharing with metered deduction and the small-household supplier exemption in Article 15a(4). Existing collective projects remain possible; geographic limits, balancing responsibilities and charges may lawfully apply. This is a qualified framework comparison requiring legal assessment, not an adjudicated infringement.",
       "comparison": {
@@ -3533,7 +3542,7 @@
       "nationalGap": "Environmental Code L229-68 still prohibits carbon-neutral product or service advertising unless the advertiser makes its emissions balance, avoidance/reduction/compensation approach and residual-offset arrangements publicly accessible. Its live official version at 25 October 2026 remains the provision created in August 2021. Consumer Code L121-4's published blacklist lacks the new offset-based claim category. DGCCRF specifically explains that adding this category requires repealing L229-68. The DDADUE legislative dossier still shows the bill at the National Assembly's first reading.",
       "nationalLaw": "Environmental Code Article L229-68; Consumer Code Articles L121-2 to L121-4.",
       "provisions": "Directive 2024/825 Article 1(4), Annex point (2), new Annex I point 4c; Article 4(1); French Environmental Code L229-68 and Consumer Code L121-4.",
-      "consequence": "The French code keeps the earlier transparency approach rather than the new outright ban. No particular advertisement or enforcement decision was assessed.",
+      "consequence": "Yes, on paper. The French code keeps the earlier transparency approach rather than the new outright ban. Whether any advertisement or enforcement decision has been affected has not been established.",
       "resolution": "We found no enacted repeal or replacement. The government bill is still pending; its planned start date does not by itself make the change law.",
       "caveat": "Disclosure under L229-68 does not immunise an advertisement from France's existing general misleading-practice rules. The finding concerns the missing specific blacklist rule, not a claim that offset-based advertising is necessarily lawful today. Genuine emissions-reduction claims and statements about a company's climate investments require separate analysis. Consistent interpretation and individual enforcement effects have not been adjudicated here.",
       "comparison": {
@@ -3644,7 +3653,7 @@
       "nationalGap": "Act 4 September 2026 adds Unfair Market Practices Act Article 7(27),(28): concealed update effects and functionality-only updates presented as necessary. Article 3 postpones the entire act until 27 September 2027. Its official publication metadata confirms that date.",
       "nationalLaw": "Act 4 September 2026 amending the Unfair Market Practices Act and Consumer Rights Act, Dz.U.2026.1353, Article 1(5)(d) and Article 3.",
       "provisions": "Directive 2024/825 Article 1(4), Annex point (4), new Annex I points 23d and 23e; Article 4(1); Polish Act Dz.U.2026.1353 Articles 1(5)(d) and 3.",
-      "consequence": "Those enacted additions to the list of banned practices stay inactive until then. No specific update or consumer loss was audited.",
+      "consequence": "Yes, until September 2027. The enacted additions to the list of banned practices stay inactive until then. Whether any update or consumer has been affected has not been established.",
       "resolution": "We found no later move to bring forward Article 3 up to 25 October 2026.",
       "caveat": "Existing Polish rules against misleading consumers remain applicable, including to software marketing. The case does not establish that the conduct is lawful during the deferral or that a particular claim would fail. National authorities' obligation to interpret existing law consistently and proportionate enforcement of old product stocks do not themselves amend the published commencement clause.",
       "comparison": {
@@ -3766,7 +3775,7 @@
       "nationalGap": "The new Electricity Market Act 2026:1281, Chapter 14 section 6, requires the supplier to deduct shared electricity when billing the recipient. Commencement Act 2026:1282 section 1 defers Chapter 14 until 1 January 2027. The old Electricity Act 1997:857 remains applicable until that date. The regulator likewise explains that the formal sharing framework begins in January 2027. The enacted future remedy therefore has not yet closed the current statutory implementation gap.",
       "nationalLaw": "Electricity Market Act 2026:1281, Chapter 14 section 6; Commencement Act 2026:1282 sections 1–2; current Electricity Act 1997:857.",
       "provisions": "Amending Article 2(5); revised Article 15a(4)(a); Article 3(1). National Chapter 14 Section 6.",
-      "consequence": "The specific national deduction right is not yet in force. This does not show that all private sharing, internal-network arrangements or voluntary supplier credits are impossible, or that any customer was refused service.",
+      "consequence": "Yes, until 1 January 2027. The specific right to deduct shared electricity is enacted but not yet in force. This does not show that all private sharing, internal-network arrangements or voluntary supplier credits are impossible, or that any customer was refused service.",
       "resolution": "The remedy is enacted, not just proposed, but it still starts on 1 January 2027. The government’s explanatory bill itself contrasts that date with the July 2026 implementation requirement. In the official sources we checked we found no earlier start and no equivalent deduction provision in force now.",
       "caveat": "Energy communities, private contracts and internal-network arrangements can already exist. Deduction does not remove lawful network charges, taxes or balancing obligations. The new national provision has registration, metering-data and balancing conditions. Possible current EU-derived rights, consistent interpretation and commercial arrangements require separate assessment; a delayed national statute does not determine every customer’s current rights. The national commencement is not an EU extension of time.",
       "comparison": {
@@ -3898,7 +3907,7 @@
       "nationalGap": "BioSt-NachV section 1 number 2 still covers solid biomass used for EEG-supported electricity in installations with at least 20 MW thermal input. Section 3 connects the covered fuels to sustainability conditions and payment eligibility. The current official consolidation retains its December 2022 amendment status.",
       "nationalLaw": "BioSt-NachV section 1 number 2, sections 3 and 7; EEG sections 44c and 90.",
       "provisions": "RED III Articles 1(19)(a)(iii), 5(1); RED Article 29(1),(15); national BioSt-NachV section 1 number 2.",
-      "consequence": "The ordinance’s scope has not yet been extended to the smaller plants. No individual grant, fuel delivery or accounting decision was examined.",
+      "consequence": "Yes, on paper. The ordinance’s scope has not yet been extended to the smaller plants. Whether any grant, fuel delivery or accounting decision has been affected has not been established.",
       "resolution": "The official Gazette search showed nine relevant publications since 2023 and no October replacement of the threshold. The notified amendment was still a draft in the sources we checked; the end of the notification standstill period on 15 October is not enactment. We checked the search and the current consolidation on 25 October 2026.",
       "caveat": "Focus on newer, standalone, power-only installations in the 7.5–less-than-20 MW thermal band, outside qualifying legacy support under Article 29(15). Heating/CHP, emissions-trading, tax and scheme conditions may independently supply duties. Dena’s overview says 7.5 MW already applies, using installed-power terminology; it differs from the binding thermal-input wording. Administrative practice and individual support terms require further review. This is a qualified statutory-text comparison, not an established unlawful subsidy.",
       "comparison": {
@@ -4025,7 +4034,7 @@
       "nationalGap": "Current Article 106(3) still leaves a website form optional; no Article 106 bis appears. Its last change remains 2014; the full BOE text was last updated 28 February 2026. The January government draft proposes a mandatory Article 106 bis.",
       "nationalLaw": "Royal Legislative Decree 1/2007, Articles 98 and 106; proposed Article 106 bis in the draft Consumer Credit Contracts Act, final provision three(5).",
       "provisions": "Directive 2023/2673 Article 1(3), inserting Directive 2011/83 Article 11a; Article 2(1); Spanish RDLeg1/2007 Article 106(3).",
-      "consequence": "The national code still treats the website option as voluntary, rather than requiring the new extra withdrawal channel. No individual shop, failed withdrawal or consumer loss was assessed.",
+      "consequence": "Yes, on paper. The national code still treats the website option as voluntary, rather than requiring the new extra withdrawal channel. Whether any shop, withdrawal or consumer has been affected has not been established.",
       "resolution": "We found no enacted Article 106 bis or separate mandatory function in bounded searches of the official sources through 25 October 2026. The published government proposal supplies the missing rule, but a draft is not operative law.",
       "caveat": "Consumers already retain their substantive withdrawal rights and can use unequivocal declarations; the omission is not loss of the usual withdrawal period. Contract-specific exceptions remain relevant. The existing online order/payment button is a separate obligation. Traders may voluntarily provide suitable functions, and general consumer rules or consistent interpretation may affect enforcement. Focus on ordinary online goods contracts with an existing withdrawal right, avoiding sector-specific financial-service exceptions.",
       "comparison": {
@@ -4140,7 +4149,7 @@
       "nationalGap": "CGI Article 1649 AC bis II.D(i) still points to Regulation 2023/1114 when describing the addresses relevant to aggregate external-transfer reporting. The provision has applied since January 2026. Decree 2025-1276 Article 18(3) incorporates the statutory information list without replacing that reference.",
       "nationalLaw": "Code général des impôts, Article 1649 AC bis II.D(i); Decree 2025-1276, Articles 6, 18(3), 19 and 21.",
       "provisions": "EU correction point 4; national provisions identified above.",
-      "consequence": "The national citation is inconsistent with the corrected EU one. We found no omitted report or tax loss.",
+      "consequence": "Yes, on paper. The French tax code cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
       "resolution": "The current code still has the reference and names the February 2025 Finance Act as its source. The December reporting decree defines transfers but does not replace the address reference. We found no later statutory correction in the sources we checked.",
       "caveat": "Other references to Regulation 2023/1114, including service-provider definitions, are legitimate. Directly applicable EU definitions, conforming interpretation or reporting instructions may remove practical uncertainty. Detailed technical reporting documentation was not verified. The first returns concern 2026 transactions and are due in 2027; no missed filing is alleged. No fresh deadline.",
       "comparison": {
@@ -4250,7 +4259,7 @@
       "nationalGap": "Article 14 of the 19 May 2026 regulation replaces Article 11ter with a company-permit system, but Article 25 defers that change until 1 May 2027. The inspectorate confirms this transition. The Council of State had expressly objected that delaying this provision missed the EU deadline.",
       "nationalLaw": "Grand-Ducal Regulation of 19 May 2026, Article 14 replacing the 1988 Regulation’s Article 11ter; Article 25 commencement. Existing Article 11 worksite visas.",
       "provisions": "Directive 2023/2668 Article 1(13), replacing 2009/148 Article 15; Article 2(1)–(2); national 2026 Regulation Articles 14 and 25.",
-      "consequence": "The revised EU permit condition for companies starts later in national law. No individual company, worksite or exposure outcome was examined.",
+      "consequence": "Yes, until 1 May 2027. The revised EU permit condition for companies starts later in national law. Whether any company, worksite or exposure outcome has been affected has not been established.",
       "resolution": "The official main regulation shows 20 May 2026 as its current version, with the permit change as a future amendment from 1 May 2027. Nothing in its history brings that date forward.",
       "caveat": "Luxembourg already requires ITM worksite-plan approval for many removals, with capacity/training evidence, and extensive safety duties remain. The older visa has exceptions for small-scale work and certain nondestructive outdoor asbestos-cement removal. This is a comparison of the new company-permit transition, not a claim that asbestos work currently lacks approval, training or oversight. Existing approvals may satisfy parts of the EU requirement; no court ruling on equivalence was located.",
       "comparison": {
@@ -4376,7 +4385,7 @@
       "nationalGap": "BAL 5.7g(1) requires the cogeneration cost-benefit assessment for new or substantially refurbished combustion installations only above 20 MW total nominal thermal input. The government draft expressly replaces 20 with 10 and identifies this as implementing Article 26(7)(a). A newly planned thermal generator averaging above 10 MW while rated no higher than 20 MW illustrates the uncovered overlap. Other new installation categories are outside this record.",
       "nationalLaw": "Besluit activiteiten leefomgeving, Articles 5.7g–5.7k.",
       "provisions": "Directive 2023/1791 Articles 26(7)(a),(8),36(1); BAL 5.7g(1); draft Article II(AK).",
-      "consequence": "For plants in the overlap we illustrated, the Dutch rule does not trigger the assessment. No actual plant, lost heat recovery or permit outcome was audited.",
+      "consequence": "Yes, on paper. For plants in the overlap we illustrated, the Dutch rule does not trigger the assessment. Whether any actual plant, lost heat recovery or permit outcome has been affected has not been established.",
       "resolution": "We read the official environmental rules (BAL) on 25 October 2026, in force from 1 October: article 5.7g still uses the old trigger. The official IPLO tracker, updated 13 October, still lists the implementing decree as in preparation. We found no later operative replacement.",
       "caveat": "The EU and national input metrics differ. Peak/back-up generation below 1,500 hours on a five-year rolling average and specified geological-storage installations may be exempt. Existing permit conditions, environmental assessment or energy-saving duties may require similar work for particular projects; their equivalence needs case-specific assessment. This is an identified framework gap, not proof that every 10–20 MW plant escapes assessment.",
       "comparison": {
@@ -4496,7 +4505,7 @@
       "nationalGap": "SI 274/2025 regulations 6,12,14 and 18 introduce the renewable-project scoping guarantees into the Planning and Development Act 2000. SI 185/2026 regulation 2 expressly postpones their commencement to 1 November 2026. SI 323/2026 also postpones its related mandatory-request amendment. The current planning-agency guide and Law Reform Commission annotations confirm that future start.",
       "nationalLaw": "SI 274/2025 regulations 6,12,14,18,38; SI 185/2026 regulation 2; SI 323/2026 regulation 2; Planning and Development Act 2000 sections 37D,146CA,173,290.",
       "provisions": "Directive 2023/2413 Article 1(7), inserted 2018/2001 Article 16b(2); Article 5(1) second subparagraph; SI 185/2026 regulation 2.",
-      "consequence": "The national rules making scoping mandatory and fixing its scope are still postponed at the evidence date. No actual project, expanded information request or resulting delay was audited.",
+      "consequence": "Yes, until 1 November 2026. The national rules making scoping mandatory and fixing its scope were still postponed on the date we checked. Whether any project, expanded information request or delay has resulted has not been established.",
       "resolution": "The enacted rules are due to start on 1 November 2026. This record needs a fresh check on that date and should leave the catalogue if the safeguards are then in force. A later July 2026 instrument does not bring the start forward.",
       "caveat": "This does not concern the separate two-year or one-year permit-decision limits, which the 2025 instrument also introduced. EIA, habitat assessment, optional scoping and existing information duties continue. The focus is the specified guarantee for relevant projects outside acceleration areas. EU-derived enforceability and conforming interpretation need separate assessment; the deferral does not determine every applicant’s rights.",
       "comparison": {
@@ -4632,7 +4641,7 @@
       "nationalGap": "Krypto-MPfG §4(7) and §18(1) Z3(i) retain Regulation 2023/1114 for distributed-ledger addresses. Both have applied since January 2026.",
       "nationalLaw": "Krypto-Meldepflichtgesetz, §§4(7), 18(1) Z3(i), 19(2) and 45.",
       "provisions": "EU correction points 1, 4; national provisions identified above.",
-      "consequence": "The national citation is inconsistent with the corrected EU one. We found no omitted report or tax loss.",
+      "consequence": "Yes, on paper. The Austrian law cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
       "resolution": "The current RIS text keeps both references. An October 2026 clean-up draft changes neighbouring citations and numbering but leaves these provisions untouched.",
       "caveat": "Other MiCA references are legitimate. The original government explanation calls for interpretation consistent with OECD CARF commentary, which may resolve the meaning. Technical reporting instructions and actual coverage were not verified. First annual returns are due in July 2027. No fresh deadline.",
       "comparison": {
@@ -4760,7 +4769,7 @@
       "nationalGap": "Decree 664/2026 Section 4 postpones Section 2(1) points 4, 29 and 30 until 27 March 2027 for marketing contained in goods or packaging placed on the market before 27 September 2026. These cover labels lacking certification or public-authority support, generic environmental claims and claims overstating a product’s or business’s environmental scope.",
       "nationalLaw": "Decree 664/2026, Sections 2(1)(4),(29),(30) and 4(3).",
       "provisions": "Directive 2024/825 Article 1(4), Annex points (1),(2), and Article 4(1); Decree 664/2026 Sections 2 and 4.",
-      "consequence": "The specific ban is delayed for that stock. No individual advertisement or enforcement outcome was investigated.",
+      "consequence": "Yes, until March 2027 for existing goods and packaging. The specific ban is delayed for that stock. Whether any advertisement or enforcement outcome has been affected has not been established.",
       "resolution": "The current Finlex consolidation keeps the exception. The consumer authority repeated it in September; we found no later repeal.",
       "caveat": "Existing general misleading-practice rules remain applicable: the exception does not establish that a claim is lawful. The Commission and CPC authorities agreed in June 2026 that genuine old-stock difficulties can justify phased, case-specific enforcement and proportionate corrective measures. That enforcement discretion does not expressly amend the EU application date or authorize this blanket statutory postponement. Consistent interpretation and EU-law remedies require legal assessment.",
       "comparison": {
@@ -4889,7 +4898,7 @@
       "nationalGap": "Current GEIG §6 covers new residential buildings with more than five spaces and requires preparatory ducting for each. The enacted replacement covers more than three spaces, adds pre-cabling to half and at least one charger. Article 9(2) of the July 2026 law postpones that replacement to 1 January 2027; new §16(1) retains old requirements for building applications through 31 December 2026.",
       "nationalLaw": "GEIG §§4,6,16; July 2026 amending Act, Article 7(5),(11) and Article 9(2).",
       "provisions": "Directive 2024/1275 Articles 14(4)–(5),35(1); GEIG §6; BGBl 2026 I 226 Articles7,9(2).",
-      "consequence": "New applications filed after the EU deadline can still fall under the less demanding federal rule. No individual building or missing charger was audited.",
+      "consequence": "Yes, until 1 January 2027. New applications filed after the EU deadline can still fall under the less demanding federal rule. Whether any building or missing charger has been affected has not been established.",
       "resolution": "The enacted remedy takes effect on 1 January 2027. Its start date and transitional rules should be rechecked then; we cannot say that every earlier project will be covered.",
       "caveat": "The comparison is limited to qualifying new residential projects with fresh applications after 29 May 2026 and parking inside or physically adjacent. Specific micro-isolated-system and outermost-region exceptions remain relevant. Local building or planning conditions and voluntary installation may impose more; none were exhaustively surveyed. Renovation-cost exceptions and separate existing-car-park deadlines do not define this new-build comparison. Publication of the amendment does not make its deferred provisions operative. Directive-consistent interpretation and EU-derived remedies require separate legal assessment; the older text does not establish unconditional permission.",
       "comparison": {
@@ -4997,7 +5006,7 @@
       "nationalGap": "Legislative Decree 194/2025 Article 6(1)(ee), operative through December 2026, points to Regulation 2023/1114 for ledger addresses. Article 13(1)(c)(9) uses that defined term. The June implementing measure incorporates the statutory definitions.",
       "nationalLaw": "Legislative Decree 194/2025, Articles 6(1)(ee) and 13(1)(c)(9); replacement Decree 141/2026, Annex Article 229(1)(ee).",
       "provisions": "EU correction point 1; national provisions identified above.",
-      "consequence": "The national citation is inconsistent with the corrected EU one. We found no omitted report or tax loss.",
+      "consequence": "Yes, on paper. Both the current and the replacement Italian text cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
       "resolution": "Normattiva shows the definition in force from 6 January to 31 December 2026. The August replacement repeats the reference in Annex Article 229(1)(ee), applying from January 2027. Its September correction deals with other provisions.",
       "caveat": "Other MiCA references are legitimate. OECD CARF commentary, conforming interpretation or technical instructions may resolve the meaning. Detailed technical annexes and July FAQs were not verified. First returns are due in June 2027. This is a statutory-reference lead, not a reporting-coverage finding; no fresh deadline.",
       "comparison": {
@@ -5133,7 +5142,7 @@
       "nationalGap": "Article 185(5)–(7) ties the stay to the disputed invoice, with continuation and repeat-complaint rules. It does not expressly add termination protection or a general stay for non-billing disputes. The quality regulation likewise addresses billing errors.",
       "nationalLaw": "Decree-Law 15/2022 Article 185(5)–(7), as amended by Decree-Law 130/2026; RQS Article 64; RRC Articles 78–88.",
       "provisions": "Amending Article 2(9); revised Article 28a(2); Article 3(1). National Article 185.",
-      "consequence": "The provisions we compared do not expressly state the whole safeguard. No actual termination, disconnection or consumer loss was established.",
+      "consequence": "Yes, on paper. The provisions we compared do not expressly state the whole safeguard, which in the EU rule also covers termination and disconnection. Portuguese law already limits termination and provides complaint and arbitration routes, and no actual termination, disconnection or consumer loss has been established.",
       "resolution": "The amendment took effect on 28 August 2026 and is in the current consolidated text. We found no later general safeguard of the same kind in the rules we checked.",
       "caveat": "The rule concerns the grounds under complaint, not an unconditional ban on every interruption during a dispute. Payment obligations continue and appropriate anti-abuse procedures are permitted. Portuguese law already limits supplier termination, requires notice, provides complaints and mandatory consumer arbitration, and allows judicial protection. The complaint branch of Article 185(5) must be interpreted in context; its final disputed-invoice phrase, rather than the grammar of the billing-dispute modifier alone, underpins this comparison. Directive-consistent interpretation or another applicable remedy may protect individual customers. No safety-related interruption is presented as prohibited, and no practical enforcement failure is alleged.",
       "comparison": {
@@ -5271,7 +5280,7 @@
       "summary": "Belgium’s statute still ends residence 90 days after work authorisation ends, with no express longer period based on how long someone has held the permit.",
       "nationalGap": "Article 61/25-2(5) ends residence automatically 90 days after work authorisation ends. It contains no longer-period exception based on permit-holding duration. Flanders’ guidance likewise describes three months.",
       "nationalLaw": "Law of 15 December 1980, Article 61/25-2(5); Cooperation Agreement of 2 February 2018, Article 36(2).",
-      "consequence": "We established no unlawful individual withdrawal or removal.",
+      "consequence": "Yes, on paper. The statute has no express longer period for people who have held the permit for more than two years, as the EU rule has. Individuals can invoke sufficiently precise EU rights directly, and no unlawful individual withdrawal or removal has been established.",
       "resolution": "The current official database (Justel) keeps the rule; we found no later remedy.",
       "caveat": "This concerns ordinary single permits with validity remaining and time-limited regional work authorisation; separate Blue Card, seasonal, intra-corporate and unrestricted-status rules are excluded. Notification and sufficient-resources conditions may apply. Individuals may invoke sufficiently precise EU rights against public authorities. Article 61/25-4 preserves more favourable EU rules in the residence section; it is not itself a textual replacement of the earlier procedural section. Other residence grounds, pending applications, individual circumstances and judicial protection require assessment. A 90-day national sentence does not establish that EU protection is unavailable.",
       "review": "A separate researcher checked the authentic EU provision and deadline, live Justel wording and amendment dates, current Flanders guidance, later-measure searches and the EU-rights saving route. The comparison passed as a qualified statutory/practice wording lead, with no finding about an actual removal.",
@@ -5373,7 +5382,7 @@
       "summary": "Sweden’s ordinary work-permit rule and agency guidance still allow three months to look for a new job. The government proposes the longer protection from February 2027.",
       "nationalGap": "Chapter 7 Section 3(1)(2) permits withdrawal after three months without qualifying new employment or an application subsequently approved. It has no longer-period exception for established permit holders.",
       "nationalLaw": "Aliens Act (2005:716), Chapter 7 Section 3(1)(2); ordinary permits under Chapter 6 Section 2.",
-      "consequence": "The national safeguard is shorter than the EU one. We investigated no individual expulsion or loss.",
+      "consequence": "Yes, on paper. The Swedish rule gives three months where the EU gives six after more than two years as a permit holder. Withdrawal is discretionary, and directly effective EU rights or finding new work can still protect an individual; no individual expulsion or loss has been investigated.",
       "resolution": "The July proposal sets the longer period and proposes a start on 1 February 2027. It is not in force at this snapshot; the current statute and agency page still say three months.",
       "caveat": "Only qualifying ordinary permits with unexpired validity are compared. Applicable notification and means conditions remain relevant. Blue Card protections are separate. Withdrawal is discretionary, and directly effective EU rights, other residence grounds and judicial review may protect an individual. Finding new work or filing the relevant application can preserve residence under existing rules. The record does not claim every unemployed worker must leave or that the future proposal is enacted.",
       "review": "A second researcher read the current statute, the authentic EU rule and deadline, the July proposal’s Sections 8.4 and 13, and current Migration Agency guidance. The latest statutory amendment register and possible administrative implementation were checked; no later equivalent ordinary-permit extension was located. Separate Blue Card rules were treated as an adverse control.",
@@ -5469,7 +5478,7 @@
       "nationalGap": "Current Rv 6(e) links tort jurisdiction to the harmful event in the Netherlands. Pure financial loss requires additional connecting circumstances. The July act left Article 6 unchanged. A proposed new 6(j) addressing this difference was withdrawn. The Ministry maintains that existing jurisdiction already suffices; the Amsterdam court and parliamentary amendment explanation identify a distinct EU domicile-based forum.",
       "nationalLaw": "Wetboek van Burgerlijke Rechtsvordering Articles 1, 6(e), 9; Act 8 July 2026, Stb.185, effective 14 July.",
       "provisions": "Directive 2024/1069 Articles 17(1),(2),18,22(1); Rv 6(e),9; Stb.2026/185 Article I; proposed amendment 36731-11.",
-      "consequence": "In some financial-loss cases the statutory forum still depends on connections beyond the target’s domicile. This is a contested assessment of coverage, not a finding that every Dutch target lacks a court.",
+      "consequence": "Possibly. In some financial-loss cases the Dutch forum still depends on connections beyond the target’s domicile. The government considers existing law sufficient, and the Amsterdam court accepted jurisdiction in an older case under existing law, so this is a contested assessment of coverage, not a finding that Dutch targets lack a court.",
       "resolution": "The current code version, running from 14 July 2026 to the research date, has no Article 6(j). The July implementation notice still relies on Articles 1 and 6(e). We found no later statutory remedy.",
       "caveat": "The government considers existing law sufficient: public participation from a Dutch home or reputational loss there may establish jurisdiction. Article 9 supplies exceptional fallback grounds. Conforming interpretation may assist future cases. The Amsterdam court accepted jurisdiction in Greenpeace’s case under existing law; its foreign proceedings began in 2017/2019, so the directive was not applicable there. That judgment did not decide every future post-directive case. Pre-existing international agreements remain protected by EU Article 18. The January 2026 Dutch costs corrigendum is a separate issue and is not the alleged source of this jurisdiction gap.",
       "comparison": {
@@ -5617,7 +5626,7 @@
       "nationalGap": "Article 11(4) still makes website withdrawal conditional on the trader providing it. Article 11 otherwise accepts unequivocal declarations. The official consolidation lists its latest amendment as 3 March 2023; no new mandatory function appears.",
       "nationalLaw": "Decree-Law 24/2014 Articles 2, 4, 5, 10–12, 17, 31 and Annex A(3).",
       "provisions": "Directive 2023/2673 Article 1(3), inserting Directive 2011/83 Article 11a; Article 2(1). Portuguese Decree-Law 24/2014 Article 11(4).",
-      "consequence": "The national duty we checked still depends on the trader offering it. No individual trader or failed withdrawal was investigated.",
+      "consequence": "Yes, on paper. The Portuguese duty we checked still depends on the trader offering a website withdrawal route. Existing withdrawal, information and refund protections remain, and no individual trader or failed withdrawal has been investigated.",
       "resolution": "We found no later enacted equivalent in bounded searches of official sources. The current statute still has the optional route.",
       "caveat": "Existing withdrawal, information, acknowledgement and refund protections remain. Contract exceptions apply. Traders can provide functions voluntarily. General law, consistent interpretation or another country’s applicable consumer rules can affect particular cases. This concerns ordinary covered online goods contracts; sector-specific cancellation channels are not assumed absent.",
       "comparison": {
@@ -5724,7 +5733,7 @@
       "nationalGap": "Current StGB 232a(6) addresses sexual acts with victims in prostitution. Section 233 targets those exploiting workers, while Section 27 requires assistance to another intentional crime. The government’s proposed new 232a expressly distinguishes a knowing customer from the exploiter and extends demand liability beyond sexual services.",
       "nationalLaw": "StGB Sections 27, 232a(6), 233; SchwarzArbG Section 10a. Proposed StGB 232a in government bill 21/6584.",
       "provisions": "Directive 2024/1712 Article 1(15), inserting Directive 2011/36 Article 18a(1)–(2); Article 2(1). Current StGB 232a(6); bill 21/6584 Article 1(14).",
-      "consequence": "The code we checked lacks the new general customer category. Other crimes may cover particular conduct; we investigated no incident or failed prosecution.",
+      "consequence": "Yes, on paper. Germany’s express customer offence is limited to sexual services, while the EU requires covering the knowing use of exploited victims’ services. Other crimes (trafficking, exploitation, complicity) may cover particular conduct, and no incident or failed prosecution has been investigated.",
       "resolution": "The current official criminal code (StGB) still has the sexual-services clause. A parliamentary hearing in September described the wider offence as proposed; we found no later enactment in bounded searches.",
       "caveat": "Trafficking, exploitation, complicity and some knowing illegal employment are already criminalised. Those rules can apply when their additional elements are met; this does not allege universal immunity for customers. The new EU requirement concerns services provided within exploitation and actual knowledge of victim status. Purchasing goods made under exploitative conditions is excluded. No finding is made about the bill’s wider reforms or the adequacy of victim support.",
       "comparison": {
@@ -5865,7 +5874,7 @@
       "nationalGap": "It selects non-leverage risks. Subsection (9) supplies general capital proportions; (10) permits higher supervisory requirements.",
       "nationalLaw": "Hpt (Act CCXXXVII/2013), Section 186(9)–(12).",
       "provisions": "2019/878 Article 1(33), inserting 2013/36 Article 104a(4), second subparagraph; corrigendum OJ 2026/90670; Hpt 186(9a).",
-      "consequence": "On paper the two texts say opposite things. We have not found that it changes what any bank actually has to hold: Hungary’s regulator may still reach the intended result through guidance, or by asking for more.",
+      "consequence": "Yes, on paper. Hungary’s law and the corrected EU rule say opposite things, so the national law does not yet match the EU rule. Whether any bank is affected in practice has not been established.",
       "resolution": "Nothing yet. The official Hungarian law was still unchanged on 26 October 2026.",
       "caveat": "Supervisory decisions, guidance or EU-consistent interpretation may supply the correct outcome; no bank inadequacy is alleged. Hpt 186(10) allows higher proportions. The directly applicable CRR baseline leverage requirement is distinct from this Pillar-2 add-on. NJT’s separate subsection (8) drafting note concerns another provision. Actual leverage-related supervisory requirements remain unverified.",
       "comparison": {
@@ -5983,7 +5992,7 @@
       "nationalGap": "The October 2026 Water Law consolidation moves directly from Article 473 to 474. Articles 476 and 478 retain lesser permit-related offences; no proposed Article 473a is present. Penal Code 181 addresses actual biological destruction, while 182 addresses pollution by substances or ionising radiation. These provisions do not comprehensively express the new abstraction offence, particularly risk-only serious-negligence cases without human-danger or other additional criminal elements. Government project UC148 expressly proposes the missing Article 473a.",
       "nationalLaw": "Water Law Articles 473–479, consolidated Dz.U. 2026 poz. 1335; Penal Code Articles 8–9, 13, 160, 163–165 and 181–185, consolidated Dz.U. 2026 poz. 1342.",
       "provisions": "Directive 2024/1203 Articles 3(1),(2)(m),(4), 5(2)(e), 28(1); proposed Water Law 473a; current Water Law 476,478 and Penal Code 181–182.",
-      "consequence": "Some abstraction that only creates a risk falls outside the new criminal category in the national provisions we checked. No actual abstraction incident, failed prosecution or environmental loss was investigated.",
+      "consequence": "Yes, on paper. Some abstraction that only creates a risk falls outside the new criminal category in the national provisions we checked. Other crimes and sanctions apply when their elements are met, and no actual abstraction incident, failed prosecution or environmental loss has been investigated.",
       "resolution": "UC148, last updated 18 August 2026, is still a proposed implementing measure. Official consolidations published in October keep the old provisions. The official amendment registers updated on 20–21 October list no enacted correction; a later Water Law amendment (1358) concerns bathing-water rules and starts on 3 November.",
       "caveat": "Unlawful abstraction is already regulated and can attract permit, financial and lesser-offence sanctions. Actual biological destruction, pollution, danger to people or major property, and intentional attempts may trigger other crimes when their elements are met. This does not allege universal immunity. The three-year minimum maximum in Article 5(2)(e) concerns the intentional offence, not every negligent case. The finding concerns legislative coverage and does not establish charges available in any individual case. The April 2026 Polish corrigendum changes the negligence cross-reference for other categories; this record does not attribute the water gap to that correction.",
       "comparison": {
@@ -6113,7 +6122,7 @@
       "nationalGap": "Energy Code L332-7 requires dynamic-price offers from suppliers serving more than 200,000 sites. Consumer Code L224-5 requires a one-year contract option, without requiring its price to be fixed. Proposed L332-8 would add a fixed-price obligation for large suppliers, but remains in the pending DDADUE bill.",
       "nationalLaw": "Energy Code L332-7; Consumer Code L224-5; proposed Energy Code L332-8 in DDADUE Article 37.",
       "provisions": "Amending Article 2(4)(b), revised Article 11(1); Article 3(1); national L332-7, L224-5.",
-      "consequence": "A distinct statutory entitlement remains to be added. Existing commercial offers and concluded contracts are not affected; we investigated no refusal or customer loss.",
+      "consequence": "Yes, on paper. France has no statutory right to a fixed-price contract from large suppliers, which the EU now requires. Fixed-price offers already exist on the market and existing contracts are not affected; no refusal or customer loss has been investigated.",
       "resolution": "The current chapter of the Energy Code still ends at L332-7. The parliamentary file records a bill before the National Assembly; bounded searches for later measures found no enacted L332-8 or equivalent general obligation.",
       "caveat": "Fixed-price products already exist commercially, and ordinary consumer and contract protections continue. The comparison concerns an entitlement from every qualifying large supplier, rather than market availability. Qualifying dynamic-only suppliers may be exempt. Possible EU-derived rights and consistent interpretation require individual assessment. Voluntary CRE commitments are not a demonstrated equivalent mandatory entitlement.",
       "comparison": {
@@ -6234,7 +6243,7 @@
       "nationalGap": "Act 159/2026 replaces Civil Code 1845 with an explanation duty and a human-explanation right for solely automated tools, but Article XII postpones the package until 1 January 2027. Current 1845 concerns contract terms and communication channels.",
       "nationalLaw": "Civil Code 89/2012 Section 1845; Act 159/2026 Article V(9) and XII.",
       "provisions": "2023/2673 Article 1(4), inserted 2011/83 Article 16d(3) and (5); Article 2(1). National Article V(9), Section 1845(2).",
-      "consequence": "The specific new statutory right is not yet in force. No individual refusal of assistance was investigated.",
+      "consequence": "Yes, until 1 January 2027. The specific right to a human explanation is enacted but not yet in force. Existing information, fair-dealing and complaint duties remain, and no individual refusal of assistance has been investigated.",
       "resolution": "The official current text and the enacted start date were unchanged at the date we checked; we found no earlier start.",
       "caveat": "Confine the comparison to financial services outside sectoral EU adequate-explanation rules, such as an ordinary deposit product rather than credit, investment or insurance. Existing information, fair-dealing, complaint and data-protection duties remain; providers can offer human help voluntarily. GDPR safeguards for significant automated decisions are narrower than a general explanation right. EU-consistent interpretation or other applicable law can affect individual cases. No universal absence of customer assistance is alleged.",
       "comparison": {
@@ -6357,7 +6366,7 @@
       "nationalGap": "Law 74/2015 Article 2(1) retains sucursalele and sucursale for the manager’s and its parent companies’ branches. Article 3(25) separately defines a subsidiary. The official consolidation incorporating amendments effective 16 April 2026 preserves those words.",
       "nationalLaw": "Law 74/2015, Article 2(1); subsidiary definition in Article 3(25).",
       "provisions": "Directive 2011/61/EU Article 3(1); Romanian corrigendum point 1, OJ L 2026/90861, 13 October 2026; national Articles 2(1), 3(25).",
-      "consequence": "The national exception describes a different group-investor category. Whether interpretation or a lawful separate domestic regime removes any practical effect needs further legal review; no authorisation decision or affected manager was examined.",
+      "consequence": "Yes, on paper. The national exception names a different group-investor category (branches) than the corrected EU text (subsidiaries). Whether interpretation or a separate national regime removes any practical effect has not been established, and no authorisation decision or manager was examined.",
       "resolution": "The latest official national text keeps the earlier words. Targeted searches found no later correction, no equivalent interpretation by the regulator (ASF) and no published analysis identifying this precise mismatch.",
       "caveat": "This is a textual research lead, not a finding that Romania unlawfully regulates a manager. EU Article 3(1) excludes a category from the directive; that alone does not establish a prohibition on independent national regulation of out-of-scope entities. Other national exclusions, including holding companies, remain relevant. A branch lacks separate legal personality, and conforming interpretation may matter. The corrigendum creates no fresh transposition deadline.",
       "comparison": {
@@ -6451,7 +6460,7 @@
       "nationalGap": "Article 18(4) still adds six months per repair, up to four. Article 12(1) fixes a three-year baseline. The official current-law portal reports no amendments.",
       "nationalLaw": "Decree-Law 84/2021, Articles 12(1), 12(4), 17 and 18(4).",
       "provisions": "2024/1799 Article 16(2), new 2019/771 Article 10(2a), (3), (5a); Articles 21–22; recital 40.",
-      "consequence": "The national increase for a first repair is still six months. No refused consumer claim was examined.",
+      "consequence": "Yes, on paper. The national increase after a first repair is six months, where the EU requires twelve. Portugal already gives a three-year baseline and repeated repair extensions, and no refused consumer claim has been examined.",
       "resolution": "We found no enacted replacement and no separate general twelve-month rule in bounded searches of later legislation.",
       "caveat": "Focus on sales contracts concluded after 31 July 2026. Compare the increment, not total protection: Portugal already provides a three-year baseline, repeated repair increments and downtime suspension. The special alternative for systems without fixed liability periods does not obviously fit Article 12(1). Commercial promises, other remedies and consistent interpretation can protect individual consumers. The legal conclusion concerns the once-only repair incentive, not an assertion that Portuguese coverage is generally shorter than the EU minimum.",
       "comparison": {
@@ -6557,7 +6566,7 @@
       "nationalGap": "Decree-Law 221/2006 Article 7(3) still requires manufacturers or representatives to send a copy to DGE and the Commission before marketing or entry into service. The official register lists only a 2021 amendment affecting Articles 16/17.",
       "nationalLaw": "Decree-Law 221/2006, Article 7(3); Articles 4(1), 7(1), 7(4) and 16.",
       "provisions": "2024/2839 Article 2(1),deleting 2000/14 Article 16; Article 5(1).",
-      "consequence": "The express routine paperwork duty remains in the national text. Actual enforcement was not established.",
+      "consequence": "Yes, on paper. The national text still requires routine copies of the declaration before marketing, despite the EU’s simplification of this reporting. Whether this is being enforced has not been established.",
       "resolution": "No later repeal or general overriding exemption was located in the current official text, amendment register and bounded later-law searches.",
       "caveat": "The CE declaration, technical-file retention and case-specific market-surveillance requests remain distinct duties. This comparison concerns automatic copies to both recipients, not all documentation. EU-consistent interpretation may affect application. No actual refusal, fine or quantified cost is alleged.",
       "comparison": {

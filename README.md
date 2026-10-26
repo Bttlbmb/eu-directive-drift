@@ -1,4 +1,4 @@
-# EU Update Chain
+# EU Directive Drift
 
 A lean research website tracing changes in EU law into national provisions. Inspired by EU Translation Inconsistencies. Both reference repositories were inspected read-only and were neither cloned nor edited. The website has no external dependencies and is ready for GitHub Pages publishing from a branch.
 
@@ -6,17 +6,9 @@ A lean research website tracing changes in EU law into national provisions. Insp
 
 Run `npm start`, then open **http://127.0.0.1:4173/**. Alternatively use `python3 scripts/serve.py`; choose another port with `--port 4174`. Stop with Ctrl+C. The server binds to this computer and serves only `docs/`. Use the server rather than opening the HTML directly, so the dataset can load. Local checks use Node.js and Python 3; no `npm install` is needed.
 
-## Publish on GitHub Pages later
+## Publish on GitHub Pages
 
-The local Git repository uses `main`. No remote or hosted repository has been created, and nothing has been pushed or published.
-
-When ready, create an **empty public repository** on GitHub (without adding a README, license or `.gitignore` there). Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` below with its owner and name, then run:
-
-```sh
-npm run check
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
-```
+The GitHub repository is [Bttlbmb/eu-directive-drift](https://github.com/Bttlbmb/eu-directive-drift), using the `main` branch. The complete static site is committed in `docs/` and is ready for branch publishing.
 
 In the GitHub repository, open **Settings → Pages** and select:
 
@@ -24,7 +16,7 @@ In the GitHub repository, open **Settings → Pages** and select:
 - **Branch:** `main`
 - **Folder:** `/docs`
 
-Click **Save**. A project repository will be served at `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`; GitHub also shows the published URL in Pages settings.
+Click **Save**. Once enabled, the site will be served at [bttlbmb.github.io/eu-directive-drift/](https://bttlbmb.github.io/eu-directive-drift/); GitHub also shows the published URL in Pages settings.
 
 `docs/` contains the complete static site, including its dataset. `docs/.nojekyll` bypasses Jekyll processing. No custom GitHub Actions workflow, build step, package installation or Python server is needed on GitHub. GitHub manages Pages deployment internally; a Pages deployment may still appear in the Actions tab. See [GitHub's branch publishing documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
@@ -42,7 +34,7 @@ For later updates, edit the files in `docs/`, run `npm run check`, then commit a
 - Preserve filters in the URL; provide shareable case links.
 - Explain research limits on Method and Coverage pages.
 
-The snapshot is **26 October 2026 (UTC)**. The catalogue currently contains **56 records across 22 Member States and 28 EU changes**. The completed fourth research pass added **11 records**, including **2 with no precise prior recognition located**. The catalogue has **19** such candidates in total; the other **37** concerns were already publicly recognized.
+The snapshot is **26 October 2026 (UTC)**. The catalogue currently contains **57 records across 22 Member States and 29 EU changes**. The completed fourth research pass added **11 records**, including **2 with no precise prior recognition located**. The catalogue has **19** such candidates in total; the other **38** concerns were already publicly recognized.
 
 The latest work examined bank-capital corrections, single-permit unemployment protection, environmental offences, trafficking-service offences, anti-SLAPP jurisdiction, online withdrawal and financial explanations, and electricity-contract rights. The strongest new less-documented lead is Hungary’s reversed risk trigger for an additional bank-capital requirement following an August 2026 EU correction. Its actual supervisory effect remains unverified. A second new lead concerns Romania’s group-fund exception: national branches wording survives an October EU correction to subsidiaries. Lawful wider domestic regulation remains possible; no affected manager or decision was examined. The other additions are explicitly marked as previously recognized. Further recent corrections were excluded where current national law or administration already supplied the right, or no substantive omission was established.
 
