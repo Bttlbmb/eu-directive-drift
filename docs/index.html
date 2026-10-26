@@ -29,7 +29,7 @@
     </form>
     <div class="line">
       <span><span id="result-count" aria-live="polite"></span><label><input id="hide-recognized" type="checkbox"> Hide previously recognized</label></span>
-      <span><label>Sort by <select id="sort"><option value="revision">EU change year · newest first</option><option value="newest">Evidence · newest first</option><option value="oldest">Evidence · oldest first</option><option value="country">Member State · A–Z</option><option value="deadline">Deadline · newest first</option></select></label><button type="button" id="reset" class="text-button">Reset filters</button></span>
+      <span><label>Sort by <select id="sort"><option value="revision">Newest EU change</option><option value="country">Country A–Z</option><option value="deadline">Longest overdue</option><option value="newest">Most recently checked</option><option value="oldest">Least recently checked</option></select></label><button type="button" id="reset" class="text-button">Reset filters</button></span>
     </div>
     <div id="results"></div>
     <div id="load-error" class="empty" hidden><h3>The catalogue could not be loaded.</h3><p>Check your connection and try again. For a local copy, run <code>npm start</code> and open the server address.</p><button onclick="location.reload()" class="button">Try again</button></div>

@@ -28,7 +28,7 @@ For later updates, edit the files in `docs/`, run `npm run check`, then commit a
 
 - Search and filter by country, EU change type and evidence.
 - Show newer EU changes first by default; hide previously recognized concerns with one checkbox.
-- Sort independently by EU change year, evidence date, Member State or deadline.
+- Sort by newest EU change (default), country, longest overdue (oldest deadline first; cases without a deadline last) or check date. Ties always fall back to country, then title. The deadline appears in each row while sorting by it.
 - Show who previously recognized each concern, separately from its legal strength.
 - Present the EU change, current national provision, dates, comparison, independent review and official source links.
 - Preserve filters in the URL; provide shareable case links.
