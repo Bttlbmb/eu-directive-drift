@@ -75,8 +75,8 @@ main:focus{outline:none}
 .recognition{display:block;font-size:11px;line-height:1.5;margin-top:9px}
 .recognition.candidate{color:#215c46;font-weight:700}
 .recognition.known{color:var(--muted)}
-header{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;padding-top:32px}
-.brand{font:30px/1.2 Georgia,"Times New Roman",serif;letter-spacing:-.4px;color:var(--ink);text-decoration:none}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-start;gap:12px 24px;padding-top:32px}
+.brand{font:30px/1.2 Georgia,"Times New Roman",serif;letter-spacing:-.4px;color:var(--ink);text-decoration:none;white-space:nowrap}
 nav{display:flex;gap:8px}
 nav a{font-size:13px;line-height:1.6;color:var(--ink);text-decoration:none;border:1px solid var(--line);border-radius:3px;padding:5px 12px}
 nav a:hover{background:var(--soft)}
