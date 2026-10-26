@@ -118,7 +118,7 @@ nav a.active{border-color:var(--green)}
 @media(max-width:570px){
   .brand{font-size:26px}
 }
-.case{max-width:900px;padding:28px 0 40px}
+.case{padding:28px 0 40px}
 .case-top{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:22px}
 .case-top .back{margin:0;font-size:13px;color:var(--muted)}
 .case-top .back:hover{color:var(--green)}

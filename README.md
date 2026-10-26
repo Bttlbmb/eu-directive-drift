@@ -72,12 +72,14 @@ Keep these editorial fields consistent:
 | `statusKind` | One of the plain status headlines defined in `docs/app.js` (`differs`, `behind`, `draft`, `postponed`, `enacted`, `official`, `open`) |
 | `statusDetail` | One short plain line under the status headline; `null` when there is nothing to add |
 | `timeline[].who` | Who acted: `eu`, `national`, `court`, `commission`, `check` (our own check) or `commentary`; shown as a chip on each timeline point |
+| `consequence` | The answer to “Does it matter?”, required for every record: an opener (“Yes, on paper.”, “Yes, until <date>.” or “Possibly.”), the effect on paper, then what is not established |
+| `resolution` | Older research note on follow-up. Optional and no longer shown on the site |
 | `timeline` | Sorted ISO dates; year/month precision is supported when exact days are unknown |
 | `sources` | Source title, HTTPS URL, role and pinpoint `locator`; official law supports legal comparisons, commentary may establish recognition |
 
 This is a dated snapshot. Recheck enacted remedies at their commencement dates and remove a record once its specific concern is fully resolved. Priority review dates include Ireland’s EIA safeguards on 1 November 2026, Czech, Swedish and German January 2027 commencements, Sweden’s proposed February 2027 work-permit change, Finland’s March 2027 stock exception, Luxembourg’s May 2027 permit transition and Poland’s September 2027 commencement. `reviewAfter` and `remedyDate`, where present, are editorial reminders, not automatic findings of compliance.
 
-Write titles, summaries and the comparison, consequence and follow-up texts in everyday words: no country name in the title (the country is shown above it), no section numbers outside the comparison and sources, and keep every hedge (“may”, “not established”, “we found no…”). Say who did what (the EU, the Member State, a court, our own check).
+Write titles, summaries and the comparison and consequence texts in everyday words: no country name in the title (the country is shown above it), no section numbers outside the comparison and sources, and keep every hedge (“may”, “not established”, “we found no…”). Say who did what (the EU, the Member State, a court, our own check).
 
 Before adding a case, check the actual amended duty, national rule, currentness, lawful options, exceptions and transitional rules. Search for corrections and previous recognition; obtain an independent challenge. Missing notification alone does not prove a substantive national omission. An old judgment describes its legally relevant date, not necessarily present law. Draft corrections are not enacted corrections.
 

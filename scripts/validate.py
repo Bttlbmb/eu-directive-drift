@@ -10,7 +10,7 @@ data = json.loads((root / 'docs/data/findings.json').read_text())
 required = {'id', 'title', 'country', 'countryCode', 'topic', 'baseAct', 'amendingAct',
             'celex', 'updateType', 'deadline', 'stage', 'statusLabel', 'evidenceDate',
             'summary', 'euChange', 'nationalGap', 'nationalLaw', 'provisions',
-            'resolution', 'caveat', 'timeline', 'sources', 'review', 'recordKind', 'catalogueStatus', 'priorRecognition', 'recognizedBy', 'recognitionNote'}
+            'consequence', 'caveat', 'timeline', 'sources', 'review', 'recordKind', 'catalogueStatus', 'priorRecognition', 'recognizedBy', 'recognitionNote'}
 app = (root / 'docs/app.js').read_text()
 status_kinds = set(re.findall(r"(\w+):'", re.search(r"const statusKinds = \{(.*?)\};", app).group(1)))
 who_values = {'eu', 'national', 'court', 'commission', 'check', 'commentary'}
