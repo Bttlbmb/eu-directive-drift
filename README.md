@@ -27,20 +27,28 @@ For later updates, edit the files in `docs/`, run `npm run check`, then commit a
 ## What the website does
 
 - Search and filter by country, EU change type and evidence.
-- Put candidates with no located prior recognition first, with newer EU changes prioritised; hide previously recognized concerns with one checkbox.
+- Show newer EU changes first by default; hide previously recognized concerns with one checkbox.
 - Sort independently by EU change year, evidence date, Member State or deadline.
 - Show who previously recognized each concern, separately from its legal strength.
 - Present the EU change, current national provision, dates, comparison, independent review and official source links.
 - Preserve filters in the URL; provide shareable case links.
 - Explain research limits on Method and Coverage pages.
 
-The snapshot is **26 October 2026 (UTC)**. The catalogue currently contains **57 records across 22 Member States and 29 EU changes**. The completed fourth research pass added **11 records**, including **2 with no precise prior recognition located**. The catalogue has **19** such candidates in total; the other **38** concerns were already publicly recognized.
+The snapshot is **26 October 2026 (UTC)**. The catalogue currently contains **60 records across 22 Member States and 31 EU changes**. **20** records have no precise prior recognition located; **40** were already publicly recognized. The systematic review is still in progress and has added four qualified records so far.
 
 The latest work examined bank-capital corrections, single-permit unemployment protection, environmental offences, trafficking-service offences, anti-SLAPP jurisdiction, online withdrawal and financial explanations, and electricity-contract rights. The strongest new less-documented lead is Hungary’s reversed risk trigger for an additional bank-capital requirement following an August 2026 EU correction. Its actual supervisory effect remains unverified. A second new lead concerns Romania’s group-fund exception: national branches wording survives an October EU correction to subsidiaries. Lawful wider domestic regulation remains possible; no affected manager or decision was examined. The other additions are explicitly marked as previously recognized. Further recent corrections were excluded where current national law or administration already supplied the right, or no substantive omission was established.
 
 Fully resolved cases are excluded from the public dataset, counts. Remaining records include both qualified text mismatches and publicly identified implementation concerns. Their inclusion does not establish a current breach in every case.
 
 “No prior recognition located” describes limited searches. It does not establish first discovery. In particular, the Hungarian, Latvian and Lithuanian exposure-formula leads involve lower national limits; lawful stricter protection remains a possible explanation. They are not findings of unsafe worker protection or deliberate disregard.
+
+## Systematic review of the 25 shortest directives
+
+The Coverage page now shows the live research ledger: 25 individual directives, including amending directives, selected from the 110 previously examined EU acts by original official English word count including annexes. It tracks all 675 country–directive pairs and provides the change inventories, national comparisons, source references and remaining uncertainties. Ranking was independently checked, including full-PDF checks where legacy HTML omitted tables.
+
+A completed assessment is not a certificate of compliance: all applicable changed obligations must be considered, but the legal result can remain inconclusive. Notifications alone never establish implementation. Unchanged original provisions and actual enforcement or administrative reporting performance are outside the comparison unless specifically examined. Replacements, transitions and relevant exceptions are followed. Most rows remain unassessed; this is not yet a comprehensive completed review.
+
+`research/coverage.json` preserves the working assessments; `docs/data/systematic.json` is their smaller public projection. Run `python3 scripts/build_coverage.py` to refresh the public snapshot. The retained ledger survives removal of temporary working files.
 
 ## Maintain the dataset
 

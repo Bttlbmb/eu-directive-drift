@@ -6648,6 +6648,364 @@
       ],
       "statusKind": "behind",
       "statusDetail": "The Commission has already raised the implementation delay; the current copy-submission clause remains."
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "country": "Finland",
+      "countryCode": "FI",
+      "title": "A routine noise declaration copy still goes through the environmental authority",
+      "topic": "Product regulation",
+      "baseAct": "Directive 2000/14/EC (outdoor equipment noise)",
+      "amendingAct": "Directive (EU) 2024/2839 (reporting simplification)",
+      "celex": "32024L2839",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": "systematic",
+      "stage": "research",
+      "statusLabel": "Current copy duty; national reform proposed",
+      "evidenceDate": "2026-10-26",
+      "evidenceLabel": "Current official national text and amendment history directly checked",
+      "deadline": "2025-11-29",
+      "deadlineLabel": "Application of reporting-duty deletion",
+      "summary": "Finland retains a routine declaration-copy route through its environmental authority; a reform remains proposed.",
+      "euChange": "Delete routine declaration-copy submissions.",
+      "nationalGap": "Decree 621/2001, Section 10, still requires copies for equipment manufactured in Finland or intended for first EEA commissioning there. Manufacturers or representatives submit to SYKE, which forwards them to the Commission.",
+      "nationalLaw": "Government Decree 621/2001, Section 10; Sections 6–8 retain separate conformity and surveillance duties.",
+      "provisions": "2024/2839 Article 2(1), deleting 2000/14 Article 16; Article 5(1).",
+      "consequence": "Yes, on paper. The national decree still requires the specified routine submission route. Whether it is being enforced has not been established.",
+      "resolution": "The current official XML retains Section 10. A September 2026 government consultation proposed reform; bounded later-enactment searches located no replacement in force.",
+      "caveat": "The national rule covers the specified Finland manufacturing or first EEA commissioning categories, not every sale in Finland. CE declarations, technical-file retention and targeted surveillance requests remain. The XML was retrieved on 26 October 2026 and produced on 16 October; later-law searches supplement that snapshot. EU-consistent interpretation may affect application. No actual cost or fine is alleged.",
+      "comparison": {
+        "beforeLabel": "Current national route",
+        "before": "Manufacturer or representative → SYKE → Commission.",
+        "afterLabel": "EU reporting simplification",
+        "after": "Remove the routine submission requirement.",
+        "note": "Other conformity and targeted inspection duties remain."
+      },
+      "review": "Independent primary-law and adverse review passed. Both researchers read the current official Section 10. Later-law and consultation searches found no enacted repeal; no enforcement conclusion is drawn.",
+      "priorRecognition": "recognized",
+      "recognizedBy": [
+        "European Commission",
+        "Finnish government"
+      ],
+      "recognitionNote": "The Commission had published a related transposition concern; the government then consulted on implementing the reporting simplification. This is a documented national implementation lead, not a first-discovery claim.",
+      "noveltySearch": {
+        "date": "2026-10-26",
+        "method": "Exact national provision, government consultation, later amendment and published implementation searches; prior official recognition found.",
+        "queries": [
+          "\"621/2001\" \"2026\" \"10 §\"",
+          "\"VN/24738/2026\"",
+          "\"laitemeluasetus\" \"2026\" \"lokakuu\"",
+          "\"ulkona käytettävien laitteiden melupäästöistä\" \"2026\" \"kumotaan\""
+        ]
+      },
+      "sources": [
+        {
+          "title": "EU deletion and application date",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/eng",
+          "role": "EU amendment",
+          "locator": "Article 2(1); Article 5(1)."
+        },
+        {
+          "title": "Current official Finnish decree in machine-readable form",
+          "url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/621/fin%40",
+          "role": "Current national duty",
+          "locator": "Section 10; retrieved 26 October 2026. Consolidation incorporates the 18 December 2025 amendment; document produced 16 October 2026."
+        },
+        {
+          "title": "Government consultation on reforming the noise decree",
+          "url": "https://www.lausuntopalvelu.fi/FI/Proposal/Participation?proposalId=4276858e-180b-40e7-a3e0-020310279184",
+          "role": "Published proposed implementation",
+          "locator": "VN/24738/2026-YM-3; consultation 7–30 September 2026; introduction identifies 2024/2839 reporting changes."
+        },
+        {
+          "title": "Latest identified enacted amendment affects a different section",
+          "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2025/1324",
+          "role": "Adverse later-law check",
+          "locator": "Decree 1324/2025 changes Section 8(2), effective 1 January 2026; not Section 10."
+        },
+        {
+          "title": "Underlying harmonisation and surveillance safeguards",
+          "url": "https://eur-lex.europa.eu/eli/dir/2000/14/oj/eng",
+          "role": "Adverse legal scope",
+          "locator": "Articles 1, 6, 9 and 17."
+        },
+        {
+          "title": "Commission’s published Finland transposition concern",
+          "url": "https://croatia.representation.ec.europa.eu/vijesti-i-dogadanja/vijesti/srpanjski-paket-o-povredama-prava-eu-kljucne-odluke-2026-07-13_hr",
+          "role": "Prior official recognition",
+          "locator": "Reporting simplification; Finland INFR(2026)2150, formal notice."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2025-11-28",
+          "event": "National adoption/publication deadline.",
+          "who": "eu"
+        },
+        {
+          "date": "2025-11-29",
+          "event": "Reporting simplification applies.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-07-13",
+          "event": "Official Commission page publishes Finland transposition concern.",
+          "who": "commission"
+        },
+        {
+          "date": "2026-09-07",
+          "event": "Government opens consultation on national reform.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-26",
+          "event": "Current official Section 10 and later-law searches checked.",
+          "who": "check"
+        }
+      ],
+      "statusKind": "draft",
+      "statusDetail": "The government has consulted on implementing the reporting simplification."
+    },
+    {
+      "id": "pt-romanian-nurse-upgrade-recognition",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "title": "Romanian nursing upgrades still lack the express recognition route without practice evidence",
+      "topic": "Professional qualifications",
+      "baseAct": "Directive 2005/36/EC (professional qualifications)",
+      "amendingAct": "Directive (EU) 2024/505",
+      "celex": "32024L0505",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": "systematic",
+      "stage": "research",
+      "statusKind": "draft",
+      "statusLabel": "Current statutory route missing; government proposal identified",
+      "evidenceDate": "2026-10-26",
+      "evidenceLabel": "Current national statute and professional-order rules checked",
+      "deadline": "2025-03-04",
+      "deadlineLabel": "National transposition deadline",
+      "summary": "Portugal’s special Romanian nursing provision still contains only the practice-based route. A government proposal has not become law in the sources checked.",
+      "euChange": "Recognise specified Romanian nursing upgrades without the practice certificate.",
+      "nationalGap": "Law 9/2009 Article 30(3) lists three older qualifications, each subject to three consecutive years of Romanian practice within five years. The upgraded-diploma and competence-revaluation routes are absent. The current official consolidation records its latest amendment in May 2021.",
+      "nationalLaw": "Law 9/2009, Articles 17, 20 and 30(3); Nurses’ Statute Article 12; Regulation 371/2025 Article 16 and Annex II.",
+      "provisions": "2024/505 Article 1(2), replacing 2005/36 Article 33a(2)(b)–(c).",
+      "consequence": "Yes, on paper: the special statutory route still lacks the upgrade exception. EU law and the conformity-certificate procedure may nevertheless protect individual applicants; no actual refusal was established.",
+      "resolution": "Proposal 71/XVII/1 acknowledges transposition work; its last recorded stage is committee consideration after general approval on 25 September 2026. Treat the proposal as unenacted and its adequacy as unverified.",
+      "caveat": "General recognition, EU primacy, consistent interpretation and the professional order’s broad certificate-of-conformity procedure may protect individual applicants. The comparison concerns the missing express special route, not exclusion of all Romanian nurses. The proposal retains potentially significant practice-certificate wording and is not presented as a verified remedy.",
+      "comparison": {
+        "beforeLabel": "Current special provision",
+        "before": "Older Romanian qualifications plus a three-in-five-years practice certificate.",
+        "afterLabel": "EU-added route",
+        "after": "Specified upgrades without that certificate.",
+        "note": "Other recognition routes and individual outcomes remain separate."
+      },
+      "review": "Independent adverse review passed: current statute, professional-order procedure and alternative recognition routes checked by two researchers. Coordinating researcher independently read live DRE currentness at 26 October 2026; Article 30 last changed in 2017.",
+      "priorRecognition": "recognized",
+      "recognizedBy": [
+        "Portuguese Government"
+      ],
+      "recognitionNote": "The government’s proposal expressly identifies the untransposed nursing amendment. This is a concrete statutory comparison, without a first-discovery claim.",
+      "noveltySearch": {
+        "date": "2026-10-26",
+        "method": "Exact act/directive, current amendment history, government proposal and public commentary searches; related official recognition found.",
+        "queries": [
+          "\"9/2009\" \"2024/505\" \"experiência\"",
+          "\"71/XVII/1\" \"três anos\" \"enfermeiros\"",
+          "\"9/2009\" \"2026\" \"quinta alteração\""
+        ]
+      },
+      "sources": [
+        {
+          "title": "EU nursing amendment",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/505/oj/eng",
+          "role": "EU amendment",
+          "locator": "Article 1(2), new Article 33a(2)(b)–(c); Article 2 deadline."
+        },
+        {
+          "title": "Current Portuguese professional-qualification law",
+          "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-107094734",
+          "role": "Current national text",
+          "locator": "Article 30(3), last amended in 2017; live version at 26 October 2026, latest statutory amendment 24 May 2021. General recognition in Articles 17/20."
+        },
+        {
+          "title": "Official legislative amendment register",
+          "url": "https://diariodarepublica.pt/dr/analise-juridica/modificacoes/lei/9-2009-604779",
+          "role": "Later-law check",
+          "locator": "Live current DRE version history lists 2021, 2017, 2014, 2012 and original 2009; no later Article 30 update located."
+        },
+        {
+          "title": "Government nursing-recognition proposal",
+          "url": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=356612",
+          "role": "Official recognition and proposal status",
+          "locator": "Proposal 71/XVII/1; introduced 21 April 2026, general approval/committee referral 25 September 2026; linked original text Article 2, proposed Article 30."
+        },
+        {
+          "title": "Government consultation text",
+          "url": "https://bte.gep.mtsss.gov.pt/separatas/sep7_2026.pdf",
+          "role": "Proposed statutory wording",
+          "locator": "Proposed amendment to Article 30; proposal, not enacted law."
+        },
+        {
+          "title": "Current Nurses’ Statute",
+          "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-70937797-898996117",
+          "role": "Adverse alternative-route check",
+          "locator": "Article 12(1) makes recognition governed by Law 9/2009."
+        },
+        {
+          "title": "Professional-order recognition procedure",
+          "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/371-2025-911688722",
+          "role": "Adverse alternative-route check",
+          "locator": "Article 6(1)(c), Article 16 and Annex II(g): conformity-certificate procedure; no express upgraded Romanian exception located."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2024-02-12",
+          "event": "Nursing amendment published.",
+          "who": "eu"
+        },
+        {
+          "date": "2025-03-04",
+          "event": "National transposition deadline.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-04-21",
+          "event": "Government proposal introduced.",
+          "who": "national"
+        },
+        {
+          "date": "2026-09-25",
+          "event": "General approval and committee referral recorded.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-26",
+          "event": "Current statute and alternative recognition procedures compared.",
+          "who": "check"
+        }
+      ],
+      "statusDetail": "The statutory route is missing; a government proposal is still under consideration and its adequacy has not been established."
+    },
+    {
+      "id": "de-pv-business-waste-financing-date",
+      "country": "Germany",
+      "countryCode": "DE",
+      "title": "Exclusive business-use solar panels retain a later financing cutoff",
+      "topic": "Electrical waste",
+      "baseAct": "Directive 2012/19/EU (WEEE)",
+      "amendingAct": "Directive (EU) 2024/884",
+      "celex": "32024L0884",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": "systematic",
+      "stage": "research",
+      "statusLabel": "Current date mismatch · government considers law sufficient",
+      "deadline": "2025-10-09",
+      "deadlineLabel": "Implementation deadline",
+      "evidenceDate": "2026-10-26",
+      "evidenceLabel": "Current statutory definitions and financing default read",
+      "summary": "Germany’s historical-waste cutoff remains 24 October 2015 for solar panels. A narrow business-use cohort therefore differs from the revised EU financing dates.",
+      "euChange": "Revised 13(1)(b) expressly covers panels marketed from 13 August 2012.",
+      "nationalGap": "ElektroG §3(4)(b) classifies earlier-than 24 October 2015 panels as historical. Section 19(3) assigns historical non-household disposal costs to the end user. The compared cohort is exclusively non-household panels first marketed 13 August 2012–23 October 2015.",
+      "nationalLaw": "ElektroG §3(4)(b),3(5),19(3).",
+      "provisions": "2024/884 Article 1(3); revised 2012/19 Article 13(1)(b); Article 2 deadline;currentElektroG §3/19.",
+      "consequence": "Yes, on paper: the financing default can differ for otherwise in-scope panels used exclusively by businesses and first marketed from 13 August 2012 to 23 October 2015. No actual panel, disposal charge or refused collection was established.",
+      "resolution": "Current official law retains both provisions. The federal ministry’s 2024 notice declares that the existing ElektroG implements the amendment; this contrary position remains material.",
+      "caveat": "Only panels otherwise within WEEE scope are compared; equipment excluded under Article2(4), including qualifying large-scale fixed installations, is excluded. This concerns genuinely exclusive non-household equipment. Dual-use panels fall within the broader household category even when bought by businesses. EU Article 13(2) permits alternative financing agreements, and national 19(3) also permits contractual variation. Individual contracts, conformity with EU law and official practice need assessment. The 2012 onward rule was not first invented in 2024; the amendment restates differentiated dates after C-181/20’s pre-2012 invalidity finding. This is a qualified comparison, not a demonstrated uncovered disposal or adjudicated breach.",
+      "comparison": {
+        "beforeLabel": "National historical-waste default",
+        "before": "End user pays for exclusively business-use panels marketed before 24 October 2015.",
+        "afterLabel": "Revised EU producer-financing period",
+        "after": "From 13 August 2012, subject to permitted agreements.",
+        "note": "Only otherwise in-scope, exclusively business-use panels are compared. Household-compatible equipment and applicable installation exclusions are outside this lead."
+      },
+      "review": "Independent adverse review passed for the narrow comparison: a second researcher read current definitions and 19(3), dual-use scope, the pre-2012 judgment limitation and financing-agreement option. Further practice and contractual assessment remain necessary. A second researcher also reviewed the final complete record and found no blocking issue. A final scope challenge added the large-scale fixed-installation exclusion. No actual panel escaping every exclusion was established.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "Bounded searches found descriptions of national 2015 rules and of EU 2012 dates, but no analysis expressly identifying this precise residual cohort mismatch. The ministry takes the contrary position that existing law implements the amendment.",
+      "noveltySearch": {
+        "date": "2026-10-26",
+        "method": "Searched exact paired dates, photovoltaic financing, statutory provisions and 2024/884; reviewed current official law, amendment status and contrary ministry notice. No precise mismatch acknowledgment located; no first-discovery claim.",
+        "queries": [
+          "\"Photovoltaikmodule\" \"13. August 2012\" \"24. Oktober 2015\"",
+          "\"ElektroG\" \"historische\" \"2012\" \"Finanzierung\"",
+          "\"2024/884\" \"Deutschland\" \"Umsetzung\" \"Photovoltaik\"",
+          "\"2024/884\" \"§19\" \"2015\""
+        ]
+      },
+      "sources": [
+        {
+          "title": "WEEE financing amendment",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/884/oj",
+          "role": "EU changed rule and date",
+          "locator": "Article 1(3), revised 13(1);Article 2;recitals 4–9. Full official English original read."
+        },
+        {
+          "title": "Current German electrical-waste law",
+          "url": "https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html",
+          "role": "Current national comparison",
+          "locator": "3(4)(b),3(5),19(3); last amended 25 November 2025, checked 26 October 2026."
+        },
+        {
+          "title": "Federal implementation notice",
+          "url": "https://www.recht.bund.de/bgbl/1/2024/118/VO.html",
+          "role": "Contrary official position",
+          "locator": "Notice 9 April 2024, BGBl I 118 published 15 April 2024; official one-page PDF personally read."
+        },
+        {
+          "title": "Delegated authority’s photovoltaic classification guidance",
+          "url": "https://www.stiftung-ear.de/fileadmin/Dokumente/learn/DL-Workshop-ElektroG2018_201709.pdf",
+          "role": "Scope qualification",
+          "locator": "2017 workshop identifies exclusively non-household PV category; independent reviewer read. No particular panel classification established."
+        },
+        {
+          "title": "Original directive agreement option",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012L0019",
+          "role": "Financing qualification",
+          "locator": "Article 13(2), not replaced by 2024/884."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2012-08-13",
+          "event": "EU financing cutoff for panels in the compared rule.",
+          "who": "eu"
+        },
+        {
+          "date": "2015-10-24",
+          "event": "National historic-panel cutoff.",
+          "who": "national"
+        },
+        {
+          "date": "2024-03-19",
+          "event": "EU amending directive published.",
+          "who": "eu"
+        },
+        {
+          "date": "2024-04-15",
+          "event": "Ministry declares existing law implements it.",
+          "who": "national"
+        },
+        {
+          "date": "2025-10-09",
+          "event": "Implementation deadline.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-10-26",
+          "event": "Current statutory default and contrary position reviewed.",
+          "who": "check"
+        }
+      ],
+      "peerReviewStatus": "passed",
+      "statusKind": "differs",
+      "statusDetail": "The dates differ for a narrowly defined business-use cohort; the ministry considers existing law sufficient."
     }
   ],
   "scope": "unresolved-only",
@@ -6686,7 +7044,7 @@
       "status": "in-progress",
       "selectedActs": 25,
       "countryActPairs": 675,
-      "addedRecords": 1,
+      "addedRecords": 4,
       "focus": "Complete change inventories and all 27 Member States for the 25 shortest previously examined individual EU acts"
     }
   ]

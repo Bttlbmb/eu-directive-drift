@@ -21,6 +21,13 @@ aliases.update({'BUL':'BG','ELL':'GR','LAV':'LV','LIT':'LT','SLK':'SK','SLV':'SI
 titles = {'2012/39':'Tissue and cell donor testing','2024/299':'Air-pollutant projections','2024/1416':'Cadmium quantum-dot exemptions','2024/505':'Romanian nursing qualifications','2024/2839':'Reporting simplification','2024/2994':'Financial counterparty-risk plans','2026/192':'Cobalt uses in toys','2001/113':'Fruit jams and marmalades','2024/884':'Electrical-waste financing','1996/71':'Posted workers','1993/13':'Unfair consumer terms','1998/26':'Settlement finality','1991/477':'Firearms','2019/983':'Occupational carcinogen limits: fourth amendment','1992/83':'Alcohol excise structures','2017/2398':'Occupational carcinogen limits: first amendment','2019/130':'Occupational carcinogen limits: second amendment','2008/99':'Environmental crime','2004/37':'Carcinogens at work','2003/4':'Environmental information','2000/78':'Equal treatment in employment','2009/148':'Asbestos at work','2024/869':'Lead and diisocyanate exposure','2020/1151':'Alcohol excise amendments','2022/2556':'Digital operational resilience amendments'}
 
 reviews = {}
+# Keep completed research usable after temporary working files are cleared.
+prior_path = ROOT / 'research/coverage.json'
+if prior_path.exists():
+    for prior in json.loads(prior_path.read_text()).get('acts', []):
+        recovered = dict(prior)
+        recovered['countryChecks'] = [cell['review'] for cell in prior.get('countries', []) if cell.get('review')]
+        reviews.setdefault(prior.get('celex'), []).append(('retained-ledger', recovered))
 for path in sorted(WORK.glob('*bundle*.json')):
     try:
         doc = json.loads(path.read_text())
@@ -68,7 +75,8 @@ for selection in selected['selected']:
             cell['review'] = check
             cell['reviewNote'] = file
             status = check.get('assessmentStatus', check.get('status','pending'))
-            cell['status'] = 'complete' if check.get('reviewComplete') is True else ('in-progress' if any(t in str(status) for t in ('reviewed','supported','partial','inconclusive','gap','read','verified')) else 'pending')
+            actually_started = re.search(r'(?<![a-z])(reviewed|supported|partial|partially|inconclusive|gap|read|verified|mapped)(?![a-z])', str(status).lower())
+            cell['status'] = 'complete' if check.get('reviewComplete') is True else ('in-progress' if actually_started else 'pending')
         row['countries'].append(cell)
     acts.append(row)
 
@@ -80,4 +88,19 @@ output = {'snapshot': selected['snapshot'], 'status': 'in-progress', 'scope': se
                                   'complete': sum(c['status']=='complete' for a in acts for c in a['countries']),
                                   'inProgress': sum(c['status']=='in-progress' for a in acts for c in a['countries'])}}
 (ROOT / 'research/coverage.json').write_text(json.dumps(output, ensure_ascii=False, indent=2)+'\n')
+# Publish the comparisons and source references without duplicating NIM discovery metadata.
+public_keys = {'status', 'assessmentStatus', 'legalConclusion', 'conclusion', 'assessmentScope',
+               'reviewScope', 'currentness', 'changes', 'changeAssessments', 'provisionChecks',
+               'currentNationalEvidence', 'nationalSources', 'evidence', 'limitations',
+               'uncertainties', 'blockers', 'independentReview', 'peerReview', 'reviewComplete',
+               'nationalLaw', 'laterRemedySearch', 'completionBlocker', 'adverseReview'}
+public = {key: value for key, value in output.items() if key != 'acts'}
+public['acts'] = []
+for act in acts:
+    item = {key: value for key, value in act.items() if key not in {'history', 'countries'}}
+    item['countries'] = [{key: value for key, value in cell.items() if key in {'countryCode', 'country', 'status', 'findingIds'}} |
+                         {'review': {key: value for key, value in cell.get('review', {}).items() if key in public_keys}}
+                         for cell in act['countries']]
+    public['acts'].append(item)
+(ROOT / 'docs/data/systematic.json').write_text(json.dumps(public, ensure_ascii=False, separators=(',', ':'))+'\n')
 print(output['counts'])

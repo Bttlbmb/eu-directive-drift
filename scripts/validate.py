@@ -53,3 +53,19 @@ for case in data['findings']:
         assert published <= snapshot, case['id']
         assert case['deadline'] is None or published <= date.fromisoformat(case['deadline']), f"Original act published after the deadline: {case['id']}"
 print(f"Validated {len(ids)} findings, source links, required fields and timelines.")
+ledger_path = root / 'docs/data/systematic.json'
+if ledger_path.exists():
+    ledger = json.loads(ledger_path.read_text())
+    assert len(ledger['acts']) == 25
+    assert len({act['celex'] for act in ledger['acts']}) == 25
+    cells = [cell for act in ledger['acts'] for cell in act['countries']]
+    assert len(cells) == 675
+    for act in ledger['acts']:
+        assert len({cell['countryCode'] for cell in act['countries']}) == 27
+        for cell in act['countries']:
+            assert cell['status'] in {'complete', 'in-progress', 'pending'}
+            assert cell['status'] != 'complete' or cell['review'].get('reviewComplete') is True
+            assert set(cell['findingIds']) <= ids
+    assert ledger['counts']['complete'] == sum(cell['status'] == 'complete' for cell in cells)
+    assert ledger['counts']['inProgress'] == sum(cell['status'] == 'in-progress' for cell in cells)
+    print('Validated the 25-directive, 27-country review ledger and its completion labels.')
