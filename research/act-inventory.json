@@ -1,0 +1,1407 @@
+{
+  "reconstructedAt": "2026-10-26",
+  "scope": "Previously examined individual EU acts, including amending directives; excludes bulk-index-only entries and standalone corrigenda.",
+  "status": "independent inventory audit complete; official identity and length validation pending",
+  "acts": [
+    {
+      "id": "1991/477",
+      "celex": "31991L0477",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "1992/43",
+      "celex": "31992L0043",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "1992/83",
+      "celex": "31992L0083",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "1993/13",
+      "celex": "31993L0013",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "1996/71",
+      "celex": "31996L0071",
+      "priorNotes": [
+        "findings.json",
+        "research-c.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "1998/24",
+      "celex": "31998L0024",
+      "priorNotes": [
+        "findings.json",
+        "fr-diisocyanate-binding-limit.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "1998/26",
+      "celex": "31998L0026",
+      "priorNotes": [
+        "findings.json",
+        "es-payment-system-access.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2000/14",
+      "celex": "32000L0014",
+      "priorNotes": [
+        "research-denmark-noise-control.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2000/78",
+      "celex": "32000L0078",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2001/113",
+      "celex": "32001L0113",
+      "priorNotes": [
+        "findings.json",
+        "research-belgium-jam.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2002/47",
+      "celex": "32002L0047",
+      "priorNotes": [
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2002/56",
+      "celex": "32002L0056",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2003/4",
+      "celex": "32003L0004",
+      "priorNotes": [
+        "findings.json",
+        "research-denmark.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2004/37",
+      "celex": "32004L0037",
+      "priorNotes": [
+        "findings.json",
+        "research-romania.json",
+        "it-lead-exposure-limits.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2005/29",
+      "celex": "32005L0029",
+      "priorNotes": [
+        "findings.json",
+        "fi-green-claim-old-stock-transition.json",
+        "pl-green-transition-commencement.json",
+        "fr-offset-claim-blacklist.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2005/36",
+      "celex": "32005L0036",
+      "priorNotes": [
+        "findings.json",
+        "research-a.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2006/17",
+      "celex": "32006L0017",
+      "priorNotes": [
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2006/112",
+      "celex": "32006L0112",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2006/118",
+      "celex": "32006L0118",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2007/64",
+      "celex": "32007L0064",
+      "priorNotes": [
+        "research-denmark-psd1.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2008/98",
+      "celex": "32008L0098",
+      "priorNotes": [
+        "findings.json",
+        "research-a.json",
+        "research-de-mixed-waste.json",
+        "research-de-definition.json",
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2008/99",
+      "celex": "32008L0099",
+      "priorNotes": [
+        "findings.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2009/48",
+      "celex": "32009L0048",
+      "priorNotes": [
+        "findings.json",
+        "hu-toy-cobalt-permission.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2009/148",
+      "celex": "32009L0148",
+      "priorNotes": [
+        "findings.json",
+        "cy-asbestos-exposure-limit.json",
+        "lu-asbestos-company-permit-transition.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2010/13",
+      "celex": "32010L0013",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2010/31",
+      "celex": "32010L0031",
+      "priorNotes": [
+        "findings.json",
+        "ireland-residential-charging.json",
+        "de-residential-charging-deferral.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2010/75",
+      "celex": "32010L0075",
+      "priorNotes": [
+        "research-corrigenda.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2011/16",
+      "celex": "32011L0016",
+      "priorNotes": [
+        "findings.json",
+        "be-dac8-ledger-address.json",
+        "lu-dac8-ledger-address.json",
+        "at-dac8-ledger-address-reference.json",
+        "it-dac8-ledger-address-reference.json",
+        "fr-dac8-ledger-address-reference.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2011/36",
+      "celex": "32011L0036",
+      "priorNotes": [
+        "findings.json",
+        "reference-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2011/61",
+      "celex": "32011L0061",
+      "priorNotes": [
+        "findings.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2011/65",
+      "celex": "32011L0065",
+      "priorNotes": [
+        "findings.json",
+        "si-rohs-scope-corrigendum.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2011/83",
+      "celex": "32011L0083",
+      "priorNotes": [
+        "findings.json",
+        "es-online-withdrawal-function.json",
+        "research-controls.json",
+        "reference-candidates.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2011/92",
+      "celex": "32011L0092",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2011/98",
+      "celex": "32011L0098",
+      "priorNotes": [
+        "findings.json",
+        "root-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2012/27",
+      "celex": "32012L0027",
+      "priorNotes": [
+        "findings.json",
+        "spain-energy-audit-sme.json",
+        "de-energy-utilities-procurement.json",
+        "nl-heat-cba-threshold.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2012/29",
+      "celex": "32012L0029",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2012/39",
+      "celex": "32012L0039",
+      "priorNotes": [
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2013/35",
+      "celex": "32013L0035",
+      "priorNotes": [
+        "findings.json",
+        "research-latvia.json",
+        "research-corrigenda.json",
+        "research-luxembourg.json",
+        "research-hungary.json",
+        "research-lithuania.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2013/36",
+      "celex": "32013L0036",
+      "priorNotes": [
+        "findings.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2013/55",
+      "celex": "32013L0055",
+      "priorNotes": [
+        "findings.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/23",
+      "celex": "32014L0023",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/24",
+      "celex": "32014L0024",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/25",
+      "celex": "32014L0025",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/45",
+      "celex": "32014L0045",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/51",
+      "celex": "32014L0051",
+      "priorNotes": [
+        "research-corrigenda.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/52",
+      "celex": "32014L0052",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/59",
+      "celex": "32014L0059",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2014/65",
+      "celex": "32014L0065",
+      "priorNotes": [
+        "findings.json",
+        "fr-listing-research-cap.json",
+        "fr-mifid-si-definition.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2015/2366",
+      "celex": "32015L2366",
+      "priorNotes": [
+        "findings.json",
+        "research-malta.json",
+        "research-nl-psd2.json",
+        "reference-controls.json",
+        "dk-psd2-optout.json",
+        "es-payment-system-access.json",
+        "lv-psd2-optout.json",
+        "fr-psd2-optout.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2016/800",
+      "celex": "32016L0800",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2016/1164",
+      "celex": "32016L1164",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2016/2284",
+      "celex": "32016L2284",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2016/2370",
+      "celex": "32016L2370",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2017/853",
+      "celex": "32017L0853",
+      "priorNotes": [
+        "research-sweden-upgrade.json",
+        "research-c.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link",
+        "amendingAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2017/2397",
+      "celex": "32017L2397",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2017/2398",
+      "celex": "32017L2398",
+      "priorNotes": [
+        "research-romania.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2018/851",
+      "celex": "32018L0851",
+      "priorNotes": [
+        "findings.json",
+        "research-a.json",
+        "research-b.json",
+        "research-de-mixed-waste.json",
+        "research-de-definition.json",
+        "research-de-status.json",
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2018/957",
+      "celex": "32018L0957",
+      "priorNotes": [
+        "findings.json",
+        "research-c.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2018/1808",
+      "celex": "32018L1808",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2018/1972",
+      "celex": "32018L1972",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2018/2001",
+      "celex": "32018L2001",
+      "priorNotes": [
+        "findings.json",
+        "ireland-biomass-threshold.json",
+        "italy-biomass-verification-transition.json",
+        "poland-biomass-threshold.json",
+        "de-biomass-electricity-support-threshold.json",
+        "ie-renewable-eia-scoping-deferral.json",
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/130",
+      "celex": "32019L0130",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/771",
+      "celex": "32019L0771",
+      "priorNotes": [
+        "findings.json",
+        "fr-repair-warranty-extension.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/878",
+      "celex": "32019L0878",
+      "priorNotes": [
+        "findings.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/879",
+      "celex": "32019L0879",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/882",
+      "celex": "32019L0882",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/904",
+      "celex": "32019L0904",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/944",
+      "celex": "32019L0944",
+      "priorNotes": [
+        "findings.json",
+        "fr-energy-sharing-legal-entity.json",
+        "pt-electricity-complaint-protection-scope.json",
+        "se-energy-sharing-deduction-deferral.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/983",
+      "celex": "32019L0983",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/1023",
+      "celex": "32019L1023",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/1158",
+      "celex": "32019L1158",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2019/2161",
+      "celex": "32019L2161",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2020/1151",
+      "celex": "32020L1151",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2020/2184",
+      "celex": "32020L2184",
+      "priorNotes": [
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2021/2118",
+      "celex": "32021L2118",
+      "priorNotes": [
+        "consumer-controls.json",
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2022/431",
+      "celex": "32022L0431",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2022/2523",
+      "celex": "32022L2523",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2022/2556",
+      "celex": "32022L2556",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/959",
+      "celex": "32023L0959",
+      "priorNotes": [
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/1791",
+      "celex": "32023L1791",
+      "priorNotes": [
+        "findings.json",
+        "spain-energy-audit-sme.json",
+        "de-energy-utilities-procurement.json",
+        "nl-heat-cba-threshold.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/2225",
+      "celex": "32023L2225",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/2226",
+      "celex": "32023L2226",
+      "priorNotes": [
+        "findings.json",
+        "be-dac8-independent-audit.json",
+        "be-dac8-ledger-address.json",
+        "lu-dac8-ledger-address.json",
+        "at-dac8-ledger-address-reference.json",
+        "it-dac8-independent-audit.json",
+        "it-dac8-ledger-address-reference.json",
+        "fr-dac8-ledger-address-reference.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier",
+        "case-specific official directive link",
+        "amendingAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/2413",
+      "celex": "32023L2413",
+      "priorNotes": [
+        "findings.json",
+        "ireland-biomass-threshold.json",
+        "italy-biomass-verification-transition.json",
+        "poland-biomass-threshold.json",
+        "de-biomass-electricity-support-threshold.json",
+        "ie-renewable-eia-scoping-deferral.json",
+        "final-corrigendum-controls.json",
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/2668",
+      "celex": "32023L2668",
+      "priorNotes": [
+        "findings.json",
+        "cy-asbestos-exposure-limit.json",
+        "lu-asbestos-company-permit-transition.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/2673",
+      "celex": "32023L2673",
+      "priorNotes": [
+        "findings.json",
+        "es-online-withdrawal-function.json",
+        "reference-candidates.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2023/2843",
+      "celex": "32023L2843",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/299",
+      "celex": "32024L0299",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/505",
+      "celex": "32024L0505",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/790",
+      "celex": "32024L0790",
+      "priorNotes": [
+        "findings.json",
+        "fr-mifid-si-definition.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/825",
+      "celex": "32024L0825",
+      "priorNotes": [
+        "findings.json",
+        "fi-green-claim-old-stock-transition.json",
+        "pl-green-transition-commencement.json",
+        "fr-offset-claim-blacklist.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/869",
+      "celex": "32024L0869",
+      "priorNotes": [
+        "findings.json",
+        "fr-diisocyanate-binding-limit.json",
+        "it-lead-exposure-limits.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/884",
+      "celex": "32024L0884",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/886",
+      "celex": "32024R0886",
+      "priorNotes": [
+        "findings.json",
+        "es-payment-system-access.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct"
+      ],
+      "actType": "Regulation"
+    },
+    {
+      "id": "2024/1069",
+      "celex": "32024L1069",
+      "priorNotes": [
+        "findings.json",
+        "reference-controls.json",
+        "reference-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1174",
+      "celex": "32024L1174",
+      "priorNotes": [
+        "research-controls.json",
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1203",
+      "celex": "32024L1203",
+      "priorNotes": [
+        "findings.json",
+        "final-corrigendum-controls.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1233",
+      "celex": "32024L1233",
+      "priorNotes": [
+        "findings.json",
+        "root-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1275",
+      "celex": "32024L1275",
+      "priorNotes": [
+        "findings.json",
+        "ireland-residential-charging.json",
+        "ie-charging-independent-audit.json",
+        "de-residential-charging-deferral.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1346",
+      "celex": "32024L1346",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1416",
+      "celex": "32024L1416",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1438",
+      "celex": "32024L1438",
+      "priorNotes": [
+        "findings.json",
+        "research-belgium-jam.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1711",
+      "celex": "32024L1711",
+      "priorNotes": [
+        "findings.json",
+        "fr-energy-sharing-legal-entity.json",
+        "pt-electricity-complaint-protection-scope.json",
+        "se-energy-sharing-deduction-deferral.json",
+        "environment-controls.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1712",
+      "celex": "32024L1712",
+      "priorNotes": [
+        "findings.json",
+        "reference-controls.json",
+        "reference-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1785",
+      "celex": "32024L1785",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1788",
+      "celex": "32024L1788",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/1799",
+      "celex": "32024L1799",
+      "priorNotes": [
+        "findings.json",
+        "fr-repair-warranty-extension.json",
+        "reference-controls.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/2811",
+      "celex": "32024L2811",
+      "priorNotes": [
+        "findings.json",
+        "fr-listing-research-cap.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/2839",
+      "celex": "32024L2839",
+      "priorNotes": [
+        "research-denmark-noise-control.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2024/2994",
+      "celex": "32024L2994",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive"
+    },
+    {
+      "id": "2026/192",
+      "celex": "32026L0192",
+      "priorNotes": [
+        "findings.json",
+        "hu-toy-cobalt-permission.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive"
+    }
+  ]
+}

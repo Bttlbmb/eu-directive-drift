@@ -1,0 +1,2291 @@
+{
+  "date": "2026-10-26",
+  "measurementVersion": 2,
+  "measure": "Original official English publication word count: all outermost eli-container blocks including recitals, provisions, annexes and notes, counted once; whole body fallback for older unstructured texts. Standalone corrigenda excluded. Unicode words/numbers counted. Script/style/navigation elements excluded. Counts require independent ranking audit.",
+  "selectionStatus": "independently audited; complete table fallback checked at cutoff",
+  "measured": 110,
+  "acts": [
+    {
+      "id": "2012/39",
+      "celex": "32012L0039",
+      "priorNotes": [
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 1026,
+      "characterCount": 6259,
+      "source": "https://publications.europa.eu/resource/cellar/f23ce6a3-3a53-11e2-b7ce-01aa75ed71a1.0006.04/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 21231,
+      "textSha256": "cd9c316c1c111bc247344bc08e2a30efe271eddfe3063aa7c4602513d3a569e7",
+      "opening": "COMMISSION DIRECTIVE 2012/39/EU of 26 November 2012 amending Directive 2006/17/EC as regards certain technical requirements for the testing of human tissues and cells (Text with EEA relevance) THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 on setting standards of quality and safety for the donation, procurement, testing, processi",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/299",
+      "celex": "32024L0299",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 1056,
+      "characterCount": 6556,
+      "source": "https://publications.europa.eu/resource/cellar/b30a544e-b4db-11ee-b164-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 29654,
+      "textSha256": "d77565ec88ed63e94830bee7156aac4b4462f177708dc5b49d0ae72ca0b37faa",
+      "opening": "COMMISSION DELEGATED DIRECTIVE (EU) 2024/299 of 27 October 2023 amending Directive (EU) 2016/2284 of the European Parliament and of the Council on the methodology for the reporting of projected emissions of certain atmospheric pollutants (Text with EEA relevance) THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Directive (EU) 2016/2284 of the European Parliament and of the Council of 14 December 2016 on the reduct",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1416",
+      "celex": "32024L1416",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 1469,
+      "characterCount": 9316,
+      "source": "https://publications.europa.eu/resource/cellar/b14fd45e-170c-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 26859,
+      "textSha256": "b3937b44b6cbf59d9eeeaa0822a0a44e21ad6e6ce67fe73dee3beed6294df0e1",
+      "opening": "COMMISSION DELEGATED DIRECTIVE (EU) 2024/1416 of 13 March 2024 amending Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for cadmium in downshifting quantum dots directly deposited on LED semiconductor chips (Text with EEA relevance) THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the res",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/505",
+      "celex": "32024L0505",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 1981,
+      "characterCount": 12333,
+      "source": "https://publications.europa.eu/resource/cellar/cd63e106-c947-11ee-95d9-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 35851,
+      "textSha256": "426ee58c5a1bf05770005264c0e976e2183c8ece6e435d79375676dedd7eee60",
+      "opening": "DIRECTIVE (EU) 2024/505 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 February 2024 amending Directive 2005/36/EC as regards the recognition of professional qualifications of nurses responsible for general care trained in Romania (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 46, Article 53(1) and Article 62 thereof, Having regard to t",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/2839",
+      "celex": "32024L2839",
+      "priorNotes": [
+        "research-denmark-noise-control.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 2092,
+      "characterCount": 12496,
+      "source": "https://publications.europa.eu/resource/cellar/edafb9b4-9ca8-11ef-85f0-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 29787,
+      "textSha256": "23fb561dd26ea120bbb9fcf4704a3b301ac5bbf883afcda932a8c125de2d3f94",
+      "opening": "DIRECTIVE (EU) 2024/2839 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2024 amending Directives 1999/2/EC, 2000/14/EC, 2011/24/EU and 2014/53/EU as regards certain reporting requirements in the fields of food and food ingredients, outdoor noise, patients’ rights, and radio equipment (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Artic",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/2994",
+      "celex": "32024L2994",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 2451,
+      "characterCount": 15415,
+      "source": "https://publications.europa.eu/resource/cellar/ef90f649-b1e0-11ef-acb1-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 48324,
+      "textSha256": "ab8c2d577a80597015224954726afc72088aa20b9a90a3a8ad67649ff8427674",
+      "opening": "DIRECTIVE (EU) 2024/2994 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 amending Directives 2009/65/EC, 2013/36/EU and (EU) 2019/2034 as regards the treatment of concentration risk arising from exposures towards central counterparties and of counterparty risk in centrally cleared derivative transactions (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Unio",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2026/192",
+      "celex": "32026L0192",
+      "priorNotes": [
+        "findings.json",
+        "hu-toy-cobalt-permission.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 2637,
+      "characterCount": 15917,
+      "source": "https://publications.europa.eu/resource/cellar/a4399cd7-fcb3-11f0-8da5-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 36273,
+      "textSha256": "ac2591539292f0c0ce3df4dcb397e3c3350ebde92db334e730fd80216827cc00",
+      "opening": "COMMISSION DIRECTIVE (EU) 2026/192 of 28 January 2026 amending Appendix A of Annex II to Directive 2009/48/EC of the European Parliament and of the Council on the safety of toys, as regards cobalt (Text with EEA relevance) THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys ( 1 ) , and in particular Article 46(3) ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2001/113",
+      "celex": "32001L0113",
+      "priorNotes": [
+        "findings.json",
+        "research-belgium-jam.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 2645,
+      "characterCount": 15752,
+      "source": "https://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0004.05/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 51975,
+      "textSha256": "fb6644e46c6c4cf949aee0181492210e6b3dd89ce6e394bcab4bc3aeb5842a8e",
+      "opening": "12.1.2002 EN Official Journal of the European Communities L 10/67 COUNCIL DIRECTIVE 2001/113/EC of 20 December 2001 relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 37 thereof, Having regard to the proposal from the Commission ( 1 ) , Having regard to the opinion of the European Parliament ( 2 )",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/884",
+      "celex": "32024L0884",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 3240,
+      "characterCount": 19378,
+      "source": "https://publications.europa.eu/resource/cellar/c2697f27-e597-11ee-8b2b-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 53385,
+      "textSha256": "d4e3acc9ae1dafcdacdb6012bdcd30e89c299f8fff9dc613c5c08f02dc1385ff",
+      "opening": "DIRECTIVE (EU) 2024/884 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 amending Directive 2012/19/EU on waste electrical and electronic equipment (WEEE) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "1996/71",
+      "celex": "31996L0071",
+      "priorNotes": [
+        "findings.json",
+        "research-c.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 3306,
+      "characterCount": 20454,
+      "source": "https://publications.europa.eu/resource/cellar/26316833-db0f-4a84-864d-8ca967a3a654.0008.05/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 47604,
+      "textSha256": "b60cfb1b0631151977ccdd94321dd2a18b5ed6b410bfe3a2e0a495f1dadae9fd",
+      "opening": "21.1.1997 EN Official Journal of the European Communities L 18/1 DIRECTIVE 96/71/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 1996 concerning the posting of workers in the framework of the provision of services THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Articles 57 (2) and 66 thereof, Having regard to the proposal from the Commission ( 1 ) , Having regard ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "1993/13",
+      "celex": "31993L0013",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 3392,
+      "characterCount": 20943,
+      "source": "https://publications.europa.eu/resource/cellar/954c3cd9-b2fa-47ae-a1f6-b6e62a488ad3.0008.05/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 37247,
+      "textSha256": "f04f0627f1b70a34afe069c6018e848e00bf14e8deb2a07c2cbffe689ccfd605",
+      "opening": "21.4.1993 EN Official Journal of the European Communities L 95/29 COUNCIL DIRECTIVE 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100 A thereof, Having regard to the proposal from the Commission ( 1 ) , In cooperation with the European Parliament ( 2 ) , Having regard to the opinion of the Economic and Social Committee ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "1998/26",
+      "celex": "31998L0026",
+      "priorNotes": [
+        "findings.json",
+        "es-payment-system-access.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 3613,
+      "characterCount": 22457,
+      "source": "https://publications.europa.eu/resource/cellar/c2ea648f-c59a-4809-9fcb-9fba762ae240.0008.05/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 49334,
+      "textSha256": "8a6c23d8ca8e853f083660dbb4a868f9bc91bc4099e1e3e9ebb71172b92e0485",
+      "opening": "11.6.1998 EN Official Journal of the European Communities L 166/45 DIRECTIVE 98/26/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 May 1998 on settlement finality in payment and securities settlement systems THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 100a thereof, Having regard to the proposal from the Commission ( 1 ) , Having regard to the opinion of the Eur",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "1991/477",
+      "celex": "31991L0477",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 4147,
+      "characterCount": 25326,
+      "source": "https://publications.europa.eu/resource/cellar/c4951f94-7c93-44cf-aec8-6cd746bc62fe.0008.05/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 63526,
+      "textSha256": "a6160b3f4fb829d3ab67bccd1534292f5a8ce13e5a0e0a5cf1d1292e64b4171e",
+      "opening": "13.9.1991 EN Official Journal of the European Communities L 256/51 COUNCIL DIRECTIVE of 18 June 1991 on control of the acquisition and possession of weapons (91/477/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 100a thereof, Having regard to the proposal from the Commission ( 1 ) , In cooperation with the European Parliament ( 2 ) , Having regard to the opinion of the Economic ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/983",
+      "celex": "32019L0983",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 4225,
+      "characterCount": 26309,
+      "source": "https://publications.europa.eu/resource/cellar/7e3d1d9f-9328-11e9-9369-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 69171,
+      "textSha256": "9d1edc9b433187734c0debb0f5ce1d773a397346d2a854eb6b91d65edf14e0d6",
+      "opening": "DIRECTIVE (EU) 2019/983 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 amending Directive 2004/37/EC on the protection of workers from the risks related to exposure to carcinogens or mutagens at work (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular point (b) of Article 153(2), in conjunction with point (a) of Article 153(1) thereof, Hav",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "1992/83",
+      "celex": "31992L0083",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 4417,
+      "characterCount": 26453,
+      "source": "https://publications.europa.eu/resource/cellar/1439d7b5-e13b-4e30-bcd7-33335b8f7b8a.0004.01/DOC_1",
+      "format": "html",
+      "sourceBytes": 29641,
+      "textSha256": "b6088ebc4fb5af6b4f1ee4aebce80fc2dcaa0a3eecd20a26298356846efa5891",
+      "opening": "Avis juridique important | 31992L0083 Council Directive 92/83/EEC of 19 October 1992 on the harmonization of the structures of excise duties on alcohol and alcoholic beverages Official Journal L 316 , 31/10/1992 P. 0021 - 0027 Finnish special edition: Chapter 9 Volume 2 P. 0100 Swedish special edition: Chapter 9 Volume 2 P. 0100 COUNCIL DIRECTIVE 92/83/EEC  of 19 October 1992  on the harmonization of the structures of excise duties on alcohol and alcoholic beverages THE COUNC",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2017/2398",
+      "celex": "32017L2398",
+      "priorNotes": [
+        "research-romania.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 4593,
+      "characterCount": 28575,
+      "source": "https://publications.europa.eu/resource/cellar/72269bbb-eac1-11e7-9749-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 91100,
+      "textSha256": "0682faaab0792a5b1e5035bdf96726b8d9e456d2ef2e05a3a594f9bf13fca6bf",
+      "opening": "DIRECTIVE (EU) 2017/2398 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2017 amending Directive 2004/37/EC on the protection of workers from the risks related to exposure to carcinogens or mutagens at work (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular point (b) of Article 153(2), in conjunction with point (a) of Article 153(1) thereo",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/130",
+      "celex": "32019L0130",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 4635,
+      "characterCount": 29486,
+      "source": "https://publications.europa.eu/resource/cellar/d4b4b81e-252d-11e9-8d04-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 110586,
+      "textSha256": "cb91e3152486af553053402db25e8fdd6a498a50e46317b2bda10fbe51c9ec0c",
+      "opening": "DIRECTIVE (EU) 2019/130 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 January 2019 amending Directive 2004/37/EC on the protection of workers from the risks related to exposure to carcinogens or mutagens at work (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular point (b) of Article 153(2), in conjunction with point (a) of Article 153(1) thereof,",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2008/99",
+      "celex": "32008L0099",
+      "priorNotes": [
+        "findings.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 4654,
+      "characterCount": 27065,
+      "source": "https://publications.europa.eu/resource/cellar/94cc97ca-e070-4bf2-9219-380079ba8ce3.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 128418,
+      "textSha256": "96e0af0808020cb4d34c4aa9f4f18171adbe9d2c7a6c934aa9ffe139e8c0ece6",
+      "opening": "DIRECTIVE 2008/99/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 November 2008 on the protection of the environment through criminal law (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof, Having regard to the proposal from the Commission, Having regard to the opinion of the European Economic and Social Committee ( 1 ) , After",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2004/37",
+      "celex": "32004L0037",
+      "priorNotes": [
+        "findings.json",
+        "research-romania.json",
+        "it-lead-exposure-limits.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 4740,
+      "characterCount": 28715,
+      "source": "https://publications.europa.eu/resource/cellar/308eb2e0-b58b-4464-abb4-bcf98a4eb0e1.0004.04/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 121073,
+      "textSha256": "cbfd385b96eaac35b5b59023df69bac79c9065aa4190aaeb695ac7151fb315b0",
+      "opening": "DIRECTIVE 2004/37/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2004 on the protection of workers from the risks related to exposure to carcinogens or mutagens at work (Sixth individual Directive within the meaning of Article 16(1) of Council Directive 89/391/EEC) (codified version) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 1",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2003/4",
+      "celex": "32003L0004",
+      "priorNotes": [
+        "findings.json",
+        "research-denmark.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "pages": 7,
+      "wordCount": 4846,
+      "characterCount": 44116,
+      "source": "https://publications.europa.eu/resource/cellar/65bee8e7-6e37-49c9-a431-67083fe22157.0004.02/DOC_1",
+      "format": "pdf",
+      "sourceBytes": 133839,
+      "textSha256": "2f96a4092ef21b9b30292532c0f8a54ccf516d862f7a9aba322bf650a27621af",
+      "opening": "L 41/26               EN                            Official Journal of the European Union                                       14.2.2003\n\n\n                       DIRECTIVE 2003/4/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL\n                                                              of 28 January 2003\n                   on public access to environmental information and repealing Council Directive 90/313/EEC\n\n\nTHE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE             ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2000/78",
+      "celex": "32000L0078",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive",
+      "wordCount": 4989,
+      "characterCount": 32153,
+      "source": "https://publications.europa.eu/resource/cellar/27cc3913-6ba0-402c-8cdf-c5e1f7989673.0005.01/DOC_1",
+      "format": "html",
+      "sourceBytes": 34983,
+      "textSha256": "71bed0f298da2ba4b59cf8535885fe33ad3b3822e993591f050153fd179f69a6",
+      "opening": "Avis juridique important | 32000L0078 Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation Official Journal L 303 , 02/12/2000 P. 0016 - 0022 Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 13 ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2009/148",
+      "celex": "32009L0148",
+      "priorNotes": [
+        "findings.json",
+        "cy-asbestos-exposure-limit.json",
+        "lu-asbestos-company-permit-transition.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 5199,
+      "characterCount": 32105,
+      "source": "https://publications.europa.eu/resource/cellar/111da08f-7983-434a-9f56-ea9f0bc23388.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 126202,
+      "textSha256": "8b5c3db38555764fa6ce76c9ddd9438bc30b4a90ee8272c7865e9a92a6ee6e21",
+      "opening": "DIRECTIVE 2009/148/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 November 2009 on the protection of workers from the risks related to exposure to asbestos at work (codified version) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 137(2) thereof, Having regard to the proposal from the Commission, Having regard to the opinion of the Europe",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/869",
+      "celex": "32024L0869",
+      "priorNotes": [
+        "findings.json",
+        "fr-diisocyanate-binding-limit.json",
+        "it-lead-exposure-limits.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 5693,
+      "characterCount": 35183,
+      "source": "https://publications.europa.eu/resource/cellar/c1b2d956-e597-11ee-8b2b-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 97616,
+      "textSha256": "3bd1cf26b708625b11433ee7f1b2f77114570a77be3bdf5bbbdb13be7951f3b0",
+      "opening": "DIRECTIVE (EU) 2024/869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 amending Directive 2004/37/EC of the European Parliament and of the Council and Council Directive 98/24/EC as regards the limit values for lead and its inorganic compounds and for diisocyanates THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 153(2), point (b), in conjunction with A",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2020/1151",
+      "celex": "32020L1151",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 5826,
+      "characterCount": 35909,
+      "source": "https://publications.europa.eu/resource/cellar/6b1e39cd-d6e1-11ea-adf7-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 105852,
+      "textSha256": "a408e904162bc5f9f7e633f4366ba8b2f2755b3a27e7997596f07f33716ef7b0",
+      "opening": "COUNCIL DIRECTIVE (EU) 2020/1151 of 29 July 2020 amending Directive 92/83/EEC on the harmonization of the structures of excise duties on alcohol and alcoholic beverages THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 113 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to the opinion o",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2022/2556",
+      "celex": "32022L2556",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 5931,
+      "characterCount": 37361,
+      "source": "https://publications.europa.eu/resource/cellar/e2e67364-85bd-11ed-9887-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 120898,
+      "textSha256": "fa843bdfb15b7557645082d65d48292392212178332d5d08edf6a4dd52704274",
+      "opening": "DIRECTIVE (EU) 2022/2556 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2022 amending Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 and (EU) 2016/2341 as regards digital operational resilience for the financial sector (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) and ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2002/47",
+      "celex": "32002L0047",
+      "priorNotes": [
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 5945,
+      "characterCount": 37799,
+      "source": "https://publications.europa.eu/resource/cellar/064bdbbb-12fc-4a13-8f37-b904cfe54011.0004.01/DOC_1",
+      "format": "html",
+      "sourceBytes": 40794,
+      "textSha256": "8c42924b0a9e83833f67f50250afe7f3e8c264cb514bb72bc1b70b6cb887c0ba",
+      "opening": "Avis juridique important | 32002L0047 Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements Official Journal L 168 , 27/06/2002 P. 0043 - 0050 Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/790",
+      "celex": "32024L0790",
+      "priorNotes": [
+        "findings.json",
+        "fr-mifid-si-definition.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 5950,
+      "characterCount": 37926,
+      "source": "https://publications.europa.eu/resource/cellar/7c7fb58f-dcf0-11ee-b9d9-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 135002,
+      "textSha256": "dcdfe9cf44d47f0a03f83d15eb0ee49d3793cd2aa9c651869d40039c0e17fbb9",
+      "opening": "DIRECTIVE (EU) 2024/790 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 February 2024 amending Directive 2014/65/EU on markets in financial instruments (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2018/957",
+      "celex": "32018L0957",
+      "priorNotes": [
+        "findings.json",
+        "research-c.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 6021,
+      "characterCount": 37712,
+      "source": "https://publications.europa.eu/resource/cellar/fe8beacc-8343-11e8-ac6a-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 102377,
+      "textSha256": "f70241939bef743f9205e39f4fe621bf46849e4c6fa9d2a366b960464a407121",
+      "opening": "DIRECTIVE (EU) 2018/957 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 June 2018 amending Directive 96/71/EC concerning the posting of workers in the framework of the provision of services (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) and Article 62 thereof, Having regard to the proposal from the European Commission, After trans",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2011/98",
+      "celex": "32011L0098",
+      "priorNotes": [
+        "findings.json",
+        "root-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 6131,
+      "characterCount": 37558,
+      "source": "https://publications.europa.eu/resource/cellar/c9982d67-28ce-4092-b21e-eaf084976485.0015.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 108499,
+      "textSha256": "8c4f368c13ec3be360e7815df0160a2e6a6a888aebc24ce2c583051dfedd187d",
+      "opening": "DIRECTIVE 2011/98/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2011 on a single application procedure for a single permit for third-country nationals to reside and work in the territory of a Member State and on a common set of rights for third-country workers legally residing in a Member State THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular points (a) and ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/2843",
+      "celex": "32023L2843",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 6368,
+      "characterCount": 39128,
+      "source": "https://publications.europa.eu/resource/cellar/d0cf5fce-a459-11ee-b164-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 116247,
+      "textSha256": "71d9c60e146350cd2b0cb072a185f3bec7fe78feb62f4a1e0f12654c6cb76df1",
+      "opening": "DIRECTIVE (EU) 2023/2843 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 amending Directives 2011/99/EU and 2014/41/EU of the European Parliament and of the Council, Council Directive 2003/8/EC and Council Framework Decisions 2002/584/JHA, 2003/577/JHA, 2005/214/JHA, 2006/783/JHA, 2008/909/JHA, 2008/947/JHA, 2009/829/JHA and 2009/948/JHA, as regards digitalisation of judicial cooperation THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having r",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2022/431",
+      "celex": "32022L0431",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 6439,
+      "characterCount": 40151,
+      "source": "https://publications.europa.eu/resource/cellar/2a288a3c-a4f7-11ec-83e1-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 170260,
+      "textSha256": "0d66ca9b035cc2b73e963ad6f3efba442d1f03a997c023e1d8433a2d641ad8f0",
+      "opening": "DIRECTIVE (EU) 2022/431 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 March 2022 amending Directive 2004/37/EC on the protection of workers from the risks related to exposure to carcinogens or mutagens at work THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 153(2), point (b), in conjunction with Article 153(1), point (a), thereof, Having regard to the proposal f",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1174",
+      "celex": "32024L1174",
+      "priorNotes": [
+        "research-controls.json",
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 6663,
+      "characterCount": 41654,
+      "source": "https://publications.europa.eu/resource/cellar/f1695171-0041-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 110393,
+      "textSha256": "a0d2a3e71d724a905accb98f2713f393cad1aeed057390f65ceaa729ab44b10a",
+      "opening": "DIRECTIVE (EU) 2024/1174 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2006/17",
+      "celex": "32006L0017",
+      "priorNotes": [
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 6673,
+      "characterCount": 41821,
+      "source": "https://publications.europa.eu/resource/cellar/6078f8c9-bd97-4fd0-86c8-5fe7621822ab.0005.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 151116,
+      "textSha256": "63356090220ef4b2018b82432705559ccc2092f0c17cb0f17c9ee9d87736f4d5",
+      "opening": "COMMISSION DIRECTIVE 2006/17/EC of 8 February 2006 implementing Directive 2004/23/EC of the European Parliament and of the Council as regards certain technical requirements for the donation, procurement and testing of human tissues and cells (Text with EEA relevance) THE COMMISSION OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Community, and in particular Article 152(4)(a) thereof, Having regard to Directive 2004/23/EC of the European Parl",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/2811",
+      "celex": "32024L2811",
+      "priorNotes": [
+        "findings.json",
+        "fr-listing-research-cap.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 6935,
+      "characterCount": 43076,
+      "source": "https://publications.europa.eu/resource/cellar/36846669-a229-11ef-85f0-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 98061,
+      "textSha256": "8b2facbb9fd47df757d653a666e5b0bd9f927e0db88b80f563bbf4ae63d16eb2",
+      "opening": "DIRECTIVE (EU) 2024/2811 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2024 amending Directive 2014/65/EU to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises and repealing Directive 2001/34/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2002/56",
+      "celex": "32002L0056",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "pages": 14,
+      "wordCount": 7042,
+      "characterCount": 64755,
+      "source": "https://publications.europa.eu/resource/cellar/a71d473c-ddf5-40e5-9d5b-22180132315d.0004.02/DOC_1",
+      "format": "pdf",
+      "sourceBytes": 128914,
+      "textSha256": "39714b9cb868cbc9443fee4674116174d718b9a880b54454c782b33bd393f64f",
+      "opening": "L 193/60            EN                      Official Journal of the European Communities                                     20.7.2002\n\n\n\n                                                 COUNCIL DIRECTIVE 2002/56/EC\n\n                                                           of 13 June 2002\n                                                 on the marketing of seed potatoes\n\n\nTHE COUNCIL OF THE EUROPEAN UNION,                                   (6)     As a general rule, seed po",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/2668",
+      "celex": "32023L2668",
+      "priorNotes": [
+        "findings.json",
+        "cy-asbestos-exposure-limit.json",
+        "lu-asbestos-company-permit-transition.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 7115,
+      "characterCount": 44702,
+      "source": "https://publications.europa.eu/resource/cellar/bacbeacf-8f22-11ee-8aa6-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 145955,
+      "textSha256": "68570700ed9c8b2c123a9475ee785ec683b57789cc0a0b863b06f55b96909208",
+      "opening": "DIRECTIVE (EU) 2023/2668 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 amending Directive 2009/148/EC on the protection of workers from the risks related to exposure to asbestos at work THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 153(2), point (b), in conjunction with Article 153(1), point (a), thereof, Having regard to the proposal from the E",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2006/118",
+      "celex": "32006L0118",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 7197,
+      "characterCount": 45000,
+      "source": "https://publications.europa.eu/resource/cellar/f9e68783-b70b-4fc7-a3c4-d4cf0d5a122f.0005.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 133350,
+      "textSha256": "a9407fce61ea80c47130a09365b6bd38c0cb6f52ddf4b80ceb77010b26b4e11e",
+      "opening": "DIRECTIVE 2006/118/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2006 on the protection of groundwater against pollution and deterioration THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof, Having regard to the proposal from the Commission, Having regard to the Opinion of the European Economic and Social Committee ( 1 ) , Having regard to th",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "1998/24",
+      "celex": "31998L0024",
+      "priorNotes": [
+        "findings.json",
+        "fr-diisocyanate-binding-limit.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 7333,
+      "characterCount": 45374,
+      "source": "https://publications.europa.eu/resource/cellar/188ca3d7-2255-4541-bbc9-1142e9b6b33b.0008.01/DOC_1",
+      "format": "html",
+      "sourceBytes": 49306,
+      "textSha256": "6dff0cc3a7d5c5279685ae3cdecb07475c16d4d35688e234b4929de4d57a33f9",
+      "opening": "Avis juridique important | 31998L0024 Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) Official Journal L 131 , 05/05/1998 P. 0011 - 0023 COUNCIL DIRECTIVE 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fo",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2011/16",
+      "celex": "32011L0016",
+      "priorNotes": [
+        "findings.json",
+        "be-dac8-ledger-address.json",
+        "lu-dac8-ledger-address.json",
+        "at-dac8-ledger-address-reference.json",
+        "it-dac8-ledger-address-reference.json",
+        "fr-dac8-ledger-address-reference.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 7910,
+      "characterCount": 50346,
+      "source": "https://publications.europa.eu/resource/cellar/9c0b4723-7e53-4595-9fa7-1b78e5ddf337.0019.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 125878,
+      "textSha256": "20952b8c32f385cb6b6fc93483add45fee72ef6c1d7aaa831c78e9ff03b87910",
+      "opening": "COUNCIL DIRECTIVE 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 113 and 115 thereof, Having regard to the proposal from the European Commission, Having regard to the opinion of the European Parliament ( 1 ) , Having regard to the opinion of the European Economic and Social",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1712",
+      "celex": "32024L1712",
+      "priorNotes": [
+        "findings.json",
+        "reference-controls.json",
+        "reference-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 8029,
+      "characterCount": 51974,
+      "source": "https://publications.europa.eu/resource/cellar/4bf06ba8-3204-11ef-a61b-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 139163,
+      "textSha256": "1b822d048a9ff5e30cf1386f7c2c90fb01e9b42ec4266827a7f2585c870c7d6c",
+      "opening": "DIRECTIVE (EU) 2024/1712 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 amending Directive 2011/36/EU on preventing and combating trafficking in human beings and protecting its victims THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 82(2) and 83(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft leg",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2011/36",
+      "celex": "32011L0036",
+      "priorNotes": [
+        "findings.json",
+        "reference-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 8465,
+      "characterCount": 54021,
+      "source": "https://publications.europa.eu/resource/cellar/af510dcd-979a-469a-9ec5-e3f18e6e5997.0013.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 116858,
+      "textSha256": "dd7c80e591bbbbdb0752b51ae98d73be02d0b73d7160e9ec761bab8102ca5830",
+      "opening": "DIRECTIVE 2011/36/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 April 2011 on preventing and combating trafficking in human beings and protecting its victims, and replacing Council Framework Decision 2002/629/JHA THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 82(2) and Article 83(1) thereof, Having regard to the proposal from the European Commission, Having ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2016/1164",
+      "celex": "32016L1164",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 8549,
+      "characterCount": 51898,
+      "source": "https://publications.europa.eu/resource/cellar/029ea67e-4d76-11e6-89bd-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 122853,
+      "textSha256": "8e9c185f771c8723b7b7065eccdc5a14dc0ddc4fab186b54ad04a97da8021772",
+      "opening": "COUNCIL DIRECTIVE (EU) 2016/1164 of 12 July 2016 laying down rules against tax avoidance practices that directly affect the functioning of the internal market THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 115 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to the opinion of the Euro",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/1158",
+      "celex": "32019L1158",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 8676,
+      "characterCount": 52771,
+      "source": "https://publications.europa.eu/resource/cellar/4119596d-a475-11e9-9d01-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 120579,
+      "textSha256": "e4eabc7e8989d89abfd082e449e36c08cf9aba84bce6ff25e2d9e5eb808ae304",
+      "opening": "DIRECTIVE (EU) 2019/1158 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 on work-life balance for parents and carers and repealing Council Directive 2010/18/EU THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular point (b) of Article 153(2), in conjunction with point (i) of Article 153(1) thereof, Having regard to the proposal from the European Commission, After tra",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2011/92",
+      "celex": "32011L0092",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 8758,
+      "characterCount": 54206,
+      "source": "https://publications.europa.eu/resource/cellar/be4cf6c3-7d72-47e2-a8ea-1526a597255a.0012.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 271276,
+      "textSha256": "b61af53b1db14ee59957d7f906263986397edfec5f9bb3bbd1575244ced2bd1a",
+      "opening": "DIRECTIVE 2011/92/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (codification) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmission of the ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1069",
+      "celex": "32024L1069",
+      "priorNotes": [
+        "findings.json",
+        "reference-controls.json",
+        "reference-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 8797,
+      "characterCount": 56702,
+      "source": "https://publications.europa.eu/resource/cellar/bc256fa1-fb8b-11ee-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 121393,
+      "textSha256": "8564c4af5a6cbf081d9e74bbc97a54cbb00053ee937f39b053497216a9e04d79",
+      "opening": "DIRECTIVE (EU) 2024/1069 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 on protecting persons who engage in public participation from manifestly unfounded claims or abusive court proceedings (‘Strategic lawsuits against public participation’) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 81(2), point (f), thereof, Having regard to the proposal from ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/52",
+      "celex": "32014L0052",
+      "priorNotes": [
+        "research-a.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 9295,
+      "characterCount": 59619,
+      "source": "https://publications.europa.eu/resource/cellar/ce58f551-cc3b-11e3-b74e-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 186714,
+      "textSha256": "a11c150fd54b10c574f123ea202c7645751f0da9a9c5f547c30faa1e3f31fb6b",
+      "opening": "DIRECTIVE 2014/52/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 April 2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmis",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2005/29",
+      "celex": "32005L0029",
+      "priorNotes": [
+        "findings.json",
+        "fi-green-claim-old-stock-transition.json",
+        "pl-green-transition-commencement.json",
+        "fr-offset-claim-blacklist.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 9476,
+      "characterCount": 59694,
+      "source": "https://publications.europa.eu/resource/cellar/7fecf696-5eda-47b3-b838-0202aca4f2dd.0005.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 180625,
+      "textSha256": "113a552aafa11a6485fd47c88da70c28b98d0efba97ffd7a9271bbf5fde01a1f",
+      "opening": "DIRECTIVE 2005/29/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COU",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2016/2370",
+      "celex": "32016L2370",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 9793,
+      "characterCount": 64385,
+      "source": "https://publications.europa.eu/resource/cellar/f99cf591-c89e-11e6-a6db-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 181246,
+      "textSha256": "de9e1b528923229b797ebb36cb7d12cb4f7e1bb1730976d2bf7e77fce3b34999",
+      "opening": "DIRECTIVE (EU) 2016/2370 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2016 amending Directive 2012/34/EU as regards the opening of the market for domestic passenger transport services by rail and the governance of the railway infrastructure (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91 thereof, Having regard to the propo",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/825",
+      "celex": "32024L0825",
+      "priorNotes": [
+        "findings.json",
+        "fi-green-claim-old-stock-transition.json",
+        "pl-green-transition-commencement.json",
+        "fr-offset-claim-blacklist.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 9837,
+      "characterCount": 62427,
+      "source": "https://publications.europa.eu/resource/cellar/1391c6b2-db63-11ee-b9d9-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 161248,
+      "textSha256": "85d03fb15e18699e313d8484706cf6b740f5f186b3c3967a61ff8f21fcbad6eb",
+      "opening": "DIRECTIVE (EU) 2024/825 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 February 2024 amending Directives 2005/29/EC and 2011/83/EU as regards empowering consumers for the green transition through better protection against unfair practices and through better information (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1233",
+      "celex": "32024L1233",
+      "priorNotes": [
+        "findings.json",
+        "root-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 10646,
+      "characterCount": 65624,
+      "source": "https://publications.europa.eu/resource/cellar/0e6d5222-068f-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 177372,
+      "textSha256": "18d1f3fe723a249851095fbc7bc504198ef38d3cd369c5c7af782d93b0540e93",
+      "opening": "DIRECTIVE (EU) 2024/1233 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 on a single application procedure for a single permit for third-country nationals to reside and work in the territory of a Member State and on a common set of rights for third-country workers legally residing in a Member State (recast) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Artic",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2017/853",
+      "celex": "32017L0853",
+      "priorNotes": [
+        "research-sweden-upgrade.json",
+        "research-c.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link",
+        "amendingAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 10841,
+      "characterCount": 68178,
+      "source": "https://publications.europa.eu/resource/cellar/29f12e83-4051-11e7-a9b0-01aa75ed71a1.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 223388,
+      "textSha256": "8f4b481ad12a9f43d0841be28f0e51b9416254e614dcd0f2b968e06e1a572e5e",
+      "opening": "DIRECTIVE (EU) 2017/853 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 May 2017 amending Council Directive 91/477/EEC on control of the acquisition and possession of weapons (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2013/35",
+      "celex": "32013L0035",
+      "priorNotes": [
+        "findings.json",
+        "research-latvia.json",
+        "research-corrigenda.json",
+        "research-luxembourg.json",
+        "research-hungary.json",
+        "research-lithuania.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 10876,
+      "characterCount": 65927,
+      "source": "https://publications.europa.eu/resource/cellar/52fb4c35-e08c-11e2-9165-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 248745,
+      "textSha256": "feaf069f6c6295f5ba16367fd7bae3c8b5da24b0b731077af1a67e254dbaf42f",
+      "opening": "DIRECTIVE 2013/35/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 June 2013 on the minimum health and safety requirements regarding the exposure of workers to the risks arising from physical agents (electromagnetic fields) (20th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) and repealing Directive 2004/40/EC THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European U",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1438",
+      "celex": "32024L1438",
+      "priorNotes": [
+        "findings.json",
+        "research-belgium-jam.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 10926,
+      "characterCount": 66407,
+      "source": "https://publications.europa.eu/resource/cellar/263d0199-1968-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 232682,
+      "textSha256": "e8e9a79ff95ce8e9f88e317a3130aa1ceb5bd81a88c1d2cdcf0a8a571a6cb0a6",
+      "opening": "DIRECTIVE (EU) 2024/1438 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 amending Council Directives 2001/110/EC relating to honey, 2001/112/EC relating to fruit juices and certain similar products intended for human consumption, 2001/113/EC relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption, and 2001/114/EC relating to certain partly or wholly dehydrated preserved milk for human consumption THE EUROPEAN PAR",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "1992/43",
+      "celex": "31992L0043",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 10938,
+      "characterCount": 77287,
+      "source": "https://publications.europa.eu/resource/cellar/226d5e34-b115-4d2f-a54c-d66aa5385fda.0008.01/DOC_1",
+      "format": "html",
+      "sourceBytes": 90396,
+      "textSha256": "407a76b914aec58050b68afcb486aa6f725ae9189388dfda54caf1eb87de06c8",
+      "opening": "Avis juridique important | 31992L0043 Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora Official Journal L 206 , 22/07/1992 P. 0007 - 0050 Finnish special edition: Chapter 15 Volume 11 P. 0114 Swedish special edition: Chapter 15 Volume 11 P. 0114 Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1711",
+      "celex": "32024L1711",
+      "priorNotes": [
+        "findings.json",
+        "fr-energy-sharing-legal-entity.json",
+        "pt-electricity-complaint-protection-scope.json",
+        "se-energy-sharing-deduction-deferral.json",
+        "environment-controls.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 11149,
+      "characterCount": 72963,
+      "source": "https://publications.europa.eu/resource/cellar/10e921be-3357-11ef-b441-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 190397,
+      "textSha256": "ed2040299d032df1bacb06d086d80b043d2baf6723fa0c280852884bb0105ae5",
+      "opening": "DIRECTIVE (EU) 2024/1711 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 amending Directives (EU) 2018/2001 and (EU) 2019/944 as regards improving the Union’s electricity market design (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposal from the European Commission, After transmission o",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2016/800",
+      "celex": "32016L0800",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 11362,
+      "characterCount": 71090,
+      "source": "https://publications.europa.eu/resource/cellar/224dd2cf-1edd-11e6-86d0-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 170627,
+      "textSha256": "8703fcc79a658800713a9d681fe98ef2815d65e24ad7059260c323ccbd2b0716",
+      "opening": "DIRECTIVE (EU) 2016/800 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 May 2016 on procedural safeguards for children who are suspects or accused persons in criminal proceedings THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular point (b) of Article 82(2) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/2673",
+      "celex": "32023L2673",
+      "priorNotes": [
+        "findings.json",
+        "es-online-withdrawal-function.json",
+        "reference-candidates.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 11706,
+      "characterCount": 72867,
+      "source": "https://publications.europa.eu/resource/cellar/ba0121b2-8d8f-11ee-8aa6-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 197767,
+      "textSha256": "88d7872066c969ee2979f39cd9e5125bb36bca5e3bc050f8bd8cea714ac60753",
+      "opening": "DIRECTIVE (EU) 2023/2673 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 amending Directive 2011/83/EU as regards financial services contracts concluded at a distance and repealing Directive 2002/65/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, Af",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2011/65",
+      "celex": "32011L0065",
+      "priorNotes": [
+        "findings.json",
+        "si-rohs-scope-corrigendum.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 11709,
+      "characterCount": 71316,
+      "source": "https://publications.europa.eu/resource/cellar/6be9a15c-0644-4f7d-9911-462a649b5c0c.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 258113,
+      "textSha256": "27e38698dde3babdafcea0783c64a59a7c47024190aa90ee84fb682e36b1df97",
+      "opening": "DIRECTIVE 2011/65/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, Having regard to the opinion o",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2010/31",
+      "celex": "32010L0031",
+      "priorNotes": [
+        "findings.json",
+        "ireland-residential-charging.json",
+        "de-residential-charging-deferral.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 12192,
+      "characterCount": 79236,
+      "source": "https://publications.europa.eu/resource/cellar/3d6e31e5-6fcc-48df-8b49-bcfed2164774.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 218589,
+      "textSha256": "cf915fb3d219e28b279cfcff3505b869765a274b9bfeb7e9ad8f49ef2b96bb8e",
+      "opening": "DIRECTIVE 2010/31/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 May 2010 on the energy performance of buildings (recast) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposal from the European Commission, Having regard to the opinion of the European Economic and Social Committee ( 1 ) , Having regard to the opinion of ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2012/29",
+      "celex": "32012L0029",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive",
+      "wordCount": 12385,
+      "characterCount": 78752,
+      "source": "https://publications.europa.eu/resource/cellar/9d67fc14-2d99-11e2-ad46-01aa75ed71a1.0006.04/DOC_2",
+      "format": "xhtml",
+      "sourceBytes": 188606,
+      "textSha256": "5ecfb988ea7fcbffa5d7acd6444285d4043dd0f725164a7b72e756044c02ceee",
+      "opening": "DIRECTIVE 2012/29/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2012 establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 82(2) thereof, Having regard to the proposal from the European Commission, After transmissi",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/904",
+      "celex": "32019L0904",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 12389,
+      "characterCount": 77833,
+      "source": "https://publications.europa.eu/resource/cellar/ab83570c-8cc8-11e9-9369-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 188339,
+      "textSha256": "9c4dcef0ce2c9f0c0acf8b8fbee8713dc37414f96ba96717f9a3b415210f4271",
+      "opening": "DIRECTIVE (EU) 2019/904 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 on the reduction of the impact of certain plastic products on the environment (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the n",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1799",
+      "celex": "32024L1799",
+      "priorNotes": [
+        "findings.json",
+        "fr-repair-warranty-extension.json",
+        "reference-controls.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 12723,
+      "characterCount": 80840,
+      "source": "https://publications.europa.eu/resource/cellar/c106003f-3e56-11ef-ab8f-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 186125,
+      "textSha256": "e04889f02771a6d685404f59d80d8907cccb6db9547fc57058882ab411059af4",
+      "opening": "DIRECTIVE (EU) 2024/1799 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394 and Directives (EU) 2019/771 and (EU) 2020/1828 (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, Af",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/886",
+      "celex": "32024R0886",
+      "priorNotes": [
+        "findings.json",
+        "es-payment-system-access.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct"
+      ],
+      "actType": "Regulation",
+      "wordCount": 12829,
+      "characterCount": 79090,
+      "source": "https://publications.europa.eu/resource/cellar/d395dbf7-e597-11ee-8b2b-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 184657,
+      "textSha256": "2e952e66a4c2275da8d6bbd1b8e79d4c850460e918e2931f8897f3baa7ac7000",
+      "opening": "REGULATION (EU) 2024/886 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 amending Regulations (EU) No 260/2012 and (EU) 2021/1230 and Directives 98/26/EC and (EU) 2015/2366 as regards instant credit transfers in euro (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Co",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2016/2284",
+      "celex": "32016L2284",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 13153,
+      "characterCount": 84618,
+      "source": "https://publications.europa.eu/resource/cellar/f002acef-c425-11e6-a6db-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 359148,
+      "textSha256": "88bf96d43131af86ad17bb287629a42c9650bff93116b06bdd35557b5a0097f7",
+      "opening": "DIRECTIVE (EU) 2016/2284 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European C",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2021/2118",
+      "celex": "32021L2118",
+      "priorNotes": [
+        "consumer-controls.json",
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 13759,
+      "characterCount": 84539,
+      "source": "https://publications.europa.eu/resource/cellar/3ab7a2f0-5313-11ec-91ac-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 215052,
+      "textSha256": "caf61db8aa56456985dc79cd15594e4477b0ef71f871143d35584c1b0640be4b",
+      "opening": "DIRECTIVE (EU) 2021/2118 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 November 2021 amending Directive 2009/103/EC relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Ha",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/2161",
+      "celex": "32019L2161",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 14409,
+      "characterCount": 90464,
+      "source": "https://publications.europa.eu/resource/cellar/eefb17ee-2173-11ea-95ab-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 260992,
+      "textSha256": "05d7b6376b1dfbfc1b37588bdd806fc71dbd38b780c2696f8317a8c6f748deee",
+      "opening": "DIRECTIVE (EU) 2019/2161 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 amending Council Directive 93/13/EEC and Directives 98/6/EC, 2005/29/EC and 2011/83/EU of the European Parliament and of the Council as regards the better enforcement and modernisation of Union consumer protection rules (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in par",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/771",
+      "celex": "32019L0771",
+      "priorNotes": [
+        "findings.json",
+        "fr-repair-warranty-extension.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 14678,
+      "characterCount": 89910,
+      "source": "https://publications.europa.eu/resource/cellar/28907e25-7c65-11e9-9f05-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 205645,
+      "textSha256": "4ebca6c02467f424845f458076e5b6a64c3b01a8d7c51a288b35353ebb6f22c1",
+      "opening": "DIRECTIVE (EU) 2019/771 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2008/98",
+      "celex": "32008L0098",
+      "priorNotes": [
+        "findings.json",
+        "research-a.json",
+        "research-de-mixed-waste.json",
+        "research-de-definition.json",
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 15095,
+      "characterCount": 94390,
+      "source": "https://publications.europa.eu/resource/cellar/a32ddb30-1a98-4911-964a-e4f4f638f20d.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 313477,
+      "textSha256": "a6f5220cbb2afda695f363077abf6b6eed02a2192e8de5746d1be8b451ffe9c7",
+      "opening": "DIRECTIVE 2008/98/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 November 2008 on waste and repealing certain Directives (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 175(1) thereof, Having regard to the proposal from the Commission, Having regard to the opinion of the European Economic and Social Committee ( 1 ) , Having regard to the ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2010/13",
+      "celex": "32010L0013",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 16117,
+      "characterCount": 103965,
+      "source": "https://publications.europa.eu/resource/cellar/3b777bc6-6709-4884-9925-7e47f5607281.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 285693,
+      "textSha256": "b8863520784c92ec005871a5452eee7709242d26d323bc91e9772ace7a60aba5",
+      "opening": "DIRECTIVE 2010/13/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (codified version) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in part",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2018/1808",
+      "celex": "32018L1808",
+      "priorNotes": [
+        "research-c.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 16232,
+      "characterCount": 106606,
+      "source": "https://publications.europa.eu/resource/cellar/dc60e4a5-f2e5-11e8-9982-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 267084,
+      "textSha256": "3fd65365f349a450f439e444093d35ddbd5ed4848f896996b27bfd9aa0b2379d",
+      "opening": "DIRECTIVE (EU) 2018/1808 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 November 2018 amending Directive 2010/13/EU on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) in view of changing market realities THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of th",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2017/2397",
+      "celex": "32017L2397",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 16894,
+      "characterCount": 108121,
+      "source": "https://publications.europa.eu/resource/cellar/7aae2eb1-eac2-11e7-9749-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 333822,
+      "textSha256": "990d23cb01d3b45ccfc9bdf8d3709a2371647ddd7984f7a8f9c5399b43526ed6",
+      "opening": "DIRECTIVE (EU) 2017/2397 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2017 on the recognition of professional qualifications in inland navigation and repealing Council Directives 91/672/EEC and 96/50/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91(1) thereof, Having regard to the proposal from the European Commission, A",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2011/83",
+      "celex": "32011L0083",
+      "priorNotes": [
+        "findings.json",
+        "es-online-withdrawal-function.json",
+        "research-controls.json",
+        "reference-candidates.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 16996,
+      "characterCount": 103369,
+      "source": "https://publications.europa.eu/resource/cellar/6c8e7593-7a75-4b58-b709-542f06ee7a28.0018.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 298947,
+      "textSha256": "ddccd06c8841648116cc6f631c8442e67492d0e6114ea159b9a11d51c9f04056",
+      "opening": "DIRECTIVE 2011/83/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Uni",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1203",
+      "celex": "32024L1203",
+      "priorNotes": [
+        "findings.json",
+        "final-corrigendum-controls.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 17405,
+      "characterCount": 109640,
+      "source": "https://publications.europa.eu/resource/cellar/4fb3a2ec-068e-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 273180,
+      "textSha256": "e1ec2380da15b41fdb8d6995c361f192fca84cc09593476d6725554f9c1ae64d",
+      "opening": "DIRECTIVE (EU) 2024/1203 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 on the protection of the environment through criminal law and replacing Directives 2008/99/EC and 2009/123/EC THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 83(2) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2009/48",
+      "celex": "32009L0048",
+      "priorNotes": [
+        "findings.json",
+        "hu-toy-cobalt-permission.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 19556,
+      "characterCount": 121285,
+      "source": "https://publications.europa.eu/resource/cellar/ab7917e6-0d8a-42e4-b4df-0bbd7d927cc1.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 426173,
+      "textSha256": "b3997dec2a6f549a32e42646b3e263cfa68e662ec16cb49d355ddadf954fe093",
+      "opening": "DIRECTIVE 2009/48/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 on the safety of toys (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof, Having regard to the proposal from the Commission, Having regard to the opinion of the European Economic and Social Committee ( 1 ) , Acting in accordance with the procedure laid down",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1346",
+      "celex": "32024L1346",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive",
+      "wordCount": 20346,
+      "characterCount": 130253,
+      "source": "https://publications.europa.eu/resource/cellar/09f9074b-17d6-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 307271,
+      "textSha256": "5af2be5ab43d2a2332ceab96f8e847aaf96fbd13817a9cacf2a580bb311af925",
+      "opening": "DIRECTIVE (EU) 2024/1346 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 laying down standards for the reception of applicants for international protection (recast) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 78(2)(f) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national p",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2018/851",
+      "celex": "32018L0851",
+      "priorNotes": [
+        "findings.json",
+        "research-a.json",
+        "research-b.json",
+        "research-de-mixed-waste.json",
+        "research-de-definition.json",
+        "research-de-status.json",
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 20404,
+      "characterCount": 131079,
+      "source": "https://publications.europa.eu/resource/cellar/21299800-6f9e-11e8-9483-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 367467,
+      "textSha256": "59b025e078be83c7ea8710ff3ec606a45b4493ec5798f48abf3016bb001b781b",
+      "opening": "DIRECTIVE (EU) 2018/851 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2018 amending Directive 2008/98/EC on waste (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to t",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/45",
+      "celex": "32014L0045",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 21671,
+      "characterCount": 134032,
+      "source": "https://publications.europa.eu/resource/cellar/b560a38a-cf66-11e3-b682-01aa75ed71a1.0006.04/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1134869,
+      "textSha256": "060d434d7d90149b4bb556928d04d84e58eba17876d8d0a1f2829f6c00a25f55",
+      "opening": "DIRECTIVE 2014/45/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91 thereof, Having regard to the proposal from the European Commission, After transmission of the draft le",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/2226",
+      "celex": "32023L2226",
+      "priorNotes": [
+        "findings.json",
+        "be-dac8-independent-audit.json",
+        "be-dac8-ledger-address.json",
+        "lu-dac8-ledger-address.json",
+        "at-dac8-ledger-address-reference.json",
+        "it-dac8-independent-audit.json",
+        "it-dac8-ledger-address-reference.json",
+        "fr-dac8-ledger-address-reference.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier",
+        "case-specific official directive link",
+        "amendingAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 21682,
+      "characterCount": 138993,
+      "source": "https://publications.europa.eu/resource/cellar/57cf0896-7206-11ee-9220-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 497697,
+      "textSha256": "af3da1d16fc1551da4b6a7cea7720b64bb5d1662218522178f3121fe2744efa3",
+      "opening": "COUNCIL DIRECTIVE (EU) 2023/2226 of 17 October 2023 amending Directive 2011/16/EU on administrative cooperation in the field of taxation THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 113 and 115 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to the opinion of the European Parliame",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2000/14",
+      "celex": "32000L0014",
+      "priorNotes": [
+        "research-denmark-noise-control.json"
+      ],
+      "inventoryBasis": [
+        "explicit substantive screening note"
+      ],
+      "actType": "Directive",
+      "wordCount": 24528,
+      "characterCount": 150898,
+      "source": "https://publications.europa.eu/resource/cellar/d3c5dd69-9bd0-11e4-872e-01aa75ed71a1.0005.01/DOC_1",
+      "format": "html",
+      "sourceBytes": 163411,
+      "textSha256": "f566e488eecf81166ae1cf6cbdbe7408e54500d6a7364956486ba145b4948b14",
+      "opening": "Avis juridique important | 32000L0014 Directive 2000/14/EC of the European Parliament and of the Council of 8 May 2000 on the approximation of the laws of the Member States relating to the noise emission in the environment by equipment for use outdoors Official Journal L 162 , 03/07/2000 P. 0001 - 0078 Directive 2000/14/EC of the European Parliament and of the Council of 8 May 2000 on the approximation of the laws of the Member States relating to the noise emission in the env",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/1023",
+      "celex": "32019L1023",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 24615,
+      "characterCount": 156993,
+      "source": "https://publications.europa.eu/resource/cellar/71b0790f-97eb-11e9-9369-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 356460,
+      "textSha256": "4c9eb074bea38968884b6324a6dd1e03f1575ea53fe0f064d23506b71b433061",
+      "opening": "DIRECTIVE (EU) 2019/1023 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (Directive on restructuring and insolvency) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2013/55",
+      "celex": "32013L0055",
+      "priorNotes": [
+        "findings.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 24662,
+      "characterCount": 154956,
+      "source": "https://publications.europa.eu/resource/cellar/7508086d-76dc-11e3-b889-01aa75ed71a1.0006.05/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 441821,
+      "textSha256": "5c3df9dfa7cff16ff49d9f074949a018a041ba6cf3b5444b1fbc094a550125d3",
+      "opening": "DIRECTIVE 2013/55/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 November 2013 amending Directive 2005/36/EC on the recognition of professional qualifications and Regulation (EU) No 1024/2012 on administrative cooperation through the Internal Market Information System (‘the IMI Regulation’) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Art",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/882",
+      "celex": "32019L0882",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 25236,
+      "characterCount": 165285,
+      "source": "https://publications.europa.eu/resource/cellar/6eb3ceb5-8905-11e9-9369-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 483169,
+      "textSha256": "02d2015bcaec0117dfb987152fbc4fe1f96eb5413b10f9dbd13354e76a2b30a4",
+      "opening": "DIRECTIVE (EU) 2019/882 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 April 2019 on the accessibility requirements for products and services (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1785",
+      "celex": "32024L1785",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 26065,
+      "characterCount": 166875,
+      "source": "https://publications.europa.eu/resource/cellar/830ebb2d-4242-11ef-865a-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 482446,
+      "textSha256": "3274c4574cb675a8a1348aa9a0beaff065c8b980679d114133fbf05143d8c1fb",
+      "opening": "DIRECTIVE (EU) 2024/1785 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 amending Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) and Council Directive 1999/31/EC on the landfill of waste (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2007/64",
+      "celex": "32007L0064",
+      "priorNotes": [
+        "research-denmark-psd1.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 27114,
+      "characterCount": 169593,
+      "source": "https://publications.europa.eu/resource/cellar/2644663d-dfa1-41e2-8737-08f1e06511da.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 451769,
+      "textSha256": "59bd4231e2511b6acd2667574147cb3c7ecde769c6cb19e6c4e05862f22c38b8",
+      "opening": "DIRECTIVE 2007/64/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 November 2007 on payment services in the internal market amending Directives 97/7/EC, 2002/65/EC, 2005/60/EC and 2006/48/EC and repealing Directive 97/5/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular the first and third sentences of Article 47(2) and Article 95 thereof, Having r",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/878",
+      "celex": "32019L0878",
+      "priorNotes": [
+        "findings.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 27522,
+      "characterCount": 173826,
+      "source": "https://publications.europa.eu/resource/cellar/23afbc10-8902-11e9-9369-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 587210,
+      "textSha256": "63ae6af07b06a5feec3112655fa1e2c1f5b09473d73cbbdec9b86f16bfb3422b",
+      "opening": "DIRECTIVE (EU) 2019/878 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2019 amending Directive 2013/36/EU as regards exempted entities, financial holding companies, mixed financial holding companies, remuneration, supervisory measures and powers and capital conservation measures (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2020/2184",
+      "celex": "32020L2184",
+      "priorNotes": [
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 27887,
+      "characterCount": 172964,
+      "source": "https://publications.europa.eu/resource/cellar/7e65c36f-44c0-11eb-b59f-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 534098,
+      "textSha256": "ecf74ee3feb92c4ff4c1d0206f3e694899ef4aec9e068e4aa444db53c4fac8cc",
+      "opening": "DIRECTIVE (EU) 2020/2184 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2020 on the quality of water intended for human consumption (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2012/27",
+      "celex": "32012L0027",
+      "priorNotes": [
+        "findings.json",
+        "spain-energy-audit-sme.json",
+        "de-energy-utilities-procurement.json",
+        "nl-heat-cba-threshold.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 28836,
+      "characterCount": 186826,
+      "source": "https://publications.europa.eu/resource/cellar/345b96f1-2d99-11e2-ad46-01aa75ed71a1.0006.04/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 607206,
+      "textSha256": "fa2e0d1fc97d151fdb2fb552507c4fb650f4b15fcd75197375a1409869ec0d73",
+      "opening": "DIRECTIVE 2012/27/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposal from the European Commission, After transmis",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/879",
+      "celex": "32019L0879",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 32244,
+      "characterCount": 200075,
+      "source": "https://publications.europa.eu/resource/cellar/5e580fc1-8902-11e9-9369-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 605461,
+      "textSha256": "efbdcd929c73471e0d8c796f09ad697e60827346abb6c1222125a37630b66fd0",
+      "opening": "DIRECTIVE (EU) 2019/879 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2019 amending Directive 2014/59/EU as regards the loss-absorbing and recapitalisation capacity of credit institutions and investment firms and Directive 98/26/EC THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, After ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2022/2523",
+      "celex": "32022L2523",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 33763,
+      "characterCount": 206465,
+      "source": "https://publications.europa.eu/resource/cellar/c0f3ca3d-81cb-11ed-9887-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 793748,
+      "textSha256": "7b701fab6933d29b30cfaab50e7d93846ca4e11f464a823df91707d4dba1fecb",
+      "opening": "COUNCIL DIRECTIVE (EU) 2022/2523 of 14 December 2022 on ensuring a global minimum level of taxation for multinational enterprise groups and large-scale domestic groups in the Union THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 115 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to t",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/2225",
+      "celex": "32023L2225",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 35751,
+      "characterCount": 224529,
+      "source": "https://publications.europa.eu/resource/cellar/12d92010-76c8-11ee-99ba-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 648169,
+      "textSha256": "7261293b072c2b8ef5d576300a1ec143d991cb6c8865b75e06d40c9341b3735c",
+      "opening": "DIRECTIVE (EU) 2023/2225 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 October 2023 on credit agreements for consumers and repealing Directive 2008/48/EC THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having rega",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1275",
+      "celex": "32024L1275",
+      "priorNotes": [
+        "findings.json",
+        "ireland-residential-charging.json",
+        "ie-charging-independent-audit.json",
+        "de-residential-charging-deferral.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 35824,
+      "characterCount": 239606,
+      "source": "https://publications.europa.eu/resource/cellar/2b15980c-0cd4-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 669647,
+      "textSha256": "19e3fc02527c3d9af1d86e49c305d56230056747ab5ab3e40c9b5ad14d0d51a6",
+      "opening": "DIRECTIVE (EU) 2024/1275 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 on the energy performance of buildings (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/51",
+      "celex": "32014L0051",
+      "priorNotes": [
+        "research-corrigenda.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 36440,
+      "characterCount": 232379,
+      "source": "https://publications.europa.eu/resource/cellar/d7342894-e180-11e3-8cd4-01aa75ed71a1.0006.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 650097,
+      "textSha256": "8b914e1b073c830cbc5fa03ce9d96ec6043ad7cb0f757d5ba0c4bf7cbf5e59af",
+      "opening": "DIRECTIVE 2014/51/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having r",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/23",
+      "celex": "32014L0023",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 37883,
+      "characterCount": 243368,
+      "source": "https://publications.europa.eu/resource/cellar/7ebc3110-b653-11e3-86f9-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 714540,
+      "textSha256": "637a93c118c12d30113345bea1ad0f5679a0aa812098127796bf083bed5dab12",
+      "opening": "DIRECTIVE 2014/23/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 on the award of concession contracts (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) and Articles 62 and 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliame",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2019/944",
+      "celex": "32019L0944",
+      "priorNotes": [
+        "findings.json",
+        "fr-energy-sharing-legal-entity.json",
+        "pt-electricity-complaint-protection-scope.json",
+        "se-energy-sharing-deduction-deferral.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 42708,
+      "characterCount": 283591,
+      "source": "https://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 721646,
+      "textSha256": "d81247bcce162443b3edaa3b3b9879f5122573bfe005033b0b674653b6d397ca",
+      "opening": "DIRECTIVE (EU) 2019/944 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposal from the European Commission, After transmission of the draft leg",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2010/75",
+      "celex": "32010L0075",
+      "priorNotes": [
+        "research-corrigenda.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 45452,
+      "characterCount": 274805,
+      "source": "https://publications.europa.eu/resource/cellar/c7191b72-4e07-4712-86d6-d3ae5e4f0082.0012.02/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1555222,
+      "textSha256": "7f27ab0d73de39a076ef36261dbb814824f1f3cafe408656cf254269e713fb71",
+      "opening": "DIRECTIVE 2010/75/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (Recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, Having regard to the opinion of the European Economic",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/959",
+      "celex": "32023L0959",
+      "priorNotes": [
+        "research-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 45526,
+      "characterCount": 284699,
+      "source": "https://publications.europa.eu/resource/cellar/7477bc6a-f384-11ed-a05c-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 662758,
+      "textSha256": "b01836958afb88f7e02781bedbbdaea975eae59f7653d39e7ba1376a3482ef7b",
+      "opening": "DIRECTIVE (EU) 2023/959 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 amending Directive 2003/87/EC establishing a system for greenhouse gas emission allowance trading within the Union and Decision (EU) 2015/1814 concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading system (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Fu",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/2413",
+      "celex": "32023L2413",
+      "priorNotes": [
+        "findings.json",
+        "ireland-biomass-threshold.json",
+        "italy-biomass-verification-transition.json",
+        "poland-biomass-threshold.json",
+        "de-biomass-electricity-support-threshold.json",
+        "ie-renewable-eia-scoping-deferral.json",
+        "final-corrigendum-controls.json",
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 47526,
+      "characterCount": 305843,
+      "source": "https://publications.europa.eu/resource/cellar/dc3cfdf8-778e-11ee-99ba-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 791128,
+      "textSha256": "57ec990d9f5ce380c527382bdcf21b90318bd50e2ce6c5c780e4d03ca22ca961",
+      "opening": "DIRECTIVE (EU) 2023/2413 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 October 2023 amending Directive (EU) 2018/2001, Regulation (EU) 2018/1999 and Directive 98/70/EC as regards the promotion of energy from renewable sources, and repealing Council Directive (EU) 2015/652 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 114, 192(1) and 194(2) thereof, Having re",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2015/2366",
+      "celex": "32015L2366",
+      "priorNotes": [
+        "findings.json",
+        "research-malta.json",
+        "research-nl-psd2.json",
+        "reference-controls.json",
+        "dk-psd2-optout.json",
+        "es-payment-system-access.json",
+        "lv-psd2-optout.json",
+        "fr-psd2-optout.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 49123,
+      "characterCount": 307348,
+      "source": "https://publications.europa.eu/resource/cellar/dd85ef2e-a953-11e5-b528-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 859273,
+      "textSha256": "238f921ed8302019f640cff2224a47d467d762edd35691e5912e6a99cde02e0a",
+      "opening": "DIRECTIVE (EU) 2015/2366 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to th",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2005/36",
+      "celex": "32005L0036",
+      "priorNotes": [
+        "findings.json",
+        "research-a.json",
+        "research-b.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 49179,
+      "characterCount": 341151,
+      "source": "https://publications.europa.eu/resource/cellar/0902feb0-533e-4c11-8de9-98a68757f4ff.0005.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1862356,
+      "textSha256": "b864176fbedbb32611be7c514343a046404f596a39bdfb6a9e14d81bc0be0d1d",
+      "opening": "DIRECTIVE 2005/36/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 September 2005 on the recognition of professional qualifications (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 40, Article 47(1), the first and third sentences of Article 47(2), and Article 55 thereof, Having regard to the proposal from the Commission ( 1 ) , Having regard ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2011/61",
+      "celex": "32011L0061",
+      "priorNotes": [
+        "findings.json",
+        "verify-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific EU directive identifier",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 54725,
+      "characterCount": 333632,
+      "source": "https://publications.europa.eu/resource/cellar/d75d4591-19f4-470f-a1ba-6833902d0d76.0017.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 869187,
+      "textSha256": "4a2c3b5d3c2e12eae6ba5bc8f42d2ed99c11947bc3c0e7ec659e527feff64d12",
+      "opening": "DIRECTIVE 2011/61/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) thereof, Having regard to the proposal from the European Comm",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2023/1791",
+      "celex": "32023L1791",
+      "priorNotes": [
+        "findings.json",
+        "spain-energy-audit-sme.json",
+        "de-energy-utilities-procurement.json",
+        "nl-heat-cba-threshold.json"
+      ],
+      "inventoryBasis": [
+        "amendingAct",
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 58176,
+      "characterCount": 379771,
+      "source": "https://publications.europa.eu/resource/cellar/0e432499-5752-11ee-9220-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1028779,
+      "textSha256": "f3f54006554947c34f43fbe0e7543937d8c814b44b4961a2aeb24eedb7efa5fb",
+      "opening": "DIRECTIVE (EU) 2023/1791 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2023 on energy efficiency and amending Regulation (EU) 2023/955 (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the nati",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2006/112",
+      "celex": "32006L0112",
+      "priorNotes": [
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 58931,
+      "characterCount": 351240,
+      "source": "https://publications.europa.eu/resource/cellar/ded2ee9c-f30e-4ed1-ab74-b2b7d7a7a6b6.0005.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1732747,
+      "textSha256": "18c7a0e0bb5ba0b87589cc5177f74d1a6e4c484d05c410e517b246ae7dd456d7",
+      "opening": "COUNCIL DIRECTIVE 2006/112/EC of 28 November 2006 on the common system of value added tax THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty establishing the European Community, and in particular Article 93 thereof, Having regard to the proposal from the Commission, Having regard to the Opinion of the European Parliament, Having regard to the Opinion of the European Economic and Social Committee, Whereas: (1) Council Directive 77/388/EEC of 17 May 1977 on the harm",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2018/2001",
+      "celex": "32018L2001",
+      "priorNotes": [
+        "findings.json",
+        "ireland-biomass-threshold.json",
+        "italy-biomass-verification-transition.json",
+        "poland-biomass-threshold.json",
+        "de-biomass-electricity-support-threshold.json",
+        "ie-renewable-eia-scoping-deferral.json",
+        "root-controls.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 63014,
+      "characterCount": 385718,
+      "source": "https://publications.europa.eu/resource/cellar/7aa60dea-04e7-11e9-adde-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1794915,
+      "textSha256": "50b6799e482f94c4b5cca2b5305caf7bfe7b183afc194e68ab2c1d5c092b9e23",
+      "opening": "DIRECTIVE (EU) 2018/2001 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2018 on the promotion of the use of energy from renewable sources (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the nat",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2013/36",
+      "celex": "32013L0036",
+      "priorNotes": [
+        "findings.json",
+        "research-candidates.json"
+      ],
+      "inventoryBasis": [
+        "baseAct"
+      ],
+      "actType": "Directive",
+      "wordCount": 64627,
+      "characterCount": 413545,
+      "source": "https://publications.europa.eu/resource/cellar/2ff66fd7-df0b-11e2-9165-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1274040,
+      "textSha256": "1d048cc14be9a617e5fd6f4bcbecf3a4b7555c3ac8a5dddb0a3e627ff8ce31b8",
+      "opening": "DIRECTIVE 2013/36/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2024/1788",
+      "celex": "32024L1788",
+      "priorNotes": [
+        "environment-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 65372,
+      "characterCount": 430943,
+      "source": "https://publications.europa.eu/resource/cellar/f07e2c67-4242-11ef-865a-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 982089,
+      "textSha256": "6651b7c8550c4589d917e3c59f0cc04ae515a6783688d93a20a63be89fe74016",
+      "opening": "DIRECTIVE (EU) 2024/1788 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 on common rules for the internal markets for renewable gas, natural gas and hydrogen, amending Directive (EU) 2023/1791 and repealing Directive 2009/73/EC (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 194(2) thereof, Having regard to the proposa",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/25",
+      "celex": "32014L0025",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 73233,
+      "characterCount": 467754,
+      "source": "https://publications.europa.eu/resource/cellar/3c100e84-b654-11e3-86f9-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1378519,
+      "textSha256": "c2b0bc37d65ede8ce4851b149907f0f9b5b4eabffb46fc5b2018c199112d9e95",
+      "opening": "DIRECTIVE 2014/25/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) and Article 62 and Article 114 thereof, Having regard to the proposal ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/65",
+      "celex": "32014L0065",
+      "priorNotes": [
+        "findings.json",
+        "fr-listing-research-cap.json",
+        "fr-mifid-si-definition.json"
+      ],
+      "inventoryBasis": [
+        "baseAct",
+        "case-specific official directive link"
+      ],
+      "actType": "Directive",
+      "wordCount": 77830,
+      "characterCount": 492733,
+      "source": "https://publications.europa.eu/resource/cellar/056587cf-f1f8-11e3-8cd4-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1325420,
+      "textSha256": "0cb1216bb012e6380827bf22d94ec529e14523cca6ff6d63f305005b8f148756",
+      "opening": "DIRECTIVE 2014/65/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft le",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/24",
+      "celex": "32014L0024",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 81792,
+      "characterCount": 549899,
+      "source": "https://publications.europa.eu/resource/cellar/aa61f069-b654-11e3-86f9-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1549041,
+      "textSha256": "014989433f12b8d6aedc33caa2fcadd7472bfca01c46536aee9dff846c887d89",
+      "opening": "DIRECTIVE 2014/24/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 53(1), Article 62 and Article 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act ",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2014/59",
+      "celex": "32014L0059",
+      "priorNotes": [
+        "independent inventory audit"
+      ],
+      "inventoryBasis": [
+        "previous substantive screening recovered by independent audit"
+      ],
+      "actType": "Directive",
+      "wordCount": 86763,
+      "characterCount": 549614,
+      "source": "https://publications.europa.eu/resource/cellar/d108610e-f1f7-11e3-8cd4-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1440277,
+      "textSha256": "687753a1b43b79e08ef4a41aa972e57386543a2017ab9eb79b235ae6466e5399",
+      "opening": "DIRECTIVE 2014/59/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (Text with EEA relevance) THE EUROPEAN",
+      "measurementStatus": "measured"
+    },
+    {
+      "id": "2018/1972",
+      "celex": "32018L1972",
+      "priorNotes": [
+        "reference-controls.json"
+      ],
+      "inventoryBasis": [
+        "case-specific EU directive identifier"
+      ],
+      "actType": "Directive",
+      "wordCount": 99145,
+      "characterCount": 660961,
+      "source": "https://publications.europa.eu/resource/cellar/4bb873d0-01d2-11e9-adde-01aa75ed71a1.0006.03/DOC_1",
+      "format": "xhtml",
+      "sourceBytes": 1556085,
+      "textSha256": "a6091e4392606dac08ede78e5dfbc889f34cbfb66e861c5adf3091924d96a82c",
+      "opening": "DIRECTIVE (EU) 2018/1972 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2018 establishing the European Electronic Communications Code (Recast) (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national p",
+      "measurementStatus": "measured"
+    }
+  ]
+}

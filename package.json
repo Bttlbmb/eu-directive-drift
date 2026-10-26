@@ -1,0 +1,10 @@
+{
+  "name": "eu-update-chain",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A lean research catalogue of EU amendments and national implementation gaps",
+  "scripts": {
+    "start": "python3 scripts/serve.py",
+    "check": "node --check docs/app.js && python3 scripts/validate.py"
+  }
+}

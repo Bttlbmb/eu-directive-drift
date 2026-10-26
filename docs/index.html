@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A research catalogue tracing amendments to EU law into national implementation, with dated findings and primary sources.">
+  <meta name="theme-color" content="#173e35">
+  <title>EU Update Chain — National implementation gaps</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to findings</a>
+<header class="wrap">
+  <a class="brand" href="#">EU Update Chain</a>
+  <nav aria-label="Main navigation"><a href="#method" data-page="method">Method</a><a href="#coverage" data-page="coverage">Coverage</a></nav>
+</header>
+<main id="main" tabindex="-1">
+  <section id="catalogue-page" class="wrap">
+    <div class="lede"><p>Track EU updates with unresolved implementation concerns or national text mismatches.</p><p id="stats" class="counts"></p></div>
+    <form id="filters" class="tools" role="search">
+      <input id="search" type="search" aria-label="Search findings" placeholder="Search an act, country, provision or topic">
+      <select id="country" aria-label="Member State"><option value="">All Member States</option></select>
+      <select id="change" aria-label="EU change"><option value="">All changes</option><option value="Corrigendum">Corrigenda</option><option value="Amendment">Amendments</option><option value="Recast">Recasts</option><option value="Replacement">Replacements</option><option value="New framework">New frameworks</option></select>
+      <select id="stage" aria-label="Evidence"><option value="">All evidence types</option><option value="judgment">Court finding</option><option value="commission">Commission position</option><option value="government">Government acknowledgment</option><option value="research">Research lead</option></select>
+    </form>
+    <div class="line">
+      <span><span id="result-count" aria-live="polite"></span><label><input id="hide-recognized" type="checkbox"> Hide previously recognized</label></span>
+      <span><label>Sort by <select id="sort"><option value="discovery">No recognition located first</option><option value="revision">EU change year · newest first</option><option value="newest">Evidence · newest first</option><option value="oldest">Evidence · oldest first</option><option value="country">Member State · A–Z</option><option value="deadline">Deadline · newest first</option></select></label><button type="button" id="reset" class="text-button">Reset filters</button></span>
+    </div>
+    <div id="results"></div>
+    <div id="load-error" class="empty" hidden><h3>The catalogue could not be loaded.</h3><p>Check your connection and try again. For a local copy, run <code>npm start</code> and open the server address.</p><button onclick="location.reload()" class="button">Try again</button></div>
+  </section>
+  <section id="detail-page" class="wrap" hidden></section>
+  <section id="method-page" class="wrap reading" hidden>
+    <a class="back" href="#">← Back to findings</a><div class="eyebrow">HOW TO READ THIS CATALOGUE</div><h1>Follow the legal change.<br>Keep the claim precise.</h1>
+    <p class="lead">An EU amendment, a national obligation, and evidence of a missed update belong in the same record.</p>
+    <div class="method-grid"><article><span class="step">01</span><h2>Identify the change</h2><p>Start from a changed directive provision, a recast, replacement or new directive framework, or an EU corrigendum. A regulation can also amend a directive and expressly require national implementation. Identify its predecessor, changed obligations, implementation deadline and any applicable transitional rules. Corrections may not prescribe a new transposition deadline; their publication date is labelled explicitly.</p></article><article><span class="step">02</span><h2>Find national evidence</h2><p>Compare current national legislation with the EU change, and check Court judgments, Commission decisions and national acknowledgments. A missing notification is a signal; it is not automatically proof that every national provision is absent.</p></article><article><span class="step">03</span><h2>Check independently</h2><p>Research agents work separately, then challenge the legal basis, scope, dates and status of each candidate. Automated review assists research and does not replace an expert legal opinion.</p></article><article><span class="step">04</span><h2>Preserve the limits</h2><p>Report what was established at the cited date. Remove cases once a full correction is documented; after partial fixes, retain only the remaining concerns. Do not turn an old infringement into a claim about present compliance or lawmakers’ intent.</p></article></div>
+    <h2>Evidence and review status</h2><dl class="definitions"><dt>Court finding</dt><dd>The Court established a breach at the legally relevant date. That may precede the judgment, and the breach may have ended before judgment.</dd><dt>Commission position</dt><dd>An official allegation or procedural step. It is attributed to the Commission and is not presented as a final judicial determination.</dd><dt>Government acknowledgment</dt><dd>A ministry or national authority identifies an unreflected update. Draft corrective measures are distinguished from enacted law.</dd><dt>Research lead</dt><dd>A current text mismatch is documented, but its legal significance remains unresolved. It may reflect a lawful national choice.</dd></dl>
+    <h2>What the pilot does not establish</h2><p>This is a purposive sample of open concerns, not a systematic review of all Member States or all EU acts. It does not measure national compliance rates, prove deliberate disregard, or infer a substantive omission from a transposition notification alone. Ordinary obligations imposed directly by regulations are outside this pilot’s transposition workflow. Expressly required national implementation of a directive amendment made by a regulation is included.</p>
+    <h2>A discrepancy is not always a breach</h2><p>A national rule can retain different wording or a stricter protective limit without necessarily violating EU law. The catalogue distinguishes an observed text mismatch from an established failure, and excludes cases once fully resolved. It does not infer lawmakers’ intent.</p>
+    <h2>Prior recognition and discovery</h2><p>Each case separately records whether a court, the Commission, a ministry, another national authority or published analysis has already identified the specific concern. This is independent of its legal strength: a research lead can already be publicly known. The catalogue puts candidates with no located prior recognition first, prioritises newer EU changes within that group, and lets you hide recognized cases.</p><p>“No prior recognition located” means targeted searches of the national legal identifier, correction and issue found none by the research date. We did not exhaust every judgment, publication or private analysis. It does not establish that nobody has noticed the mismatch before.</p>
+    <h2>Lean evidence, reproducible records</h2><p>Records store concise analysis, source URLs, legal identifiers and relevant dates. Full legislation and court files remain with the official publishers.</p>
+    <h2>Continuing the research</h2><p>For each new amendment: map the changed EU article, identify the corresponding national provision and version, check the deadline and exceptions, search for corrective measures, then obtain an independent review before adding a record. The data file is deliberately small and editable.</p>
+  </section>
+  <section id="coverage-page" class="wrap reading" hidden></section>
+</main>
+<div id="toast" role="status" class="toast" hidden></div>
+</body>
+</html>

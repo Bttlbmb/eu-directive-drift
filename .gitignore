@@ -1,0 +1,24 @@
+# Local operating-system and editor files
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local dependencies and Python caches
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+.aws/
+
+# Local exports and logs
+/eu-update-chain-mvp.zip
+*.log
