@@ -1759,13 +1759,6 @@
         },
         {
           "direction": "in",
-          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
-          "v": "http://publications.europa.eu/resource/cellar/8ac1f6f4-80b1-11f1-bf5e-01aa75ed71a1",
-          "relatedCelex": "32024L2839R(01)",
-          "predicate": "resource_legal_corrects_resource_legal"
-        },
-        {
-          "direction": "in",
           "p": "http://publications.europa.eu/ontology/cdm#act_consolidated_based_on_resource_legal",
           "v": "http://publications.europa.eu/resource/cellar/afa4bdf0-90ac-11f1-9262-01aa75ed71a1",
           "relatedCelex": "02024L2839-20241107",
@@ -1777,6 +1770,13 @@
           "v": "http://publications.europa.eu/resource/cellar/afa4bdf0-90ac-11f1-9262-01aa75ed71a1",
           "relatedCelex": "02024L2839-20241107",
           "predicate": "act_consolidated_consolidates_resource_legal"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/8ac1f6f4-80b1-11f1-bf5e-01aa75ed71a1",
+          "relatedCelex": "32024L2839R(01)",
+          "predicate": "resource_legal_corrects_resource_legal"
         },
         {
           "direction": "in",
@@ -4772,7 +4772,7 @@
           "title": "Zákon č. 367/2011 Sb., kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, a další související zákony",
           "ref": "367/2011",
           "nimCelex": "71996L0071CZE_189062",
-          "notification": "2020-10-02"
+          "notification": "2014-09-17"
         },
         {
           "nim": "http://publications.europa.eu/resource/cellar/106becd7-dfe6-48c7-8253-336ac27bf6e8",
@@ -4780,7 +4780,7 @@
           "title": "Zákon č. 367/2011 Sb., kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, a další související zákony",
           "ref": "367/2011",
           "nimCelex": "71996L0071CZE_189062",
-          "notification": "2014-09-17"
+          "notification": "2020-10-02"
         },
         {
           "nim": "http://publications.europa.eu/resource/cellar/12d10717-efab-45a7-a246-1da1ae818baf",
@@ -5062,7 +5062,7 @@
           "title": "Zákon č. 382/2008 Sb., kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",
           "ref": "382/2008",
           "nimCelex": "71996L0071CZE_161883",
-          "notification": "2020-10-02"
+          "notification": "2014-09-17"
         },
         {
           "nim": "http://publications.europa.eu/resource/cellar/91914154-b775-42be-9c6b-c5e8e4b73661",
@@ -5070,7 +5070,7 @@
           "title": "Zákon č. 382/2008 Sb., kterým se mění zákon č. 435/2004 Sb., o zaměstnanosti, ve znění pozdějších předpisů, zákon č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, ve znění pozdějších předpisů, a další související zákony",
           "ref": "382/2008",
           "nimCelex": "71996L0071CZE_161883",
-          "notification": "2014-09-17"
+          "notification": "2020-10-02"
         },
         {
           "nim": "http://publications.europa.eu/resource/cellar/93ea1584-b5cf-4c97-b9f9-c2cbbe8ca859",
@@ -7328,6 +7328,13 @@
         },
         {
           "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_does_replacement_of_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/5e580fc1-8902-11e9-9369-01aa75ed71a1",
+          "relatedCelex": "32019L0879",
+          "predicate": "resource_legal_does_replacement_of_resource_legal"
+        },
+        {
+          "direction": "in",
           "p": "http://publications.europa.eu/ontology/cdm#resource_legal_amends_resource_legal",
           "v": "http://publications.europa.eu/resource/cellar/d395dbf7-e597-11ee-8b2b-01aa75ed71a1",
           "relatedCelex": "32024R0886",
@@ -8685,6 +8692,13 @@
           "v": "http://publications.europa.eu/resource/cellar/f739c71f-154b-11e9-81b4-01aa75ed71a1",
           "relatedCelex": "31991L0477R(10)",
           "predicate": "resource_legal_corrects_resource_legal"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_does_replacement_of_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/f739c71f-154b-11e9-81b4-01aa75ed71a1",
+          "relatedCelex": "31991L0477R(10)",
+          "predicate": "resource_legal_does_replacement_of_resource_legal"
         },
         {
           "direction": "in",
@@ -10399,6 +10413,13 @@
           "p": "http://publications.europa.eu/ontology/cdm#resource_legal_date_deadline",
           "v": "2030-12-31",
           "predicate": "resource_legal_date_deadline"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_derogates_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/53510e24-c09f-46f9-8a4c-371870859a94",
+          "relatedCelex": "11994NN15/09",
+          "predicate": "resource_legal_derogates_resource_legal"
         },
         {
           "direction": "in",
@@ -12621,6 +12642,13 @@
       "historyMetadata": [
         {
           "direction": "out",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_does_replacement_of_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/308eb2e0-b58b-4464-abb4-bcf98a4eb0e1",
+          "relatedCelex": "32004L0037",
+          "predicate": "resource_legal_does_replacement_of_resource_legal"
+        },
+        {
+          "direction": "out",
           "p": "http://publications.europa.eu/ontology/cdm#resource_legal_amends_resource_legal",
           "v": "http://publications.europa.eu/resource/cellar/308eb2e0-b58b-4464-abb4-bcf98a4eb0e1",
           "relatedCelex": "32004L0037",
@@ -12696,6 +12724,13 @@
         },
         {
           "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_does_replacement_of_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/068dfc67-4178-11e9-8d04-01aa75ed71a1",
+          "relatedCelex": "32019L0130R(01)",
+          "predicate": "resource_legal_does_replacement_of_resource_legal"
+        },
+        {
+          "direction": "in",
           "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
           "v": "http://publications.europa.eu/resource/cellar/4e1872c7-cfa1-11e9-b4bf-01aa75ed71a1",
           "relatedCelex": "32019L0130R(03)",
@@ -12707,6 +12742,13 @@
           "v": "http://publications.europa.eu/resource/cellar/f9e64a14-876b-11e9-9f05-01aa75ed71a1",
           "relatedCelex": "32019L0130R(02)",
           "predicate": "resource_legal_corrects_resource_legal"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_does_replacement_of_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/f9e64a14-876b-11e9-9f05-01aa75ed71a1",
+          "relatedCelex": "32019L0130R(02)",
+          "predicate": "resource_legal_does_replacement_of_resource_legal"
         },
         {
           "direction": "in",
@@ -13500,6 +13542,13 @@
           "p": "http://publications.europa.eu/ontology/cdm#directive_date_transposition",
           "v": "2010-12-26",
           "predicate": "directive_date_transposition"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_replaces_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/4fb3a2ec-068e-11ef-a251-01aa75ed71a1",
+          "relatedCelex": "32024L1203",
+          "predicate": "resource_legal_replaces_resource_legal"
         },
         {
           "direction": "in",
@@ -14434,6 +14483,13 @@
           "v": "http://publications.europa.eu/resource/cellar/d4b4b81e-252d-11e9-8d04-01aa75ed71a1",
           "relatedCelex": "32019L0130",
           "predicate": "resource_legal_amends_resource_legal"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_does_replacement_of_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/d4b4b81e-252d-11e9-8d04-01aa75ed71a1",
+          "relatedCelex": "32019L0130",
+          "predicate": "resource_legal_does_replacement_of_resource_legal"
         },
         {
           "direction": "in",

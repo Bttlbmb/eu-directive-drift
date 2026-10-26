@@ -39,7 +39,7 @@ def discover(act):
         keep = []
         for row in rows:
             p = row['p'].rsplit('#', 1)[-1]
-            if any(term in p.lower() for term in ('amend', 'corrig', 'correct', 'repeal', 'consolidat', 'date_', 'title', 'in-force', 'in_force', 'transpos', 'id_celex')):
+            if any(term in p.lower() for term in ('amend', 'corrig', 'correct', 'repeal', 'consolidat', 'derogat', 'suspend', 'exten', 'complet', 'replace', 'adapt', 'applicab', 'date_', 'title', 'in-force', 'in_force', 'transpos', 'id_celex')):
                 keep.append(dict(row, predicate=p))
         result['historyMetadata'] = keep
         result['historyStatus'] = 'discovered; texts and completeness require review'

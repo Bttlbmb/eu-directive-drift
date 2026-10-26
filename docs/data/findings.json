@@ -6647,7 +6647,8 @@
         }
       ],
       "statusKind": "behind",
-      "statusDetail": "The Commission has already raised the implementation delay; the current copy-submission clause remains."
+      "statusDetail": "The Commission has already raised the implementation delay; the current copy-submission clause remains.",
+      "baseActPublished": "2000-07-03"
     },
     {
       "id": "fi-outdoor-noise-declaration-copy-duty",
@@ -6766,7 +6767,8 @@
         }
       ],
       "statusKind": "draft",
-      "statusDetail": "The government has consulted on implementing the reporting simplification."
+      "statusDetail": "The government has consulted on implementing the reporting simplification.",
+      "baseActPublished": "2000-07-03"
     },
     {
       "id": "pt-romanian-nurse-upgrade-recognition",
@@ -6889,7 +6891,8 @@
           "who": "check"
         }
       ],
-      "statusDetail": "The statutory route is missing; a government proposal is still under consideration and its adequacy has not been established."
+      "statusDetail": "The statutory route is missing; a government proposal is still under consideration and its adequacy has not been established.",
+      "baseActPublished": "2005-09-30"
     },
     {
       "id": "de-pv-business-waste-financing-date",
@@ -7005,7 +7008,8 @@
       ],
       "peerReviewStatus": "passed",
       "statusKind": "differs",
-      "statusDetail": "The dates differ for a narrowly defined business-use cohort; the ministry considers existing law sufficient."
+      "statusDetail": "The dates differ for a narrowly defined business-use cohort; the ministry considers existing law sufficient.",
+      "baseActPublished": "2012-07-24"
     }
   ],
   "scope": "unresolved-only",

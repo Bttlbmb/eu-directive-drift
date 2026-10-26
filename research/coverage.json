@@ -215,7 +215,7 @@
         {
           "countryCode": "HR",
           "country": "Croatia",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 5,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32012L0039"
@@ -224,7 +224,7 @@
           "review": {
             "countryCode": "HR",
             "country": "Croatia",
-            "status": "pending-national-body-review",
+            "status": "all-four-targeted-provisions-reviewed-interpretation-qualified",
             "notificationCandidates": [
               {
                 "nimCelex": "72012L0039HRV_202306044",
@@ -244,29 +244,62 @@
             "changeAssessments": [
               {
                 "changeId": "tissue-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "interpretation-qualified-no-demonstrated-gap",
+                "nationalLocator": "NN80/2013Article21(4),replaced138/2023Article14;Article2a",
+                "assessment": "High infection-frequency trigger plus currentEDQMguidance route; no incidence-only scope established."
               },
               {
                 "changeId": "partner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "NN70/2013Article3(1)",
+                "assessment": "Explicit high-prevalence donor/partner/parent area testing."
               },
               {
                 "changeId": "nonpartner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "NN70/2013Article4(1)",
+                "assessment": "Explicit high-prevalence donor/partner/parent area testing."
               },
               {
                 "changeId": "reproductive-blood-sampling",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "NN70/2013Article6(4)",
+                "assessment": "Partner first within3months; subsequent≤24months; nonpartner each donation."
               }
             ],
-            "currentNationalEvidence": [],
-            "laterRemedySearch": "pending",
+            "currentNationalEvidence": [
+              {
+                "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/full/2013_06_70_1394.html",
+                "locator": "Articles3(1),4(1),6(4)",
+                "read": "Actual reproductive donor testing and sampling clauses read."
+              },
+              {
+                "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_11_138_1883.html",
+                "locator": "Articles1,2,14 replacing principal21(4)",
+                "read": "Actual current-amendment text read: guidance incorporation and nonreproductive HTLV trigger."
+              },
+              {
+                "url": "https://zdravlje.gov.hr/pristup-informacijama/zakoni-i-ostali-propisi/zakoni/2426?big=0",
+                "locator": "Current tissue/cell and assisted-reproduction legislation lists",
+                "read": "Current ministry list corroborates2013/2023chain; one2023hyperlink misdirects to unrelated animal-product law, so exactGazetteact separately located and read."
+              },
+              {
+                "url": "https://sredisnjikatalogrh.gov.hr/sredisnji-katalog/pravni-propisi/detalji?cb=0%2C1&id=2626052&page=1&query=Zakon+o+primjeni+ljudskih+tkiva+i+stanica&st=1",
+                "locator": "Principal80/2013and amendment138/2023",
+                "read": "Official central legal-catalogue history corroboration; not substantive proof by itself."
+              }
+            ],
+            "laterRemedySearch": "2023Article14replacesArticle21and preserves high infection-frequency wording;Article1adds currentEDQMguide/good-practice compliance. Official ministry and central catalogue list no later applicable replacement.",
             "recognitionSearch": "not-needed-unless-candidate",
             "independentReview": "pending",
-            "reviewComplete": false,
-            "completionBlocker": "Current operative national provisions and all four changes not yet completely reviewed.",
-            "blockers": [
-              "Current operative national provisions and all four changes not yet completely reviewed."
+            "reviewComplete": true,
+            "completionBlocker": null,
+            "blockers": [],
+            "currentness": "Current HealthMinistry legal lists identifyNN70/2013reproductive rules andNN80/2013+138/2023general tissues rules. Relevant authentic original and2023replacementArticle21personally read26October2026.",
+            "assessmentScope": "All four changed duties assessed; nonreproductive high-frequency language interpreted alongside binding currentEDQM-guidance incorporation. No firm narrower incidence-only scope established.",
+            "legalConclusion": "No demonstrated omitted target duty; nonreproductive prevalence terminology is qualified rather than certified identical.",
+            "limitations": [
+              "NonreproductiveArticle21(4)uses high infection-frequency wording rather than literal prevalence. CurrentArticle2a requires currentEDQMguidance; no narrower incidence-only legal operation established. This is not a definitive compliance certificate."
             ]
           },
           "reviewNote": "reference-bundle1.json"
@@ -730,7 +763,7 @@
         {
           "countryCode": "HU",
           "country": "Hungary",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 3,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32012L0039"
@@ -739,7 +772,7 @@
           "review": {
             "countryCode": "HU",
             "country": "Hungary",
-            "status": "pending-national-body-review",
+            "status": "all-four-targeted-current-provisions-verified",
             "notificationCandidates": [
               {
                 "nimCelex": "72012L0039HUN_217907",
@@ -759,30 +792,49 @@
             "changeAssessments": [
               {
                 "changeId": "tissue-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "18/1998EüM Annex8(1.2)",
+                "assessment": "High occurrence-frequency/prevalence trigger matches authentic Hungarian EU meaning."
               },
               {
                 "changeId": "partner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "30/1998NM Annex3(8.1)",
+                "assessment": "High occurrence-frequency/prevalence trigger matches authentic Hungarian EU meaning."
               },
               {
                 "changeId": "nonpartner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "30/1998NM Annex3(8.2)",
+                "assessment": "High occurrence-frequency/prevalence trigger matches authentic Hungarian EU meaning."
               },
               {
                 "changeId": "reproductive-blood-sampling",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "30/1998NM Annex3(8.3)",
+                "assessment": "Nonpartner each donation; partner first within3months before donation and subsequent within24months."
               }
             ],
-            "currentNationalEvidence": [],
-            "laterRemedySearch": "pending",
+            "currentNationalEvidence": [
+              {
+                "url": "https://njt.jog.gov.hu/jogszabaly/1998-18-20-0B",
+                "locator": "Annex8(1.2);18(4)(f);current header17July2025",
+                "read": "Actual current targeted nonreproductive HTLV clause and version metadata read."
+              },
+              {
+                "url": "https://njt.jog.gov.hu/jogszabaly/1998-30-20-3D",
+                "locator": "Annex3(8.1)–(8.3);current header17July2025",
+                "read": "Actual current partner/nonpartner HTLV and complete sampling clauses read; footnote identifies76/2013amendment."
+              }
+            ],
+            "laterRemedySearch": "Current national bodies retain2013amendment wording; no unresolved omitted target change located.",
             "recognitionSearch": "not-needed-unless-candidate",
             "independentReview": "pending",
-            "reviewComplete": false,
-            "completionBlocker": "Current operative national provisions and all four changes not yet completely reviewed.",
-            "blockers": [
-              "Current operative national provisions and all four changes not yet completely reviewed."
-            ]
+            "reviewComplete": true,
+            "completionBlocker": null,
+            "blockers": [],
+            "currentness": "Both bare official NJT consolidated bodies retrieved26October2026 select17July2025version. All four relevant clauses and amendment footnotes actually read.",
+            "assessmentScope": "Four changed substantive testing/sampling duties only; no certificate of unchanged regime or actual practice."
           },
           "reviewNote": "reference-bundle1.json"
         },
@@ -1084,7 +1136,7 @@
         {
           "countryCode": "MT",
           "country": "Malta",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 2,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32012L0039"
@@ -1093,7 +1145,7 @@
           "review": {
             "countryCode": "MT",
             "country": "Malta",
-            "status": "pending-national-body-review",
+            "status": "all-four-targeted-current-provisions-verified",
             "notificationCandidates": [
               {
                 "nimCelex": "72012L0039MLT_218058",
@@ -1109,37 +1161,56 @@
             "changeAssessments": [
               {
                 "changeId": "tissue-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "ScheduleII1.2",
+                "assessment": "High prevalence donor/partner/parent area trigger."
               },
               {
                 "changeId": "partner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "ScheduleIII2.4",
+                "assessment": "High prevalence donor/partner/parent area trigger."
               },
               {
                 "changeId": "nonpartner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "ScheduleIII3.3",
+                "assessment": "High prevalence donor/partner/parent area trigger."
               },
               {
                 "changeId": "reproductive-blood-sampling",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "ScheduleIII4.2(a)–(b)",
+                "assessment": "Each nonpartner donation; partner first within3months before donation, repeat at latest24months."
               }
             ],
-            "currentNationalEvidence": [],
-            "laterRemedySearch": "pending",
+            "currentNationalEvidence": [
+              {
+                "url": "https://legislation.mt/eli/sl/483.1/eng/pdf",
+                "locator": "Header,Reg1(3),ScheduleII1.2;III2.4,3.3,4.2",
+                "read": "Actual current official consolidatedPDF fetched and targeted clauses read in memory26October2026. Three prevalence triggers plus all sampling elements match."
+              },
+              {
+                "url": "https://healthcarestandards.gov.mt/en/tissues-cells-and-organs/",
+                "locator": "Current Maltese legislation list",
+                "read": "Regulator currently identifiesSL483.01as applicable tissue/cell quality/safety legislation; corroboration only."
+              }
+            ],
+            "laterRemedySearch": "Current official consolidatedPDF has all four changes; no unresolved missed update identified.",
             "recognitionSearch": "not-needed-unless-candidate",
             "independentReview": "pending",
-            "reviewComplete": false,
-            "completionBlocker": "Current operative national provisions and all four changes not yet completely reviewed.",
-            "blockers": [
-              "Current operative national provisions and all four changes not yet completely reviewed."
-            ]
+            "reviewComplete": true,
+            "completionBlocker": null,
+            "blockers": [],
+            "currentness": "Official bare consolidatedPDF retrieved26October2026; header lists271/2006as amended222/2014, and all targeted clauses actually read.",
+            "assessmentScope": "All four changed testing/sampling clauses only; no certificate of unchanged regime or actual practice."
           },
           "reviewNote": "reference-bundle1.json"
         },
         {
           "countryCode": "NL",
           "country": "Netherlands",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 2,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32012L0039"
@@ -1148,7 +1219,7 @@
           "review": {
             "countryCode": "NL",
             "country": "Netherlands",
-            "status": "pending-national-body-review",
+            "status": "all-four-targeted-current-provisions-verified",
             "notificationCandidates": [
               {
                 "nimCelex": "72012L0039NLD_201056",
@@ -1164,30 +1235,49 @@
             "changeAssessments": [
               {
                 "changeId": "tissue-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-through-current-binding-dynamic-incorporation",
+                "nationalLocator": "Besluit veiligheid en kwaliteit lichaamsmateriaal1.2,1.3,2.1–2.2",
+                "assessment": "Technical requirements and all amendments apply from EU implementation deadline; no separate literal copying needed."
               },
               {
                 "changeId": "partner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-through-current-binding-dynamic-incorporation",
+                "nationalLocator": "Besluit veiligheid en kwaliteit lichaamsmateriaal1.2,1.3,2.1–2.2",
+                "assessment": "Technical requirements and all amendments apply from EU implementation deadline; no separate literal copying needed."
               },
               {
                 "changeId": "nonpartner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-through-current-binding-dynamic-incorporation",
+                "nationalLocator": "Besluit veiligheid en kwaliteit lichaamsmateriaal1.2,1.3,2.1–2.2",
+                "assessment": "Technical requirements and all amendments apply from EU implementation deadline; no separate literal copying needed."
               },
               {
                 "changeId": "reproductive-blood-sampling",
-                "status": "unread-current-national-provision"
+                "status": "matched-through-current-binding-dynamic-incorporation",
+                "nationalLocator": "Besluit veiligheid en kwaliteit lichaamsmateriaal1.2,1.3,2.1–2.2",
+                "assessment": "Technical requirements and all amendments apply from EU implementation deadline; no separate literal copying needed."
               }
             ],
-            "currentNationalEvidence": [],
+            "currentNationalEvidence": [
+              {
+                "url": "https://zoek.officielebekendmakingen.nl/stb-2026-80.html",
+                "locator": "Articles1.2,1.3,2.1–2.2;8.2–8.3",
+                "read": "Actual final7April2026decree, published14April, dynamically incorporates technical amendments; replaces2006decree on commencement. Current consolidated version/commencement check remains."
+              },
+              {
+                "url": "https://wetten.overheid.nl/BWBR0052544/",
+                "locator": "Currentness target",
+                "read": "Parent personally read live current header and Articles1.2,1.3,2.1–2.2 on26October2026; current from1July2026–present."
+              }
+            ],
             "laterRemedySearch": "pending",
             "recognitionSearch": "not-needed-unless-candidate",
-            "independentReview": "pending",
-            "reviewComplete": false,
-            "completionBlocker": "Current operative national provisions and all four changes not yet completely reviewed.",
-            "blockers": [
-              "Current operative national provisions and all four changes not yet completely reviewed."
-            ]
+            "independentReview": "PASS:root independently read current header and complete targeted provisions26October2026.",
+            "reviewComplete": true,
+            "completionBlocker": null,
+            "blockers": [],
+            "currentness": "Parent independently read live barewetten current header26October2026: inforce1July2026–present; same operative1.2,1.3,2.1–2.2 provisions.",
+            "assessmentScope": "All four changed technical testing/sampling duties covered by current express dynamic incorporation. No certificate of unchanged regime or actual practice."
           },
           "reviewNote": "reference-bundle1.json"
         },
@@ -1253,7 +1343,7 @@
         {
           "countryCode": "PT",
           "country": "Portugal",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 1,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32012L0039"
@@ -1262,7 +1352,7 @@
           "review": {
             "countryCode": "PT",
             "country": "Portugal",
-            "status": "pending-national-body-review",
+            "status": "all-four-targeted-current-provisions-verified",
             "notificationCandidates": [
               {
                 "nimCelex": "72012L0039PRT_222532",
@@ -1274,29 +1364,51 @@
             "changeAssessments": [
               {
                 "changeId": "tissue-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexVI1.2",
+                "assessment": "Prevalence donor/partner/parent area trigger."
               },
               {
                 "changeId": "partner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexVII2.4",
+                "assessment": "Prevalence donor/partner/parent area trigger."
               },
               {
                 "changeId": "nonpartner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexVII3.3",
+                "assessment": "Prevalence donor/partner/parent area trigger."
               },
               {
                 "changeId": "reproductive-blood-sampling",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexVII4.2",
+                "assessment": "Nonpartner each donation; partner first within3months, repeat within24months."
               }
             ],
-            "currentNationalEvidence": [],
-            "laterRemedySearch": "pending",
+            "currentNationalEvidence": [
+              {
+                "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-75286810",
+                "locator": "Article25;AnnexVI1.2;VII2.4,3.3,4.2;latest-amendment header",
+                "read": "Actual current consolidated clauses read26October2026; all four targets match. Cached date-selector limitation retained."
+              },
+              {
+                "url": "https://diariodarepublica.pt/dr/detalhe/lei/1-2015-66108232",
+                "locator": "Article3",
+                "read": "Actual2015amendment all four clauses previously read; historical delay resolved and excluded from public cases."
+              }
+            ],
+            "laterRemedySearch": "Actual current consolidation retains three prevalence triggers and first3/repeat24/each-donation rules; all2015changes survive2017amendment.",
             "recognitionSearch": "not-needed-unless-candidate",
             "independentReview": "pending",
-            "reviewComplete": false,
-            "completionBlocker": "Current operative national provisions and all four changes not yet completely reviewed.",
-            "blockers": [
-              "Current operative national provisions and all four changes not yet completely reviewed."
+            "reviewComplete": true,
+            "completionBlocker": null,
+            "blockers": [],
+            "currentness": "Official DRE current consolidation retrieved26October2026 lists latest amendment25August2017. Displayed cached date selector20September2026 is disclosed; bounded2025/2026later-amendment search found no later target change.",
+            "assessmentScope": "Four changed testing/sampling duties only; no certificate of unchanged regime or actual practice.",
+            "limitations": [
+              "DRE parsed page displayed20September2026date selector though retrieved26October; latest-amendment field25August2017. No later amendment located in targeted search."
             ]
           },
           "reviewNote": "reference-bundle1.json"
@@ -1304,7 +1416,7 @@
         {
           "countryCode": "RO",
           "country": "Romania",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 1,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32012L0039"
@@ -1313,7 +1425,7 @@
           "review": {
             "countryCode": "RO",
             "country": "Romania",
-            "status": "pending-national-body-review",
+            "status": "all-four-targeted-current-provisions-verified",
             "notificationCandidates": [
               {
                 "nimCelex": "72012L0039ROU_203136",
@@ -1325,30 +1437,54 @@
             "changeAssessments": [
               {
                 "changeId": "tissue-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexII1.2",
+                "assessment": "Prevalence trigger covers donor/partner/parent area."
               },
               {
                 "changeId": "partner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexIII1.4",
+                "assessment": "Prevalence trigger covers donor/partner/parent area."
               },
               {
                 "changeId": "nonpartner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexIII2.3",
+                "assessment": "Prevalence trigger covers donor/partner/parent area."
               },
               {
                 "changeId": "reproductive-blood-sampling",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "AnnexIII3.2",
+                "assessment": "Nonpartner each donation; partner first within3months before donation and repeats at latest24months."
               }
             ],
-            "currentNationalEvidence": [],
-            "laterRemedySearch": "pending",
+            "currentNationalEvidence": [
+              {
+                "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/187491",
+                "locator": "AnnexII1.2;III1.4,2.3,3.2;current consolidation29April2017",
+                "read": "Actual current consolidated national annex read; all four target clauses match."
+              },
+              {
+                "url": "https://legislatie.just.ro/Public/DetaliiDocument/86148",
+                "locator": "Principal Order1763/2007; consolidation history",
+                "read": "Current official principal points to current annex; latest consolidation29April2017."
+              },
+              {
+                "url": "https://legislatie.just.ro/Public/DetaliiDocument/146323",
+                "locator": "Order371/2013ArticleI3–6;II",
+                "read": "Actual full implementing amendment read; replaces three HTLV clauses and sampling, expressly cites2012/39."
+              }
+            ],
+            "laterRemedySearch": "Current official consolidated clauses retain all four2013changes. No unresolved update omitted located.",
             "recognitionSearch": "not-needed-unless-candidate",
             "independentReview": "pending",
-            "reviewComplete": false,
-            "completionBlocker": "Current operative national provisions and all four changes not yet completely reviewed.",
-            "blockers": [
-              "Current operative national provisions and all four changes not yet completely reviewed."
-            ]
+            "reviewComplete": true,
+            "completionBlocker": null,
+            "blockers": [],
+            "currentness": "Official principal and annex current consolidations selected29April2017 with history2013/2014/2017, retrieved26October2026. All relevant operative clauses personally read.",
+            "assessmentScope": "All four changed substantive testing/sampling duties only; no certificate of unchanged regime or actual practice."
           },
           "reviewNote": "reference-bundle1.json"
         },
@@ -1521,7 +1657,7 @@
         {
           "countryCode": "SE",
           "country": "Sweden",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 1,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32012L0039"
@@ -1530,7 +1666,7 @@
           "review": {
             "countryCode": "SE",
             "country": "Sweden",
-            "status": "pending-national-body-review",
+            "status": "all-four-targeted-current-provisions-verified",
             "notificationCandidates": [
               {
                 "nimCelex": "72012L0039SWE_216967",
@@ -1542,30 +1678,54 @@
             "changeAssessments": [
               {
                 "changeId": "tissue-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "Annex3 B4",
+                "assessment": "Prevalence trigger expressly used for non-reproductive donors."
               },
               {
                 "changeId": "partner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "Annex4 B2",
+                "assessment": "Universal HTLV-I/II testing covers relevant reproductive donors, a stricter protective measure."
               },
               {
                 "changeId": "nonpartner-htlv-prevalence",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "Annex4 C2",
+                "assessment": "Universal HTLV-I/II testing covers relevant reproductive donors, a stricter protective measure."
               },
               {
                 "changeId": "reproductive-blood-sampling",
-                "status": "unread-current-national-provision"
+                "status": "matched-in-read-current-route",
+                "nationalLocator": "Annex4 A3",
+                "assessment": "Partner first sample within3months; subsequent within24months; nonpartner every donation."
               }
             ],
-            "currentNationalEvidence": [],
-            "laterRemedySearch": "pending",
+            "currentNationalEvidence": [
+              {
+                "url": "https://socialstyrelsen.se/kunskapsstod-och-regler/regler-och-riktlinjer/foreskrifter-och-allmanna-rad/konsoliderade-foreskrifter/senaste-version-av-socialstyrelsens-foreskrifter-sosfs-200930-om-donation-och-tillvaratagande-av-vavnader-och-celler/",
+                "locator": "Currentness heading and linked Annex3/4",
+                "read": "Latest-version metadata and relevant operative main body actually read; latest2024:18. Printed annexes control."
+              },
+              {
+                "url": "https://socialstyrelsen.se/globalassets/sharepoint-dokument/dokument-webb/foreskrifter-och-allmanna-rad/foreskrift-bilaga3-sosfs-2009-30-krav-pa-obligatoriska-laboratorietester-av-blodprov-fran-donatorer-av-vavnader-och-celler-forutom-konsceller.pdf",
+                "locator": "Annex3 B4,printedp6",
+                "read": "Actual authentic2014:3 annex read: high-prevalence donor/partner/parent areas."
+              },
+              {
+                "url": "https://www.socialstyrelsen.se/globalassets/sharepoint-dokument/dokument-webb/foreskrifter-och-allmanna-rad/foreskrift-bilaga4-sosfs-2009-30-krav-pa-donatorers-lamplighet-samt-krav-pa-obligatoriska-laboratorietester-av-prov-fran-donatorer-av-konsceller.pdf",
+                "locator": "Annex4 A3,B2,C2,printedpp7–9",
+                "read": "Entire authentic annex read in memory: sampling intervals and universal reproductive HTLV tests."
+              }
+            ],
+            "laterRemedySearch": "Official latest-version body and linked current annexes checked; no later replacement shown.",
             "recognitionSearch": "not-needed-unless-candidate",
-            "independentReview": "pending",
-            "reviewComplete": false,
-            "completionBlocker": "Current operative national provisions and all four changes not yet completely reviewed.",
-            "blockers": [
-              "Current operative national provisions and all four changes not yet completely reviewed."
-            ]
+            "independentReview": "PASS:research independently read authenticAnnex3B4andAnnex4C2, checked2004/23Article4(2)stricter-protection route. Timing/currentness remain reference own actual reads.",
+            "reviewComplete": true,
+            "completionBlocker": null,
+            "blockers": [],
+            "assessmentScope": "Four changed substantive testing/sampling duties only; universal reproductive HTLV testing is a stricter protective route, not a missed optional relaxation.",
+            "currentness": "Official latest-version landing26October2026: consolidated throughHSLF-FS2024:18, effective1October2024. Current landing directly links authentic2014:3 Annex3/4; printed amendment annexes read."
           },
           "reviewNote": "reference-bundle1.json"
         }
@@ -2681,7 +2841,7 @@
         {
           "countryCode": "RO",
           "country": "Romania",
-          "status": "in-progress",
+          "status": "complete",
           "discovery": {
             "measureCount": 1,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32024L0299"
@@ -2689,7 +2849,7 @@
           "findingIds": [],
           "review": {
             "country": "ROU",
-            "status": "primary-provisions-partly-reviewed",
+            "status": "reviewed-current-national-text-supported",
             "notificationCount": 1,
             "notifications": [
               {
@@ -2703,7 +2863,7 @@
             "changes": {
               "299-C1": "current-provision-supported",
               "299-C2": "current-provision-supported",
-              "299-C3": "pending",
+              "299-C3": "reference-and-notification-supported",
               "299-C4": "not-applicable-language-specific-correction"
             },
             "evidence": [
@@ -2714,11 +2874,20 @@
                 "locator": "CurrentLaw293/2018 Annex1TableC; Annex4Part2(2); consolidation history17June2024",
                 "assessment": "Both projection granularity and conditional aggregation justification match the introduced changes. Current official consolidation shows17June2024 amendmentHG643/2024 and no later consolidation; original amending publication/reference still being checked.",
                 "readScope": "Actual current official table, methodology and change annotations read; not merely search snippets."
+              },
+              {
+                "urls": [
+                  "https://legislatie.just.ro/public/DetaliiDocument/284058"
+                ],
+                "locator": "HG643/2024 sole article points1–2, concluding EU-reference paragraph; MO56017June2024",
+                "assessment": "The full official text was read through the primary page search-index representation after repeated direct-access failures. It replaces both changed clauses and expressly transposes2024/299; the separately read currentLaw293/2018 incorporates both replacements. Directive-specific NIM metadata corroborates notification.",
+                "readScope": "Entire original amending text read in indexed official primary representation; actual current consolidated provisions separately read."
               }
             ],
             "limitations": [
-              "Notification metadata is discovery only; current national provision and alternative routes not yet assessed."
-            ]
+              "Direct original-page retrieval repeatedly failed, so its full official indexed representation supplies publication/reference evidence. Current operative clauses were directly read separately. This checks national legal updating, not actual projections or administrative reporting."
+            ],
+            "reviewComplete": true
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -5118,7 +5287,7 @@
         {
           "countryCode": "DE",
           "country": "Germany",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 1,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32024L0505"
@@ -5126,7 +5295,7 @@
           "findingIds": [],
           "review": {
             "country": "DEU",
-            "status": "pending-primary-provision-review",
+            "status": "reviewed-substantive-update-supported-specific-publication-reference-inconclusive",
             "notificationCount": 1,
             "notifications": [
               {
@@ -5138,17 +5307,31 @@
               }
             ],
             "changes": {
-              "505-C1": "pending",
+              "505-C1": "current-fallback-supported",
               "505-C2": "retained-context-not-separate-new-obligation",
-              "505-C3": "pending",
-              "505-C4": "pending",
-              "505-C5": "pending",
-              "505-C6": "pending"
+              "505-C3": "current-upgrade-route-supported",
+              "505-C4": "current-upgrade-route-supported",
+              "505-C5": "current-grandfather-recognition-supported",
+              "505-C6": "notification-supported-specific-directive-reference-inconclusive"
             },
-            "evidence": [],
+            "evidence": [
+              {
+                "urls": [
+                  "https://www.gesetze-im-internet.de/pflbg/__42.html",
+                  "https://www.gesetze-im-internet.de/pflbg/__41.html",
+                  "https://www.gesetze-im-internet.de/pflbg/__40.html",
+                  "https://www.gesetze-im-internet.de/pflbg/BJNR258110017.html",
+                  "https://www.recht.bund.de/bgbl/1/2025/259/regelungstext.pdf?__blob=publicationFile&v=2"
+                ],
+                "locator": "PflBG42(3)nos2–3,(5)–(6),41(2),40(2)–(3); amending Act28October2025 Article2(13),Article14(3)",
+                "assessment": "Actual current provisions read: upgrade qualifications have separate alternatives without practice condition;42(5) directs insufficient-practice applicants to general recognition;42(6) preserves pre3March2024 recognitions. Relevant amendment effective1November2025, not2027. Current header last22December2025; later renumbering incorporated. Official EU list references the parent directive as amended, but does not specifically name2024/505. Directive-specific NIM corroborates notification.",
+                "readScope": "Entire relevant current sections, current consolidation header, original amendment clauses and commencement actually read."
+              }
+            ],
             "limitations": [
-              "Notification metadata is discovery only; current national provision and alternative routes not yet assessed."
-            ]
+              "All introduced substantive routes were assessed against current national law. Whether a separate accompanying official-publication reference fulfils the specific Article2 reference requirement remains inconclusive; no formal-reference infringement is inferred. Historical legislative delay is resolved and excluded. Actual licensing decisions are not audited."
+            ],
+            "reviewComplete": true
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -5192,7 +5375,7 @@
         {
           "countryCode": "HU",
           "country": "Hungary",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 2,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32024L0505"
@@ -5200,7 +5383,7 @@
           "findingIds": [],
           "review": {
             "country": "HUN",
-            "status": "pending-primary-provision-review",
+            "status": "reviewed-current-substantive-routes-supported",
             "notificationCount": 2,
             "notifications": [
               {
@@ -5221,17 +5404,29 @@
               }
             ],
             "changes": {
-              "505-C1": "pending",
+              "505-C1": "current-general-system-fallback-supported",
               "505-C2": "retained-context-not-separate-new-obligation",
-              "505-C3": "pending",
-              "505-C4": "pending",
-              "505-C5": "pending",
-              "505-C6": "pending"
+              "505-C3": "current-upgrade-route-supported",
+              "505-C4": "current-upgrade-route-supported",
+              "505-C5": "current-grandfather-recognition-supported",
+              "505-C6": "reference-and-notification-supported"
             },
-            "evidence": [],
+            "evidence": [
+              {
+                "urls": [
+                  "https://njt.jog.gov.hu/jogszabaly/2008-4-20-0B",
+                  "https://njt.jog.gov.hu/jogszabaly/2001-100-00-00",
+                  "https://njt.jog.gov.hu/jogszabaly/2025-7-20-0A"
+                ],
+                "locator": "4/2008EüM Annex2 acquired-rights point11(b)–(d),Section3(1)(g);ActC/2001Section29(2)(b);7/2025BMSections3–4",
+                "assessment": "Actual current official bodies read: two upgrade alternatives include diploma supplement/certificate without the practice condition; point11(d) preserves recognitions before3March2024. Section29(2)(b) already admits nurses lacking practice required by delegated sectoral legislation. Express505reference and directive-specific NIM present. Consolidated order version4March2025; amender effective next day after3March publication. Spent amending provisions do not undo incorporated rules.",
+                "readScope": "Actual current changed qualification clauses, fallback clause, implementation reference and original commencement read; later base URL checked26October2026."
+              }
+            ],
             "limitations": [
-              "Notification metadata is discovery only; current national provision and alternative routes not yet assessed."
-            ]
+              "This is a national legal-update assessment, not an audit of recognition decisions. Existing full-responsibility-of-nursing-activities condition is distinct from a three-year practice-certificate condition. No current omitted route demonstrated."
+            ],
+            "reviewComplete": true
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -5445,7 +5640,7 @@
         {
           "countryCode": "MT",
           "country": "Malta",
-          "status": "in-progress",
+          "status": "complete",
           "discovery": {
             "measureCount": 1,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32024L0505"
@@ -5453,7 +5648,7 @@
           "findingIds": [],
           "review": {
             "country": "MLT",
-            "status": "primary-enactment-partly-reviewed",
+            "status": "reviewed-current-substantive-routes-supported-with-retained-text-qualification",
             "notificationCount": 1,
             "notifications": [
               {
@@ -5466,12 +5661,12 @@
               }
             ],
             "changes": {
-              "505-C1": "pending",
+              "505-C1": "current-general-system-fallback-supported",
               "505-C2": "retained-context-not-separate-new-obligation",
-              "505-C3": "enactment-supported-currentness-pending",
-              "505-C4": "enactment-supported-currentness-pending",
-              "505-C5": "enactment-supported-currentness-pending",
-              "505-C6": "pending"
+              "505-C3": "current-upgrade-route-supported",
+              "505-C4": "current-upgrade-route-supported",
+              "505-C5": "current-grandfather-recognition-supported",
+              "505-C6": "reference-and-notification-supported"
             },
             "evidence": [
               {
@@ -5481,11 +5676,22 @@
                 "locator": "LN57/2025 Regulation2,new SixthSchedule headings",
                 "assessment": "Complete official4-page amendment read;both upgrade alternatives and preserved prior recognitions included. General-system amendment elsewhere and current consolidated statute still pending.",
                 "readScope": "Whole original amending instrument."
+              },
+              {
+                "urls": [
+                  "https://legislation.mt/eli/cap/464/eng/pdf",
+                  "https://legislation.mt/eli/sl/451.3/eng/pdf",
+                  "https://legislation.mt/eli/ln/2025/57/eng/pdf"
+                ],
+                "locator": "Cap464 SixthSchedule pp164–166;SL451.03 Regulations2,3,12(b);LN57/2025 Regulations1–2",
+                "assessment": "Actual current schedule contains distinct upgrade alternatives without practice and exact pre3March2024 recognition protection. GeneralReg12(b) admits nurses missing sectoral practice; Reg2 includesCap464. Current consolidated Cap464 header incorporatesLN40/2026; general regulations list latest145/2020. Original expressly references2024/505; directive-specific NIM corroborates notification. Peer independently read and challenged the same provisions.",
+                "readScope": "Actual current relevant schedule and general-system provisions, header histories, and entire original amender read."
               }
             ],
             "limitations": [
-              "Notification metadata is discovery only; current national provision and alternative routes not yet assessed."
-            ]
+              "An older Romanian practice paragraph remains immediately before the new special section. The latter expressly says only its paragraph2 applies, supporting the later-specific alternatives; no cumulative practice restriction is demonstrated. This is an interpretive qualification, not a public omission finding. Actual licensing decisions are outside the audit."
+            ],
+            "reviewComplete": true
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -7128,7 +7334,7 @@
         {
           "countryCode": "ES",
           "country": "Spain",
-          "status": "in-progress",
+          "status": "complete",
           "discovery": {
             "measureCount": 3,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32024L2839"
@@ -7136,7 +7342,7 @@
           "findingIds": [],
           "review": {
             "country": "ESP",
-            "status": "primary-provisions-partly-reviewed",
+            "status": "reviewed-current-copy-duty-removed",
             "notificationCount": 3,
             "notifications": [
               {
@@ -7167,10 +7373,10 @@
             "changes": {
               "2839-C1": "no-national-legislative-transposition-required-article5;administrative-practice-outside-audit",
               "2839-C2": "current-copy-duty-removal-supported",
-              "2839-C3": "not-national-obligation-commission-only",
-              "2839-C4": "not-national-obligation-commission-only",
+              "2839-C3": "not-national-obligation-Commission-only",
+              "2839-C4": "not-national-obligation-Commission-only",
               "2839-C5": "first-report-not-due-until2027;no-national-legislative-transposition-required-article5",
-              "2839-C6": "pending",
+              "2839-C6": "reference-and-notification-supported",
               "2839-C7": "not-applicable-language-specific-correction"
             },
             "evidence": [
@@ -7182,12 +7388,22 @@
                 "locator": "RD212/2002 Article17; RD302/2026 Article1(2), final4",
                 "assessment": "Current Article17 is deleted. Authentic amendment and current consolidation agree on commencement11April2026, despite other provisions starting30May. The historical delay is resolved.",
                 "readScope": "Relevant operative provisions and national commencement read from official primary texts26October2026; other sectors remain pending."
+              },
+              {
+                "urls": [
+                  "https://www.boe.es/buscar/act.php?id=BOE-A-2002-4099",
+                  "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-8023"
+                ],
+                "locator": "CurrentRD212/2002 Articles4–6,17; RD302/2026 Article1(2),final3(2),final4",
+                "assessment": "Current marketing/free-movement clauses require compliance, CE marking and an accompanying declaration, not routine submission. Article17 deleted11April2026. Original expressly identifies2024/2839 and gives the noise repeal immediate next-day commencement; general30May commencement applies elsewhere. Current BOE body last updated10April2026. Directive-specific NIM corroborates communication.",
+                "readScope": "Actual current clauses and original EU-reference/commencement read."
               }
             ],
             "limitations": [
-              "Notification metadata is discovery only; current national provision and alternative routes not yet assessed."
+              "Historical delay is resolved and excluded from findings. No audit of actual administrative reporting. Other changed provisions have no current national legislative-transposition requirement underArticle5, concern the Commission, or first apply to2027 reports."
             ],
-            "coverageQualification": "Article5 requires national legislation only for Article2(1). Commission-only changes do not create national-law duties. Irradiation administrative reporting practice and future radio-report performance are outside this current national-law audit; any discovered inconsistent binding timetable is separately assessed."
+            "coverageQualification": "Article5 requires national legislation only for Article2(1). Commission-only changes do not create national-law duties. Irradiation administrative reporting practice and future radio-report performance are outside this current national-law audit; any discovered inconsistent binding timetable is separately assessed.",
+            "reviewComplete": true
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -10584,6 +10800,12 @@
                 "url": "https://www.legifrance.gouv.fr/eli/arrete/2026/7/27/ECOI2612894A/jo/texte",
                 "locator": "Published 30 July 2026; applies 29 August. All three permissions match.",
                 "role": "Actual national body personally read, not inferred from notification"
+              },
+              {
+                "title": "Current AnnexII identifier located through amended-version history",
+                "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054562255",
+                "locator": "Version from29August2026; direct preview blocked. AuthenticJuly2026amendment already read; current full body access pending.",
+                "role": "Currentness discovery, not additional operative-body proof"
               }
             ],
             "uncertainties": [
@@ -12034,7 +12256,37 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/0bea85d7-eac1-4b9c-b70b-40f2aa4f3476",
+                "country": "http://publications.europa.eu/resource/authority/country/AUT",
+                "title": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der die Fruchtsaftverordnung geändert wird",
+                "nimCelex": "72024L1438AUT_202601820",
+                "notification": "2026-03-18"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/224300ed-14fc-4cee-b66c-9feb0e63e1ce",
+                "country": "http://publications.europa.eu/resource/authority/country/AUT",
+                "title": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz mit der die Konfitürenverordnung 2004 geändert wird",
+                "nimCelex": "72024L1438AUT_202601821",
+                "notification": "2026-03-18"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/5c89ad9b-329c-44f9-a6bb-fe8995d097d8",
+                "country": "http://publications.europa.eu/resource/authority/country/AUT",
+                "title": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der die Honigverordnung geändert wird",
+                "nimCelex": "72024L1438AUT_202601819",
+                "notification": "2026-03-18"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/d2918078-3eb2-4cc3-a7f7-9677b30c07bc",
+                "country": "http://publications.europa.eu/resource/authority/country/AUT",
+                "title": "Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz, mit der die Trockenmilchverordnung geändert wird",
+                "nimCelex": "72024L1438AUT_202601822",
+                "notification": "2026-03-18"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12080,7 +12332,30 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/2cf19f7b-9d19-4b45-b5c5-786c99dd406f",
+                "country": "http://publications.europa.eu/resource/authority/country/BEL",
+                "title": "Koninklijk besluit betreffende vruchtensappen, vruchtennectars en bepaalde soortgelijke producten",
+                "nimCelex": "72024L1438BEL_202602678",
+                "notification": "2026-05-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/a202588f-6fe1-4cc9-ba67-3b2d84cf9664",
+                "country": "http://publications.europa.eu/resource/authority/country/BEL",
+                "title": "Koninklijk besluit tot wijziging van het koninklijk besluit van 19 maart 2004 betreffende bepaalde voor menselijke\nvoeding bestemde, geheel ofgedeeltelijk gedehydrateerde verduurzaamde melk",
+                "nimCelex": "72024L1438BEL_202602677",
+                "notification": "2026-05-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/fb2b661e-812c-4bad-adc2-098929807799",
+                "country": "http://publications.europa.eu/resource/authority/country/BEL",
+                "title": "Koninklijk besluit betreffende honing",
+                "nimCelex": "72024L1438BEL_202602676",
+                "notification": "2026-05-06"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12117,7 +12392,44 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/0df7d3e5-7d71-4b16-8737-cb6a80734eb7",
+                "country": "http://publications.europa.eu/resource/authority/country/BGR",
+                "title": "НАРЕДБА ЗА ИЗИСКВАНИЯТА КЪМ НЯКОИ ЧАСТИЧНО ИЛИ НАПЪЛНО ДЕХИДРАТИРАНИ МЛЕКА, ПРЕДНАЗНАЧЕНИ ЗА КОНСУМАЦИЯ ОТ ЧОВЕКА",
+                "nimCelex": "72024L1438BGR_202502530",
+                "notification": "2025-05-13"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/9d23295a-b473-4691-9677-647ef839e0d2",
+                "country": "http://publications.europa.eu/resource/authority/country/BGR",
+                "title": "ПОСТАНОВЛЕНИЕ № 31 на МС от 22.04.2025 г. за приемане на Наредба за изискванията към плодовите конфитюри, желета, мармалади, желе-мармалади и подсладено пюре от кестени",
+                "nimCelex": "72024L1438BGR_202503226",
+                "notification": "2025-06-05"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/a5563b5b-abc2-46ef-98eb-4e2815272098",
+                "country": "http://publications.europa.eu/resource/authority/country/BGR",
+                "title": "НАРЕДБА ЗА ИЗИСКВАНИЯТА КЪМ СОКОВЕТЕ ОТ ПЛОДОВЕ И НЯКОИ СХОДНИ ПРОДУКТИ, ПРЕДНАЗНАЧЕНИ ЗА КОНСУМАЦИЯ ОТ ЧОВЕКА",
+                "nimCelex": "72024L1438BGR_202502529",
+                "notification": "2025-05-13"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/a6f3167d-0075-4a3b-a346-f5271ea5916b",
+                "country": "http://publications.europa.eu/resource/authority/country/BGR",
+                "title": "НАРЕДБА ЗА ИЗИСКВАНИЯТА КЪМ ПЧЕЛНИЯ МЕД, ПРЕДНАЗНАЧЕН ЗА КОНСУМАЦИЯ ОТ ЧОВЕКА",
+                "nimCelex": "72024L1438BGR_202502528",
+                "notification": "2025-05-13"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/bd12db69-2b6e-46a2-a388-898431052d73",
+                "country": "http://publications.europa.eu/resource/authority/country/BGR",
+                "title": "НАРЕДБА ЗА ИЗИСКВАНИЯТА КЪМ ПЛОДОВИТЕ КОНФИТЮРИ, ЖЕЛЕТА, МАРМАЛАДИ, ЖЕЛЕ-МАРМАЛАДИ И ПОДСЛАДЕНО ПЮРЕ ОТ КЕСТЕНИ",
+                "nimCelex": "72024L1438BGR_202502527",
+                "notification": "2025-05-13"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12161,7 +12473,37 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/44438fe0-d365-43c7-89df-32394e66f09c",
+                "country": "http://publications.europa.eu/resource/authority/country/HRV",
+                "title": "PRAVILNIK O VOĆNIM SOKOVIMA I NJIMA SLIČNIM PROIZVODIMA NAMIJENJENIM ZA KONZUMACIJU",
+                "nimCelex": "72024L1438HRV_202506039",
+                "notification": "2025-10-31"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/55f578ba-e7f7-4f73-8332-58eb7b7f95df",
+                "country": "http://publications.europa.eu/resource/authority/country/HRV",
+                "title": "PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O VOĆNIM DŽEMOVIMA, ŽELEIMA, MARMELADAMA, PEKMEZU TE ZASLAĐENOM KESTEN PIREU",
+                "nimCelex": "72024L1438HRV_202506544",
+                "notification": "2025-12-01"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/ad32d65d-5783-4577-a744-c788382386cd",
+                "country": "http://publications.europa.eu/resource/authority/country/HRV",
+                "title": "PRAVILNIK O MEDU",
+                "nimCelex": "72024L1438HRV_202505494",
+                "notification": "2025-10-07"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/c4a7459f-7ce8-4b92-8641-60f73e2b343f",
+                "country": "http://publications.europa.eu/resource/authority/country/HRV",
+                "title": "PRAVILNIK O UGUŠĆENOM (KONDENZIRANOM) MLIJEKU I MLIJEKU U PRAHU",
+                "nimCelex": "72024L1438HRV_202505496",
+                "notification": "2025-10-07"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12206,7 +12548,49 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/79bcce6e-eec3-42c1-85fa-780ad4a224b8",
+                "country": "http://publications.europa.eu/resource/authority/country/CYP",
+                "title": "Το Περί Τροποποίησης Παραρτημάτων των Περί Μελιού Κανονισμών, Διάταγμα του 2026.",
+                "ref": "Κ.Δ.Π.326/2026",
+                "nimCelex": "72024L1438CYP_202607051",
+                "notification": "2026-09-07"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/bbcebfba-6053-4eeb-8809-f1c8dbfd5ca2",
+                "country": "http://publications.europa.eu/resource/authority/country/CYP",
+                "title": "Οι Περί Μαρµελάδων, Ζελέδων, Μαρµελάδων Εσπεριδοειδών και Κρέµας Κάστανου (Τροποποιητικοί) Κανονισμοί του 2026.",
+                "ref": "Κ.Δ.Π.79/2026",
+                "nimCelex": "72024L1438CYP_202601298",
+                "notification": "2026-02-20"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/d5542ed9-5e3b-4142-b53a-fb3a2c445665",
+                "country": "http://publications.europa.eu/resource/authority/country/CYP",
+                "title": "Οι Περί Μελιού (Τροποποιητικοί) Κανονισμοί του 2026",
+                "ref": "Κ.Δ.Π.78/2026",
+                "nimCelex": "72024L1438CYP_202601297",
+                "notification": "2026-02-20"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/e944cbdd-6339-4850-9295-d7d8632e02c4",
+                "country": "http://publications.europa.eu/resource/authority/country/CYP",
+                "title": "Οι Περί Αφυδατωμένου Διατηρημένου Γάλακτος (Τροποποιητικοί) Κανονισμοί του 2026",
+                "ref": "Κ.Δ.Π.80/2026",
+                "nimCelex": "72024L1438CYP_202601299",
+                "notification": "2026-02-20"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/f0c9b0c0-6802-4cb3-8348-cc770cfa613b",
+                "country": "http://publications.europa.eu/resource/authority/country/CYP",
+                "title": "Οι Περί Χυμών Φρούτων και Ομοειδών Προϊόντων (Τροποποιητικοί) Κανονισμοί του 2026",
+                "ref": "Κ.Δ.Π.77/2026",
+                "nimCelex": "72024L1438CYP_202601296",
+                "notification": "2026-02-20"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12338,7 +12722,57 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/05192b3f-cc0f-11e6-ad7c-01aa75ed71a1",
+                "country": "http://publications.europa.eu/resource/authority/country/CZE",
+                "title": "Vyhláška č. 397/2016 Sb., o požadavcích na mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje",
+                "ref": "397/2016",
+                "nimCelex": "72024L1438CZE_243479",
+                "notification": "2025-12-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/509933ea-6126-45fa-8347-e1a27691522d",
+                "country": "http://publications.europa.eu/resource/authority/country/CZE",
+                "title": "Vyhláška č. 36/2026 Sb., kterou se mění vyhláška č. 248/2018 Sb., o požadavcích na nápoje, kvasný ocet a droždí",
+                "ref": "36/2026",
+                "nimCelex": "72024L1438CZE_202601982",
+                "notification": "2026-03-25"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/545db11c-b075-40da-9738-00e6201cdfd3",
+                "country": "http://publications.europa.eu/resource/authority/country/CZE",
+                "title": "Vyhláška č. 377/2025 Sb., kterou se mění vyhláška č. 397/2016 Sb., o požadavcích na mléko a mléčné výrobky, mražené krémy a jedlé tuky a oleje, ve znění vyhlášky č. 274/2019 Sb.",
+                "ref": "377/2025",
+                "nimCelex": "72024L1438CZE_202506866",
+                "notification": "2025-12-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/bf559fd9-89eb-4abc-92e5-4b06cf92c324",
+                "country": "http://publications.europa.eu/resource/authority/country/CZE",
+                "title": "Vyhláška č. 358/2025 Sb., kterou se mění vyhláška č. 397/2021 Sb., o požadavcích na konzervované ovoce a konzervovanou zeleninu, skořápkové plody, houby, brambory a výrobky z nich a banány",
+                "ref": "358/2025",
+                "nimCelex": "72024L1438CZE_202506865",
+                "notification": "2025-12-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/c7a752b6-7e65-4da7-8b6b-8fad86b56e8d",
+                "country": "http://publications.europa.eu/resource/authority/country/CZE",
+                "title": "Vyhláška č. 490/2025 Sb., o požadavcích na přírodní sladidla, potraviny se sladivými účinky, cukrovinky, kakaové boby, kakaové a čokoládové výrobky a med",
+                "ref": "490/2025",
+                "nimCelex": "72024L1438CZE_202506867",
+                "notification": "2025-12-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/dee4c354-8017-11ec-8c40-01aa75ed71a1",
+                "country": "http://publications.europa.eu/resource/authority/country/CZE",
+                "title": "Vyhláška č. 397/2021 Sb., o požadavcích na konzervované ovoce a konzervovanou zeleninu, skořápkové plody, houby, brambory a výrobky z nich a banány",
+                "ref": "397/2021",
+                "nimCelex": "72024L1438CZE_202200580",
+                "notification": "2025-12-10"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12382,7 +12816,41 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/0e1a3230-9faa-4ecd-9290-768acaa4cb3f",
+                "country": "http://publications.europa.eu/resource/authority/country/DNK",
+                "title": "Bekendtgørelse om honning",
+                "nimCelex": "72024L1438DNK_202506834",
+                "notification": "2025-12-12",
+                "nationalEli": "https://www.retsinformation.dk/eli/lta/2025/1503"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/46b34e1f-87bb-4b33-9bab-6970093c9fd1",
+                "country": "http://publications.europa.eu/resource/authority/country/DNK",
+                "title": "Bekendtgørelse om marmelade og frugtgelé samt kastanjecreme",
+                "nimCelex": "72024L1438DNK_202506836",
+                "notification": "2025-12-12",
+                "nationalEli": "https://www.retsinformation.dk/eli/lta/2025/1504"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/593ec53a-c5f6-4c94-9c2e-1914f7053720",
+                "country": "http://publications.europa.eu/resource/authority/country/DNK",
+                "title": "Bekendtgørelse om frugtsaft mv.",
+                "nimCelex": "72024L1438DNK_202506835",
+                "notification": "2025-12-12",
+                "nationalEli": "https://www.retsinformation.dk/eli/lta/2025/1502"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/74ef7662-ada1-491e-88a2-7729641346f9",
+                "country": "http://publications.europa.eu/resource/authority/country/DNK",
+                "title": "Bekendtgørelse om mælkeprodukter mv.",
+                "nimCelex": "72024L1438DNK_202506833",
+                "notification": "2025-12-11",
+                "nationalEli": "https://www.retsinformation.dk/eli/lta/2025/1474"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12427,7 +12895,57 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/222d3cb1-d579-4e3f-97e9-573f2dfbf686",
+                "country": "http://publications.europa.eu/resource/authority/country/EST",
+                "title": "Põllumajandusministri 20. novembri 2014. a määruse nr 104 „Mee koostis- ja kvaliteedinõuded ning toidualase teabe esitamise nõuded” muutmine",
+                "ref": "126112025003",
+                "nimCelex": "72024L1438EST_202507021",
+                "notification": "2025-12-16"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/26e38488-c672-4605-a328-bdce950ebb0d",
+                "country": "http://publications.europa.eu/resource/authority/country/EST",
+                "title": "Põllumajandusministri 6. novembri 2014. a määruse nr 92 „Mahlatoodete koostis- ja kvaliteedinõuded ning toidualase teabe esitamise nõuded” muutmine",
+                "ref": "106062025001",
+                "nimCelex": "72024L1438EST_202507019",
+                "notification": "2025-12-16"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/77b9a532-0a73-44bd-9832-0f7aefece85e",
+                "country": "http://publications.europa.eu/resource/authority/country/EST",
+                "title": "Põllumajandusministri 28. novembri 2014. a määruse nr 113 „Kondenspiimade ja piimapulbrite koostis- ja kvaliteedinõuded ning toidualase teabe esitamise nõuded, kondenspiimadest ja piimapulbritest proovide võtmise ja proovide analüüsimise meetodid” muutmine",
+                "ref": "130052025005",
+                "nimCelex": "72024L1438EST_202506987",
+                "notification": "2025-12-15"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/82a375c4-17b6-48c7-883c-771e075eacc3",
+                "country": "http://publications.europa.eu/resource/authority/country/EST",
+                "title": "Põllumajandusministri määruse nr 92 „Mahlatoodete koostis- ja kvaliteedinõuded ning toidualase teabe esitamise nõuded” muutmine - Lisa 1 (Brixi miinimumväärtused)",
+                "ref": "106062025001",
+                "nimCelex": "72024L1438EST_202603335",
+                "notification": "2026-05-28"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/84a56166-95a2-4213-afd8-b68600a1b77e",
+                "country": "http://publications.europa.eu/resource/authority/country/EST",
+                "title": "Mee koostis- ja kvaliteedinõuded ning toidualase teabe esitamise nõuded",
+                "ref": "122052026002",
+                "nimCelex": "72024L1438EST_202607163",
+                "notification": "2026-09-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/ae659868-9eee-4234-8ec9-63a52491920f",
+                "country": "http://publications.europa.eu/resource/authority/country/EST",
+                "title": "Põllumajandusministri 6. novembri 2014. a määruse nr 95 „Džemmi, želee, marmelaadi ja magustatud kastanipüree koostis- ja kvaliteedinõuded ning toidualase teabe esitamise nõuded” muutmine",
+                "ref": "109122025003",
+                "nimCelex": "72024L1438EST_202507022",
+                "notification": "2025-12-16"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12483,7 +13001,49 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/412581a2-9be0-47a8-b7a5-c7b834f8dfef",
+                "country": "http://publications.europa.eu/resource/authority/country/FIN",
+                "title": "Maa- ja metsätalousministeriön asetus hunajasta / Jord- och skogsbruksministeriets förordning om honung (224/2025) 9.5.2025",
+                "ref": "9.5.2025/224",
+                "nimCelex": "72024L1438FIN_202503416",
+                "notification": "2025-06-13"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/aedab179-41ac-4f74-b7b6-bbcad69103d1",
+                "country": "http://publications.europa.eu/resource/authority/country/FIN",
+                "title": "Maa- ja metsätalousministeriön asetus tietyistä osittain tai kokonaan kuivatuista säilötyistä maidoista / Jord- och skogsbruksministeriets förordning om vissa former av konserverad, helt eller delvis dehydratiserad mjölk (225/2025) 9.5.2025",
+                "ref": "9.5.2025/225",
+                "nimCelex": "72024L1438FIN_202503417",
+                "notification": "2025-06-13"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/c532895a-b6c0-4059-80da-7f9af5fc2bd9",
+                "country": "http://publications.europa.eu/resource/authority/country/FIN",
+                "title": "Maa- ja metsätalousministeriön asetus hedelmätäysmehuista ja tietyistä vastaavista valmisteista / Jord- och skogsbruksministeriets förordning om fruktjuice och vissa liknande produkter (227/2025) 9.5.2025",
+                "ref": "9.5.2025/227",
+                "nimCelex": "72024L1438FIN_202503419",
+                "notification": "2025-06-13"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/c70ed790-2929-47a2-843c-efb307380476",
+                "country": "http://publications.europa.eu/resource/authority/country/FIN",
+                "title": "Maa- ja metsätalousministeriön asetus hedelmähilloista ja tietyistä vastaavista valmisteistä / Jord- och skogsbruksministeriets förordning om sylt av frukt samt vissa liknande produkter (226/2025) 9.5.2025",
+                "ref": "9.5.2025/226",
+                "nimCelex": "72024L1438FIN_202503418",
+                "notification": "2025-06-13"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/cd51ca9b-fab9-41d5-a49f-105e23903084",
+                "country": "http://publications.europa.eu/resource/authority/country/FIN",
+                "title": "LANDSKAPSFÖRORDNING (2023/133) om tillämpning på Åland av riksförfattningar om livsmedel och livsmedelshygien 07/12/2023",
+                "ref": "2023/133",
+                "nimCelex": "72024L1438FIN_202506592",
+                "notification": "2025-12-03"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12528,7 +13088,18 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/1fda279e-4fa1-436d-9847-86db2aaed7c9",
+                "country": "http://publications.europa.eu/resource/authority/country/FRA",
+                "title": "Décret n° 2026-312 du 24 avril 2026 relatif aux confitures, gelées et marmelades de fruits, à la crème de marrons et autres produits similaires, au miel, aux jus de fruits et autres produits similaires, ainsi qu'aux laits de conserve partiellement ou totalement déshydratés destinés à l'alimentation humaine",
+                "ref": "PMEC2531898D",
+                "nimCelex": "72024L1438FRA_202602509",
+                "notification": "2026-04-29",
+                "nationalEli": "https://www.legifrance.gouv.fr/eli/decret/2026/4/24/PMEC2531898D/jo/texte"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12572,7 +13143,23 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/5e9cb0d6-e5ff-44e8-8173-8305005db942",
+                "country": "http://publications.europa.eu/resource/authority/country/DEU",
+                "title": "Zweite Verordnung zur Änderung der Honigverordnung und anderer lebensmittelrechtlicher Vorschriften",
+                "nimCelex": "72024L1438DEU_202506930",
+                "notification": "2025-12-12"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/dbca48ca-2be6-4196-85e6-57bbe060a25f",
+                "country": "http://publications.europa.eu/resource/authority/country/DEU",
+                "title": "Verordnung zur Anpassung des Milchproduktrechts an unionsrechtliche und technologische Entwicklungen",
+                "nimCelex": "72024L1438DEU_202506928",
+                "notification": "2025-12-12"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12616,7 +13203,23 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/65dc87e3-5c5a-42b7-946e-77e415669e6d",
+                "country": "http://publications.europa.eu/resource/authority/country/GRC",
+                "title": "Διόρθωση της υπ’ αρ. 84/2025 κοινής υπουργικής απόφασης «Τροποποίηση των Άρθρων 67, 126,\n132 και 80α του Κ.Τ.Π. (ΑYO 1100/87, Β’ 788) σε εναρμόνιση προς την οδηγία (ΕΕ) 2024/1438 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 14ης Μαΐου 2024 (24.5.2024) «για την τροποποίηση της οδηγίας 2001/110/ΕΚ του Συμβουλίου για το μέλι, της οδηγίας 2001/112/ΕΚ του Συμβουλίου για τους χυμούς φρούτων και ορισμένα ομοειδή προϊόντα που προορίζονται για τη διατροφή\nτου ανθρώπου, της οδηγίας 2001/113/ΕΚ του Συμβουλίου για τις μαρμελάδες, τα ζελέ και τις μαρμελάδες εσπεριδοειδών καθώς και την κρέμα κάστανου που προορίζονται για τη διατροφή του ανθρώπου, και της οδηγίας 2001/114/ΕΚ του Συμβουλίου για ορισμένα, μερικά ή ολικά αφυδατωμένα, διατηρημένα γάλατα που προορίζονται για τη διατροφή του ανθρώπου» (Β’ 6857), σύμφωνα\nμε το υπ’ αρ. 2026/90217 (L 19-03-2026) διορθωτικό στην οδηγία (ΕΕ) 2024/1438 του Ευρωπαϊκού\nΚοινοβουλίου και του Συμβουλίου της 14ης Μαΐου 2024 (24.5.2024).",
+                "nimCelex": "72024L1438GRC_202607611",
+                "notification": "2026-09-30"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/f255a9f9-2d20-4967-8544-10984d3eee9d",
+                "country": "http://publications.europa.eu/resource/authority/country/GRC",
+                "title": "Τροποποίηση των άρθρων 67, 126, 132 και 80α\nτου Κ.Τ.Π. (ΑYO 1100/87, Β’788) σε εναρμόνιση\nπρος την οδηγία (ΕΕ) 2024/1438 του Ευρωπαϊ-\nκού Κοινοβουλίου και του Συμβουλίου της 14ης\nΜαίου 2024 (EΕ L 24.5.2024) «για την τροποποίη-\nση της οδηγίας 2001/110/ΕΚ του Συμβουλίου για\nτο μέλι, της οδηγίας 2001/112/ΕΚ του Συμβουλί-\nου για τους χυμούς φρούτων και ορισμένα ομο-\nειδή προϊόντα που προορίζονται για τη διατρο-\nφή του ανθρώπου, της οδηγίας 2001/113/ΕΚ του\nΣυμβουλίου για τις μαρμελάδες, τα ζελέ και τις\nμαρμελάδες εσπεριδοειδών καθώς και την κρέ-\nμα κάστανου που προορίζονται για τη διατροφή\nτου ανθρώπου, και της οδηγίας 2001/114/ΕΚ του\nΣυμβουλίου για ορισμένα, μερικά ή ολικά αφυ-\nδατωμένα, διατηρημένα γάλατα που προορίζο-\nνται για τη διατροφή του ανθρώπου",
+                "nimCelex": "72024L1438GRC_202600280",
+                "notification": "2026-01-12"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12675,7 +13278,25 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/6c709b3f-c16e-4080-bb61-3d8912777c4c",
+                "country": "http://publications.europa.eu/resource/authority/country/HUN",
+                "title": "Az agrárminiszter 51/2025. (XII. 16.) AM rendelete a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet mézre, gyümölcslevekre, gyümölcsdzsemekre, valamint tartós tejtermékekre vonatkozó módosításáról",
+                "ref": "J2025R0051AM",
+                "nimCelex": "72024L1438HUN_202507086",
+                "notification": "2025-12-17"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/96b1180e-0619-4f03-b2b6-bfbabd96ce2f",
+                "country": "http://publications.europa.eu/resource/authority/country/HUN",
+                "title": "A földművelésügyi és vidékfejlesztési miniszter 152/2009. (XI. 12.) FVM rendelete a Magyar Élelmiszerkönyv kötelező előírásairól",
+                "ref": "J2009R0152FVM",
+                "nimCelex": "72024L1438HUN_265013",
+                "notification": "2025-12-17"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12719,7 +13340,49 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/03ae4739-6d99-4fbd-b2ee-13e900549587",
+                "country": "http://publications.europa.eu/resource/authority/country/IRL",
+                "title": "S.I. No. 622 of 2025\n________________\nEUROPEAN UNION (DEHYDRATED PRESERVED) (AMENDMENT) REGULATIONS 2025",
+                "ref": "622",
+                "nimCelex": "72024L1438IRL_202602402",
+                "notification": "2026-04-23"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/09873c6e-d804-4822-b79a-3d36b3d296c1",
+                "country": "http://publications.europa.eu/resource/authority/country/IRL",
+                "title": "S.I. No. 621 of 2025. \n \nEUROPEAN UNION (MARKETING OF FRUIT JUICES AND \nCERTAIN SIMILAR PRODUCTS) REGULATIONS 2025",
+                "ref": "621",
+                "nimCelex": "72024L1438IRL_202602440",
+                "notification": "2026-04-22"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/49b43b75-cf6a-427a-860b-96300ef69eaa",
+                "country": "http://publications.europa.eu/resource/authority/country/IRL",
+                "title": "S.I. No. 620/2025 - European Union (Marketing of Fruit Jams, Jellies, Marmalades and Sweetened Chestnut Purée) Regulations 2025",
+                "ref": "620",
+                "nimCelex": "72024L1438IRL_202600867",
+                "notification": "2026-01-30"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/d5d18f54-3552-4784-ad0d-cee0de0f405c",
+                "country": "http://publications.europa.eu/resource/authority/country/IRL",
+                "title": "S.I. No. 591 of 2025\n________________\nEUROPEAN COMMUNITIES (MARKETING OF HONEY) (AMENDMENT) REGULATIONS 2025",
+                "ref": "591",
+                "nimCelex": "72024L1438IRL_202602438",
+                "notification": "2026-04-22"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/f2cfd72b-cae3-4acb-9017-5cbb0301ad98",
+                "country": "http://publications.europa.eu/resource/authority/country/IRL",
+                "title": "Statutory Instrument No. 591 of  2025",
+                "ref": "591",
+                "nimCelex": "72024L1438IRL_202506944",
+                "notification": "2025-12-16"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12763,7 +13426,16 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/f1dde184-e5a8-41e3-a9de-f1cb5eabd136",
+                "country": "http://publications.europa.eu/resource/authority/country/ITA",
+                "title": "Decreto legislativo 30 dicembre 2025, n. 207, di recepimento nell’ordinamento italiano della direttiva 2024/1438",
+                "nimCelex": "72024L1438ITA_202600148",
+                "notification": "2026-01-07"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12800,7 +13472,65 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/4b22b6cc-c920-4ba1-8d9c-36ef1e427360",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2025. gada 16. septembra noteikumi Nr. 557 “Grozījumi Ministru kabineta 2015. gada 15. septembra noteikumos Nr. 529 \"Dehidrēto piena produktu kvalitātes, klasifikācijas un papildu marķējuma prasības\"",
+                "nimCelex": "72024L1438LVA_202505444",
+                "notification": "2025-10-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/57af963c-2b6e-41b7-9650-ddcf68db4b1e",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2025. gada 23. septembra noteikumi Nr. 565 “Grozījumi Ministru kabineta 2015. gada 3. novembra noteikumos Nr. 624 \"Kvalitātes, klasifikācijas un papildu marķējuma prasības augļu džemam, ievārījumam, želejai, marmelādei un saldinātam kastaņu biezenim\"",
+                "nimCelex": "72024L1438LVA_202505443",
+                "notification": "2025-10-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/7149c65d-b165-4e74-ba1e-95ad938b7cde",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2015. gada 3. novembra noteikumi Nr. 624 \"Kvalitātes, klasifikācijas un papildu marķējuma prasības augļu džemam, ievārījumam, želejai, marmelādei un saldinātam kastaņu biezenim\"",
+                "nimCelex": "72024L1438LVA_202505461",
+                "notification": "2025-10-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/b6612fbc-a3d9-4fb9-8ddd-f230ec44b3ab",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2025. gada 16. septembra noteikumi Nr. 556 “Grozījumi Ministru kabineta 2015. gada 26. maija noteikumos Nr. 251 \"Kvalitātes, klasifikācijas un papildu marķējuma prasības medum\"",
+                "nimCelex": "72024L1438LVA_202505441",
+                "notification": "2025-10-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/b9634a05-0c5f-4752-9f39-1283fb3c7e44",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2015. gada 15. septembra noteikumi Nr. 529 \"Dehidrēto piena produktu kvalitātes, klasifikācijas un papildu marķējuma prasības\"",
+                "nimCelex": "72024L1438LVA_202505458",
+                "notification": "2025-10-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/db05b022-316e-440d-a8ea-da91886c72b1",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2015. gada 26. maija noteikumi Nr. 251 \"Kvalitātes, klasifikācijas un papildu marķējuma prasības medum\"",
+                "nimCelex": "72024L1438LVA_202505460",
+                "notification": "2025-10-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/f19a0514-df83-43e5-bc72-44f99967cecd",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2013. gada 15. oktobra noteikumi Nr. 1113 \"Prasības attiecībā uz augļu sulām un tām līdzīgiem produktiem\"",
+                "nimCelex": "72024L1438LVA_202505456",
+                "notification": "2025-10-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/fa152857-2626-4b9e-918e-d994d09e7d47",
+                "country": "http://publications.europa.eu/resource/authority/country/LVA",
+                "title": "Ministru kabineta 2025. gada 12. augusta noteikumi Nr. 504 “Grozījumi Ministru kabineta 2013. gada 15. oktobra noteikumos Nr. 1113 \"Prasības attiecībā uz augļu sulām un tām līdzīgiem produktiem\"",
+                "nimCelex": "72024L1438LVA_202505442",
+                "notification": "2025-10-06"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12837,7 +13567,37 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/488d8461-c68f-45d2-b27c-ade9d8fdd9db",
+                "country": "http://publications.europa.eu/resource/authority/country/LTU",
+                "title": "Lietuvos Respublikos žemės ūkio ministro 2025 m. vasario 27 d. įsakymas Nr. 3D-93 „Dėl žemės ūkio ministro 2000 m. vasario 20 d. įsakymo Nr. 61 „Dėl Vaisių sulčių ir panašių produktų techninio reglamento patvirtinimo“ pakeitimo“",
+                "nimCelex": "72024L1438LTU_202502052",
+                "notification": "2025-05-14"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/52582d72-9dc6-431d-9be0-ddec9d9ea538",
+                "country": "http://publications.europa.eu/resource/authority/country/LTU",
+                "title": "Lietuvos Respublikos žemės ūkio ministro 2025 m. rugpjūčio 25 d. įsakymą Nr. 3D-437 „Dėl žemės ūkio ministro 2003 m. rugpjūčio 12 d. įsakymo Nr. 3D-333 „Dėl Medaus techninio reglamento patvirtinimo“ pakeitimo“",
+                "nimCelex": "72024L1438LTU_202505883",
+                "notification": "2025-10-23"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/635f1b3c-9888-44f5-a794-74073ca80591",
+                "country": "http://publications.europa.eu/resource/authority/country/LTU",
+                "title": "Lietuvos Respublikos žemės ūkio ministro 2025 m. vasario 24 d. įsakymas Nr. 3D-70 „Dėl žemės ūkio ministro 2008 m. kovo 14 d. įsakymo Nr. 3D-138 „Dėl Dehidratuoto konservuoto pieno, skirto žmonėms vartoti, techninio reglamento patvirtinimo“ pakeitimo“",
+                "nimCelex": "72024L1438LTU_202502050",
+                "notification": "2025-05-14"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/fa66ea52-caa6-41ec-a550-da7667af2a01",
+                "country": "http://publications.europa.eu/resource/authority/country/LTU",
+                "title": "Lietuvos Respublikos žemės ūkio ministro 2025 m. vasario 27 d. įsakymas Nr. 3D-94 „Dėl žemės ūkio ministro 2000 m. vasario 29 d. įsakymo Nr. 60 „Dėl Džemų ir panašių produktų techninio reglamento patvirtinimo“ pakeitimo“",
+                "nimCelex": "72024L1438LTU_202502051",
+                "notification": "2025-05-14"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12881,7 +13641,41 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/abd8f5ad-2bee-44c3-95b9-860009458bcc",
+                "country": "http://publications.europa.eu/resource/authority/country/LUX",
+                "title": "Règlement grand-ducal du 3 juin 2026 relatif aux confitures, gelées et marmelades de fruits, ainsi qu’à la crème de marrons, destinées à l’alimentation humaine.",
+                "nimCelex": "72024L1438LUX_202603834",
+                "notification": "2026-06-05",
+                "nationalEli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2026/06/03/a275/jo"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/b56a4b2d-21b9-45d3-91d8-d5d02fac9c03",
+                "country": "http://publications.europa.eu/resource/authority/country/LUX",
+                "title": "Règlement grand-ducal du 26 mai 2026 concernant certains laits de conserve partiellement ou totalement déshydratés destinés à l’alimentation humaine.",
+                "nimCelex": "72024L1438LUX_202603833",
+                "notification": "2026-06-05",
+                "nationalEli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2026/05/26/a254/jo"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/c47a095d-b365-44a3-b657-ef958ff1c986",
+                "country": "http://publications.europa.eu/resource/authority/country/LUX",
+                "title": "Règlement grand-ducal du 26 mai 2026 relatif au miel.",
+                "nimCelex": "72024L1438LUX_202603832",
+                "notification": "2026-06-05",
+                "nationalEli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2026/05/26/a253/jo"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/ee85a756-9463-44c8-8088-4bb225ebf614",
+                "country": "http://publications.europa.eu/resource/authority/country/LUX",
+                "title": "Règlement grand-ducal du 3 juin 2026 concernant les jus de fruits et certains produits similaires destinés à l’alimentation humaine.",
+                "nimCelex": "72024L1438LUX_202603836",
+                "notification": "2026-06-05",
+                "nationalEli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2026/06/03/a276/jo"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12926,7 +13720,41 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/1395cd6b-20ba-4532-962b-dd3715efb405",
+                "country": "http://publications.europa.eu/resource/authority/country/MLT",
+                "title": "Fruit Jams and Similar Products (Amendment) Regulations, 2026",
+                "nimCelex": "72024L1438MLT_202602029",
+                "notification": "2026-04-07",
+                "nationalEli": "https://legislation.mt/eli/ln/2026/71/eng"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/6456c51d-5508-4ee3-9371-7e16035a7508",
+                "country": "http://publications.europa.eu/resource/authority/country/MLT",
+                "title": "Fruit Juices and Similar Products (Amendment) Regulations, 2026",
+                "nimCelex": "72024L1438MLT_202602030",
+                "notification": "2026-04-07",
+                "nationalEli": "https://legislation.mt/eli/ln/2026/72/eng"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/9accfadd-4e13-43c3-ab31-4d36d6bcaa90",
+                "country": "http://publications.europa.eu/resource/authority/country/MLT",
+                "title": "Honey (Amendment) Regulations, 2026",
+                "nimCelex": "72024L1438MLT_202602031",
+                "notification": "2026-04-07",
+                "nationalEli": "https://legislation.mt/eli/ln/2026/73/eng"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/d7d3bc37-4abf-4717-9140-34015336b733",
+                "country": "http://publications.europa.eu/resource/authority/country/MLT",
+                "title": "Preserved Milk (Amendment) Regulations, 2026",
+                "nimCelex": "72024L1438MLT_202602032",
+                "notification": "2026-04-07",
+                "nationalEli": "https://legislation.mt/eli/ln/2026/74/eng"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -12970,7 +13798,30 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/8b05213a-78e1-49dd-a1d4-dacc1e01db99",
+                "country": "http://publications.europa.eu/resource/authority/country/NLD",
+                "title": "Warenwetbesluit vruchtensappen 2012",
+                "nimCelex": "72024L1438NLD_202506779",
+                "notification": "2025-12-05"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/9f83cb76-e796-4503-b88e-696b59126090",
+                "country": "http://publications.europa.eu/resource/authority/country/NLD",
+                "title": "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 november 2025, kenmerk 4231590-1089411-WJZ, houdende de vaststelling van regels ter implementatie van Richtlijn (EU) 2001/114/EG inzake gedehydrateerde melk (Warenwetregeling gedehydrateerde melk)",
+                "nimCelex": "72024L1438NLD_202506777",
+                "notification": "2025-12-05"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/a4dc0554-27fb-445a-af0d-89ffb91f2e30",
+                "country": "http://publications.europa.eu/resource/authority/country/NLD",
+                "title": "Besluit van 19 november 2025, houdende de wijziging van diverse Warenwetbesluiten ter implementatie van Richtlijn (EU) 2024/1438inzake honing, vruchtensap, vruchtenjam en gedehydrateerde melk en van Richtlijn (EU) 2019/882 betreffende de toegankelijkheidsvoorschriften voor producten en diensten",
+                "nimCelex": "72024L1438NLD_202506776",
+                "notification": "2025-12-05"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -13078,7 +13929,81 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/131957a5-a4fa-4b79-b68f-be30eae6f5bf",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 9 lipca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych",
+                "nimCelex": "72024L1438POL_202504623",
+                "notification": "2025-08-21",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2025/965/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/133a08b1-3a7f-4b52-8f75-cbed2757ce2f",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 23 grudnia 2014 r. w sprawie znakowania poszczególnych rodzajów środków spożywczych.",
+                "nimCelex": "72024L1438POL_202601404",
+                "notification": "2026-03-09",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2015/29/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/5408265a-9f4a-4be0-aeb5-2f54d0d336a6",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 27 stycznia 2026 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej oraz metod analiz niektórych rodzajów mleka zagęszczonego i mleka w proszku, przeznaczonego do spożycia przez ludzi",
+                "nimCelex": "72024L1438POL_202601045",
+                "notification": "2026-03-10",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2026/107/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/5bea5745-4466-4f83-9a6a-d04ef432b336",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 13 kwietnia 2022 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej dżemów, konfitur, galaretek, marmolad, powideł śliwkowych oraz słodzonego przecieru z kasztanów jadalnych",
+                "nimCelex": "72024L1438POL_202601405",
+                "notification": "2026-03-09",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2022/917/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/5d0fa491-ccc3-4ad2-b917-9bd1427b1e4f",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 26 czerwca 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie szczegółowych wymagań w zakresie jakości handlowej soków i nektarów owocowych",
+                "nimCelex": "72024L1438POL_202601409",
+                "notification": "2026-03-09",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2024/998/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/7cc81542-f0e4-4f97-beff-3cd518e9c568",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 4 listopada 2025 r. zmieniające rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych",
+                "nimCelex": "72024L1438POL_202506924",
+                "notification": "2025-12-12",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2025/1574/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/89e7b2ad-6e6a-47fb-939e-ab775c4a2863",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 grudnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu i sposobu znakowania nieprzeznaczonych bezpośrednio dla konsumenta finalnego niektórych grup i rodzajów opakowanych artykułów rolno-spożywczych lub artykułów rolno-spożywczych bez opakowań",
+                "nimCelex": "72024L1438POL_202506937",
+                "notification": "2025-12-12",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2025/1735/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/999fe73c-88cb-46af-b35a-bd79f695a985",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 22 lipca 2025 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej dżemów, konfitur, galaretek, marmolad, powideł śliwkowych oraz słodzonego przecieru z kasztanów jadalnych",
+                "nimCelex": "72024L1438POL_202504625",
+                "notification": "2025-08-21",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2025/991/ogl"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/e1f9a9fd-c1c3-423b-baa3-82998533eb3e",
+                "country": "http://publications.europa.eu/resource/authority/country/POL",
+                "title": "Rozporządzenie Ministra Rolnictwa i Rozwoju Wsi z dnia 8 grudnia 2025 r. zmieniające rozporządzenie w sprawie szczegółowych wymagań w zakresie jakości handlowej miodu",
+                "nimCelex": "72024L1438POL_202506933",
+                "notification": "2025-12-12",
+                "nationalEli": "https://eli.gov.pl/eli/DU/2025/1741/ogl"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -13122,7 +14047,41 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/0e0464ed-7494-422f-88c7-3a10b2d9afe3",
+                "country": "http://publications.europa.eu/resource/authority/country/PRT",
+                "title": "Decreto-Lei n.º 133/2025, de 24 de dezembro, Diário da República n.º 247/2025, Série I de 2025-12-24, Altera o Decreto-Lei n.º 230/2003, de 27 de setembro, e transpõe a Diretiva (UE) 2024/1438, no respeitante às normas de composição, rotulagem e denominação dos produtos de fruta, como doces e geleias.",
+                "nimCelex": "72024L1438PRT_202600077",
+                "notification": "2026-01-05",
+                "nationalEli": "https://data.dre.pt/eli/dec-lei/133/2025/12/24/p/dre/pt/html"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/b5e694e8-f7b4-4fe3-8de5-9a986e0647a2",
+                "country": "http://publications.europa.eu/resource/authority/country/PRT",
+                "title": "Decreto-Lei n.º 136/2025, de 24 de dezembro, Diário da República n.º 247/2025, Série I de 2025-12-24, Altera o Decreto-Lei n.º 214/2003, de 18 de setembro, e transpõe a Diretiva (UE) 2024/1438, no que diz respeito ao mel",
+                "nimCelex": "72024L1438PRT_202600079",
+                "notification": "2026-01-05",
+                "nationalEli": "https://data.dre.pt/eli/dec-lei/136/2025/12/24/p/dre/pt/html"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/f73675fc-d0c4-41f2-b9fa-ec208e522d0b",
+                "country": "http://publications.europa.eu/resource/authority/country/PRT",
+                "title": "Decreto-Lei n.º 134/2025, de 24 de dezembro, Diário da República n.º 247/2025, Série I de 2025-12-24, Altera o Decreto-Lei n.º 62/2017, de 9 de junho, e transpõe a Diretiva (UE) 2024/1438, no que respeita a determinados leites conservados parcial ou totalmente desidratados, destinados à alimentação humana",
+                "nimCelex": "72024L1438PRT_202600078",
+                "notification": "2026-01-05",
+                "nationalEli": "https://data.dre.pt/eli/dec-lei/134/2025/12/24/p/dre/pt/html"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/fba1db0f-8775-4d25-b513-b4194eaa3b08",
+                "country": "http://publications.europa.eu/resource/authority/country/PRT",
+                "title": "Decreto-Lei n.º 137/2025, de 29 de dezembro, Diário da República n.º 249/2025, Série I de 2025-12-29, Altera o Decreto-Lei n.º 225/2003, de 24 de setembro, e transpõe a Diretiva (UE) 2024/1438, no que diz respeito aos sumos de frutos e determinados produtos similares destinados à alimentação humana",
+                "nimCelex": "72024L1438PRT_202600080",
+                "notification": "2026-01-05",
+                "nationalEli": "https://data.dre.pt/eli/dec-lei/137/2025/12/29/p/dre/pt/html"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -13166,7 +14125,37 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/687bb62e-421d-412b-971d-1b6bc5cf3fb2",
+                "country": "http://publications.europa.eu/resource/authority/country/ROU",
+                "title": "Ordin nr. 144/1597/480/2025 al ministrului agriculturii și dezvoltării rurale, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția Consumatorilor\nprivind modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția\nConsumatorilor nr. 522/798/317/2003 pentru aprobarea Normelor privind denumirea, descrierea, definirea, caracteristicile și compoziția mierii",
+                "nimCelex": "72024L1438ROU_202504062",
+                "notification": "2025-07-11"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/707f5f48-cc23-4a08-8d80-c1a55a57d049",
+                "country": "http://publications.europa.eu/resource/authority/country/ROU",
+                "title": "Ordin nr. 426/2024/115/7700/2025 al ministrului agriculturii și dezvoltării rurale, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția Consumatorilor privind modificarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului, al ministrului sănătății și al președintelui Autorității Naționale pentru \n Protecția Consumatorilor nr. 510/768/319/2003 pentru aprobarea Normelor cu privire la natura, compoziția, fabricarea și etichetarea sucurilor din fructe și ale altor produse similare destinate consumului uman",
+                "nimCelex": "72024L1438ROU_202504065",
+                "notification": "2025-07-11"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/d61ffcc9-a9c3-4135-9a03-ce0d098f1747",
+                "country": "http://publications.europa.eu/resource/authority/country/ROU",
+                "title": "Ordin nr. 382/1.640/925/2025 al ministrului agriculturii și dezvoltării rurale, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția Consumatorilor privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția Consumatorilor nr. 521/832/321/2003 pentru aprobarea Normei privind definirea, denumirile sub care se vând, etichetarea și condițiile de calitate ale anumitor sortimente de lapte conservat, parțial sau  total deshidratat, destinate consumului uman",
+                "nimCelex": "72024L1438ROU_202506646",
+                "notification": "2025-12-04"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/e0b3a3d6-525c-4211-ac53-74bca617b6d9",
+                "country": "http://publications.europa.eu/resource/authority/country/ROU",
+                "title": "ORDIN nr. 532/2024/572/199/2025 al ministrului agriculturii și dezvoltării rurale, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția \nConsumatorilor privind modificarea și completarea Ordinului ministrului agriculturii, pădurilor, apelor și mediului, al ministrului sănătății și al președintelui Autorității Naționale pentru Protecția Consumatorilor nr. 523/808/351/2003 pentru aprobarea Normelor cu privire la natura, conținutul, fabricarea și etichetarea gemurilor, jeleurilor și\nmarmeladelor de fructe, precum și piureului de castane îndulcit, destinate consumului uman",
+                "nimCelex": "72024L1438ROU_202504057",
+                "notification": "2025-07-11"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -13218,7 +14207,57 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/241f9878-23c3-4187-b85f-5df3e4898a0d",
+                "country": "http://publications.europa.eu/resource/authority/country/SVK",
+                "title": "Vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 102/2025 Z. z., ktorou sa mení a dopĺňa vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 41/2012 Z. z. o mede v znení neskorších predpisov",
+                "ref": "102/2025",
+                "nimCelex": "72024L1438SVK_202601051",
+                "notification": "2026-02-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/24cf4c58-5e3a-41a9-a24f-e11fc7c09e7d",
+                "country": "http://publications.europa.eu/resource/authority/country/SVK",
+                "title": "Vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 391/2025 Z. z., ktorou sa mení a dopĺňa vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 179/2016 Z. z. o požiadavkách na zahustené mlieko a sušené mlieko",
+                "ref": "391/2025",
+                "nimCelex": "72024L1438SVK_202601053",
+                "notification": "2026-02-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/7fc63615-2c72-4e4b-b7fa-979698ff5c3a",
+                "country": "http://publications.europa.eu/resource/authority/country/SVK",
+                "title": "Vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 399/2025 Z. z., ktorou sa mení a dopĺňa vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 44/2012 Z. z. o ovocných džemoch, rôsoloch, marmeládach a sladenom gaštanovom pyré v znení vyhlášky č. 7/2017 Z. z.",
+                "ref": "399/2025",
+                "nimCelex": "72024L1438SVK_202601052",
+                "notification": "2026-02-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/83e7d857-d437-42c8-8ad6-2ec05f0412fd",
+                "country": "http://publications.europa.eu/resource/authority/country/SVK",
+                "title": "Vyhláška č. 44/2012 Z. z. o ovocných džemoch, rôsoloch, marmeládach a sladenom gaštanovom pyré v znení vyhlášky č. 7/2017 Z. z. (consolidated version as amended by 7/2017 Z. z.)",
+                "ref": "44/2012-7/2017",
+                "nimCelex": "72024L1438SVK_202601050",
+                "notification": "2026-02-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/91e34c7e-d162-49f2-97a9-8cee8bb893fb",
+                "country": "http://publications.europa.eu/resource/authority/country/SVK",
+                "title": "Zákon č. 575/2001 Z. z. o organizácii činnosti vlády a organizácii ústrednej štátnej správy (consolidated version as amended by 474/2005 Z. z.)",
+                "ref": "575/2001-474/2005",
+                "nimCelex": "72024L1438SVK_273411",
+                "notification": "2026-02-10"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/a448c56e-09ed-4897-a4a3-785d3fbe86bb",
+                "country": "http://publications.europa.eu/resource/authority/country/SVK",
+                "title": "Vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 8/2026 Z. z., ktorou sa mení a dopĺňa vyhláška Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky č. 292/2013 Z. z. o ovocných šťavách a niektorých podobných výrobkoch určených na ľudskú spotrebu",
+                "ref": "8/2026",
+                "nimCelex": "72024L1438SVK_202601054",
+                "notification": "2026-02-10"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -13263,7 +14302,41 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/0cb65037-caf4-4180-bbbf-00fccc8da65c",
+                "country": "http://publications.europa.eu/resource/authority/country/SVN",
+                "title": "Pravilnik o kakovosti in označevanju medu",
+                "ref": "2026-01-0811",
+                "nimCelex": "72024L1438SVN_202603215",
+                "notification": "2026-05-25"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/3e0d8ee4-260f-45a5-b2df-f8fc8d5918ca",
+                "country": "http://publications.europa.eu/resource/authority/country/SVN",
+                "title": "Pravilnik o kakovosti in označevanju dehidriranega konzerviranega mleka",
+                "ref": "2026-01-0808",
+                "nimCelex": "72024L1438SVN_202603216",
+                "notification": "2026-05-25"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/6094552b-9baa-4623-9ec5-21792245a4fd",
+                "country": "http://publications.europa.eu/resource/authority/country/SVN",
+                "title": "Pravilnik o kakovosti in označevanju sadnih džemov, želejev, marmelad in sladkane kostanjeve kaše",
+                "ref": "2026-01-0809",
+                "nimCelex": "72024L1438SVN_202603218",
+                "notification": "2026-05-25"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/c5ee1767-5e51-4dd1-894c-37e4e95c7c5a",
+                "country": "http://publications.europa.eu/resource/authority/country/SVN",
+                "title": "Pravilnik o kakovosti in označevanju sadnih sokov in nekaterih podobnih proizvodov, namenjenih prehrani ljudi",
+                "ref": "2026-01-0810",
+                "nimCelex": "72024L1438SVN_202603217",
+                "notification": "2026-05-25"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -13307,7 +14380,25 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/526387d1-8edf-4043-9de1-af9e7b57aae0",
+                "country": "http://publications.europa.eu/resource/authority/country/ESP",
+                "title": "Real Decreto 1026/2025, de 12 de noviembre, por el que se modifican diversas normas en materia de calidad alimentaria para productos de desayuno.",
+                "ref": "BOE-A-2025-22947",
+                "nimCelex": "72024L1438ESP_202506270",
+                "notification": "2025-11-14"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/d1927987-4d0a-4095-a350-2cb6fbc8f061",
+                "country": "http://publications.europa.eu/resource/authority/country/ESP",
+                "title": "Real Decreto 68/2025, de 4 de febrero, por el que se modifica el Real Decreto 1049/2003, de 1 de agosto, por el que se aprueba la Norma de calidad relativa a la miel.",
+                "ref": "BOE-A-2025-3184",
+                "nimCelex": "72024L1438ESP_202501115",
+                "notification": "2025-02-19"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         },
@@ -13344,7 +14435,44 @@
             "limitations": [
               "Original2001 notification metadata is discovery only; recent2024 amendments need separate current-law and notification checks."
             ],
-            "reviewComplete": false
+            "reviewComplete": false,
+            "latestAmenderNotifications": [
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/44fa5818-b56c-4578-9e48-ec1aea7a28c8",
+                "country": "http://publications.europa.eu/resource/authority/country/SWE",
+                "title": "Livsmedelsverkets föreskrifter om ändring (LIVSFS 2026:3) i Livsmedelsverkets föreskrifter (LIVSFS 2025:6) om sylt, gelé och marmelad",
+                "nimCelex": "72024L1438SWE_202605070",
+                "notification": "2026-07-06"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/4f04a20c-a08e-460c-ab85-172cc773423b",
+                "country": "http://publications.europa.eu/resource/authority/country/SWE",
+                "title": "Livsmedelsverkets föreskrifter (2025:5) om mjölkpulver och olika former av kondenserad mjölk;",
+                "nimCelex": "72024L1438SWE_202507215",
+                "notification": "2025-12-22"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/6264dac2-6490-4fbe-a943-2845434a1705",
+                "country": "http://publications.europa.eu/resource/authority/country/SWE",
+                "title": "Livsmedelsverkets föreskrifter (LIVSFS 2025:4) om fruktjuice och fruktnektar",
+                "nimCelex": "72024L1438SWE_202507213",
+                "notification": "2025-12-22"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/98857ef0-2fad-410f-8bf0-a2bc66674597",
+                "country": "http://publications.europa.eu/resource/authority/country/SWE",
+                "title": "Livsmedelsverkets föreskrifter (LIVSFS 2025:3) om honung och bagerihonung",
+                "nimCelex": "72024L1438SWE_202507211",
+                "notification": "2025-12-22"
+              },
+              {
+                "nim": "http://publications.europa.eu/resource/cellar/d826f505-795d-410b-bea1-c15b3b9fef8d",
+                "country": "http://publications.europa.eu/resource/authority/country/SWE",
+                "title": "Livsmedelsverkets föreskrifter (LIVSFS 2025:6) om sylt, gelé och marmelad",
+                "nimCelex": "72024L1438SWE_202507217",
+                "notification": "2025-12-22"
+              }
+            ]
           },
           "reviewNote": "research-bundle1.json"
         }
@@ -22636,7 +23764,7 @@
       "title": "Firearms",
       "wordCount": 4147,
       "originalSource": "https://publications.europa.eu/resource/cellar/c4951f94-7c93-44cf-aec8-6cd746bc62fe.0008.05/DOC_1",
-      "inventoryStatus": "pending full substantive inventory",
+      "inventoryStatus": "Original recitals, Articles1–19 and bothcompleteannexes personallyread; direct and recursive amender/codification corrections retrieved. Substantive fullchangeinventory pending.",
       "changeInventory": [],
       "history": [
         {
@@ -22824,6 +23952,13 @@
           "v": "http://publications.europa.eu/resource/cellar/f739c71f-154b-11e9-81b4-01aa75ed71a1",
           "relatedCelex": "31991L0477R(10)",
           "predicate": "resource_legal_corrects_resource_legal"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_does_replacement_of_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/f739c71f-154b-11e9-81b4-01aa75ed71a1",
+          "relatedCelex": "31991L0477R(10)",
+          "predicate": "resource_legal_does_replacement_of_resource_legal"
         },
         {
           "direction": "in",
@@ -23647,7 +24782,7 @@
           "reviewNote": "root-bundle1.json"
         }
       ],
-      "originalRead": false
+      "originalRead": true
     },
     {
       "id": "2019/983",
@@ -24870,6 +26005,13 @@
           "p": "http://publications.europa.eu/ontology/cdm#directive_date_transposition",
           "v": "2010-12-26",
           "predicate": "directive_date_transposition"
+        },
+        {
+          "direction": "in",
+          "p": "http://publications.europa.eu/ontology/cdm#resource_legal_replaces_resource_legal",
+          "v": "http://publications.europa.eu/resource/cellar/4fb3a2ec-068e-11ef-a251-01aa75ed71a1",
+          "relatedCelex": "32024L1203",
+          "predicate": "resource_legal_replaces_resource_legal"
         },
         {
           "direction": "in",
@@ -26580,7 +27722,7 @@
         {
           "countryCode": "LU",
           "country": "Luxembourg",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 2,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32003L0004"
@@ -26589,19 +27731,65 @@
           "review": {
             "countryCode": "LU",
             "country": "Luxembourg",
-            "status": "pending-primary-provision-review",
-            "reviewComplete": false,
+            "status": "reviewed-no-residual-change-gap-located",
+            "reviewComplete": true,
             "changes": {
-              "ei-proceedings": "pending",
-              "ei-unfinished-notice": "pending",
-              "ei-buildings": "pending",
-              "ei-government": "pending",
-              "ei-constitutional-date": "pending",
-              "ei-likelihood": "pending",
-              "ei-held-information": "pending",
-              "ei-unreasonable": "pending"
+              "ei-proceedings": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "4(2)c,4(3)",
+                "assessment": "Confidentiality of legally protected public deliberations, with restrictive interpretation/public interest and emissions safeguard."
+              },
+              "ei-unfinished-notice": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "4(1)c",
+                "assessment": "Refusal must identify preparing authority and completion period automatically."
+              },
+              "ei-buildings": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(1)f",
+                "assessment": "Cultural sites and constructions separately included; environmental nexus preserved."
+              },
+              "ei-government": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(2)a",
+                "assessment": "Government and all other national/regional/local public administrations included."
+              },
+              "ei-constitutional-date": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(2)",
+                "assessment": "No optional constitutional-no-review exclusion used; no adoption-date/future-date mismatch."
+              },
+              "ei-likelihood": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(1)b/c;7(2)e;7(3)",
+                "assessment": "Definitions/proactive monitoring use affecting-or-likely French formulation; imminent-threat disclosure protects population broadly."
+              },
+              "ei-held-information": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(3)–(4);3(1)",
+                "assessment": "Information held by or for authority expressly covered."
+              },
+              "ei-unreasonable": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "4(1)a;4(3)",
+                "assessment": "Manifest abuse exception and restrictive/public-interest safeguards; narrower refusal is lawful wider access."
+              }
             },
-            "evidence": []
+            "evidence": [
+              {
+                "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/11/25/n4/jo",
+                "locator": "Actual official original Articles1–4,7–10 and relevantremainingprovisions personallyread26October2026; all8 changed groups mapped.",
+                "assessment": "Statute remains in force. Live chronology shows only11January2006rectificatif, consolidated15January2006body unavailable; original plus actual correction used."
+              },
+              {
+                "url": "https://legilux.public.lu/eli/etat/leg/rect/2006/01/11/n1/jo",
+                "locator": "Entire authentic correction personallyread:4(1)b generalrequestassistancecrossref;6(2)onemonthsilence;6(3)explicit/implicitrefusal/presidentadministrativecourt. Force15January2006.",
+                "assessment": "No amendment to compared8groups. Actual baseArt10 statesfirstdayfollowingpublicationmonth; pagegenericmetadata23Dec2005notreliedonoverstatute."
+              }
+            ],
+            "assessmentScope": "All8 correctedmeaninggroups against original plus sole official correction, with live amendment chronology checked. Formal-law scope; no universal enforcement certificate.",
+            "independentReview": "Legal adverse review passed by second researcher against all8mappedgroups. Root personallyreadactualprimarybodyandsolecorrection/livechronology; peer did not independentlyrefreshJS-onlyprimarybody. No blanketoriginal-laworpracticecertificate.",
+            "blockers": []
           },
           "reviewNote": "root-bundle1.json"
         },
@@ -26804,7 +27992,7 @@
         {
           "countryCode": "ES",
           "country": "Spain",
-          "status": "pending",
+          "status": "complete",
           "discovery": {
             "measureCount": 2,
             "url": "https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX%3A32003L0004"
@@ -26813,19 +28001,60 @@
           "review": {
             "countryCode": "ES",
             "country": "Spain",
-            "status": "pending-primary-provision-review",
-            "reviewComplete": false,
+            "status": "reviewed-no-residual-change-gap-located",
+            "reviewComplete": true,
             "changes": {
-              "ei-proceedings": "pending",
-              "ei-unfinished-notice": "pending",
-              "ei-buildings": "pending",
-              "ei-government": "pending",
-              "ei-constitutional-date": "pending",
-              "ei-likelihood": "pending",
-              "ei-held-information": "pending",
-              "ei-unreasonable": "pending"
+              "ei-proceedings": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "13(2)a;13(4)/(5)",
+                "assessment": "Proceedings confidentiality only if legallyprovided; restrictive/public-interest/emissions safeguards."
+              },
+              "ei-unfinished-notice": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "13(1)d",
+                "assessment": "Refusal itself mustnamepreparingauthorityandestimatedcompletion; noadditionalrequest."
+              },
+              "ei-buildings": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(3)f",
+                "assessment": "Heritage/cultural/artisticpropertyandconstructions separatelyincluded; notlimitedtoheritagebuildings."
+              },
+              "ei-government": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(4)1a–c",
+                "assessment": "Nationalandregionalgovernments, publicadministrationsandadvisorybodiescovered."
+              },
+              "ei-constitutional-date": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(4)3",
+                "assessment": "Judicial/legislativefunctionexclusiononly; nofutureconstitutional-no-reviewtriggerimplemented."
+              },
+              "ei-likelihood": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(3)b/c;7(5);9(1)",
+                "assessment": "Affect-or-can-affect wordingbroaderthanlikely threshold; broaderaccess/disseminationnotmissingprotection."
+              },
+              "ei-held-information": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "2(5)/(6);10(1)",
+                "assessment": "Informationphysicallyhelddirectlyorbyothersforauthoritycovered."
+              },
+              "ei-unreasonable": {
+                "status": "matched-in-read-current-route",
+                "nationalProvisions": "13(1)b;13(4)",
+                "assessment": "Manifestlyunreasonablerefusalground, restrictiveinterpretation/publicinterest."
+              }
             },
-            "evidence": []
+            "evidence": [
+              {
+                "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13010",
+                "locator": "Currentofficialpublisherconsolidation Articles2,6–10,13 andfinalprovision3 personallyread26Oct2026; headerlastupdate26January2008.",
+                "assessment": "Basicnationwidelegislation underConstitution149.1.23; Article2coversregional/localbodies. Comparedguaranteesnotlimitedtostateadministration. Officialconsolidationisadministrative/informative, notauthenticpublication."
+              }
+            ],
+            "currentness": "Unparameterizedofficialcurrentconsolidation retrieved26October2026; versionselectorlatest26January2008. Actual enforcement and other unchanged initial-duty questions outside scope.",
+            "independentReview": "pending",
+            "blockers": []
           },
           "reviewNote": "root-bundle1.json"
         },
@@ -32823,7 +34052,7 @@
     "acts": 25,
     "countries": 27,
     "countryActPairs": 675,
-    "complete": 41,
-    "inProgress": 45
+    "complete": 55,
+    "inProgress": 42
   }
 }
