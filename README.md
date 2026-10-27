@@ -24,6 +24,8 @@ Assets and data use relative URLs, so the site also works beneath a repository p
 
 For later updates, edit the files in `docs/`, run `npm run check`, then commit and push to `main`. Pages publishes the committed files directly. The older local `eu-update-chain-mvp.zip` export is ignored by Git; `docs/` is the source to maintain.
 
+When changing the scripts, bump their version query in `docs/index.html` so returning visitors receive the updated code. Catalogue and coverage requests revalidate their data on each page load.
+
 ## What the website does
 
 - Search and filter by country, EU change type and evidence.
