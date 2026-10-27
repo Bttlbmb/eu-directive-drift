@@ -1,0 +1,101 @@
+{
+  "reviewDate": "2026-10-26",
+  "reviewer": "agent-01-23",
+  "scope": "Independent challenge of the proposed AT/PT/FI retention and HU/LV withdrawal; no public edits.",
+  "conclusion": "The split is defensible as a conservative confidence decision, provided all three surviving entries remain qualified implementation leads, not findings that every automatic national information duty is unlawful. PT is strongest. AT and FI retain the exact abolished Commission reporting chain and have published implementation evidence. HU/LV removed that chain and retained a separate national route whose legal incompatibility has not been sufficiently established. Withdrawal does not declare those duties lawful.",
+  "euAnalysis": {
+    "againstAllFive": "There is a serious legal case against every automatic route. Article 1 expressly harmonises data collection; Article 6 protects market access for conforming equipment. Amending recitals 5–6 identify both national and Commission routine documentation/data flows as redundant, remove business/authority burden and say the noise data will no longer be collected. Thus deletion cannot be presented as affecting only the Commission while leaving national copies plainly authorised.",
+    "limitsOfProhibition": "The operative amendment deletes Article 16 rather than expressly banning every independent national data duty. A categorical prohibition of any national-only filing needs a clear scope/pre-emption or market-access analysis. No directly controlling ruling was established in this review.",
+    "surveillanceAndUse": "Article 14(3) concerns obtaining conformity-assessment information on a reasoned request; it does not itself authorise an automatic copy of every declaration. Article 17 preserves local use/protection measures, not an obvious blanket manufacturer-reporting power. Separate declarations, retention and proportionate surveillance remain; their existence does not cure or condemn routine filing by itself."
+  },
+  "countries": [
+    {
+      "id": "pt-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain-qualified-lead",
+      "reason": "Fresh Article 7(3) expressly requires both copies before marketing/commissioning; Article 4(1) requires compliance with the decree for market access. This identifies a concrete additional market-entry condition after deletion, beyond a mere retained national-only data rule. Commission nonnotification evidence corroborates implementation work but does not decide Article 7(3) legality.",
+      "publicLimit": "No actual refusal or fine proved; avoid equating missing notification with absent national legislation or claiming all documentation duties ended."
+    },
+    {
+      "id": "at-noise-declaration-copy-retained",
+      "recommendation": "retain-qualified-lead-open-possibly",
+      "reason": "Fresh current Section 6(3) keeps the dual national/Commission route. Fresh government explanation Zu Z 8 says that exact duty was abolished by 2024/2839 and the provision can disappear without replacement. This is a recognised incomplete-remedy lead linked to the abolished EU chain, not a novel claim that any independent national reporting is illegal.",
+      "publicLimit": "No advance filing deadline stated; do not imply marketing must await filing, actual enforcement, automatic fines or a judicial finding."
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain-qualified-lead-open-possibly",
+      "reason": "Fresh Section 10 requires manufacturer → SYKE → Commission reporting for specified Finnish-manufacture/first-EEA-commissioning categories. Its Commission-forwarding purpose reproduces the abolished chain. The government consultation identifies implementation of this reporting simplification; exact section-specific explanatory attachment was not read. This is weaker than PT/AT, but still more than a national-only remnant.",
+      "publicLimit": "Call it a qualified unresolved reform/implementation lead. Do not say the consultation proves illegality or that every Finnish sale is covered. A proved-breach-only catalogue would withdraw this pending fuller evidence; a clearly marked lead catalogue can retain it."
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "recommendation": "withdraw-public-research-only",
+      "reason": "Fresh current Section 11 and official 469/2025 explanation confirm Commission-copy repeal with national Section 11(1) retained. No advance-submission condition or concrete market-access refusal established. EU data harmonisation and anti-burden rationale justify further scrutiny, but independent national-rule incompatibility remains unproved.",
+      "publicLimit": "Do not say the selective repeal establishes lawful design or complete compliance. Preserve the legal question internally."
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "recommendation": "withdraw-public-research-only",
+      "reason": "Fresh official current points 37–40 retain only the national PTAC copy; Commission point 40 is deleted. Point 37 does not expressly add filing to its marketing conditions, and point 7 protects free circulation of EU-conforming equipment. No controlling legal interpretation establishes that this remaining national-only information rule is barred.",
+      "publicLimit": "Do not characterise it as a clearly lawful exception; withdrawal reflects the conservative publication threshold."
+    }
+  ],
+  "freshSources": [
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81659",
+      "pinpoint": "Authentic EU 2024/2839 recitals 5–6; Articles 2(1), 5(1)",
+      "scope": "Fresh complete relevant text read; deleting Article 16 applies 29 November 2025."
+    },
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2000-81213",
+      "pinpoint": "Authentic underlying directive Articles 1, 4–8, 14(3), original 16, 17",
+      "scope": "Fresh relevant original clauses read with the amending deletion. Current English consolidation requests were anti-bot blocked; no claim the entire current consolidated directive was independently read."
+    },
+    {
+      "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-156246098",
+      "pinpoint": "Articles 4(1), 7(1), (3)–(4), 8–9",
+      "scope": "Fresh official text read; returned version date 23 August 2026, last alteration 29 January 2021. Root separately has a live 26 October version check."
+    },
+    {
+      "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001417",
+      "pinpoint": "Sections 4–6, especially 6(3)–(4)",
+      "scope": "Fresh official consolidation returned 20 October 2026; dual copy and separate retention confirmed."
+    },
+    {
+      "url": "https://www.wko.at/oe/news/0281-ak-erlaeuterungen-geraeuschemissionen.pdf",
+      "pinpoint": "Government draft explanation p. 2, Zu Z 8",
+      "scope": "Fresh full four-page PDF downloaded/read; exact copy obligation identified for repeal. Government document reproduced by Economic Chamber; not enacted law."
+    },
+    {
+      "url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/621/fin%40",
+      "pinpoint": "Sections 5–10, especially 10",
+      "scope": "Fresh official XML downloaded/read; automatic SYKE and Commission chain confirmed. Amendment currentness beyond the XML remains the first reviewer/root check."
+    },
+    {
+      "url": "https://www.lausuntopalvelu.fi/FI/Proposal/Participation?proposalId=4276858e-180b-40e7-a3e0-020310279184",
+      "pinpoint": "September 2026 consultation introduction, reporting simplification",
+      "scope": "Fresh official indexed text only; direct web and public download returned 403. No section-specific attachment read."
+    },
+    {
+      "url": "https://njt.jog.gov.hu/jogszabaly/2001-140-20-22",
+      "pinpoint": "Sections 3, 10–12 and amendment footnotes",
+      "scope": "Fresh official current text read; version 31 December 2025."
+    },
+    {
+      "url": "https://njt.jog.gov.hu/jogszabaly/2025-469-K3-22",
+      "pinpoint": "Official explanation of 469/2025, paragraphs on Article 16 deletion",
+      "scope": "Fresh full explanation read; broad reporting repeal acknowledged, without a specific finding that residual national copy is incompatible."
+    },
+    {
+      "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+      "pinpoint": "Points 7, 37–41; version 29 November 2025 onward",
+      "scope": "Fresh full relevant official mobile text read. Main page currentness metadata is bounded; root/first reviewer separately read authentic amender/history."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-16973-n1.html",
+      "pinpoint": "Published 23 October 2026; general explanation and Article I explanation",
+      "scope": "Fresh complete official HTML downloaded/read. Netherlands calls repeal of national/Commission Article 15 copies pure implementation without national policy room. Strong comparative governmental interpretation, not binding determination of HU/LV competence to make an independent national duty."
+    }
+  ],
+  "consistencyRule": "Require a concrete unresolved legal result, not literal non-copying. Official acknowledgment increases confidence but is not a separate legal test. Here the retained Commission reporting chains and the Portuguese premarket condition provide substantive distinctions. All five lack demonstrated actual filing costs; that absence alone does not decide inclusion."
+}

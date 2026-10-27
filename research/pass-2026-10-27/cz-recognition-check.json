@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-27",
+  "case": "cz-extra-jelly-fruit-minima",
+  "TRIS": "https://technical-regulation-information-system.ec.europa.eu/en/notification/26870",
+  "actualRead": [
+    {
+      "url": "https://technical-regulation-information-system.ec.europa.eu/en/notification/26870/message/112558/EN",
+      "scope": "Whole authentic three-page C(2025)5317 final plus forwarding message",
+      "result": "Non-harmonised food mutual-recognition clause only; no jelly minima criticism. Root and reference independently read actual body."
+    },
+    {
+      "url": "https://technical-regulation-information-system.ec.europa.eu/en/notification/26870/message/112662/EN",
+      "scope": "Whole two-page Czech reply TRIS2025/2131",
+      "result": "Reply concerns general statutory mutual-recognition route; no jelly minima criticism."
+    },
+    {
+      "url": "https://technical-regulation-information-system.ec.europa.eu/en/notification/26870/message/112559/EN",
+      "scope": "Whole one-page Commission TRIS2025/2028",
+      "result": "Reserves transposition assessment for separate conformity check. No conclusion; unpublished findings remain unknown."
+    },
+    {
+      "url": "https://www.potravinyinfo.cz/33/zele-uniqueidgOkE4NvrWuMikzsedRddonSYkeXQPAE_9mbKTrAPMMA/",
+      "scope": "Whole visible 9 June 2026 question and answer",
+      "result": "False positive: confectionery gelling-agent naming under490/2025, not jam-directive jelly quantities."
+    }
+  ],
+  "classification": "No precise prior report located in bounded search; no claim of first discovery.",
+  "retention": "Full re-downloadable bodies only in /tmp."
+}

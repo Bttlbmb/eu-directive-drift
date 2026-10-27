@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "scope": [
+    "at-noise-declaration-copy-retained",
+    "pt-outdoor-noise-declaration-copy-duty",
+    "fi-outdoor-noise-declaration-copy-duty",
+    "hu-noise-national-copy-retained",
+    "lv-noise-national-copy-retained"
+  ],
+  "question": "Does deleting EU Article16 prohibit independent national information duties, and do these five records establish more than a literal difference?",
+  "shortAnswer": "No: deletion by itself does not establish that every independent national information duty is unlawful. A coherent narrower case concerns retention of the identical automatic EU collection scheme, especially where made a market-entry condition or officially identified as needing repeal. National-only duties surviving a deliberate partial repeal require additional proof of impediment, disproportionality or pre-emption; that proof is not currently established.",
+  "framework": [
+    {
+      "url": "https://www.boe.es/doue/2024/2839/L00001-00004.pdf",
+      "pinpoint": "Authentic Directive2024/2839,recitals5–6,Article2(1),Article5(1)",
+      "access": "Fresh full authentic official mirror read",
+      "assessment": "Recital5 addresses both national-authority and Commission routine copies and the administrative burden on companies. Recital6 says the data will no longer be collected. Article2 deletes16;Article5 specifically requires national measures implementing that deletion by28November2025,applicable29November. These support an intended removal of the harmonised automatic scheme, not merely ending a Commission publication. They do not expressly prohibit every separately justified national request."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A02000L0014-20260530",
+      "pinpoint": "Current consolidated Directive2000/14,Article1",
+      "access": "Fresh official indexed current text; direct endpoint anti-bot",
+      "assessment": "Article1 expressly includes documentation and noise-data collection within the harmonisation objective. This is material beyond a deletion in an excluded/non-harmonised field."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32000L0014",
+      "pinpoint": "Articles5–9,14(3),17;recitals6–7,14–15",
+      "access": "Fresh official indexed authentic original body; current heading identified; these operative safeguards separately checked",
+      "assessment": "Article6(1) protects market access for compliant marked equipment with declaration. Article9 restricts protective market measures to non-compliance with EU requirements. Article14(3) preserves reasoned documentation requests. Article17 saves proportionate rules on equipment use/person protection, not a blanket all-type data-collection exemption. Those safeguards support scrutiny of a new market-entry condition; they do not automatically prove any postmarket national copy is forbidden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32019R1020",
+      "pinpoint": "Articles14(1)–(4)(a),AnnexI point12",
+      "access": "Fresh official indexed binding regulation passages",
+      "assessment": "Surveillance authorities retain document/copy powers, exercised proportionately for compliance assessment. The listed powers are a minimum; this prevents treating deletion as total removal of national information powers. It does not positively authorise indiscriminate routine filings or a separate Commission-copy condition."
+    },
+    {
+      "url": "https://www.officielebekendmakingen.nl/stcrt-2026-16973-n1.html",
+      "pinpoint": "ArticleI and explanatory sections on implementation/no national policy discretion",
+      "access": "Fresh official indexed full explanatory body; direct page unavailable; authenticatedEU-notification mirror also indexed",
+      "assessment": "The Netherlands repeals both national-minister and Commission copies as implementation without national policy discretion. This is supportive official interpretation of the common amendment, not a ruling binding the five other states. It is contextual evidence only."
+    }
+  ],
+  "records": [
+    {
+      "id": "pt-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain-qualified",
+      "confidence": "strongest of five",
+      "reason": "Current Article7(3) expressly requires both recipient copies before national marketing/service;Article4(1) requires compliance with the decree as a condition of marketing. Thus there is an identifiable additional formal condition for EU-compliant equipment, not merely an independent information power. Read with EUArticle6 and expressly harmonised data collection, this is a substantive market-access concern. Retain bounded statutory-text lead, not established actual obstruction.",
+      "sources": [
+        {
+          "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-156246098",
+          "pinpoint": "Articles4(1),7(3)–(4),8(2);lastamendment2021",
+          "access": "Fresh official full body independently read"
+        }
+      ],
+      "qualification": "Commission non-notification concerns supplement but do not prove this exact clause illegal. General documentation/targeted requests remain."
+    },
+    {
+      "id": "at-noise-declaration-copy-retained",
+      "recommendation": "retain-open-recognised-repeal",
+      "confidence": "moderate",
+      "reason": "No premarketing deadline should be inferred. But Section6(3) still reproduces both recipients in the abolished EU scheme, and the government's precise explanatory point8 says that duty was abolished by2024/2839 and proposes removing this exact paragraph. That combination supports a recognised delayed legal-alignment lead. It does not justify a categorical finding all independent national filings are unlawful.",
+      "sources": [
+        {
+          "url": "https://www.wko.at/oe/news/0281-ak-erlaeuterungen-geraeuschemissionen.pdf",
+          "pinpoint": "Printedpage2,ZuZ8(Entfall§6Abs3),lines68–73",
+          "access": "Fresh full government-explanation PDF read"
+        },
+        {
+          "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001417",
+          "pinpoint": "§6(3),distinct§5(4)reasonedrequest/6(4)retention",
+          "access": "Fresh current official full body read"
+        }
+      ],
+      "qualification": "Government proposal can be tracked as such; no adjudicated breach, fine or actual burden. If the editorial threshold requires a proved infringement rather than a recognised implementation concern, withdraw pending a fuller pre-emption assessment."
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain-open-government-reform-lead",
+      "confidence": "lower than PT/AT",
+      "reason": "Section10 routes each type's declaration from manufacturer toSYKE and onward toCommission: it retains the identical harmonised EU data pipeline, not a newly articulated independent domestic scheme. Official September consultation identifies implementation of2024/2839 reporting changes. Read with explicit EU data-collection harmonisation and simplification intent, this supports a qualified existing-duty/remedy lead. It does not independently settle whether every national part of the route is prohibited.",
+      "sources": [
+        {
+          "url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/621/fin%40",
+          "pinpoint": "Section10,Produced16October2026",
+          "access": "Fresh live browser XML already read independently"
+        },
+        {
+          "url": "https://www.lausuntopalvelu.fi/FI/Proposal/ShowAllProposalAnswers?proposalId=4276858e-180b-40e7-a3e0-020310279184",
+          "pinpoint": "ConsultationVN/24738/2026-YM-3,introduction/objectives",
+          "access": "Fresh official indexed text; full explanatory attachment not retrieved"
+        }
+      ],
+      "qualification": "No precise Finnish attachment declaringSection10incompatible was read. Recommend downgrade consequence toPossibly/on-paper and statusopen if retained. Withdrawal is reasonable under a stricter proved-conflict threshold."
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "recommendation": "remove-from-public-catalogue-pending-proof",
+      "confidence": "conservative withdrawal",
+      "reason": "Hungary deliberately deleted only the Commission route and retains a domestic authority copy without a stated advance deadline. The EU repeal removes the harmonised basis but does not itself prove the remaining domestic surveillance duty unlawful. No actual market impediment, concrete disproportionate demand or official recognition that surviving11(1)is incompatible was located. A generalized harmonisation recital cannot close that evidential gap consistently with AIFM/RoHS/EMF withdrawals.",
+      "sources": [
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2025-469-K3-22",
+          "pinpoint": "Official explanation dated31December2025",
+          "access": "Fresh full official text read"
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2001-140-20-22",
+          "pinpoint": "Current§11(1)–(2),§3marketingconditions/§6surveillance",
+          "access": "Fresh current text independently read in prior peer work"
+        }
+      ],
+      "qualification": "Explanation recognises repeal of the EU duty, but identifies the provision actually repealed rather than saying the retained national-only copy is incompatible. Research-only retention preserves the question."
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "recommendation": "remove-from-public-catalogue-pending-proof",
+      "confidence": "conservative withdrawal",
+      "reason": "Latvia's deliberate partial repeal likewise leaves only a nationalPTACcopy without a stated advance deadline. Marketing conditions do not expressly make it a condition of entry. No official explanation or concrete disproportionate/obstructive use shows why an independent national surveillance route is prohibited. The literal residue alone does not meet the conservative threshold.",
+      "sources": [
+        {
+          "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+          "pinpoint": "Points7,37,39–41,current29November2025",
+          "access": "Fresh current official body read in prior peer work"
+        },
+        {
+          "url": "https://www.vestnesis.lv/op/2025/225.17",
+          "pinpoint": "679/2025,points1.6,1.8,2",
+          "access": "Fresh authentic national amender read"
+        }
+      ],
+      "qualification": "No finding that the retained duty is lawful; insufficient proof of a substantive conflict for public listing."
+    }
+  ],
+  "coherentDistinction": "Retain an additional premarket formality contrary to a specific free-movement guarantee (PT), or an expressly recognised pending repeal of the identical EU scheme (AT, more cautiouslyFI), while withdrawing deliberately preserved national-only information duties whose independent legality has not been resolved (HU/LV). Neither endpoint rests solely on whether the paragraph text matches. If recognised reform tracking is not enough for this catalogue, AT/FI should also be withdrawn pending stronger legal-result proof; PT remains materially distinct.",
+  "evidenceLimits": [
+    "No court or Commission decision adjudicating any of these exact five clauses was located.",
+    "Non-notification infringements are not substantive findings on the clauses.",
+    "No filing, cost, fine, refusal or actual trade impediment investigated.",
+    "Current harmonisation Article1 was freshly read from official indexed consolidation; direct EUR-Lex full endpoint remained anti-bot. Authenticated operative safeguards read from official original body and amender.",
+    "Browser service became unavailable during attempted Finnish attachment follow-up; no claim to have read that attachment."
+  ],
+  "fiAttachmentFollowup": {
+    "status": "not-retrieved",
+    "date": "2026-10-26",
+    "exactLabel": "Lausuntopyyntö_Perustelumuistioluonnos koskien valtioneuvoston asetusta ulkokäyttöön tarkoitettujen laitteiden melupäästöistä.pdf",
+    "attempts": [
+      "Both web connectors: consultation/answers endpoints HTTP403",
+      "Direct authorised public HTTPS retrieval: Cloudflare403",
+      "Browser fallback: no enabled browser surfaces remain",
+      "Official ministry/project mirrors and exact filename/diary-number searches: no memo body located",
+      "Known public non-JavaScript report route: unavailable"
+    ],
+    "limit": "No attachment download identifier was exposed. No numeric attachment IDs were guessed or enumerated. Section10-specific recognition or exact proposed replacement has not been read."
+  }
+}

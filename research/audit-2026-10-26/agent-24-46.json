@@ -1,0 +1,1149 @@
+{
+  "snapshot": "2026-10-26",
+  "auditor": "audit_records_24_46",
+  "status": "all-23-assessed-peer-review-and-followups-complete",
+  "scope": [
+    "cy-asbestos-exposure-limit-2023-amendment",
+    "de-energy-efficient-utilities-procurement",
+    "ie-new-residential-charging-infrastructure",
+    "fr-diisocyanate-binding-limit",
+    "es-payment-system-access-nonbanks",
+    "pl-biomass-sustainability-threshold",
+    "fr-repair-warranty-extension",
+    "fr-energy-sharing-legal-entity",
+    "fr-offset-claim-blacklist",
+    "pl-green-transition-commencement",
+    "se-energy-sharing-deduction-deferral",
+    "de-biomass-electricity-support-threshold",
+    "es-online-withdrawal-function",
+    "fr-dac8-ledger-address-reference",
+    "lu-asbestos-company-permit-transition",
+    "nl-heat-cost-benefit-analysis-threshold",
+    "ie-renewable-eia-scoping-deferral",
+    "at-dac8-ledger-address-reference",
+    "fi-green-claim-old-stock-transition",
+    "de-residential-charging-commencement",
+    "it-dac8-ledger-address-reference",
+    "pt-electricity-complaint-protection-scope",
+    "be-single-permit-unemployment-period"
+  ],
+  "editorialPrinciple": "Confirm changed duty and national text; qualify unresolved equivalence and practical effect; missing notification or stale citation alone is not proof of noncompliance.",
+  "summary": {
+    "reviewed": 23,
+    "retainQualified": 16,
+    "revise": 4,
+    "remove": 3
+  },
+  "audits": [
+    {
+      "id": "cy-asbestos-exposure-limit-2023-amendment",
+      "recommendation": "retain-qualified",
+      "assessment": "National Regulation 4 specifies0.1 fibres/cm³ eight-hour TWA; EU replacement Article 8 requires0.01 before separate2029 measurement changes. Only listed2015 amendment changesRegulation 3. The numerical concern survives, subject to general prevention and more-favourable-law clauses.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2023/2668/oj",
+          "pinpoint": "Replacement Article 8 and staggered Article 2 deadlines",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/5486B4AE4614EBCCC2257E0B002E78CB/%24file/KDP_316_2006.pdf",
+          "pinpoint": "Regulation 4; PDF 7, printed2689",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/5486B4AE4614EBCCC2257E0B002E78CB/%24file/KDP_46_2015.pdf",
+          "pinpoint": "Regulation 2 inserts priority clause intoRegulation 3",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/5486B4AE4614EBCCC2257E0B002E78CB?OpenDocument=&print=",
+          "pinpoint": "Current ministry list, updated7 October 2026",
+          "access": "official full text"
+        }
+      ],
+      "limits": "Parliamentary minister response could not be freshly retrieved and latest Gazette not independently re-read; currentness corroboration is ministry list. Preserve existing25 October date; no individual site audited."
+    },
+    {
+      "id": "de-energy-efficient-utilities-procurement",
+      "recommendation": "retain-qualified",
+      "assessment": "SektVO§ 58 still requires consumption information but only permits efficiency as award factor. Fresh government bill expressly identifies outstanding extension of high-efficiency procurement to utilities. Preserve federal/regional/contract qualifications.",
+      "checkedSources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/sektvo_2016/__58.html",
+          "pinpoint": "§ 58(1)–(2)",
+          "access": "official full text"
+        },
+        {
+          "url": "https://dserver.bundestag.de/btd/21/080/2108027.pdf",
+          "pinpoint": "Replacement§ 58 PDF 32; explanation utilities extension PDF 76",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1772124052603&uri=CELEX%3A32024H1716",
+          "pinpoint": "Commission interpretation of Article 7 applicability to contracting entities",
+          "access": "official indexed EU body"
+        }
+      ],
+      "limits": "No exhaustive Länder/sectoral inventory or individual tender audited; general Climate Act/federal AVV do not by themselves establish utilities-wide coverage."
+    },
+    {
+      "id": "ie-new-residential-charging-infrastructure",
+      "recommendation": "retain-qualified",
+      "assessment": "National PartL2A requires ducts; EU Article 14(4) additionally requires pre-cabling and installedcharger for qualifying new residential buildings. Local/planning/contract requirements may nevertheless yield compliant projects.",
+      "checkedSources": [
+        {
+          "url": "https://www.irishstatutebook.ie/eli/2022/si/535/made/en/pdf",
+          "pinpoint": "InsertedPartL2A(a)",
+          "access": "official indexed PDF"
+        },
+        {
+          "url": "https://revisedacts.lawreform.ie/eli/1997/si/497/revised/en/pdf?annotations=false",
+          "pinpoint": "Current consolidatedPartL2A",
+          "access": "official indexed PDF"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202401275",
+          "pinpoint": "Article 14(4)–(5),35",
+          "access": "official indexed authentic EU PDF"
+        }
+      ],
+      "limits": "No exhaustive local planning census/project audit; amendmenttable not freshly verified to26 October, so preserve current evidence-date attribution."
+    },
+    {
+      "id": "fr-diisocyanate-binding-limit",
+      "recommendation": "retain-qualified",
+      "assessment": "Authentic April 2026 order adds interim10/20 µgNCO/m³ as indicative values, whereas EU table makes them binding. Current binding national table contains final6/12 only fromJanuary 2029. General prevention is not demonstrated equivalent binding interim limit.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=NIM%3A202602840",
+          "pinpoint": "Arrêté8 April 2026, indicative table and commencement",
+          "access": "official indexed authentic national PDF"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018530960",
+          "pinpoint": "R4412-149 current since10 April 2026, final values1 January 2029",
+          "access": "official indexed current code"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530556/2025-06-04",
+          "pinpoint": "R4412-150 indicative objectives",
+          "access": "official indexed code"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32024L0869",
+          "pinpoint": "Annex I diisocyanate row/interimfootnote",
+          "access": "official indexed authentic EU PDF"
+        }
+      ],
+      "limits": "No specific exposure, enforcement decision or injury audited; narrow interim-period comparison."
+    },
+    {
+      "id": "es-payment-system-access-nonbanks",
+      "recommendation": "retain-qualified",
+      "assessment": "The statutes retain narrower entity eligibility and designated-system exception. Bank of Spain acknowledges legislative implementation outstanding but provides discretionary TARGET nonbank admission with safeguards. No blanket access-ban conclusion.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/886/oj",
+          "pinpoint": "Articles 3–5",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-21980#a2",
+          "pinpoint": "Article 2(c)(2°), currentconsolidation",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16036#ar-8",
+          "pinpoint": "Article 8(1)–(2), designated exception/indirect access",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19591",
+          "pinpoint": "Preamble; First(2) Article 4(2)(d bis); First(3) safeguards",
+          "access": "official full text"
+        }
+      ],
+      "limits": "May 2026 TARGET amendment and October dissolution not freshly re-read. Existing record already discloses alternate route; practical effect remains system-specific."
+    },
+    {
+      "id": "pl-biomass-sustainability-threshold",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh consolidation retains20 MW thermal input in135a(8)(2), linked to accounting/support. October 2026 separate amendment does not change135a: Article 1 moves from124 to140. UC118 separately proposes REDIII implementation. Retain newer nonlegacy-support overlap only.",
+      "checkedSources": [
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/68/text/U/D20260068Lj.pdf",
+          "pinpoint": "135a(8)(2) PDF 309;129(5) PDF 305–306",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/1347/text/O/D20261347.pdf",
+          "pinpoint": "Article 1 points53–55, PDF 29",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.gov.pl/web/premier/projekt-ustawy-o-zmianie-ustawy-o-odnawialnych-zrodlach-energii-oraz-niektorych-innych-ustaw14",
+          "pinpoint": "UC118 version2.0,1 July 2026",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32023L2413",
+          "pinpoint": "Revised29(1),29(15)legacy support",
+          "access": "official indexed EU body"
+        }
+      ],
+      "limits": "ETS, grant conditions and certification may apply independently; no support payment/accounting decision audited."
+    },
+    {
+      "id": "fr-repair-warranty-extension",
+      "recommendation": "revise",
+      "assessment": "The live code still specifies six months, but a current official consumer-guide page states twelve months. The public record omitted this contrary official evidence. Retain only as a qualified statutory wording concern, not a conclusion about uniform current practice.",
+      "checkedSources": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142545",
+          "pinpoint": "Article L217-13, current header 26 October 2026; unchanged since 1 October 2021",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11094",
+          "pinpoint": "Verified 17 August 2026; remedy and worked-example sections both describe twelve months",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19033",
+          "pinpoint": "Updated 10 September 2026; opening paragraph and first warranty bullet describe incomplete transposition and six months",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32024L1799",
+          "pinpoint": "Article 16(2), inserted Article 10(2a), Article 21 and 22",
+          "access": "official indexed body"
+        }
+      ],
+      "limits": "No enacted amendment replacing Article L217-13 was found. Inconsistent official guidance is not proof that the statute was amended or that every consumer receives twelve months.",
+      "changedFields": [
+        "title",
+        "statusKind",
+        "statusLabel",
+        "statusDetail",
+        "evidenceDate",
+        "evidenceLabel",
+        "summary",
+        "nationalGap",
+        "consequence",
+        "caveat",
+        "review",
+        "sources",
+        "timeline"
+      ],
+      "replacement": {
+        "id": "fr-repair-warranty-extension",
+        "country": "France",
+        "countryCode": "FR",
+        "title": "Repair warranty: code still says six extra months; official guidance differs",
+        "topic": "Consumer protection",
+        "baseAct": "Directive (EU) 2019/771 (sale of goods)",
+        "baseActPublished": "2019-05-22",
+        "amendingAct": "Directive (EU) 2024/1799 (right to repair)",
+        "celex": "32024L1799",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "stage": "research",
+        "statusLabel": "Current statutory wording; official guidance inconsistent",
+        "statusKind": "open",
+        "statusDetail": "Two official guidance pages give different accounts",
+        "evidenceDate": "2026-10-26",
+        "evidenceLabel": "Current code and conflicting official guidance checked",
+        "deadline": "2026-07-31",
+        "summary": "The consumer code still gives a six-month extension after repair, where the EU amendment requires twelve. Official guidance is inconsistent: one government page describes twelve months already, while another says national transposition is still underway.",
+        "euChange": "The repair directive adds a once-only twelve-month extension of the seller's liability period where repair brings goods into conformity. Its amendment applies to sales contracts concluded on or after 31 July 2026.",
+        "nationalGap": "Article L217-13 still specifies a six-month extension; the live code dated 26 October 2026 retains its 2021 version. Article L217-3 retains a two-year liability period. Service Public’s September news item says transposition is underway and contrasts six months with the forthcoming year, but its consumer guide, verified in August, already describes twelve months.",
+        "nationalLaw": "Consumer Code Articles L217-3 and L217-13; Civil Code Article 1648.",
+        "provisions": "Directive 2024/1799 Article 16(2), inserting Directive 2019/771 Article 10(2a) and (5a); Articles 21 and 22; French Consumer Code L217-3 and L217-13.",
+        "consequence": "Possibly. The inspected code still specifies six extra months after repair, compared with twelve in the EU amendment. One official consumer guide already describes twelve months, while another says the national change is pending. This conflicting guidance leaves the practical position uncertain; no refused extension or consumer loss has been established.",
+        "resolution": "We found no enacted twelve-month replacement in the current official code or in a bounded search of later legislation. The government itself acknowledges that the extension awaits transposition.",
+        "caveat": "Focus this comparison on contracts concluded after 31 July 2026 and goods actually repaired. The EU alternative for systems without a fixed liability period does not obviously fit France's express two-year period. Repair downtime, replacement rights, commercial guarantees and the separate hidden-defects remedy can provide additional protection; this is not a claim that every repaired product has only thirty months of coverage. The practical effect of consistent interpretation requires legal assessment. Official guidance is inconsistent: Service Public guide F11094 describes a twelve-month extension, while news item A19033 still describes six months pending transposition. This is a statutory-wording lead, not a definitive account of every consumer’s enforceable rights or current practice.",
+        "comparison": {
+          "beforeLabel": "Current French repair extension",
+          "before": "Six months added after a repair.",
+          "afterLabel": "Revised EU extension",
+          "after": "Twelve months, once.",
+          "note": "New sales contracts from 31 July 2026; other remedies and downtime remain relevant."
+        },
+        "review": "Three agents checked the chain. One independently read the authentic EU amendment, transition and alternative-liability rule, French fixed liability period and exact government acknowledgment. Another read the current L217-13 in the live official code with a 25 October 2026 header. Separate hidden-defects remedies and repair downtime were considered; neither establishes a universal twelve-month extension. A conservative 26 October re-audit read the live current code and both official guidance pages. It identified the inconsistent twelve-month guidance and qualified the title, status and consequence accordingly.",
+        "priorRecognition": "recognized",
+        "recognitionNote": "Service Public, published by the Prime Minister's legal and administrative information directorate, expressly acknowledges pending transposition and the six-month versus one-year difference.",
+        "recognizedBy": [
+          "French government (Service Public / DILA)"
+        ],
+        "noveltySearch": {
+          "date": "2026-10-25",
+          "method": "Current official code read and bounded official searches for a later twelve-month enactment; exact government acknowledgment located.",
+          "queries": [
+            "site:legifrance.gouv.fr \"L217-13\" \"2026\" \"douze\"",
+            "site:service-public.gouv.fr A19033 réparation six mois un an"
+          ]
+        },
+        "sources": [
+          {
+            "title": "Repair directive: warranty amendment, transition and deadline",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/oj",
+            "role": "EU amendment",
+            "locator": "Article 16(2); Article 21; Article 22(1)"
+          },
+          {
+            "title": "Current French statutory repair extension",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142545",
+            "role": "National law",
+            "locator": "Article L217-13, first paragraph; live current version at 26 October 2026 still says six months"
+          },
+          {
+            "title": "Current conformity-warranty framework",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142579",
+            "role": "Alternative-liability adverse check",
+            "locator": "Article L217-3: defects appearing within two years of delivery"
+          },
+          {
+            "title": "Government acknowledges the extension awaits transposition",
+            "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19033",
+            "role": "Prior official recognition",
+            "locator": "Updated 10 September 2026; opening transposition paragraph and first warranty bullet"
+          },
+          {
+            "title": "DGCCRF explains repair downtime and separate warranty extensions",
+            "url": "https://www.economie.gouv.fr/files/files/directions_services/dgccrf/Faq/FAQ-garanties.pdf?v=1757056285",
+            "role": "Practical-effect adverse check",
+            "locator": "Printed p.9: six-month extension plus period of immobilisation"
+          },
+          {
+            "title": "Official consumer guide describes a twelve-month extension",
+            "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11094",
+            "role": "Contrary official guidance; statutory currentness must be distinguished",
+            "locator": "Verified 17 August 2026; repair/remedy section and worked example describe twelve months; live page read 26 October 2026"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-07-10",
+            "event": "Repair directive published.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-07-31",
+            "event": "National application deadline and cutoff for the sales-contract amendment.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-09-10",
+            "event": "Government explanation acknowledges six-month rule and pending increase.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "Current official French six-month provision independently checked.",
+            "who": "check"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current code and inconsistent official consumer guidance compared.",
+            "who": "check"
+          }
+        ],
+        "catalogueStatus": "review",
+        "researchRound": 3
+      }
+    },
+    {
+      "id": "fr-energy-sharing-legal-entity",
+      "recommendation": "revise",
+      "assessment": "Live French L315-2 and D315-9 retain an organising legal person for collective self-consumption. EU Article 15a also permits private agreements. An authorised direct-sale route already exists; whole-framework equivalence is unresolved, so consequence should be possible and status open.",
+      "checkedSources": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051560767",
+          "pinpoint": "L315-2, live header 26 October 2026; current since 3 May 2025",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054358782",
+          "pinpoint": "D315-9, live header 26 October 2026; current since 1 July 2026",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024L1711",
+          "pinpoint": "Inserted15a(2), (4)(a), (4)(c), transposition clause",
+          "access": "official indexed EU body"
+        }
+      ],
+      "limits": "No exhaustive review of all bilateral electricity arrangements or individual project decisions. Existing direct-sale alternative remains material.",
+      "replacement": {
+        "id": "fr-energy-sharing-legal-entity",
+        "country": "France",
+        "countryCode": "FR",
+        "title": "Energy sharing: collective rules still require a legal entity",
+        "topic": "Electricity markets",
+        "baseAct": "Directive (EU) 2019/944 (electricity markets)",
+        "baseActPublished": "2019-06-14",
+        "amendingAct": "Directive (EU) 2024/1711 (electricity market design)",
+        "celex": "32024L1711",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "catalogueStatus": "review",
+        "researchRound": 3,
+        "stage": "research",
+        "statusLabel": "Collective route still requires a legal entity",
+        "statusKind": "open",
+        "statusDetail": "Equivalent private-agreement route needs legal review",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Live current statutory and regulatory provisions checked",
+        "deadline": "2026-07-17",
+        "deadlineLabel": "Energy-sharing transposition deadline",
+        "summary": "France’s framework for collective self-consumption still links participants through a legal entity. We found no equivalent route without one. Ordinary authorised direct electricity sales are already possible, which is an important qualification.",
+        "euChange": "Article 15a(2) adds the private-agreement alternative.",
+        "nationalGap": "Energy Code L315-2 requires producers and consumers in ordinary and extended collective self-consumption operations to be linked within a legal person. D315-9, rewritten in June 2026 and effective 1 July, still requires that person to contract with the distribution-system operator. The current framework therefore retains the organisational requirement rather than expressly providing the private-agreement alternative. The 2026 allocation reforms do not remove it.",
+        "nationalLaw": "Energy Code L315-2 and D315-9; direct-sale alternative L333-1(I)(2).",
+        "provisions": "Amending Article 2(5); revised Article 15a(2), (4); Article 3(1). National L315-2, D315-9, L333-1.",
+        "consequence": "Possibly. The collective self-consumption route inspected still requires an organising legal entity. France also permits authorised direct private sales; whether another route provides equivalent sharing rights, including metered deduction and the small-household supplier exemption, needs legal assessment. No refused project or quantified harm has been established.",
+        "resolution": "We read the current provisions L315-2 and D315-9 on 25 October 2026. Searches of later legislation and official sources found no separate sharing framework without a legal entity. The Commission’s September 2026 procedure concerns incomplete implementation of energy sharing and supplier choice more broadly; it does not prove this specific difference.",
+        "caveat": "L333-1(I)(2) permits direct private sales where the producer has supplier authorisation or delegates the obligations to an authorised third party. Such a sale is not automatically equivalent to energy sharing with metered deduction and the small-household supplier exemption in Article 15a(4). Existing collective projects remain possible; geographic limits, balancing responsibilities and charges may lawfully apply. This is a qualified framework comparison requiring legal assessment, not an adjudicated infringement.",
+        "comparison": {
+          "beforeLabel": "Current collective-sharing route",
+          "before": "Participants linked within a legal entity, which contracts with the network operator.",
+          "afterLabel": "Revised EU choice",
+          "after": "Private agreements or a legal entity.",
+          "note": "Ordinary authorised direct sales already exist; no blanket private-sale ban is claimed."
+        },
+        "review": "Three agents checked the chain. Independent adverse review identified the authorised direct-sale alternative and retained it. A third directly read the live current L315-2 and D315-9 dated 25 October 2026, confirming the legal-person requirement and the June 2026 amendment. Later entity-free routes and the difference between ordinary supply contracts and sharing safeguards were considered. A conservative 26 October re-audit read live L315-2 and D315-9 and revised EU Article 15a; it qualified the consequence because whole-framework equivalence remains unresolved.",
+        "priorRecognition": "recognized",
+        "recognizedBy": [
+          "Published energy-market commentary"
+        ],
+        "recognitionNote": "A 19 October 2026 JeChange article already contrasts the EU private-agreement alternative with France’s PMO collective framework and the missing simpler individual-sharing route. The Commission separately opened a broader implementation procedure. This record independently checks current primary law; it is not an original-discovery claim.",
+        "noveltySearch": {
+          "date": "2026-10-25",
+          "method": "Current national provisions, June 2026 amendments, CRE publications and official implementation sources searched for an entity-free route and the precise comparison. Broad prior implementation concerns and existing public discussion were retained. A specific pre-existing published comparison was identified and the case is marked recognized.",
+          "queries": [
+            "site:legifrance.gouv.fr L315-2 2026 personne morale",
+            "site:cre.fr 2024/1711 accords privés partage",
+            "site:ecologie.gouv.fr accords privés partage énergie",
+            "site:legifrance.gouv.fr 26 juin 2026 autoconsommation",
+            "site:legifrance.gouv.fr L333-1 2026 autoconsommation"
+          ]
+        },
+        "sources": [
+          {
+            "title": "Electricity market reform: energy-sharing alternative and deadline",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024L1711",
+            "role": "EU amendment",
+            "locator": "Article 2(5), inserted Article 15a(2),(4)(a),(c); Article 3(1) second subparagraph"
+          },
+          {
+            "title": "Current statutory collective self-consumption definition",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051560767",
+            "role": "National law",
+            "locator": "L315-2; current since 3 May 2025; live current version read 25 October 2026"
+          },
+          {
+            "title": "Current organising-person agreement with the network operator",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054358782",
+            "role": "National regulation and later-amendment check",
+            "locator": "D315-9; Decree 2026-561 Article 1; effective 1 July 2026"
+          },
+          {
+            "title": "Current direct-sale authorisation and delegation route",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051214507",
+            "role": "Adverse evidence: existing private direct sales",
+            "locator": "L333-1(I)(2), version in force 14 March 2026"
+          },
+          {
+            "title": "Regulator describes the existing collective model",
+            "url": "https://www.cre.fr/fileadmin/Documents/Rapports_et_etudes/2026/Rapport_Prospective_Territoires.pdf",
+            "role": "Official framework context",
+            "locator": "February 2026, printed p.40: collective participants within an organising legal person"
+          },
+          {
+            "title": "Commission procedure on incomplete energy-sharing implementation",
+            "url": "https://energy.ec.europa.eu/news/commission-takes-action-ensure-complete-and-timely-transposition-eu-directives-key-decisions-energy-2026-09-25_en",
+            "role": "Broader prior official recognition",
+            "locator": "25 September 2026; eighteen Member States, including France; energy sharing and supplier choice"
+          },
+          {
+            "title": "Published comparison already identifies the individual-sharing gap",
+            "url": "https://www.jechange.fr/energie/electricite/news/droit-ceder-surplus-solaire-voisin-17-juillet-france-pas-transpose",
+            "role": "Prior published recognition, not legal authority",
+            "locator": "19 October 2026; EU private-agreement option versus French PMO collective framework"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-06-26",
+            "event": "Electricity-market amendment published.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-05-03",
+            "event": "Current L315-2 version takes effect, retaining the legal-person model.",
+            "who": "national"
+          },
+          {
+            "date": "2026-07-01",
+            "event": "Revised D315-9 takes effect, still requiring the legal person’s network agreement.",
+            "who": "national"
+          },
+          {
+            "date": "2026-07-17",
+            "event": "Relevant national implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-09-25",
+            "event": "Commission opens broader energy-sharing and supplier-choice proceedings.",
+            "who": "commission"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "Current text and direct-sale alternative independently checked.",
+            "who": "check"
+          }
+        ]
+      },
+      "changedFields": [
+        "statusKind",
+        "statusLabel",
+        "statusDetail",
+        "consequence",
+        "review"
+      ]
+    },
+    {
+      "id": "fr-offset-claim-blacklist",
+      "recommendation": "retain-qualified",
+      "assessment": "The current live French environment code retains conditional carbon-neutral advertising; the current consumer blacklist ends at28. DGCCRF expressly explains that the new offset-based blacklist will replace the transparency regime, and the live Assembly dossier shows no promulgation. Retain missing-specific-ban comparison while preserving general misleading-practice protections.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32024L0825",
+          "pinpoint": "Annex new point 4c and Article 4(1)",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043960256",
+          "pinpoint": "L229-68(I), live header26 October 2026",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563107",
+          "pinpoint": "L121-4, list ending28, live header26 October 2026",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/larsenal-juridique-de-la-lutte-contre-lecoblanchiment-bientot-complete",
+          "pinpoint": "Neutrality-claims section, paragraphs explaining repeal and replacement",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53140",
+          "pinpoint": "First reading Assembly; no adopted law/promulgation shown",
+          "access": "official full text"
+        }
+      ],
+      "limits": "No advertisement or enforcement audited. Disclosure does not immunise misleading claims; no categorical current permission is established."
+    },
+    {
+      "id": "pl-green-transition-commencement",
+      "recommendation": "retain-qualified",
+      "assessment": "Authentic published act expressly commences on27 September 2027. Its additions include hiding negative software-update effects and portraying feature-only updates as necessary. EU application is27 September 2026. Retain the enacted delay; official metadata 'obowiązujący' does not override express future commencement.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32024L0825",
+          "pinpoint": "Annex new points 23d/23e and Article 4(1)",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/1353/text/O/D20261353.pdf",
+          "pinpoint": "Article 1(5)(d), PDF 3; Article 3, PDF 5",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eli.gov.pl/eli/DU/2026/1353/ogl",
+          "pinpoint": "Published19 October 2026, entry27 September 2027",
+          "access": "official full text"
+        }
+      ],
+      "limits": "General misleading-practice rules remain; no individual practice or consumer impact audited. Senate recognition not independently refreshed."
+    },
+    {
+      "id": "se-energy-sharing-deduction-deferral",
+      "recommendation": "retain-qualified",
+      "assessment": "Enacted Chapter 14§ 6 creates deduction right; authentic commencement law§ 1 starts it1 January 2027. July 2027 exception concerns other chapters. EU specific sharing implementation date is17 July 2026. Retain timing concern with existing EU-derived-rights and voluntary-arrangement caveats.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024L1711",
+          "pinpoint": "Inserted15a(4)(a), Article 3(1) secondsubparagraph",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/elmarknadslag-20261281_sfs-2026-1281/",
+          "pinpoint": "Chapter 14§ 6 and future operative header",
+          "access": "official full text"
+        },
+        {
+          "url": "https://svenskforfattningssamling.se/sites/default/files/sfs/2026-06/SFS2026-1282.pdf",
+          "pinpoint": "§ 1 general1 January 2027; exceptions11kap/12kap1 July 2027",
+          "access": "official full text"
+        }
+      ],
+      "limits": "No exhaustive review of current contracts, internal networks or individual EU-derived remedies. Government explanation and regulator alternative guidance not freshly reread."
+    },
+    {
+      "id": "de-biomass-electricity-support-threshold",
+      "recommendation": "retain-qualified",
+      "assessment": "Live BioSt-NachV§ 1(2) retains20 MW thermal input for EEG electricity;§ 3 imposes sustainability conditions within that scope. EEG§ 90 is delegated enabling authority, not itself the missing7.5 MW threshold. TRIS still displays a draft and expired standstill is not enactment. Preserve newer stand-alone power-only/nonlegacy limitation and contrary dena guidance.",
+      "checkedSources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html",
+          "pinpoint": "Header last amendment13 December 2022",
+          "access": "official indexed current consolidation"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/biost-nachv_2021/__1.html",
+          "pinpoint": "§ 1 number2",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/biost-nachv_2021/__3.html",
+          "pinpoint": "§ 3 sustainability/payment conditions; temporary2023 exception",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/eeg_2014/__90.html",
+          "pinpoint": "§ 90 enabling provision",
+          "access": "official full text"
+        },
+        {
+          "url": "https://technical-regulation-information-system.ec.europa.eu/de/notification/28261",
+          "pinpoint": "2026/0379/DE received14 July 2026; standstill 15 October 2026",
+          "access": "official full text"
+        }
+      ],
+      "limits": "No fresh exhaustive Gazette review this pass; latest consolidation plus notified draft support bounded currentness. Contrary dena interpretation is disclosed, so no unlawful-subsidy conclusion."
+    },
+    {
+      "id": "es-online-withdrawal-function",
+      "recommendation": "retain-qualified",
+      "assessment": "Current Article 106(3) says trader may offer online withdrawal, whereas EU inserted11a requires an accessible function and confirmation for in-scope distance contracts. EU application19 June 2026 confirmed. Retain ordinary-online-goods comparison with substantive withdrawal rights intact.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2673",
+          "pinpoint": "Inserted11a(1)–(5), Article 2(1)",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555#a106",
+          "pinpoint": "Article 106(3), current BOE latest update28 February 2026; Article 98 distinct payment button",
+          "access": "official full text"
+        }
+      ],
+      "limits": "Draft remedy and Cabinet explanation not freshly re-read; current code comparison is independently confirmed. No individual trader/function audited."
+    },
+    {
+      "id": "fr-dac8-ledger-address-reference",
+      "recommendation": "remove",
+      "assessment": "Live Article 1649 AC bis II.D(i) retains the1114 citation; EU corrigendum changes the ledger-address reference to1113. This establishes a drafting mismatch, but no substantive reporting omission, scope change or unresolved compliance problem has been demonstrated. Remove from public issues pending such evidence; preserve research.",
+      "checkedSources": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051215656",
+          "pinpoint": "1649 AC bis II.D(i), live header26 October 2026, current since1 January 2026",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "pinpoint": "Authentic EU corrigendum, address references1114 → 1113",
+          "access": "official indexed authentic EU PDF"
+        },
+        {
+          "url": "https://www.impots.gouv.fr/transfert-dinformations-en-application-des-dispositifs-carfdac8",
+          "pinpoint": "Technical-document landing page, maintenance response",
+          "access": "web and live IAB access attempt"
+        }
+      ],
+      "limits": "The technical annex could not be retrieved. Existing record acknowledges detailed reporting documentation unverified; failure to access does not prove a reporting defect. First annual filing remains2027. This is withdrawal for insufficient substantive support, not proof the reference has been corrected."
+    },
+    {
+      "id": "lu-asbestos-company-permit-transition",
+      "recommendation": "retain-qualified",
+      "assessment": "Live authentic Article 25 postpones Article 14's new company permit until1 May 2027, separately from1 November 2026 repéreur certification. ITM current guidance confirms both; Council of State specifically criticises late commencement. Retain transition comparison with older worksite-visa protections prominent.",
+      "checkedSources": [
+        {
+          "url": "https://legilux.public.lu/eli/etat/leg/rgd/2026/05/19/a246/jo",
+          "pinpoint": "Article 14 new11ter; Article 25, publication20 May 2026 and future dates",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://itm.public.lu/fr/actualites/conferences/2026/08/amiante.html",
+          "pinpoint": "Section1 transitional period, updated14 August 2026",
+          "access": "official full text"
+        },
+        {
+          "url": "https://conseil-etat.public.lu/content/dam/conseil_etat/fr/avis/2026/20012026/62316-avis-du-20-janvier-2026.pdf",
+          "pinpoint": "Article 25 discussion, PDF 4–5",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2668",
+          "pinpoint": "NewArticle 15 and Article 2 deadline",
+          "access": "official indexed EU body"
+        }
+      ],
+      "limits": "Old worksite approvals may satisfy elements of EU condition for some work. No exhaustive equivalence assessment or court decision; don't state asbestos work currently unregulated."
+    },
+    {
+      "id": "nl-heat-cost-benefit-analysis-threshold",
+      "recommendation": "retain-qualified",
+      "assessment": "Live Dutch BAL as consulted26 October 2026/current1 October 2026 retains5.7g20 MW nominal thermal input. EU26(7)(a) uses>10 MW annual average input, so only overlap plants support comparison. Draft replaces20 with 10 and IPLO13 October tracker still says preparation. Existing metric/exemption caveats are essential.",
+      "checkedSources": [
+        {
+          "url": "https://wetten.overheid.nl/BWBR0041330/",
+          "pinpoint": "5.7g,5.7j–l; consulted26 October 2026/current1 October 2026",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.internetconsultatie.nl/wijzigingsbesluiteed/document/15086",
+          "pinpoint": "ArticleII(AK), PDF 10; proposed threshold10 MW",
+          "access": "official full text"
+        },
+        {
+          "url": "https://iplo.nl/regelgeving/omgevingswet/ontwikkeling/wijzigingen-besluit-activiteiten-leefomgeving/",
+          "pinpoint": "Preparationtable, updated13 October 2026",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L1791",
+          "pinpoint": "26(7)(a),26(8),36 deadline",
+          "access": "official indexed EU body"
+        }
+      ],
+      "limits": "No actual plant/permit audited. Other environmental/energy-saving permit duties may require similar analysis in specific cases; no equivalence proven."
+    },
+    {
+      "id": "ie-renewable-eia-scoping-deferral",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh SI185 and official consolidated annotations F728/F729/C253 confirm the specified mandatory/fixed scope safeguards are prospective1 November 2026. Planning agency June guide confirms date. Retain time-limited finding and planned1 November recheck.",
+      "checkedSources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2413",
+          "pinpoint": "Inserted16b(2), Article 5 stageddeadline",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://www.irishstatutebook.ie/eli/2026/si/185/made/en/pdf",
+          "pinpoint": "Regulation 2, signed29 April 2026",
+          "access": "official indexed authentic national PDF"
+        },
+        {
+          "url": "https://revisedacts.lawreform.ie/eli/2000/act/30/section/173/revised/en/html",
+          "pinpoint": "F728,F729,C253 prospective1 November 2026",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.pleanala.ie/en-ie/latest-news/new-renewable-energy-directive-%28red%29-iii-eia-scopi",
+          "pinpoint": "Agency announcement11 June 2026",
+          "access": "official full text"
+        }
+      ],
+      "limits": "SI323 direct fresh retrieval403; current official consolidation corroborates November date. Do not confuse optional scoping or separate permit-decision periods with these safeguards."
+    },
+    {
+      "id": "at-dac8-ledger-address-reference",
+      "recommendation": "remove",
+      "assessment": "Current RIS§§ 4(7),18(1)Z3(i) retains1114 while EU corrigendum specifies1113. However official explanation directs OECD CARF-consistent interpretation, and binding KDVO§ 4 routes filings to published technical specifications. No substantive scope or reporting failure demonstrated. Remove public issue pending evidence; retain drafting research.",
+      "checkedSources": [
+        {
+          "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013064",
+          "pinpoint": "§§ 4(7),18(1)Z3(i); current header20 October 2026",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.parlament.gv.at/dokument/XXVIII/I/306/fnameorig_1723216.html",
+          "pinpoint": "Introduction and§ 4 explanation: OECD CARF commentary alignment",
+          "access": "official full text"
+        },
+        {
+          "url": "https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR40274862/NOR40274862.pdf",
+          "pinpoint": "KDVO§ 4 technical reporting specifications, effective1 January 2026",
+          "access": "official indexed binding national PDF"
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "pinpoint": "Authentic EU corrigendum, address reference1114 → 1113",
+          "access": "official indexed authentic EU PDF"
+        }
+      ],
+      "limits": "No detailed Austrian CARF schema verified; general BMF/FinanzOnline software pages did not supply proof of narrower reporting. This is insufficient substantive evidence, not a finding law has been corrected."
+    },
+    {
+      "id": "fi-green-claim-old-stock-transition",
+      "recommendation": "retain-qualified",
+      "assessment": "Live Finlex§ 4(3) expressly postpones only§ 2(1) points4,29,30 on previously marketed goods/packaging until27 March 2027. Point31 offset claims is not deferred. CPC common understanding permits phased case-specific enforcement but expressly says old stock is not exempt from compliance; it is nonbinding. Retain narrowly with general-law safeguards and enforcement discretion disclosed.",
+      "checkedSources": [
+        {
+          "url": "https://www.finlex.fi/fi/lainsaadanto/2026/664",
+          "pinpoint": "§§ 2(1)(4),(29),(30),(31),4(3), effective27 September 2026",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32024L0825",
+          "pinpoint": "Annex new green-claim practices and Article 4 date",
+          "access": "official indexed EU body"
+        },
+        {
+          "url": "https://commission.europa.eu/document/download/264d8c70-2f9a-4955-8e7b-154d55a9b684_en?filename=Final+CPC+common+understanding+on+old+stock+situations+June+2026.pdf",
+          "pinpoint": "PDF 2–4, nonbinding status/compliance principle/case-specific enforcement",
+          "access": "official full text"
+        }
+      ],
+      "limits": "Government/KKV recognition not freshly reread. Existing misleading-practice prohibitions remain; no particular old-stock practice or sanction outcome audited."
+    },
+    {
+      "id": "de-residential-charging-commencement",
+      "recommendation": "retain-qualified",
+      "assessment": "Live current GEIG§ 6 still covers>5 spaces and requires preparatory infrastructure. Official energy agency and parliamentary enacted-law dossier confirm new duties only1 January 2027, with application-date transition. EU14(4)/35 deadline29 May 2026 confirmed. Retain bounded fresh-application timing comparison.",
+      "checkedSources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/geig/__6.html",
+          "pinpoint": "§ 6, current>5 spaces/infrastructure duty",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/geig/__16.html",
+          "pinpoint": "Existing application-date transition",
+          "access": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.klimaschutz-niedersachsen.de/Gesetze/GEIG.php",
+          "pinpoint": "September 2026 current/future rules and application dates",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1211034",
+          "pinpoint": "9 September 2026 parliamentary notice: GEIG amended duties start 1 January 2027",
+          "access": "official indexed parliamentary dossier"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202401275",
+          "pinpoint": "14(4)–(5),35",
+          "access": "official indexed authentic EU PDF"
+        }
+      ],
+      "limits": "Authentic enacted replacement PDF could not be freshly fetched (403); corroborated by official parliamentary dossier and energy agency, not a claimed independent reread of all58 pages. No exhaustive local survey/project audited."
+    },
+    {
+      "id": "it-dac8-ledger-address-reference",
+      "recommendation": "remove",
+      "assessment": "Authentic Decree194/2025 Article 6(1)(ee) retains1114 address definition, and Article 13 requires external transfer reports. Literal citation mismatch holds, but there is no demonstrated reporting omission or practical ambiguity. Remove from public issues until substantive evidence; preserve research.",
+      "checkedSources": [
+        {
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2025/12/22/296/sg/pdf",
+          "pinpoint": "Article 6(1)(ee), PDF 10; Article 13(1)(c)(9), PDF 16",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "pinpoint": "Authentic EU corrigendum, address reference1114 → 1113",
+          "access": "official indexed authentic EU PDF"
+        }
+      ],
+      "limits": "Current Normattiva replacement and detailed AE technical annexes/JulyFAQs not independently verified in this pass. Existing record itself admits coverage unverified. First filings2027; withdrawal is insufficient substantive support, not proof citation corrected."
+    },
+    {
+      "id": "pt-electricity-complaint-protection-scope",
+      "recommendation": "revise",
+      "assessment": "The billing-limited wording is confirmed, but the legal effect depends on the whole framework, including termination restrictions and dispute remedies. 'Yes, on paper' overstates a comparison whose equivalence remains expressly unresolved.",
+      "checkedSources": [
+        {
+          "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2026-1139897687",
+          "pinpoint": "Article 2 replacing Article 185(5)–(8); Article 10",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.erse.pt/media/cw5fdm3i/regulamento-827-2023_consolidado.pdf",
+          "pinpoint": "Articles 78–88, especially Article 82",
+          "access": "official full PDF and targeted clauses"
+        },
+        {
+          "url": "https://www.erse.pt/media/sxlhtvlp/rqs_regulamento-da-qualidade-de-servi%C3%A7o_consolidado-2026.pdf",
+          "pinpoint": "January 2026 title/currentness, Articles 60–67 and 123–125",
+          "access": "official full PDF and index"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32024L1711",
+          "pinpoint": "Article 2(9), new Article 28a(2); Article 3(1)",
+          "access": "official indexed body"
+        }
+      ],
+      "limits": "No actual interruption or termination investigated. Re-reading the compared provisions establishes their wording, not absence of an equivalent remedy throughout Portuguese law.",
+      "changedFields": [
+        "statusKind",
+        "statusDetail",
+        "consequence"
+      ],
+      "replacement": {
+        "id": "pt-electricity-complaint-protection-scope",
+        "country": "Portugal",
+        "countryCode": "PT",
+        "title": "Complaint safeguard still tied to the disputed electricity bill",
+        "topic": "Electricity markets",
+        "baseAct": "Directive (EU) 2019/944 (electricity markets)",
+        "baseActPublished": "2019-06-14",
+        "amendingAct": "Directive (EU) 2024/1711 (electricity market design)",
+        "celex": "32024L1711",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "catalogueStatus": "review",
+        "researchRound": 3,
+        "stage": "research",
+        "statusLabel": "Current scope difference · legal review needed",
+        "statusKind": "open",
+        "statusDetail": "Whether wider national safeguards cover the difference needs legal review",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Current statute, latest implementing act and regulator rules checked",
+        "deadline": "2025-01-17",
+        "deadlineLabel": "Relevant transposition deadline",
+        "summary": "Portugal’s new safeguard expressly suspends interruption orders for the disputed invoice only. Whether it also covers termination and disputes not about billing needs legal review.",
+        "euChange": "New Article 28a(2) protects against termination or disconnection on complained-of grounds.",
+        "nationalGap": "Article 185(5)–(7) ties the stay to the disputed invoice, with continuation and repeat-complaint rules. It does not expressly add termination protection or a general stay for non-billing disputes. The quality regulation likewise addresses billing errors.",
+        "nationalLaw": "Decree-Law 15/2022 Article 185(5)–(7), as amended by Decree-Law 130/2026; RQS Article 64; RRC Articles 78–88.",
+        "provisions": "Amending Article 2(9); revised Article 28a(2); Article 3(1). National Article 185.",
+        "consequence": "Possibly. The new express stay concerns the disputed electricity invoice, while the EU safeguard also addresses termination and other complained-of grounds. Existing Portuguese termination limits and complaint, arbitration and court remedies may supply protection. Their combined equivalence and any practical shortfall remain unestablished.",
+        "resolution": "The amendment took effect on 28 August 2026 and is in the current consolidated text. We found no later general safeguard of the same kind in the rules we checked.",
+        "caveat": "The rule concerns the grounds under complaint, not an unconditional ban on every interruption during a dispute. Payment obligations continue and appropriate anti-abuse procedures are permitted. Portuguese law already limits supplier termination, requires notice, provides complaints and mandatory consumer arbitration, and allows judicial protection. The complaint branch of Article 185(5) must be interpreted in context; its final disputed-invoice phrase, rather than the grammar of the billing-dispute modifier alone, underpins this comparison. Directive-consistent interpretation or another applicable remedy may protect individual customers. No safety-related interruption is presented as prohibited, and no practical enforcement failure is alleged.",
+        "comparison": {
+          "beforeLabel": "Current express national safeguard",
+          "before": "Suspends interruption orders concerning the disputed invoice.",
+          "afterLabel": "Revised EU scope",
+          "after": "Covers termination and disconnection over the complained-of grounds.",
+          "note": "Existing national termination limits, notice and dispute remedies require individual assessment."
+        },
+        "review": "Three agents checked the chain. The current essential-services law, January 2026 quality regulation Articles 60–67 and 123–125, commercial rules and current Article 185 preserve substantial procedural protections; no equivalent general stay or express termination safeguard was located. A third agent directly read the live current official Article 185(5)–(10), last amended 29 June and effective 28 August. The deadline, later measures and grammatical ambiguity were checked. Precise scope and effect remain a legal-review lead.",
+        "priorRecognition": "not-located",
+        "recognizedBy": [],
+        "recognitionNote": "Cuatrecasas described the draft billing-complaint stay on 31 October 2025, but did not identify this EU/national scope comparison. No prior published identification of the precise concern was located in bounded searches; this is not a first-discovery claim.",
+        "noveltySearch": {
+          "date": "2026-10-25",
+          "method": "Searched the exact national provision and amendment, EU complaint safeguard, regulator guidance, later legislation and published commentary. Two researchers read Cuatrecasas’s 2025 draft analysis: it describes the billing stay without identifying this scope comparison. No exact earlier comparison or later general stay was located.",
+          "queries": [
+            "\"130/2026\" \"28\" \"faturação\"",
+            "\"2024/1711\" \"reclamação\" \"faturação\" Portugal",
+            "\"185.º\" \"reclamação\" \"130/2026\"",
+            "site:erse.pt reclamação interrupção caução 2026",
+            "\"185.º\" \"28.º-A\" eletricidade",
+            "\"130/2026\" \"reclamações\" \"interrupção\" contratos"
+          ]
+        },
+        "sources": [
+          {
+            "title": "Electricity-market amendment: complaint protection",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024L1711",
+            "role": "EU amendment",
+            "locator": "Article 2(9), inserted Article 28a(2); Article 3(1); recital 27"
+          },
+          {
+            "title": "June 2026 implementing act",
+            "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2026-1139897687",
+            "role": "Authentic national amendment",
+            "locator": "Inserted Article 185(5)–(7); Article 10: commencement 60 days after publication"
+          },
+          {
+            "title": "Current electricity-system statute",
+            "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-177634029",
+            "role": "Current national law",
+            "locator": "Last amendment 29 June 2026; Article 185(5)–(10) effective 28 August 2026; live current text read 25 October UTC"
+          },
+          {
+            "title": "Current quality-of-service regulation",
+            "url": "https://www.erse.pt/media/sxlhtvlp/rqs_regulamento-da-qualidade-de-servi%C3%A7o_consolidado-2026.pdf",
+            "role": "Adverse check: existing billing-complaint stay",
+            "locator": "January 2026 consolidation; Article 64(2)–(4), printed pp.59–60; ADR provisions 123–125"
+          },
+          {
+            "title": "Commercial-relations rules",
+            "url": "https://www.erse.pt/media/cw5fdm3i/regulamento-827-2023_consolidado.pdf",
+            "role": "Adverse check: interruption, termination and complaint safeguards",
+            "locator": "Articles 26, 78–88, especially Article 82 termination limits"
+          },
+          {
+            "title": "Latest regulator amendment",
+            "url": "https://www.erse.pt/media/wgrn0h3x/reg_8_2026.pdf",
+            "role": "Later-measure check",
+            "locator": "Regulation 8/2026; amendment to RRC Article 131(4)"
+          },
+          {
+            "title": "Current essential-services consumer protections",
+            "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-34491275",
+            "role": "Adverse check: notice and mandatory consumer arbitration",
+            "locator": "Last amended 29 July 2019; Articles 5(1)–(4) and 15(1)–(2)"
+          },
+          {
+            "title": "Earlier commentary describes the draft billing safeguard",
+            "url": "https://www.cuatrecasas.com/pt/portugal/energia-infraestrutura/art/consulta-publica-configuracao-mercado-eletricidade",
+            "role": "Recognition check only; commentary on draft, not proof of current law",
+            "locator": "31 October 2025; Alterações com impacto direto em comercializadores: Article 185(5)/(6) paragraph; no comparison with EU Article 28a(2)"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-06-26",
+            "event": "Electricity-market amendment published.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-01-17",
+            "event": "Relevant national implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-06-29",
+            "event": "Portuguese implementing act published.",
+            "who": "national"
+          },
+          {
+            "date": "2026-08-28",
+            "event": "New national provisions take effect.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "Current scope and adverse protections independently checked.",
+            "who": "check"
+          }
+        ]
+      }
+    },
+    {
+      "id": "be-single-permit-unemployment-period",
+      "recommendation": "revise",
+      "assessment": "The statute and current Flemish guidance support the stated 90-day/three-month wording. The title should attribute the period to those sources instead of announcing that residence necessarily ends despite overriding EU rights.",
+      "checkedSources": [
+        {
+          "url": "https://www.ejustice.just.fgov.be/eli/loi/1980/12/15/1980121550/justel",
+          "pinpoint": "Current header updated 24 June 2026; Article 61/25-2(5), 61/25-4",
+          "access": "official full text"
+        },
+        {
+          "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/employing-a-foreigner-in-flanders/changes-after-obtaining-a-permit",
+          "pinpoint": "Dismissal section: three-month temporary residence and new work authorisation",
+          "access": "official full text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32024L1233",
+          "pinpoint": "Article 11(4), recital 45, Article 18(1)",
+          "access": "official indexed body"
+        }
+      ],
+      "limits": "Individual EU rights, remaining permit validity, exclusions and residence grounds remain case-specific. No unlawful withdrawal or removal was examined.",
+      "changedFields": [
+        "title",
+        "summary"
+      ],
+      "replacement": {
+        "baseAct": "Directive 2011/98/EU (single permit)",
+        "baseActPublished": "2011-12-23",
+        "amendingAct": "Directive (EU) 2024/1233 (single-permit recast)",
+        "celex": "32024L1233",
+        "updateType": "Recast",
+        "recordKind": "lead",
+        "catalogueStatus": "review",
+        "researchRound": 4,
+        "evidenceDate": "2026-10-26",
+        "deadline": "2026-05-21",
+        "deadlineLabel": "Transposition deadline",
+        "euChange": "Six-month unemployment protection for qualifying holders with over two years’ tenure.",
+        "provisions": "Directive 2024/1233 Articles 3, 11(4) and 18(1).",
+        "comparison": {
+          "beforeLabel": "Current express national period",
+          "before": "90 days after work authorisation ends.",
+          "afterLabel": "Revised EU protection",
+          "after": "Six months after more than two years as a permit holder.",
+          "note": "Subject to scope, validity and applicable conditions; individual EU rights remain relevant."
+        },
+        "id": "be-single-permit-unemployment-period",
+        "country": "Belgium",
+        "countryCode": "BE",
+        "title": "Single permit: statute still gives 90 days after work authorisation ends",
+        "topic": "Labour migration",
+        "stage": "research",
+        "statusLabel": "Current statutory period · EU rights require individual assessment",
+        "statusKind": "differs",
+        "statusDetail": null,
+        "evidenceLabel": "Current statute and official guidance checked",
+        "summary": "Belgium’s statute still specifies 90 days after work authorisation ends, without an express longer period for longer-standing permit holders. EU protection and other residence grounds may affect an individual’s right to stay.",
+        "nationalGap": "Article 61/25-2(5) ends residence automatically 90 days after work authorisation ends. It contains no longer-period exception based on permit-holding duration. Flanders’ guidance likewise describes three months.",
+        "nationalLaw": "Law of 15 December 1980, Article 61/25-2(5); Cooperation Agreement of 2 February 2018, Article 36(2).",
+        "consequence": "Yes, on paper. The statute has no express longer period for people who have held the permit for more than two years, as the EU rule has. Individuals can invoke sufficiently precise EU rights directly, and no unlawful individual withdrawal or removal has been established.",
+        "resolution": "The current official database (Justel) keeps the rule; we found no later remedy.",
+        "caveat": "This concerns ordinary single permits with validity remaining and time-limited regional work authorisation; separate Blue Card, seasonal, intra-corporate and unrestricted-status rules are excluded. Notification and sufficient-resources conditions may apply. Individuals may invoke sufficiently precise EU rights against public authorities. Article 61/25-4 preserves more favourable EU rules in the residence section; it is not itself a textual replacement of the earlier procedural section. Other residence grounds, pending applications, individual circumstances and judicial protection require assessment. A 90-day national sentence does not establish that EU protection is unavailable.",
+        "review": "A separate researcher checked the authentic EU provision and deadline, live Justel wording and amendment dates, current Flanders guidance, later-measure searches and the EU-rights saving route. The comparison passed as a qualified statutory/practice wording lead, with no finding about an actual removal.",
+        "priorRecognition": "recognized",
+        "recognizedBy": [
+          "Published immigration-law analysis (Decker Law)"
+        ],
+        "recognitionNote": "Decker Law’s 18 October 2026 analysis juxtaposes the national 90-day rule and the revised longer EU protection. The article is currently indexed but its live page redirects to maintenance; it is used only for prior recognition.",
+        "noveltySearch": {
+          "date": "2026-10-26",
+          "method": "Checked the exact provision, revised directive, official guidance, later cooperation-agreement or statutory changes and published legal analysis; precise earlier recognition was found.",
+          "queries": [
+            "Belgique 2024/1233 chômage six mois transposée",
+            "61/25-2 2026 six mois",
+            "site:dofi.ibz.be 2024/1233 six mois",
+            "site:deckerlaw.be/fr/insights/changer-employeur-permis-unique-belgique"
+          ]
+        },
+        "sources": [
+          {
+            "title": "Single-permit recast",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/1233/oj/eng",
+            "role": "EU amendment",
+            "locator": "Articles 3, 11(4)(a)–(b) and 18(1)"
+          },
+          {
+            "title": "Current Belgian immigration statute",
+            "url": "https://www.ejustice.just.fgov.be/eli/loi/1980/12/15/1980121550/justel",
+            "role": "Current national law",
+            "locator": "Header updated 24 June 2026; Articles 61/25-2(5), 61/25-4, 61/25-7; first paragraph last amended in 2022; live text read 26 October"
+          },
+          {
+            "title": "Flanders: changes after a work permit",
+            "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/employing-a-foreigner-in-flanders/changes-after-obtaining-a-permit",
+            "role": "Current official administrative guidance",
+            "locator": "Employer dismisses the employee: three-month residence period and separate new-work authorisation; live page read 26 October"
+          },
+          {
+            "title": "Changing employer with a single permit",
+            "url": "https://deckerlaw.be/fr/insights/changer-employeur-permis-unique-belgique",
+            "role": "Prior recognition only; published analysis, currently live maintenance redirect",
+            "locator": "Hugo Decker, published 18 October 2026; law stated at 17 October; job-loss and new-directive sections, indexed text read 26 October"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-04-30",
+            "event": "Recast directive published.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-05-21",
+            "event": "Relevant transposition deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-10-18",
+            "event": "Published legal analysis compares national and revised EU rules.",
+            "who": "commentary"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current provisions and qualifications independently checked.",
+            "who": "check"
+          }
+        ]
+      }
+    }
+  ]
+}

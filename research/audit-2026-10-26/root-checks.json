@@ -1,0 +1,253 @@
+{
+  "reviewDate": "2026-10-26",
+  "scope": "Independent challenges of selected high-risk conclusions and site presentation. Sources read live through browser, web retrieval or official Publications Office retrieval. No certification of general national compliance.",
+  "checks": [
+    {
+      "id": "hu-bank-capital-leverage-trigger",
+      "decision": "retain only an open statutory-clarity lead; exact corrective supervisory instruction foregrounded",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2019/878/corrigendum/2026-08-06/oj/hun/pdf",
+          "locator": "Sole correction, new104a(4)secondsubparagraph",
+          "assessment": "Authentic Hungarian correction deletes the other-than category."
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2013-237-00-00",
+          "locator": "Current1Oct–19Nov2026version,186(9)–(12), especially9a; live browser26Oct",
+          "assessment": "The national exception selects non-leverage risks. The 75% Tier 1 default and case-specific higher-quality power were read; the manual gives the correct leverage instruction, while individual decisions were not examined."
+        },
+        {
+          "url": "https://www.mnb.hu/letoltes/icaap-ilaap-bma-kezikonyv-2025q4.docx",
+          "locator": "December 2025 manual used for 2026, VI.1.4.7–VI.1.4.9, especially OLRR paragraph on printed page 49.",
+          "assessment": "The total leverage requirement must use at least T1-quality capital. This is positive evidence of the correct supervisory approach. Full file retrieved transiently; targeted relevant paragraphs read. Individual binding decisions not examined."
+        },
+        {
+          "url": "https://www.mnb.hu/felugyelet/szabalyozas/felugyeleti-szabalyozo-eszkozok",
+          "locator": "Opening substantive paragraphs 3–4; methodological manuals expressly included.",
+          "assessment": "MNB says the supervisory instruments are not legally enforceable; this supports retaining only the legal-clarity question."
+        }
+      ],
+      "limits": "The statutory trigger is reversed, but the public supervisor manual gives the correct minimum-T1 composition. The remaining issue is legal certainty and force; no capital shortfall or missing actual supervisory protection is established."
+    },
+    {
+      "id": "dk-environmental-information-corrigendum",
+      "decision": "remove",
+      "evidence": [
+        {
+          "url": "https://mim.dk/media/l3zp0yz1/7-rapport_dansk-version.pdf",
+          "locator": "PDF13, Definitionen af miljøoplysninger",
+          "assessment": "Ministry directs use of EU definition despite differing wording."
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2003/4/oj",
+          "locator": "Recital24",
+          "assessment": "Authentic English text permits broader national access."
+        }
+      ],
+      "limits": "No actual refused request or reduced access established."
+    },
+    {
+      "id": "hu-emf-corrigendum/lv-emf-corrigendum/lt-emf-corrigendum",
+      "decision": "remove",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32013L0035",
+          "locator": "Recital8; AnnexIIA3",
+          "assessment": "Lower national exposure limits expressly permitted. Both compared divisionformulas yield lower values throughout statedfrequencybands."
+        }
+      ],
+      "limits": "National intent need not be inferred; this exclusion does not certify other rows or actual worker protection."
+    },
+    {
+      "id": "noise-copy-cluster",
+      "decision": "Retain scoped PT concern and open AT/FI reporting-chain leads; withdraw HU/LV national-only flow concerns pending legal-effect analysis.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/eng",
+          "locator": "Recital5; Articles2(1),5(1)",
+          "assessment": "Express simplification covers copies to national authorities and Commission. MSmustimplement deletion. This supports possible concern with automaticnationalcopyremaining, distinct from targeted surveillance."
+        }
+      ],
+      "limits": "The deleted EU scheme and data harmonisation provisions warrant scrutiny, but do not by themselves prove every independent national request unlawful. The final split is explained in both focused and independent noise notes."
+    },
+    {
+      "id": "fr-repair-warranty-extension/pt-repair-warranty-extension",
+      "decision": "retain only scoped repair-incentive comparison",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/oj",
+          "locator": "Article16(2), new10(2a),10(3),10(5a);Articles21–22",
+          "assessment": "Authentic full original read. Once-only12monthextension; longer nationaltime limits allowed. Alternative at-least3yearregime only if nofixedliabilityperiod or limitationperiod-only. Measures apply31July2026; earliercontracts excluded."
+        }
+      ],
+      "limits": "A longer fixed baseline alone is not the special alternative. Actualnational warrantypractice and contradictoryofficialFrenchguidance separately assessed."
+    },
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "decision": "research-only exclusion supported",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2011/61/corrigendum/2026-10-13/oj",
+          "locator": "Point1; Article3(1)",
+          "assessment": "AuthenticRomanian correction is a scopeexclusion and swapsbranches forsubsidiaries."
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62010CJ0602",
+          "locator": "C602/10paragraphs38–44",
+          "assessment": "Court permitsnationalextension toexcludedcreditagreements in a different directive with an expressrecital; analogyonly, not a decisiononAIFMD."
+        }
+      ],
+      "limits": "No blanket findingoflawfulness. AIFMDscope and passportlimits require independentanalysis; no demonstratedspecificEUright violated by the narrower Romanianexclusion."
+    },
+    {
+      "id": "de-energy-efficient-utilities-procurement",
+      "decision": "retain scoped lead",
+      "evidence": [
+        {
+          "url": "https://www.gesetze-im-internet.de/sektvo_2016/__58.html",
+          "locator": "Section58(1)–(2)",
+          "assessment": "Live official text requires consumption information but uses optional wording for award consideration."
+        },
+        {
+          "url": "https://dserver.bundestag.de/btd/21/080/2108027.pdf",
+          "locator": "Printed76, explanation to Article4(3)",
+          "assessment": "Government explains higher requirements result from recast newly covering utilities sector. Still a bill, not enacted remedy."
+        }
+      ],
+      "limits": "Not every tender falls within EU thresholds/categories; no actual procurement audited."
+    },
+    {
+      "id": "de-pv-business-waste-financing-date",
+      "decision": "national default comparison supported; EU and classification qualifications remain",
+      "evidence": [
+        {
+          "url": "https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html",
+          "locator": "Live full official text, header last25November2025; Sections3(4)(b),3(5),7a,19(3)",
+          "assessment": "PV before24October2015 historical; enduser bears historical nonhouseholdcosts; dual-use equipment classified ashousehold; contractual variationpossible."
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2024/118/VO.html",
+          "locator": "Official9April2024 implementation notice; fullPDF linked frompublisher",
+          "assessment": "Contrary official complete-implementation position remains relevant and must not be hidden."
+        }
+      ],
+      "limits": "No actual exclusive-business panel orfinancingcontractreviewed; 2024amendment not firstsourceof2012onwardduty."
+    },
+    {
+      "id": "be-jam-fruit-content",
+      "decision": "retain qualified official concern",
+      "evidence": [
+        {
+          "url": "https://www.ejustice.just.fgov.be/eli/arrete/2004/03/19/2004011150/justel",
+          "locator": "Full live body and header, Article1§2(1)(a),(2)(a),26October2026",
+          "assessment": "Old350g/450g generalminima retained. No lateramendment/repeal shown in header; limited registerevidence, not guaranteeagainst unindexedreplacement."
+        }
+      ],
+      "limits": "Government statements establish historicaldelay; CommissionOctoberstep concerns notification. Neither alone proves absenceofnationalmeasures; currentbody supplies additionaltextualevidence."
+    },
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "decision": "withdraw pending non-equivalence analysis",
+      "evidence": [
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/442/text.pdf",
+          "locator": "Articles 3(1), 29(1)(1)–(2), 30(1)(2)–(3), printed pp. 5, 10–11.",
+          "assessment": "Root freshly read the binding current-knowledge, necessary-testing and clinical-risk requirements."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/sejm/term7/prints/3245/3245.pdf",
+          "locator": "Printed pp. 39–40 and 43–44; PDF pp. 389–390 and 393–394.",
+          "assessment": "Root freshly read the full relevant mapping of categorical prevalence screening to those parent-law duties, closing the blocked-mirror access gap."
+        }
+      ],
+      "limits": "No conclusion that the complete national framework complies. The categorical-trigger counterargument remains recorded; failure to locate a patient case is not the withdrawal ground."
+    },
+    {
+      "id": "lu-asbestos-company-permit-transition",
+      "decision": "Retain only a qualified concern about visa-exempt removal work before the general permit begins.",
+      "evidence": [
+        {
+          "url": "https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520",
+          "locator": "Live current 20 May 2026 version; Articles 11(3), 11ter; chronology through 1 May 2027, read 26 October.",
+          "assessment": "Small-scale and certain nondestructive outdoor removals are excepted from the visa. Capacity evidence is required before obtaining that visa. Current and future chronology read in the official browser."
+        }
+      ],
+      "limits": "Many existing worksites have approval and capacity checks. No unsafe work or exposure outcome is established."
+    },
+    {
+      "id": "es-payment-system-access-nonbanks",
+      "decision": "Retain narrow open concern beyond binding TARGET and indirect-access alternatives.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-B-2024-5773",
+          "locator": "Preamble; Articles 2(3), 5–8, 23(3)–(7).",
+          "assessment": "Root freshly read the Banco de España-approved basic rules. Direct membership remains linked to statutory eligibility and credit institutions; accessible entities act through a participant and are not members."
+        }
+      ],
+      "limits": "No individual refusal, exhaustive census of later operational instructions or harm established."
+    },
+    {
+      "id": "ie-renewable-eia-scoping-deferral",
+      "decision": "Retain only broader mandatory coverage and specific non-extension statutory-transition concern.",
+      "evidence": [
+        {
+          "url": "https://revisedacts.lawreform.ie/eli/2000/act/30/section/37D/revised/en/html",
+          "locator": "Sections 37D(1)–(4), F344/F347–348, C114–115.",
+          "assessment": "Root freshly read the binding requested-opinion route, report-consistency duty, non-reliance reservation and separate deferred non-extension safeguard."
+        },
+        {
+          "url": "https://revisedacts.lawreform.ie/eli/2000/act/30/section/173/revised/en/html",
+          "locator": "Section 173(2)–(3), F728–729, C253.",
+          "assessment": "Root freshly read requested opinions and preserved further-information powers; annotations distinguish the future mandatory coverage and non-extension paragraphs."
+        }
+      ],
+      "limits": "Within-scope clarification and material project changes remain distinct. No numerical opinion deadline, actual expansion or project delay claimed."
+    },
+    {
+      "id": "nl-slapp-third-country-jurisdiction",
+      "decision": "Retain only contested fallback-coverage question; correct the impression that Dutch domicile fails the connection limb.",
+      "evidence": [
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/kst-26855-3.html",
+          "locator": "Printed page 41, original Article 1.1.8(c), later Article 9(c).",
+          "assessment": "Root freshly read that Dutch residence suffices for connection, while the separate unacceptable-foreign-litigation condition is restrictive and does not create a general domicile forum."
+        }
+      ],
+      "limits": "Existing jurisdiction succeeded in Greenpeace’s case. The specific residual is a legal class, not an established denial; Ministry equivalence and conforming interpretation remain material."
+    },
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "decision": "Correct the comparison-column assignment while retaining the narrow lead.",
+      "evidence": [],
+      "assessment": "The renderer always places comparison.after in the EU column and comparison.before in the national-law column. The legacy record had them reversed. Corrected national six months and EU three months for the scoped non-direct-use partner collection; documented the data contract in README.",
+      "limits": "This is a presentation correction; the legal scope and clinical qualifications remain."
+    },
+    {
+      "id": "data-refresh-behaviour",
+      "decision": "Revalidate both data files on page load.",
+      "evidence": [],
+      "assessment": "Final browser verification exposed an older coverage snapshot surviving reload. Both fetch calls now use cache:no-cache. A fresh preview loaded the final 187/52/436 coverage totals; a subsequent reload generated conditional requests for both JSON files in the local server log. All 675 final selector combinations rendered without errors.",
+      "limits": "Static asset deployment and remote hosting were not performed in this audit."
+    }
+  ],
+  "sourceAvailability": {
+    "urlCount": 355,
+    "method": "HEAD requests against the64-record catalogue after four exclusions; availability only, not legal accuracy.",
+    "statusCounts": {
+      "200": 209,
+      "202": 67,
+      "403": 43,
+      "405": 13,
+      "URLError": 6,
+      "ConnectionResetError": 5,
+      "503": 3,
+      "400": 3,
+      "RemoteDisconnected": 2,
+      "500": 1,
+      "308": 1,
+      "404": 1,
+      "504": 1
+    },
+    "followUp": "One404 found on the EAR workshop scope guidance used for German photovoltaic financing; seeking current official replacement. Other refusals and anti-bot responses do not establish dead sources."
+  }
+}

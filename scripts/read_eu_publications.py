@@ -38,9 +38,9 @@ for row in metadata:
 def read(pair):
     key, versions = pair
     errors = []
-    for row in sorted(versions, key=lambda r: {'xhtml': 0, 'html': 1, 'pdf': 2, 'pdfa1a': 3}.get(r['mt'].rsplit('/', 1)[-1], 20)):
+    for row in sorted(versions, key=lambda r: {'xhtml': 0, 'html': 1, 'pdf': 2, 'pdfa1a': 3, 'pdfa1b': 3, 'pdfa2b': 3}.get(r['mt'].rsplit('/', 1)[-1], 20)):
         fmt = row['mt'].rsplit('/', 1)[-1]
-        if fmt not in ('xhtml', 'html', 'pdf', 'pdfa1a'):
+        if fmt not in ('xhtml', 'html', 'pdf') and not fmt.startswith('pdfa'):
             continue
         try:
             raw = get(row['item'])
@@ -52,11 +52,23 @@ def read(pair):
                     tag.decompose()
                 nodes = [n for n in soup.select('.eli-container') if not n.find_parent(class_='eli-container')]
                 text = '\n'.join(n.get_text('\n', strip=True) for n in nodes) if nodes else (soup.body or soup).get_text('\n', strip=True)
-                if re.search(r'>\s*(TABLE|PICFILE)\b', text, re.I):
+                if re.search(r'>\s*(TABLE|PICFILE)\b|PLATZ FÜR EINE TABELLE|SPAZIO PER TABELLA|ΘΕΣΗ Π[ΗΙ]ΝΑΚΑ', text, re.I):
                     raise ValueError('Incomplete legacy HTML')
             return {'celex': key[0], 'language': key[1], 'source': row['item'].replace('http://', 'https://', 1), 'format': fmt, 'text': text}
         except Exception as error:
             errors.append(str(error)[:180])
+    if any('Incomplete legacy HTML' in error for error in errors):
+        language = {'DEU':'DE', 'ITA':'IT', 'ELL':'EL'}.get(key[1])
+        if language:
+            fallback = 'https://eur-lex.europa.eu/legal-content/' + language + '/TXT/PDF/?uri=CELEX:' + urllib.parse.quote(key[0])
+            try:
+                raw = get(fallback)
+                if not raw.startswith(b'%PDF'):
+                    raise ValueError('Official PDF fallback did not return PDF')
+                text = subprocess.run(['pdftotext', '-layout', '-', '-'], input=raw, capture_output=True, check=True).stdout.decode()
+                return {'celex':key[0], 'language':key[1], 'source':fallback, 'format':'pdf', 'text':text}
+            except Exception as error:
+                errors.append(str(error)[:180])
     return {'celex': key[0], 'language': key[1], 'errors': errors}
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:

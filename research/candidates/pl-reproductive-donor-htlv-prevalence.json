@@ -1,0 +1,106 @@
+{
+  "id": "pl-reproductive-donor-htlv-prevalence",
+  "title": "Reproductive-donor screening tables retain the earlier incidence criterion",
+  "country": "Poland",
+  "countryCode": "PL",
+  "topic": "Health and donor safety",
+  "baseAct": "Directive 2006/17/EC",
+  "baseActPublished": "2006-02-09",
+  "amendingAct": "Directive 2012/39/EU",
+  "celex": "32012L0039",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "research",
+  "statusLabel": "Qualified concern · current screening criterion",
+  "statusKind": "differs",
+  "statusDetail": null,
+  "evidenceDate": "2026-10-26",
+  "deadline": "2014-06-17",
+  "correctionDate": null,
+  "deadlineLabel": "Implementation deadline",
+  "summary": "Two reproductive-donor screening rows retain the earlier incidence criterion. Individual clinical duties may supply broader testing; practical effects remain unverified.",
+  "euChange": "HTLV-I screening: incidence → prevalence.",
+  "nationalGap": "The 2025 consolidation retains incidence in Annex 1, partner-donation table 1 row 5 and nonpartner table 2 row 6. The separate non-reproductive rule already uses prevalence.",
+  "nationalLaw": "Regulation of 23 October 2015; Dz.U. 2025 poz. 384, Annex 1; Sections 2–3.",
+  "provisions": "2012/39 Annex (2)(a)–(b), replacing 2006/17 Annex III 2.4 and 3.3; recital 3.",
+  "consequence": "The express trigger differs. Necessary additional tests and individual risk assessment may nevertheless cover relevant donors. No missed test or patient harm has been established.",
+  "resolution": "No later national correction or published acknowledgment of this exact EU-to-national discrepancy was located in bounded Polish and English searches.",
+  "caveat": "Sections 2(1)(5) and 3 preserve necessary additional testing and individual risk assessment. Conforming interpretation or clinical standards may supply equivalent protection. This is an express-criterion comparison, without evidence of unsafe practice. More protective screening remains permitted.",
+  "review": "Two agents independently read the current national PDF and authentic EU wording, and challenged alternative clinical duties. Qualified concern.",
+  "comparison": {
+    "before": "Reproductive-donor tables: incidence (zachorowalność).",
+    "after": "Revised EU criterion: prevalence (chorobowość).",
+    "note": "The amendment expressly distinguishes these terms.",
+    "beforeLabel": "Current national criterion",
+    "afterLabel": "Revised EU criterion"
+  },
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Bounded Polish and English searches on 26 October 2026 used the directive, national act numbers, both epidemiological terms and correction/incompatibility terms. Official health-technology material and public health commentary repeat incidence; no exact discrepancy analysis was located. This does not establish first discovery.",
+  "catalogueStatus": "review",
+  "evidenceLabel": "Current national PDF checked",
+  "sources": [
+    {
+      "title": "EU donor-testing revision",
+      "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX%3A32012L0039",
+      "role": "EU amendment",
+      "locator": "Recital 3; Annex (2)(a)–(b); Article 2."
+    },
+    {
+      "title": "Current official reproductive-donor consolidation",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/384/text.pdf",
+      "role": "Current national text",
+      "locator": "Printed pp. 5–6, Annex 1 tables 1–2; pp. 2–3, Sections 2–3."
+    },
+    {
+      "title": "Official principal-rule amendment history",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1718",
+      "role": "Currentness check",
+      "locator": "2024/77 amendment and 2025/384 consolidation; checked 26 October 2026."
+    },
+    {
+      "title": "Current non-reproductive tissue and cell rule",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/272/text.html",
+      "role": "Scope qualification",
+      "locator": "Section 3(5)(e)."
+    }
+  ],
+  "researchMetadata": {
+    "systematicAct": "2012/39",
+    "countryAssessmentComplete": true,
+    "peerNote": "research/verify-notes/pl-donor-peer.json",
+    "sourcePolicy": "No full source files saved. Primary PDFs read in memory.",
+    "recognizedMaterialNotExactMismatch": [
+      {
+        "url": "https://www.bip.aotm.gov.pl/assets/files/ppz/2024/RPT/23.06.07_RAPORT_48aa_zabezpieczenie_plodnosci.pdf",
+        "locator": "Printed p. 29 table 5 repeats old criterion, no explicit EU-to-national comparison."
+      },
+      {
+        "url": "https://www.poradnikzdrowie.pl/zdrowie/choroby-zakazne/wirus-htlv-1-czyli-wirus-ludzkiej-bialaczki-z-komorek-t-aa-4qzj-14pB-St29.html",
+        "locator": "Public 2019 health commentary cites both directives while using incidence, no discrepancy analysis located."
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2012-11-27",
+      "event": "EU donor-testing revision published.",
+      "who": "eu"
+    },
+    {
+      "date": "2014-06-17",
+      "event": "Implementation deadline.",
+      "who": "eu"
+    },
+    {
+      "date": "2025-03-26",
+      "event": "Official consolidation republishes both screening rows.",
+      "who": "national"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Current official PDF and later-measure register checked.",
+      "who": "check"
+    }
+  ]
+}

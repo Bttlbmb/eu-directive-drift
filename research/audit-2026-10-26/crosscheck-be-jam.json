@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "id": "be-jam-fruit-minima",
+  "url": "https://www.ejustice.just.fgov.be/eli/arrete/2004/03/19/2004011150/justel",
+  "access": "Fresh live Justel rendered browser text, 06:06 UTC",
+  "observed": {
+    "title": "19 MARS 2004 — Arrêté royal relatif à la fabrication et à la commercialisation de confitures, gelées et marmelades de fruits, crème de marrons et sirops de fruits à tartiner destinés à l’alimentation humaine",
+    "pinpoints": [
+      "Article1 §2 1°(a): jam general fruit minimum350g per1000g finished product",
+      "Article1 §2 2°(a): extra-jam general fruit minimum450g per1000g",
+      "Article4(1): reserved names correspond to Article1 definitions",
+      "Article6: repeals1981 predecessor",
+      "Article7: entry into force on publication19March2004"
+    ],
+    "currentness": "Live Justel serves those old minima, with no amendment/repeal label or2026 reference anywhere in rendered text. Header does not state a latest consolidation/currentness date."
+  },
+  "limit": "Positive current-facing code support, not proof excluding every separate new enactment. These minima are in Article1, not AnnexI."
+}

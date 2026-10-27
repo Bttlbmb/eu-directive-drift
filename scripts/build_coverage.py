@@ -6,8 +6,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 WORK = Path('/tmp/eu-update-chain-systematic')
 selected = json.loads((ROOT / 'research/selected-acts.json').read_text())
+review_snapshot = selected['snapshot']
 discovery = {a['celex']: a for a in json.loads((ROOT / 'research/official-discovery.json').read_text())['acts']}
 findings = json.loads((ROOT / 'docs/data/findings.json').read_text())['findings']
+decisions_path = ROOT / 'research/catalogue-decisions.json'
+catalogue_decisions = json.loads(decisions_path.read_text()) if decisions_path.exists() else {}
 countries = [
     ('AT','AUT','Austria'),('BE','BEL','Belgium'),('BG','BGR','Bulgaria'),('HR','HRV','Croatia'),
     ('CY','CYP','Cyprus'),('CZ','CZE','Czechia'),('DK','DNK','Denmark'),('EE','EST','Estonia'),
@@ -28,13 +31,15 @@ if prior_path.exists():
         recovered = dict(prior)
         recovered['countryChecks'] = [cell['review'] for cell in prior.get('countries', []) if cell.get('review')]
         reviews.setdefault(prior.get('celex'), []).append(('retained-ledger', recovered))
-for path in sorted(WORK.glob('*bundle*.json')):
+for path in sorted(WORK.glob('*bundle*.json')) + sorted((ROOT / 'research').glob('*bundle*.json')):
     try:
         doc = json.loads(path.read_text())
     except (ValueError, OSError):
         continue  # A researcher may be writing; the next build picks it up.
     if not isinstance(doc, dict):
         continue
+    if re.fullmatch(r'\d{4}-\d{2}-\d{2}', str(doc.get('snapshot', ''))):
+        review_snapshot = max(review_snapshot, doc['snapshot'])
     for act in doc.get('acts', []):
         reviews.setdefault(act.get('celex'), []).append((path.name, act))
 
@@ -52,7 +57,7 @@ for selection in selected['selected']:
         row['changeInventory'] = reviewed.get('changeInventory', reviewed.get('changes', row['changeInventory']))
         row['inventoryStatus'] = reviewed.get('inventoryStatus', reviewed.get('historyStatus', 'full original read; history review in progress'))
         row['history'] = reviewed.get('history', reviewed.get('historyMetadata', reviewed.get('laterChanges', row['history'])))
-        for key in ('originalRead', 'originalFullTextRead', 'originalReadScope', 'qualifications', 'deadline', 'laterChangeSearch', 'dependentTransitions'):
+        for key in ('originalRead', 'originalFullTextRead', 'originalReadScope', 'qualifications', 'deadline', 'laterChangeSearch', 'dependentTransitions', 'sourceFormatAudit'):
             if key in reviewed:
                 row[key] = reviewed[key]
         checks = reviewed.get('countryChecks', reviewed.get('countryRows', reviewed.get('countryMatrix', [])))
@@ -77,10 +82,21 @@ for selection in selected['selected']:
             status = check.get('assessmentStatus', check.get('status','pending'))
             actually_started = re.search(r'(?<![a-z])(reviewed|supported|partial|partially|inconclusive|gap|read|verified|mapped)(?![a-z])', str(status).lower())
             cell['status'] = 'complete' if check.get('reviewComplete') is True else ('in-progress' if actually_started else 'pending')
+        exclusions = [item for item in catalogue_decisions.get('exclusions', [])
+                      if item['countryCode'] == code and celex in item.get('coverageActs', [])]
+        if exclusions:
+            # Apply editorial decisions after all research merges so an older bundle cannot hide them.
+            review = dict(cell.get('review', {}))
+            review['catalogueReview'] = ' '.join(item['reason'] for item in exclusions)
+            review['catalogueReviewEvidence'] = [
+                {'title': 'Catalogue review source', 'url': source['url'],
+                 'locator': source.get('locator', ''), 'assessment': source.get('finding', '')}
+                for item in exclusions for source in item['evidence']]
+            cell['review'] = review
         row['countries'].append(cell)
     acts.append(row)
 
-output = {'snapshot': selected['snapshot'], 'status': 'in-progress', 'scope': selected['scope'],
+output = {'snapshot': review_snapshot, 'selectionSnapshot': selected['snapshot'], 'status': 'in-progress', 'scope': selected['scope'],
           'selectionRule': selected['selectionRule'], 'poolCount': selected['poolCount'],
           'selectionAudit': 'Independent identity, all-annex and cutoff review; incomplete legacy tables remeasured from official PDFs.',
           'completenessRule': 'A cell is complete only when its researcher explicitly certifies every applicable changed obligation and currentness checks. NIM notifications, existing findings or an initialized row alone do not complete it.',
@@ -89,11 +105,12 @@ output = {'snapshot': selected['snapshot'], 'status': 'in-progress', 'scope': se
                                   'inProgress': sum(c['status']=='in-progress' for a in acts for c in a['countries'])}}
 (ROOT / 'research/coverage.json').write_text(json.dumps(output, ensure_ascii=False, indent=2)+'\n')
 # Publish the comparisons and source references without duplicating NIM discovery metadata.
-public_keys = {'status', 'assessmentStatus', 'legalConclusion', 'conclusion', 'assessmentScope',
+public_keys = {'status', 'assessmentStatus', 'legalConclusion', 'conclusion', 'assessmentScope', 'scope',
                'reviewScope', 'currentness', 'changes', 'changeAssessments', 'provisionChecks',
                'currentNationalEvidence', 'nationalSources', 'evidence', 'limitations',
                'uncertainties', 'blockers', 'independentReview', 'peerReview', 'reviewComplete',
-               'nationalLaw', 'laterRemedySearch', 'completionBlocker', 'adverseReview'}
+               'nationalLaw', 'laterRemedySearch', 'completionBlocker', 'adverseReview',
+               'catalogueReview', 'catalogueReviewEvidence'}
 public = {key: value for key, value in output.items() if key != 'acts'}
 public['acts'] = []
 for act in acts:

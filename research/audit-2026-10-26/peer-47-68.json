@@ -1,0 +1,560 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "status": "all-22-second-reviewed-focused-HU-followup-complete",
+  "scope": [
+    "se-single-permit-unemployment-period",
+    "nl-slapp-third-country-jurisdiction",
+    "pt-online-withdrawal-function",
+    "de-trafficking-nonsexual-service-use",
+    "hu-bank-capital-leverage-trigger",
+    "pl-water-abstraction-criminalisation",
+    "fr-electricity-fixed-price-entitlement",
+    "cz-financial-human-explanation-deferral",
+    "ro-aifm-group-investor-corrigendum",
+    "pt-repair-warranty-extension",
+    "pt-outdoor-noise-declaration-copy-duty",
+    "fi-outdoor-noise-declaration-copy-duty",
+    "pt-romanian-nurse-upgrade-recognition",
+    "de-pv-business-waste-financing-date",
+    "hu-noise-national-copy-retained",
+    "pl-reproductive-donor-htlv-prevalence",
+    "fr-partner-gamete-first-blood-sampling",
+    "ee-lead-legacy-exposure-cutoff",
+    "at-noise-declaration-copy-retained",
+    "ee-asbestos-low-risk-permit-exception",
+    "ie-bank-ccp-quantified-plans",
+    "lv-noise-national-copy-retained"
+  ],
+  "records": [
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "recommendation": "agree-remove",
+      "assessment": "Fresh national Article2(1) still names branches while EU Article3(1) defines an exclusion from the directive. The record's own caveat correctly recognises that exclusion alone does not prohibit independent national regulation of out-of-scope managers. No concrete conflict with a passport, free-movement right or other EU duty is demonstrated. Agree with research-only withdrawal; a linguistic difference is insufficient.",
+      "sources": [
+        {
+          "url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3PEIZSBUIT9PF2MEAYMVWDFYOH",
+          "pinpoint": "Articles1(5)(a),2(1),3(25), current amended body",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32011L0061",
+          "pinpoint": "Articles2–3 and recitals8–9",
+          "access": "fresh official indexed EU body"
+        },
+        {
+          "url": "https://www.esma.europa.eu/sites/default/files/library/2015/11/2012-845.pdf",
+          "pinpoint": "Paragraph16 confirms group-investor exemption is an AIFMD scope exclusion",
+          "access": "fresh official indexed ESMA paper"
+        }
+      ],
+      "limits": "Fresh corrigendum endpoint inaccessible; original reviewer's authentic correction read credited separately. No claim that all broader national regulation is lawful."
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "recommendation": "agree-open",
+      "assessment": "Fresh national§11(1) still requires automatic copy to Government Office while§11(2) is repealed. Official explanatory note calls Article16 reporting repealed but does not specifically justify retaining the national branch. Authentic EU recital5 treats national and Commission submissions as redundant. This creates a plausible unresolved simplification issue, but deletion of an EU obligation is not by itself proof every separate national duty is prohibited. Keep only open, with no premarket/fine inference.",
+      "sources": [
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2001-140-20-22",
+          "pinpoint": "§§3,6,10(2),11 and12(3); current since31December2025",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2025-469-K3-22",
+          "pinpoint": "Explanatory paragraph,31December2025",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2024/2839/L00001-00004.pdf",
+          "pinpoint": "Recital5, Article2 and5",
+          "access": "fresh authentic EU publication mirror"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/GA/TXT/?uri=CELEX%3A32000L0014",
+          "pinpoint": "Articles5–9 and17, original framework",
+          "access": "fresh official indexed English body despite GA URL"
+        }
+      ],
+      "limits": "No advance filing condition appears in inspected§3/§6; no burden or refusal observed. Separate national surveillance justification remains unresolved.",
+      "focusedNoiseFinalRecommendation": "remove-from-public-catalogue-pending-proof",
+      "focusedNoiseNote": "research/audit-2026-10-26/focused-noise-copy-duties.json"
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "recommendation": "agree-open",
+      "assessment": "Fresh current point39 sends copy to PTAC;40 deleted. Point37's marketing conditions and point7 free circulation do not expressly make prior copy a premarket step. EU recital5 supports scrutiny of the exact old routine-copy scheme, but a lawful separate national surveillance basis is unresolved. Agent's proposed open wording is appropriate; no categorical incompatibility.",
+      "sources": [
+        {
+          "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+          "pinpoint": "Points7,13,37–41; in-force version29November2025 onward",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.vestnesis.lv/op/2025/225.17",
+          "pinpoint": "679/2025 deletion of point40",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2024/2839/L00001-00004.pdf",
+          "pinpoint": "Recital5, Articles2,5",
+          "access": "fresh authentic EU publication mirror"
+        }
+      ],
+      "limits": "Government explanatory memorandum and actual administrative practice not retrieved. Do not equate any national information collection with prohibited restriction.",
+      "focusedNoiseFinalRecommendation": "remove-from-public-catalogue-pending-proof",
+      "focusedNoiseNote": "research/audit-2026-10-26/focused-noise-copy-duties.json"
+    },
+    {
+      "id": "ee-asbestos-low-risk-permit-exception",
+      "recommendation": "revise-open-add-contrary-guidance",
+      "assessment": "Fresh live§5(3) exempts whole§6 for low-risk work;§6(4) simultaneously states a prior permit is required for demolition/removal. The specific prior-permit sentence and EU-consistent reading can constrain the old exception. Newly found inspectorate permit guidance (updated25August2026) categorically says notify and obtain permit before asbestos work, without low-risk carve-out, whereas February Tooelu page exempts low-risk notification/workplans. Preserve only interpretation question, not permission to operate unlicensed. EU company permit must not be conflated with an extra permit for every site.",
+      "sources": [
+        {
+          "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004/blob-html",
+          "pinpoint": "§§5(2)–(3),6(1)–(6); current25January2026–20December2029",
+          "access": "fresh live IAB official rendered law"
+        },
+        {
+          "url": "https://ti.ee/jarelevalve/asbestitood",
+          "pinpoint": "Opening permit requirement, conditions and company permit list; updated25August2026",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.tooelu.ee/et/129/asbest",
+          "pinpoint": "Low-risk section; updated20February2026",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1775702686161&uri=CELEX%3A32023L2668",
+          "pinpoint": "NewArticle15 and low-riskArticle3(3) restriction",
+          "access": "EU body previously freshly read in this audit"
+        }
+      ],
+      "limits": "No individual permit or full ministerial bundle independently read in second pass. No separate universal company-permit route demonstrated, but primary administrative guidance is significant contrary evidence.",
+      "proposedPatch": {
+        "caveatAddition": "The Labour Inspectorate’s current permit guidance, updated 25 August 2026, says employers must notify and obtain a permit before asbestos work and publishes permitted companies, without stating a low-risk exception. This supports a potentially narrower administrative reading of the old cross-reference. The EU undertaking-permit condition does not necessarily require a new permit for every individual worksite."
+      }
+    },
+    {
+      "id": "ie-bank-ccp-quantified-plans",
+      "recommendation": "remove-insufficient-residual-duty-proof",
+      "assessment": "The exact EU result is board-developed specific plans and quantifiable targets aligned with directly applicable EMIR7a, monitoring and addressing systemic-CCP concentration. Binding CBI conditions13.1(c),15.1–15.4 and15.8 already require board oversight of material-risk strategy, documented comprehensive quantitative risk appetite, monitoring/remedial action and contingency planning. Together with statutory CCP-concentration policies and EMIR7a, this is a concrete plausible equivalent route. Neither a missing CCP-labelled insertion nor the ESG-specific2026 amendment demonstrates a missing legal result. Conservatively withdraw pending reasoned proof of a residual duty gap; preserve the statutory wording observation in research.",
+      "sources": [
+        {
+          "url": "https://www.irishstatutebook.ie/eli/2026/si/326/made/en/print",
+          "pinpoint": "Regulations23 and27; full rendered text searched for CCP and quantifiable",
+          "access": "fresh live IAB official text"
+        },
+        {
+          "url": "https://www.centralbank.ie/docs/default-source/Regulation/industry-market-sectors/credit-institutions/regulatory-requirements/gns-4-4-3-2-cgr-2015.pdf?sfvrsn=2",
+          "pinpoint": "§§1,3.1,3.7,13.1(c),15.1–15.4,15.8; PDF7–8,25,29–30",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.centralbank.ie/regulation/industry-market-sectors/credit-institutions/regulatory-requirements",
+          "pinpoint": "Current credit-institution requirements page links2015Requirements",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.centralbank.ie/regulation/how-we-regulate/codes",
+          "pinpoint": "Credit institutions must comply from11January2016",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32024L2994",
+          "pinpoint": "Article2(2), revised76(2); recital2; Article4",
+          "access": "fresh official indexed EU body"
+        }
+      ],
+      "limits": "No conclusive finding of complete transposition is made. No bank-level plan or confidential direction inspected. Withdrawal follows insufficient evidence of non-equivalence after discovering binding public conditions, not proof every bank already has a compliant plan."
+    },
+    {
+      "id": "de-pv-business-waste-financing-date",
+      "recommendation": "revise-open-conditional-cohort",
+      "assessment": "Current EAR registration guidance expressly recognises exclusive nonhousehold small/large PV categories, making the legal category credible. But UBA and current-facing LAGA guidance categorically treat PV as household/dual-use, even commercial solarparks. This material contradiction should appear prominently. Retain only a conditional cutoff question with classification open; no actual eligible2012–2015 exclusive B2B cohort verified. Current category evidence replaces the inaccessible old workshop.",
+      "sources": [
+        {
+          "url": "https://www.stiftung-ear.de/themenwelten/pflichten-hersteller/welche-geraetearten-gibt-es/",
+          "pinpoint": "Current b2b list: large and small exclusive-nonhousehold PV",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.umweltbundesamt.de/en/node/10453",
+          "pinpoint": "Disposal section, always-household/dual-use statement including commercial solarparks",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://laga-online.de/media/m-31-a-1517834714_2_1754374452.pdf",
+          "pinpoint": "May2024 guidance§2.2.2, printed15/PDF15, lines408–409: exclusive dual-use registration",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html",
+          "pinpoint": "§§3(4)(b),3(5),19(3)",
+          "access": "national current text from first reviewer; fresh source verification continuing"
+        }
+      ],
+      "limits": "No panel, legal classification decision, historical B2B cohort or contract inspected. Category availability alone does not prove any2012–2015 panel qualifies. No adjudicated breach.",
+      "proposedPatch": {
+        "title": "Business-only solar-panel financing: cutoff and classification need review",
+        "statusKind": "open",
+        "statusLabel": "Conditional financing comparison; classification disputed",
+        "consequence": "Possibly, for panels that legally qualify as exclusively non-household equipment. The statute keeps a later historical-waste cutoff, but current official guidance conflicts on whether any panels fall in that category. No eligible panel, disposal bill or affected contract has been established.",
+        "caveatAddition": "Current EAR registration guidance lists exclusive business-use PV categories. UBA and LAGA guidance instead describe PV modules as always household or dual-use equipment, including commercial installations. This conflicting guidance leaves the qualifying cohort unresolved."
+      }
+    },
+    {
+      "id": "se-single-permit-unemployment-period",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh current ordinary permit rule still permits revocation after three months. The separate Blue Card six-month protection does not supply ordinary single-permit coverage. EU Article11(4) requires six months for holders over two years; existing discretion, individual EU rights and unexpired validity qualifications should stay prominent.",
+      "sources": [
+        {
+          "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/utlanningslag-2005716_sfs-2005-716/",
+          "pinpoint": "Current header throughSFS2026:1752;7kap3§1(2);6akap distinct",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?qid=1789252548492&uri=OJ%3AL_202401233",
+          "pinpoint": "Article11(4)(a), page12",
+          "access": "fresh official indexed authentic EU passage"
+        }
+      ],
+      "limits": "Government proposal status independently checked by first reviewer; this peer read current statute and EU protection, not individual cases."
+    },
+    {
+      "id": "nl-slapp-third-country-jurisdiction",
+      "recommendation": "retain-open-contested",
+      "assessment": "General tort jurisdiction may supply protection in many cases, as government expressly maintains. Fresh parliamentary explanation identifies an additional-connecting-circumstances requirement for pure financial loss, whereas EU17 grants the target's domicile forum. The competing views support a contested research lead only, not a conclusion that Dutch courts lack jurisdiction.",
+      "sources": [
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26595.html",
+          "pinpoint": "20July2026 implementation table Article17(1) relies on Rv1/6e",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/kst-36731-11.html",
+          "pinpoint": "Proposed6j and explanatory notes4–7; additional circumstances rather than domicile alone",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202401069",
+          "pinpoint": "Article17(1)–(2), Article18, page12",
+          "access": "fresh official indexed authentic passage"
+        }
+      ],
+      "limits": "Did not independently retrieve live Rv body; first review and enacted act support unchanged text. Greenpeace accepted jurisdiction under existing law; no future application predicted."
+    },
+    {
+      "id": "pt-online-withdrawal-function",
+      "recommendation": "retain-qualified",
+      "assessment": "Current Article11(4) and model instructions still make website withdrawal conditional on the trader offering it. A customer's ability to email a withdrawal does not supply the mandatory persistent online withdrawal function required by new11a. Limit to contracts with a withdrawal right concluded through an online interface.",
+      "sources": [
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis",
+          "pinpoint": "Version7/latest2023;Article11(4);AnnexA instruction3",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2023/2673/oj/eng",
+          "pinpoint": "Article1(3),new11a;Article2(1)",
+          "access": "fresh EU read in original cohort work"
+        }
+      ],
+      "limits": "No trader enforcement or actual interface examined; statutory gap only."
+    },
+    {
+      "id": "de-trafficking-nonsexual-service-use",
+      "recommendation": "retain-qualified",
+      "assessment": "Current232a(6) customer offence remains sexual-service-specific. Section233 covers exploiting employment and other conduct, but the new government bill expressly distinguishes exploitation from mere knowing use of the victim's services. Thus existing perpetration/complicity routes do not establish comprehensive coverage of EU18a's separate knowing customer offence.",
+      "sources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/stgb/__232a.html",
+          "pinpoint": "Section232a(6)",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stgb/__233.html",
+          "pinpoint": "Section233 employment/begging/criminal-activity exploitation",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://dserver.bundestag.de/btd/21/065/2106584.pdf",
+          "pinpoint": "Printed43–44: new broad customer offence and distinction from233",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202401712",
+          "pinpoint": "Article1(15),new18a",
+          "access": "fresh official indexed authentic passage"
+        }
+      ],
+      "limits": "No immunity for all customers alleged. Bill is proposed, not enacted. Other criminal elements can apply in individual cases."
+    },
+    {
+      "id": "hu-bank-capital-leverage-trigger",
+      "recommendation": "revise-open-administrative-route",
+      "assessment": "A specific statutory-clarity concern survives. Current Hpt186(9a) selects non-leverage risks where the corrected EU sentence selects excessive-leverage risks. The precise EU capital-quality result is already MNB’s published supervisory position, and binding individual requirements can be imposed under186(10). Neither the non-binding manual nor an unexamined possibility of individual decisions establishes a generally binding cure of the reversed statutory trigger. No capital shortage, deficient bank or incorrect supervisory decision is established. Exact manual locator corrected: minimum Tier1 sentence is VI.1.4.9 OLRR; VI.1.4.8 is TSLRR, and VI.1.4.10 repeats the Tier1 guidance rule.",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2019/878/corrigendum/2026-08-06/oj/hun/pdf",
+          "pinpoint": "Sole correction,new104a(4) second subparagraph",
+          "access": "fresh official indexed authentic correction"
+        },
+        {
+          "url": "https://www.mnb.hu/felugyelet/szabalyozas/felugyeleti-szabalyozo-eszkozok/modszertani-kezikonyvek/icaap-ilaap-bma-felugyeleti-felulvizsgalatok",
+          "pinpoint": "December2025 manual applies to2026 reviews",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.mnb.hu/letoltes/icaap-ilaap-bma-kezikonyv-2025q4.docx",
+          "pinpoint": "VI.1.4.7–9, especially .8 minimumT1",
+          "access": "fresh official index verified; parent-retrieved transient DOCX text read independently"
+        },
+        {
+          "url": "https://www.mnb.hu/felugyelet/szabalyozas/felugyeleti-szabalyozo-eszkozok",
+          "pinpoint": "First substantive paragraphs3–4 explicitly include methodological manuals",
+          "access": "fresh official full web text"
+        }
+      ],
+      "limits": "Statute's exact reversed text independently verified by parent and first reviewer; peer checked correction and administrative cure. Manual legal status/individual bank decisions not audited.",
+      "proposedPatch": {
+        "statusKind": "open",
+        "statusLabel": "Statutory wording differs · supervisory practice follows EU rule",
+        "summary": "Hungary’s statute retains the reversed risk selector corrected in the EU text. MNB’s current manual nevertheless directs at leastTier1 capital for leverage-ratio requirements. The remaining concern is statutory clarity; individual supervisory requirements can supply the required result.",
+        "nationalGap": "Hpt186(9a) expressly selects risks other than excessive leverage. MNB’s published2026 supervisory manual states the correct minimumTier1 treatment for leverage-ratio requirements, and186(10) permits a binding higher-quality requirement for an individual institution. MNB describes methodological manuals as non-binding supervisory instruments. Whether another generally binding measure cures the statutory selector remains unresolved.",
+        "consequence": "The statutory wording and the EU correction differ. Published MNB supervision follows the correctedTier1 composition, so no capital shortfall or incorrect bank requirement is established. A limited legal-certainty question remains about the general statutory rule."
+      },
+      "focusedNote": "research/audit-2026-10-26/focused-hu-capital.json"
+    },
+    {
+      "id": "pl-water-abstraction-criminalisation",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh October Water Law proceeds directly473 to474, retains lesser permit offences476/478. Penal181 requires actual biological destruction;182 requires pollution by substances/radiation. The new EU risk-only serious-negligence abstraction category is not comprehensively supplied by these provisions; government UC148 explicitly proposes473a. Keep all existing criminal coverage caveats.",
+      "sources": [
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/1335/text.pdf",
+          "pinpoint": "Printed205–207,473–479;published14October,legalstate14September",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/1342/text.pdf",
+          "pinpoint": "Printed43–44,181–185;general8/9/13 and danger160/163–165",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.gov.pl/web/premier/projekt-ustawy-o-zmianie-ustawy--kodeks-karny-oraz-niektorych-innych-ustaw4",
+          "pinpoint": "UC148 section10, proposed473a;updated18August",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1786568602397&uri=CELEX%3A32024L1203",
+          "pinpoint": "Articles3(2)(m),3(4),5(2)(e)",
+          "access": "fresh official indexed authentic text"
+        }
+      ],
+      "limits": "Registers/later1358 bathing-water amendment checked by first reviewer, not independently repeated. No incident/prosecution or universal immunity claim."
+    },
+    {
+      "id": "fr-electricity-fixed-price-entitlement",
+      "recommendation": "retain-qualified",
+      "assessment": "Live EnergyCode ends relevant section atL332-7; noL332-8 entitlement is present in that section. Existing dynamic pricing and general offers do not themselves establish a right to fixed-price/fixed-term>=one-year offers from qualifying suppliers. Bound all absence claims to inspected provisions and distinguish general contract duration from fixed price.",
+      "sources": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043211411",
+          "pinpoint": "CurrentL332-1–7 and section endpoint",
+          "access": "fresh live browser; exact article links also in crosscheck-fr-gametes-electricity.json"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/1711/oj/eng",
+          "pinpoint": "Article2,new2019/944 Article11(1),supplier>=200000customers and dynamic-only exemption",
+          "access": "fresh EU read in original cohort work"
+        }
+      ],
+      "limits": "See durable crosscheck-fr-gametes-electricity.json. No universal claim excluding all French legal routes; first reviewer revised consequence accordingly."
+    },
+    {
+      "id": "cz-financial-human-explanation-deferral",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh live eSbírka identifies Act159/2026 as current but not effective. Replacement1845(2) gives human explanation when trader used only automated online tools;ArticleXII unequivocally starts1January2027. Ordinary deposit products outside sectoral explanation regimes remain a plausible residual cohort. GDPR significant-decision safeguards do not supply the broad explanation request.",
+      "sources": [
+        {
+          "url": "https://e-sbirka.gov.cz/sb/2026/159/2026-09-02?zalozka=text",
+          "pinpoint": "ArticleV(9),new1845(2);ArticleXII;header1January2027",
+          "access": "fresh live browser body"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202302673",
+          "pinpoint": "New16d(3),(5);Article2(1)",
+          "access": "fresh official indexed authentic passage"
+        }
+      ],
+      "limits": "Current pre-amendment1845 body checked by first reviewer, not repeated here. Scope exclusions are essential."
+    },
+    {
+      "id": "pt-repair-warranty-extension",
+      "recommendation": "retain-qualified",
+      "assessment": "Current Article18(4) adds six months per repair up to four repairs. The three-year initial baseline and potential cumulative two-year repair extensions do not supply a twelve-month extension for the first qualifying repair; the directive's alternative concerns a no-fixed-period model of at least three years, not merely any three-year baseline.",
+      "sources": [
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&nid=3471&pagina=1&so_miolo=&tabela=leis",
+          "pinpoint": "Article12 baseline;18(4),no amendments header",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/oj/eng",
+          "pinpoint": "Article16 amendment to2019/771,new10(2a),(2b)",
+          "access": "fresh EU read in original cohort work"
+        }
+      ],
+      "limits": "No consumer repair case or general warranty inferiority alleged."
+    },
+    {
+      "id": "pt-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh official consolidated Article7(3) expressly requires bothDGE and Commission copies before marketing/service. General documentation retention in7(4) and case-specific controls are separate. This is materially stronger than national-only HU/LV uncertainty; the EU recital expressly calls both routine recipient duties redundant.",
+      "sources": [
+        {
+          "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-156246098",
+          "pinpoint": "Article7(3)–(4),4(1);lastamendment29Jan2021,emvigor",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2024/2839/L00001-00004.pdf",
+          "pinpoint": "Recital5;Article2 deletes16;Article5 applies29Nov2025",
+          "access": "fresh authentic official EU mirror read"
+        }
+      ],
+      "limits": "Web cached date selector23August2026; first reviewer live26October and amendment register supplement currentness. No enforcement claim.",
+      "focusedNoiseFinalRecommendation": "retain-qualified",
+      "focusedNoiseNote": "research/audit-2026-10-26/focused-noise-copy-duties.json"
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh live official XML Section10 still requires each type's declaration to SYKE and onward Commission, for Finnish manufacture/firstEEAcommissioning categories. DateProduced16October2026,incorporates18Dec2025 amendment. Section8 surveillance transfer does not repeal10. Preserve narrow geographic/manufacturing scope and no actual burden claim.",
+      "sources": [
+        {
+          "url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/621/fin%40",
+          "pinpoint": "Section10,metadataProduced16Oct2026/consolidated18Dec2025",
+          "access": "fresh live browser XML"
+        },
+        {
+          "url": "https://www.finlex.fi/api/media/statute/898293/mainPdf/main.pdf?timestamp=2025-12-23T06%3A26%3A06.478Z",
+          "pinpoint": "1324/2025 changes8(2),not10",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2024/2839/L00001-00004.pdf",
+          "pinpoint": "Recital5;Articles2,5",
+          "access": "fresh authentic official EU mirror"
+        }
+      ],
+      "limits": "Later-enactment/consultation status checks by first reviewer; peer independently reconfirmed operative copy clause.",
+      "focusedNoiseFinalRecommendation": "retain-open-government-reform-lead",
+      "focusedNoiseNote": "research/audit-2026-10-26/focused-noise-copy-duties.json"
+    },
+    {
+      "id": "pt-romanian-nurse-upgrade-recognition",
+      "recommendation": "revise-open-alternative-routes",
+      "assessment": "Current30(3) preserves practice3-in5years and lacks explicit upgraded-diploma route. But2025 binding Order371 AnnexII(g) broadly accepts Directive-conformity certificates, and Law9/2009 Art2-D European ProfessionalCard procedures prevail over special procedures. NewEU33a2 specifically covers training belowArticle31minimum, so ordinary minimum-training conformity is not shown equivalent; EPC/conforming interpretation could still protect individuals. Recommend open/Possibly rather than categoricalYes.",
+      "sources": [
+        {
+          "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-107094734",
+          "pinpoint": "Article30(3);Article2-D(11)–(12)EPCprecedence",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/371-2025-911688722",
+          "pinpoint": "Article6(1)c,16,AnnexII(g)binding broad conformity procedure",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202400505",
+          "pinpoint": "New33a(2),belowArticle31minimumtraining",
+          "access": "fresh official indexed authentic text"
+        }
+      ],
+      "limits": "No rejected applicant or complete non-equivalence ruling located. Proposal status checked by first reviewer; no enacted express remedy found.",
+      "proposedPatch": {
+        "statusKind": "open",
+        "statusLabel": "Express special route missing · alternatives need review",
+        "consequence": "Possibly. The inspected special provision still asks for practice evidence, while the EU acquired-rights route accepts specified upgraded Romanian qualifications. Broader professional-order and EuropeanProfessionalCard procedures may protect applicants; no rejection has been established."
+      }
+    },
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh national PDF uses zachorowalności(incidence) in both donor-screening tables. AuthenticEU recitals specifically explain why chronicHTLV prevalence is preferred, so the change was substantive, not stylistic. Individual risk assessment/additional testing may supply protection; no actual missed screening or safety outcome should be inferred.",
+      "sources": [
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2025/384/text.pdf",
+          "pinpoint": "AnnexI table1row5/table2row6,printed5;generalindividualrisk rules",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32012L0039",
+          "pinpoint": "Recitals2–3;Annex(2)(a),(b)",
+          "access": "fresh official indexed authentic text"
+        }
+      ],
+      "limits": "No clinical testing record or missed donor identified; additional safeguards remain."
+    },
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh live arrêté AnnexII5.1 permits first partner-donation blood sampling within six months before the first attempt. Footnote93 defines attempt and does not narrow this to repeat testing. EUAnnex2(c) changed first non-direct-use partner sampling to three months, separate from24month repeat intervals. Keep partner/non-direct-use scope in visible title.",
+      "sources": [
+        {
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+          "pinpoint": "AnnexII5.1,firstsamplingandfootnote93;II5.2thirdpartydistinct",
+          "access": "fresh live browser, durable crosscheck-fr-gametes-electricity.json"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32012L0039",
+          "pinpoint": "Annex(2)(c),firstsampling3months",
+          "access": "authentic EU independently read by first reviewer; peer national browser crosscheck"
+        }
+      ],
+      "limits": "Do not conflate six-monthfirstsample with24monthretest or infer unsafe treatment."
+    },
+    {
+      "id": "ee-lead-legacy-exposure-cutoff",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh live current national header commences16May2026 without enddate. Section13(5) keys historic exposure to own commencement;EUAnnexIIIa1.1.1 uses9April2026. Declining blood trend,medicalsurveillance and upper70µgthreshold do not eliminate the extra qualifying37days; they constrain its effects.",
+      "sources": [
+        {
+          "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/113052026003/blob-html",
+          "pinpoint": "Current16May2026,§13(3)–(5)",
+          "access": "fresh live browser; encoding imperfect but dates and operative clause readable"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/869/oj/eng/pdf",
+          "pinpoint": "AnnexII(3),newIIIa1.1.1",
+          "access": "fresh official indexed authentic passage"
+        }
+      ],
+      "limits": "No worker-level exposure or practical eligibility assessed; retainconditionalcaveat."
+    },
+    {
+      "id": "at-noise-declaration-copy-retained",
+      "recommendation": "retain-qualified",
+      "assessment": "Fresh RIS current20October2026 still requires Commission and MemberStateauthoritycopies in6(3),while6(4)retention and5(4)reasonedrequests are distinct. Lastamendmentlisted2006. RoutineEUCommissioncopy is directly the repealed report; no lawful independent national purpose explains continuing bothrecipient duty in inspected law.",
+      "sources": [
+        {
+          "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001417",
+          "pinpoint": "§6(3),(4);§5(4),header20Oct2026/lastamendment2006",
+          "access": "fresh official web text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2024/2839/L00001-00004.pdf",
+          "pinpoint": "Recital5;Articles2,5",
+          "access": "fresh authentic official EU mirror"
+        }
+      ],
+      "limits": "Draft remedy status assessed by first reviewer; peer found no operative repeal. Do not infer actual fines.",
+      "focusedNoiseFinalRecommendation": "retain-open-recognised-repeal",
+      "focusedNoiseNote": "research/audit-2026-10-26/focused-noise-copy-duties.json"
+    }
+  ]
+}

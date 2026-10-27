@@ -1,0 +1,173 @@
+{
+  "checkedOn": "2026-10-26",
+  "sourceSnapshot": "Current docs/data/findings.json copied read-only to /tmp/eu-top-three-source-2026-10-26.json at start of review.",
+  "scope": "Ranked the 13 records then marked priorRecognition=not-located by clarity of mismatch, importance of the affected safeguard, and potential reach. Read existing adverse-review notes, freshly checked selected primary sources and searched public coverage. No website content changed and no authority contacted.",
+  "discoveryLimit": "No prior public identification of the exact selected discrepancies located in this bounded review. This cannot establish first discovery, absence of confidential Commission/government knowledge, or absence from unindexed/paywalled material.",
+  "sourceAccess": "Current French legal bodies and Irish enactment/amendment register read in live in-app browser. EU originals and consolidated RED retrieved from the EU Publications Office using scripts/read_eu_publications.py into temporary files; no complete legal texts saved to project.",
+  "ranking": [
+    {
+      "rank": 1,
+      "id": "fr-diisocyanate-binding-limit",
+      "country": "France",
+      "conclusion": "Strong apparent transposition defect in the legal status of interim occupational exposure limits. No workplace exceedance or injury established.",
+      "euRequirement": "Directive 2024/869 Annex I inserts a binding diisocyanate table into Directive 98/24; interim eight-hour / short-term values are 10 / 20 micrograms NCO per cubic metre until 31 December 2028. Directive 98/24 Article 3(5) requires corresponding national binding limits. Transposition deadline 9 April 2026.",
+      "nationalVerification": "Fresh live R4412-149, in force on 26 October 2026 and unchanged since 10 April, has 6 / 12 micrograms NCO per cubic metre applicable only from 1 January 2029. Order of 8 April 2026 expressly inserts 0.01 / 0.02 mg in the indicative table. R4412-150 calls indicative limits prevention objectives. R4412-28 requires immediate protection on exceedance of binding limits; R4412-29 requires risk reassessment for indicative exceedances. Annual accredited monitoring under R4412-27 continues for both.",
+      "significance": "Affects the national response to exceeding limits for chemicals known to cause occupational asthma and sensitisation; not just a numerical or typographical discrepancy.",
+      "contraryChecks": [
+        "General prevention and accredited monitoring remain mandatory.",
+        "REACH training restrictions are additional safeguards, not demonstrated replacement of a national binding interim ceiling.",
+        "No evidence that a particular exceedance is lawful, unaddressed, or caused injury."
+      ],
+      "novelty": {
+        "outcome": "No precise EU-versus-French legal-character criticism located.",
+        "knownCoverage": [
+          "Présanse, 10 April 2026, describes indicative limits now and binding limits in 2029.",
+          "Prévention BTP, Réglementation Environnement, Tennaxia and other compliance commentary also describe staging; descriptions are not first discovered by this project."
+        ],
+        "queries": [
+          "diisocyanates indicatives 2024/869 2026",
+          "diisocyanates indicatives non-conformité",
+          "diisocyanates France incorrect transposition",
+          "diisocyanates indicatives transposition incorrecte",
+          "diisocyanates France binding 2026 indicative"
+        ]
+      },
+      "contacts": [
+        {
+          "role": "Primary: Direction générale du travail, bureau CT2",
+          "email": "dgt.ct2@travail.gouv.fr",
+          "source": "https://lannuaire.service-public.gouv.fr/gouvernement/157b8339-36bb-4208-9cd7-18413ec19043"
+        },
+        {
+          "role": "Office head identified in current official directory",
+          "name": "Heidi Borrel"
+        }
+      ],
+      "questionForAuthority": "Which binding national measure supplies the 10/20 microgram interim ceilings required by Annex I and Article 3(5), given the indicative order and the 2029 start of R4412-149's row?",
+      "sources": [
+        "https://eur-lex.europa.eu/eli/dir/2024/869/oj/eng",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31998L0024",
+        "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053777133",
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053786000",
+        "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530556/",
+        "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018490393/",
+        "https://www.presanse.fr/actualites/agents-chimiques-dangereux-nouveaux-textes/"
+      ]
+    },
+    {
+      "rank": 2,
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "country": "France",
+      "conclusion": "Substantive first-sampling discrepancy survives review for the narrow partner/non-direct-use cohort. No outdated test, infection or patient injury established.",
+      "euRequirement": "Directive 2012/39 Annex (2)(c), amending 2006/17 Annex III 4.2, requires blood sampling within three months before the first partner donation outside direct use; later partner sampling may be up to 24 months apart. Base Annex III distinguishes stored/processed material and embryo cryopreservation from direct-use exemptions.",
+      "nationalVerification": "Fresh live consolidated Order of 11 April 2008: header in force 26 October 2026, latest modification 11 October 2023. Annex II-5.1 permits HIV/HBV/HCV screening within six months before first relevant gamete collection. Footnote 93 defines a treatment attempt and adds no three-month override. Order of 2 June 2014 expressly substituted three months for six; Order of 5 October 2023 replaced the full annex.",
+      "significance": "Concerns an infectious-screening safeguard for stored reproductive material and an apparent loss of an earlier express transposition rule during national rewriting.",
+      "contraryChecks": [
+        "Direct-use partner donations and validated unstored insemination routes must not be presented as covered.",
+        "Separate third-party donor rules under R1211-25/26 were freshly read; they do not establish a general three-month partner override.",
+        "Risk assessment and retesting on newly identified contamination risk remain.",
+        "Some hospitals retain three-month protocols; current first-party provider documents also state six months. No individual treatment record reviewed.",
+        "Do not infer a doubling of infection risk from a doubling of the permitted interval."
+      ],
+      "novelty": {
+        "outcome": "No publication identifying the exact current EU/national mismatch located.",
+        "knownCoverage": [
+          "Current three- and six-month provider instructions are public.",
+          "The 2014 and 2023 national enactments are public.",
+          "Provider instructions stating six months are not themselves an analysis of EU non-conformity."
+        ],
+        "queries": [
+          "2012/39/UE six mois procréation",
+          "5 octobre 2023 sérologies trois mois",
+          "gamètes six mois directive 2023",
+          "partner donation France three months testing",
+          "procréation trois mois six mois 2023",
+          "gamètes trois mois six mois conformité"
+        ]
+      },
+      "contacts": [
+        {
+          "role": "Primary: Direction générale de la santé, bureau PP4 (bioethics and human tissues/cells)",
+          "email": "dgs-pp4@sante.gouv.fr",
+          "source": "https://sante.gouv.fr/fichiers/bo/2025/2025.1.sante.pdf",
+          "pinpoint": "Page 53: official PP4 contact; current office corroborated by Service Public directory."
+        },
+        {
+          "role": "Technical copy: Agence de la biomédecine, AMP vigilance",
+          "email": "ampvigilance@biomedecine.fr",
+          "source": "https://www.agence-biomedecine.fr/en/amp-vigilance"
+        }
+      ],
+      "questionForAuthority": "For first partner donations involving banking or relevant embryo cryopreservation, what binding provision preserves the EU three-month sampling requirement despite current Annex II-5.1's six-month interval?",
+      "sources": [
+        "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32012L0039",
+        "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A02006L0017-20121217",
+        "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+        "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029069103",
+        "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048178648",
+        "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006160951",
+        "https://hopital-antoine-beclere.aphp.fr/biologie-de-la-reproduction-amp",
+        "https://amp-hplb-lille.com/wp-content/uploads/2024/06/Brochure-FIV-V2.pdf",
+        "https://lannuaire.service-public.gouv.fr/gouvernement/e348508a-c620-4470-8766-fa605f5cc355"
+      ]
+    },
+    {
+      "rank": 3,
+      "id": "ie-biomass-sustainability-threshold",
+      "country": "Ireland",
+      "conclusion": "Verified surviving statutory under-20-MW deemed-compliance provision; practical coverage and effects require an official answer. Qualified third priority.",
+      "euRequirement": "RED Article 29(1), as amended by 2023/2413, applies solid-biomass sustainability and greenhouse-gas criteria from 7.5 MW total rated thermal input for target accounting, renewable obligations and support. Article 30(6) allows simplified verification for 7.5-20 MW but still requires fulfilment of criteria.",
+      "nationalVerification": "S.I.350/2022 Regulation 6(4) freshly read: under-20-MW solid biomass deemed compliant. Official amendment table freshly read, updated to 13 October 2026: no Regulation 6 or Schedule 3 amendment listed. Bounded later-enactment searches located no cure. Regulations 5(4), 6(10), 8 and 14 link support and verification to Regulation 6.",
+      "significance": "Potentially leaves part of the newly covered installation band outside the substantive sustainability test, affecting the reliability of eligibility and accounting.",
+      "contraryChecks": [
+        "RED Article 29(15) preserves old criteria until end-2030 for qualifying support granted before 20 November 2023, fixed long-term amount and anti-overcompensation mechanism; it applies across target accounting, obligations and support.",
+        "National Regulation 6(7)-(8) separately requires criteria for some electricity-only installations; do not generalise the concern to every plant below 20 MW.",
+        "Heat-producing installations in the band outside qualifying grandfathering provide the clearer statutory comparison.",
+        "SEAI's current verification page still points to S.I.350/2022 and RED II. Industry body IrBEA explicitly advertises RED III certification above 7.5 MW; actual practice may already be stricter.",
+        "No noncompliant fuel consignment, unlawful support payment or erroneous national count identified.",
+        "Official amendment-register cut-off is 13 October, not a certification of all enactments through 26 October."
+      ],
+      "novelty": {
+        "outcome": "No precise public criticism of the surviving Regulation 6(4) exemption located. New EU threshold and broad transposition delays are already known.",
+        "knownCoverage": [
+          "SEAI Energy in Ireland report explains fall from 20 to 7.5 MW.",
+          "IrBEA SURE page advertises 7.5-MW certification.",
+          "Ireland notified S.I.350/2022 under RED III on 1 July 2026; notification alone does not settle substantive conformity."
+        ],
+        "queries": [
+          "Ireland biomass 7.5 MW sustainability transposition",
+          "Ireland biomass 7.5 20 MW regulations",
+          "350 of 2022 2026 renewable amendment",
+          "site:irishstatutebook.ie/eli/2026 sustainability biomass",
+          "RED III sustainability Ireland not transposed",
+          "350/2022 7.5 omission"
+        ]
+      },
+      "contacts": [
+        {
+          "role": "Primary: Department of Climate, Energy and the Environment; request routing to RED III biomass-sustainability/transposition officials",
+          "email": "customer.service@dcee.gov.ie",
+          "source": "https://www.gov.ie/en/organisation/department-of-the-environment-climate-and-communications/"
+        },
+        {
+          "role": "Technical copy: SEAI biomass sustainability verification team",
+          "email": "biomass-sustainability-verification@seai.ie",
+          "source": "https://www.seai.ie/sites/default/files/2024-10/Procedure-for-the-Verification-of-Biomass-Sustainability.pdf",
+          "pinpoint": "Section 4.1"
+        }
+      ],
+      "questionForAuthority": "Which current binding measure requires the Article 29 criteria for solid-biomass heat installations between 7.5 and 20 MW outside qualifying grandfathering, notwithstanding Regulation 6(4)'s deemed-compliance wording?",
+      "sources": [
+        "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A02018L2001-20240716",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2413",
+        "https://www.irishstatutebook.ie/eli/2022/si/350/made/en/print",
+        "https://www.irishstatutebook.ie/isbc/si2022_301-350.html",
+        "https://www.seai.ie/renewable-energy/bioenergy/verification-procedure",
+        "https://www.seai.ie/sites/default/files/publications/energy-in-ireland-2024.pdf",
+        "https://irbea.org/sure/",
+        "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=NIM%3A202604707"
+      ]
+    }
+  ],
+  "excludedFromTopThree": "Hungarian bank-capital case has correct published supervisory treatment; German PV case has unresolved non-household scope; Estonian asbestos case has countervailing explicit permit rule and official guidance; Estonian lead cutoff is precise but a much narrower conditional cohort; PSD2 cases concern qualified business contracting options."
+}

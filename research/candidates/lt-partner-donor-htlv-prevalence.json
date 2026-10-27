@@ -1,0 +1,22 @@
+{
+  "id": "lt-partner-donor-htlv-prevalence",
+  "publicationDecision": "HOLD-private-negative-control",
+  "snapshot": "2026-10-26",
+  "selectedAct": "2012/39",
+  "countryCode": "LT",
+  "screenedDifference": "Authentic Lithuanian recital3 distinguishes incidence from prevalence. Current V1468 27.2 retains incidence terminology for donor origin/residence/partner-origin, but parents already use prevalence.",
+  "decisiveAdverseRoute": "Actual adjacent30 requires stored/cultured gametes to follow28.4, which correctly uses prevalence.31 refers stored tissues to27; a legally relevant residual uncovered cohort has not been established.",
+  "otherSafeguards": "Risk exclusions23; optional additional tests27.5; lawful direct-use26 and validated unstored-IUI27.3 exceptions; actual29–38 laboratory/storage context. No actual untested donor, clinical harm or general partner-screening omission asserted.",
+  "sources": [
+    {
+      "url": "https://publications.europa.eu/resource/cellar/f23ce6a3-3a53-11e2-b7ce-01aa75ed71a1.0013.04/DOC_1",
+      "locator": "Authentic Lithuanian original, recital3 and Annex2(a), root whole-act read"
+    },
+    {
+      "url": "https://www.e-tar.lt/rs/actualedition/1e200320c90611e69dec860c1f4a5372/XDsKrntErk/",
+      "locator": "Current from10March2023; root whole23–38 actual read;27.2 versus28.4/30–31"
+    }
+  ],
+  "recognition": "No precise prior analysis located in bounded searches; not a first-discovery claim. No publication recommended.",
+  "review": "Root actual source read exposed the operative cure before publication; Reference preserves the adverse control. No separate full primary reread claimed."
+}

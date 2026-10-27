@@ -1,0 +1,33 @@
+{
+  "snapshot": "2026-10-27",
+  "subject": "Slovak jelly fruit minima after Directive (EU) 2024/1438",
+  "decision": "qualified actual-source national discrepancy passes; no operational outcome established",
+  "actualReadScope": [
+    "Entire authentic 399/2025 amender, all29 points and ArticleII commencement.",
+    "Current binding44/2012 PDF operative scope and Annex1 rows1–4, pages5–6.",
+    "Current official HTML version/history lists399/2025 as latest, effective14June2026–open."
+  ],
+  "sources": [
+    {
+      "url": "https://static.slov-lex.sk/pdf/SK/ZZ/2012/44/ZZ_2012_44_20260614.pdf",
+      "locator": "Annex1 rows1–4, pages5–6; §3(1)"
+    },
+    {
+      "url": "https://static.slov-lex.sk/pdf/SK/ZZ/2025/399/ZZ_2025_399_20260614.pdf",
+      "locator": "ArticleI points26–27 only replace first/second rows; ArticleII force14June2026"
+    }
+  ],
+  "nationalComparison": "Jam and extra-jam rows are450/500g generally, but jelly and extra-jelly remain350/450g; special-fruit minima also retain previous values. No other binding threshold override was located in the read operative clauses or amender. EU chain independently read by reference and parent.",
+  "recognitionSearch": {
+    "queries": [
+      "Slovensko 399/2025 rôsol350",
+      "44/2012 rôsol2026 450",
+      "399/2025 chyba rôsol",
+      "Slovakia jelly2024/1438",
+      "Slovensko rôsoly želé2026 nedostatok",
+      "44/2012 rôsol2024/1438"
+    ],
+    "result": "Bounded searches returned the statutes, general reform summaries and unrelated results, but no precise published recognition of the residual jelly-table mismatch. This is not a claim of first discovery."
+  },
+  "qualification": "No actual product, denied market access or enforcement outcome established. Preserve pre14June-labelled/marketed stock transition and EU-consistent interpretation. An explicit static numeric table differs; NIM does not establish conformity."
+}

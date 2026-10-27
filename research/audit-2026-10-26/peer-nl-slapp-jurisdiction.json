@@ -1,0 +1,90 @@
+{
+  "reviewDate": "2026-10-26",
+  "reviewer": "audit_records_01_23",
+  "id": "nl-slapp-third-country-jurisdiction",
+  "recommendation": "retain-contested-lead-open-possibly",
+  "conclusion": "Existing Dutch rules supply many cases, and domicile normally satisfies the connection limb of Article 9(c). The unresolved legal result is a guaranteed domicile forum without the separate requirement that litigating the compensation claim abroad be unacceptable. A missing special statutory form alone is not the reason for retention.",
+  "analysis": [
+    "EU Article 17(1) grants the target a domicile forum against a non-EU claimant for damage/costs of abusive third-country public-participation proceedings. It does not condition jurisdiction on domestic participation, a domestic harmful event, the foreign courts being unfair, or foreign litigation being practically unacceptable. Article 17(2) allows pending-case restrictions, but the Dutch explanatory memorandum expressly elects not to use that option. Article 18 preserves prior international agreements.",
+    "Fresh current Rv Article 6(e) retains the domestic harmful-event condition; Article 9(a) depends on submission, 9(b) on foreign proceedings being impossible, and 9(c) combines sufficient Dutch connection with unacceptable foreign litigation. The current code is valid from 14 July 2026 and was retrieved with the consultation date 26 October 2026. The final act adds security/costs provisions without changing these jurisdiction grounds.",
+    "Important correction to an overly broad objection: a Dutch-resident claimant ordinarily already meets the sufficient-connection limb of 9(c). The original statutory explanation p.41 expressly says so; Amsterdam Court of Appeal 2019:2682 paragraph3.18 repeats it. Extra factual connections beyond residence should not be presented as invariably required for the fallback route.",
+    "But 9(c) has a separate exceptional unacceptable-foreign-forum requirement. Original explanatory memorandum p.41 requires restrictive use, distinguishes severe practical/access difficulties, and rejects creating a disguised general claimant-domicile forum. Appellate judgment2019:2682 paragraphs3.17 and3.20–3.21 separately tests foreign adjudication fairness and exceptional circumstances. Its forum-selection context makes it an illustration, not an exhaustive rule that only a corrupt judiciary can trigger9(c).",
+    "Credible residual class: a Dutch-domiciled target participated while abroad, incurred and managed defence costs abroad, and can fairly bring a compensation claim in the third country. Its only relevant Dutch effect may be financial loss. The abuse of the original claim does not logically establish that the separate compensation proceedings abroad are impossible or unacceptable. Such a case can meet EU17 without automatically meeting6(e) or9. This is a reasoned legal class, not an identified actual refused claim.",
+    "The strongest contrary route is conforming interpretation after the directive deadline: a court could regard the abusive foreign process and new EU safeguard as making recourse abroad unacceptable under9(c), or apply6(e) more broadly. No fresh authority establishing that this interpretation necessarily supplies every Article17 case was located. The Ministry expressly regards existing1/6(e) sufficient, so retain only as a contested question, not an established implementation breach.",
+    "Fresh full authentic Greenpeace judgment2026:5461 paragraphs4.9–4.10 directly rejects the Ministry’s equivalence rationale and distinguishes the domicile forum from existing additional circumstances; paragraphs4.17–4.23 nevertheless find those circumstances and accept jurisdiction. The foreign actions predated the directive, so the court did not decide post-directive conforming interpretation or Article9(c). Neither an individual denial of jurisdiction nor a general absence of Dutch access may be inferred.",
+    "Adverse official consultation evidence must remain visible: Raad van State gave no comments, and Raad voor de rechtspraak broadly endorsed reliance on existing procedure. Its full four-page advice concentrates on hearing/early dismissal/security and does not specifically analyse Article17 or9(c). These are contrary institutional positions, not endorsements of the alleged gap. The Amsterdam court and amendment36731-11 give the specific contrary analysis."
+  ],
+  "sources": [
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80518",
+      "pinpoint": "Recital44; Articles17(1)–(2),18,22(1)",
+      "scope": "Fresh authentic EU operative clauses read; EUR-Lex robot check avoided through official BOE mirror."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14",
+      "pinpoint": "Articles1,6(e),9(a)–(c); version14July2026–present; consultation26October2026",
+      "scope": "Fresh complete official HTML retrieved directly after web-tool failure; relevant articles parsed and read."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36731-3.html",
+      "pinpoint": "Section3.5 underArticle17, printedpp16–17; section4 consultation; transpositiontable",
+      "scope": "Fresh full official HTML downloaded; specific Ministry equivalence reasoning and institutional support read."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/kst-26855-3.html",
+      "pinpoint": "Article1.1.8(c), printedp41, laterRv9(c)",
+      "scope": "Fresh full official HTML downloaded; connection and unacceptable-forum limbs independently read."
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?ID=ECLI:NL:GHAMS:2019:2682",
+      "pinpoint": "Paragraphs3.17–3.21",
+      "scope": "Fresh full authentic court XML downloaded/read. Domicile suffices for connection; separate restrictive acceptability analysis."
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?ID=ECLI:NL:RBAMS:2026:5461",
+      "pinpoint": "Paragraphs4.4–4.11,4.14–4.23; operative5.5",
+      "scope": "Fresh full authentic court XML downloaded/read, closing ordinary court-page403. Article17 distinguished; actual jurisdiction accepted under6(e)."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26595.html",
+      "pinpoint": "20July2026 transpositiontable Article17(1)",
+      "scope": "Fresh official notice still relies onRv1/6(e)."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36731-11.html",
+      "pinpoint": "Proposed6(j), explanation and notes4–6",
+      "scope": "Fresh full official text read; narrower forum objection already recognised. Proposal itself is not binding law."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2025-13231.html",
+      "pinpoint": "Raad van State advice5February2025,W16.25.00001/II; openingNaderRapport",
+      "scope": "Fresh full official publication read: no comments, not a forum-gap objection."
+    },
+    {
+      "url": "https://www.rechtspraak.nl/binaries/_rts_1768385915427/content/assets/rvdr/wa/2024/rvdr-wa-2024-conceptwetsvoorstel-implementatie-anti-slapp-richtlijn.pdf",
+      "pinpoint": "5December2024,all4pages,particularlyp2firstadviceparagraph",
+      "scope": "Fresh full official advice read. General endorsement of existing procedure; no specificArticle17/9(c)analysis."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-185.html",
+      "pinpoint": "ArticleI,allamendments",
+      "scope": "Fresh full final act read; no6/9amendment."
+    },
+    {
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-197.html",
+      "pinpoint": "Solearticle;publication13July2026",
+      "scope": "Fresh commencement read,14July2026."
+    }
+  ],
+  "proposedPatch": {
+    "title": "Abusive lawsuits abroad: Dutch home-court coverage remains contested",
+    "consequence": "Possibly. Existing law can give Dutch targets a forum, as the Greenpeace judgment demonstrates. The unresolved category concerns financial-loss cases lacking the Article 6(e) connections where fair litigation abroad remains possible: Article 9(c) also requires that foreign litigation would be unacceptable. Whether conforming interpretation guarantees the new domicile forum in every qualifying case remains contested.",
+    "caveatAddition": "Dutch residence normally already satisfies Article 9(c)’s sufficient-connection limb. Its separate unacceptable-foreign-forum condition remains relevant. The Ministry considers existing law sufficient; the Council for the Judiciary broadly endorsed reliance on existing procedure and the Council of State raised no comments, although neither advice specifically resolves Article 17 coverage. Future conforming interpretation may supply the required result; the older Greenpeace judgment did not decide that post-directive question."
+  },
+  "limits": [
+    "No actual Article17-eligible post-deadline refusal established; the residual class is a legal inference supported by distinct statutory conditions and specific judicial disagreement.",
+    "No complete census of all later rulings or every treaty. Prior international agreements can lawfully override underArticle18.",
+    "Do not describe Council of State or Council for the Judiciary as recognising this gap; the evidence located points the other way at general implementation level.",
+    "No public files changed."
+  ]
+}

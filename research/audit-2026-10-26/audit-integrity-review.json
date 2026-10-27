@@ -1,0 +1,45 @@
+{
+  "reviewDate": "2026-10-26T07:05:42.302686+00:00",
+  "reviewer": "audit_records_47_68",
+  "status": "passed-at-reviewed-snapshot",
+  "scope": "Independent structural integrity and recovery check of the final audit index, recovery record and README against the preserved pre-review catalogue and current local catalogue. No public files edited.",
+  "counts": {
+    "original": 68,
+    "withdrawn": 16,
+    "revisedRetained": 24,
+    "unchangedRetained": 28,
+    "current": 52,
+    "findings": 6,
+    "leads": 46,
+    "memberStates": 21,
+    "euChanges": 27,
+    "priorRecognitionLocated": 39,
+    "priorRecognitionNotLocated": 13
+  },
+  "checks": [
+    "All 68 original unique IDs have exactly one summary entry; no new current IDs. Every summary disposition matches an exact full-record comparison of the preserved baseline and current catalogue.",
+    "All 136 primary-review and independent-challenge references resolve to exactly one matching ID. Referenced recommendations match their source notes. Primary and peer paths differ for all 68 records; the three peer cohorts were assigned to different research agents from their primary reviewers.",
+    "The 16 complete withdrawn records and 24 previous-field entries match precisely the actual withdrawn and changed ID sets.",
+    "Applying previousValues, deleting addedFields, restoring withdrawn records and using originalOrder exactly reconstructs all 68 original records, including absent-field distinctions and list order. The remaining top-level findings.json metadata is already unchanged.",
+    "README catalogue, country, EU-change and recognition counts match current data; its 16 withdrawn/24 revised/28 unchanged description matches the actual comparison.",
+    "Summary threshold/limits and README expressly deny general compliance certification and comprehensive coverage; the recovery record labels original material historical. Summary states changes remain local and no deployment, push or commit was performed; README says not deployed. No assertion that this audit published changes was found."
+  ],
+  "summaryTiming": {
+    "statusAtCheck": "in-progress",
+    "completedAtAtCheck": null,
+    "assessment": "In-progress/null is appropriate while the parent two-hour audit remains active; final timing is for the parent to close."
+  },
+  "issues": [],
+  "limits": [
+    "This closeout checks index/data consistency and reconstructability. It does not repeat all substantive legal research or establish compliance of retained or withdrawn national frameworks.",
+    "Recorded automated/browser/source-availability test results were not rerun by this integrity reviewer. No claim is made that audit metadata alone proves those historical tests or independently verifies the absence of a deployment.",
+    "Recovery reconstructs the structured pre-existing catalogue, rather than original JSON whitespace or unrelated working files. Baseline top-level catalogue metadata matches the current file."
+  ],
+  "inputsSha256": {
+    "/tmp/eu-update-chain-audit-baseline/findings.json": "410b12864e2880456ad34b56e8f9ab6f64ad0afeb2994e10f0d4a6638bcd2c6d",
+    "docs/data/findings.json": "3841f99bf3fad8bb6b315a695c712a6a988a6add8e0edefe9ca4ad9f366c9fe3",
+    "research/audit-2026-10-26/summary.json": "a6f942db60ffcf07c76afaf0a95470719a9ddd9f322207de134bd83c2ea18b01",
+    "research/audit-2026-10-26/catalogue-before-review.json": "573f264ead3f0612b108c00000c58f09345c986efdc66306d8f7bef041ba7a8a",
+    "README.md": "22af0e332c9eb7d68d07a978a47d4ea8157b9d9f4df426b815d296e003e6a1d4"
+  }
+}

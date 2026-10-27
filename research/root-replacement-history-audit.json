@@ -1,0 +1,72 @@
+{
+  "checked": "2026-10-26",
+  "method": "All incoming/outgoing predicate results inspected for legal effects, excluding citations and national notifications; compact identified effect list only.",
+  "effects": [
+    {
+      "c": "32024L1203",
+      "direction": "out",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_replaces_resource_legal",
+      "relatedCelex": "32009L0123"
+    },
+    {
+      "c": "32024L1203",
+      "direction": "out",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_replaces_resource_legal",
+      "relatedCelex": "32008L0099"
+    },
+    {
+      "c": "32021L0555",
+      "direction": "out",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_repeals_resource_legal",
+      "relatedCelex": "32017L0853"
+    },
+    {
+      "c": "32021L0555",
+      "direction": "out",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_repeals_resource_legal",
+      "relatedCelex": "32008L0051"
+    },
+    {
+      "c": "32021L0555",
+      "direction": "out",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_repeals_resource_legal",
+      "relatedCelex": "31991L0477"
+    },
+    {
+      "c": "32021L0555",
+      "direction": "in",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+      "relatedCelex": "32021L0555R(01)"
+    },
+    {
+      "c": "32021L0555",
+      "direction": "in",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+      "relatedCelex": "32021L0555R(02)"
+    },
+    {
+      "c": "32021L0555",
+      "direction": "in",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+      "relatedCelex": "32021L0555R(03)"
+    },
+    {
+      "c": "32024L1203",
+      "direction": "in",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+      "relatedCelex": "32024L1203R(01)"
+    },
+    {
+      "c": "32024L1203",
+      "direction": "in",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+      "relatedCelex": "32024L1203R(02)"
+    },
+    {
+      "c": "32024L1203",
+      "direction": "in",
+      "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+      "relatedCelex": "32024L1203R(03)"
+    }
+  ]
+}

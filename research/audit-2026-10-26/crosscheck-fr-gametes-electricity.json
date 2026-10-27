@@ -1,0 +1,23 @@
+{
+  "snapshot": "2026-10-26",
+  "auditor": "audit_records_24_46",
+  "method": "Independent live rendered official pages in IAB; read currentness headers and article text. Long annex read from rendered DOM body because accessibility output truncates it.",
+  "crossChecks": [
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+      "currentness": "EN VIGUEUR AU 26 OCTOBRE 2026; latest data update 11 October 2023; annex in force since that date.",
+      "pinpoint": "Annex II-5.1; footnote 93; II-5.2",
+      "observed": "II-5.1 requires HIV, hepatitis B and hepatitis C markers within six months before the first concerned gamete collection or retrieval, including intraconjugal AMP. Footnote 93 defines a treatment attempt and does not impose an independent three-month sampling limit. II-5.2 separately addresses third-party gamete donors.",
+      "limit": "This cross-check confirms current national wording and footnote, not clinical practice or completeness of all other binding sources."
+    },
+    {
+      "id": "fr-electricity-fixed-price-entitlement",
+      "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043211411",
+      "currentness": "EN VIGUEUR AU 26 OCTOBRE 2026; Article L332-7 in force since 5 March 2021.",
+      "pinpoint": "Chapter II heading (L332-1 to L332-7); L332-7(I)–(IV)",
+      "observed": "The current chapter heading ends at L332-7. Article L332-7 requires dynamic-price offers from suppliers serving more than 200,000 sites for qualifying smart-meter customers. It contains no fixed-price offer duty, and no L332-8 is shown in this chapter.",
+      "limit": "Absence within this chapter does not by itself prove absence of every enforceable entitlement or private fixed-price offer."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "snapshot": "2026-10-27",
+  "subject": "Slovenian jam cashew/pomegranate identity after 2024/1438",
+  "decision": "Qualified actual-source comparison passes; botanical identification separately read by parent.",
+  "actualReadScope": [
+    "Entire authentic new national rule, Uradni list 149/2026, all 7 articles and 3 annexes,6 pages.",
+    "Actual current PISRS registry PRAV 16096: valid, adoption 27 March/publication 31 March 2026, effective/application 14 June 2026–open; only originalversion 516987091, no listed amender.",
+    "Authentic Slovenian EU 2001/113 and 2024/1438 targetdefinitions: old 160/230 ggranatna jabolka versus new 230/290 gakažujeva jabolka."
+  ],
+  "sources": [
+    {
+      "url": "https://pisrs.si/api/uradni-list/objava/u20260149.pdf",
+      "locator": "Article 2/4 bind Annex 1; Annex 1 points 1–2 use granatna jabolka 230/290 g; Article 5 earlier-stock protection; Article 7 force 14 June 2026."
+    },
+    {
+      "url": "https://pisrs.si/api/rezultat/zbirka/id/PRAV16096",
+      "locator": "Actual current registry and single originalversion read 27 October 2026."
+    },
+    {
+      "url": "https://publications.europa.eu/resource/cellar/263d0199-1968-11ef-a251-01aa75ed71a1.0022.03/DOC_1",
+      "locator": "Authentic Slovenian 2024/1438 AnnexII replaces firsttwo jamdefinitions;230/290 gakažujeva jabolka."
+    },
+    {
+      "url": "https://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0020.01/DOC_1",
+      "locator": "Authentic old Slovenian 2001/113 AnnexI:160/230 ggranatna jabolka."
+    }
+  ],
+  "adverse": "National Article 1 refers to conformity with the amended directive, but Article 2/4 expressly bind the national Annex 1 definitions; consistent interpretation remains possible. The changed fruit identity is distinct from unchanged national translation wording. Botanical proof that granatno jabolko means pomegranate was read separately by parent from official phytosanitary guidance; verify does not claim that independent read. Do not publish the additional krhlike/rakitovec wording question without botanical evidence. No actual product, harm or enforcement outcome. Earlier lawfully marketed/labelled stock is protected.",
+  "recognitionSearch": {
+    "queries": [
+      "džem granatna jabolka akažujeva",
+      "Pravilnik granatna jabolka 2026 napaka",
+      "2024/1438 granatna",
+      "Slovenia jam pomegranate 2026",
+      "džem granatna napaka",
+      "2026-01-0809 jabolka",
+      "džem akažujeva Slovenija",
+      "marmelad granatna jabolka predpis"
+    ],
+    "result": "Bounded searches returned current/old laws, EU texts and unrelated fruit material; no precise published recognition of the national retained fruit identity after the 2024 replacement was located. This does not establish first discovery."
+  }
+}

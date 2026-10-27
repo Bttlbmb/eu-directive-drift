@@ -1,0 +1,109 @@
+{
+  "id": "se-private-environment-unfinished-notice",
+  "country": "Sweden",
+  "countryCode": "SE",
+  "title": "Swedish private-body law does not spell out completion notices",
+  "topic": "Access to environmental information",
+  "baseAct": "Directive 90/313/EEC",
+  "amendingAct": "Directive 2003/4/EC",
+  "celex": "32003L0004",
+  "updateType": "Recast",
+  "recordKind": "lead",
+  "catalogueStatus": "review",
+  "researchRound": "systematic25",
+  "stage": "research",
+  "statusKind": "differs",
+  "statusLabel": "Private-body notice requirement; legal equivalence under review",
+  "evidenceDate": "2026-10-26",
+  "evidenceLabel": "Current national statute and procedural alternatives read",
+  "deadline": "2005-02-14",
+  "deadlineLabel": "Original recast transposition deadline; no fresh corrigendum deadline",
+  "summary": "The special law permits covered private bodies to refuse unfinished material, but does not expressly require the preparer’s name and estimated completion time.",
+  "euChange": "A refusal for material in preparation must identify its preparer and estimate completion.",
+  "nationalGap": "Sections 6(3) and 8 of Act 2005:181 allow an unfinished-material refusal and require reasons and appeal information. Sections 4–5 address vague requests and information not held. None expressly supplies both completion-notice particulars for an unfinished-material refusal.",
+  "nationalLaw": "Act (2005:181) on environmental information held by certain private bodies, amended through 2009:508",
+  "provisions": "EU Articles 2(2)(b), 4(1) final subparagraph and 10; national Act 2005:181 §§1, 4–6, 8–9; Administrative Procedure Act 2017:900 §§1, 6; appeals Act 1986:1142 §§1–5.",
+  "consequence": "A narrowly defined statutory-notice question remains for private bodies within §1. No actual refusal lacking the information, delay or denied access has been established.",
+  "resolution": "The current official text retains the relevant wording. Bounded later-law searches located no replacement requirement. The appeals statute regulates appeal procedure rather than the missing notice contents.",
+  "caveat": "This comparison concerns only private bodies covered by §1, excluding bodies already governed by the Public Access to Information and Secrecy Act. The government considered public authorities’ service duty sufficient when the completion date is known and considered the private-body legislation compliant. General administrative principles, sector-specific duties, EU-consistent interpretation or enforceable EU rights may supply an equivalent obligation. Reasons and judicial appeal remain available. The original Swedish and English EU texts already contained the duty: the Finnish corrigendum is a research trigger, not a Swedish legal change or new deadline.",
+  "comparison": {
+    "beforeLabel": "Current special statute",
+    "before": "Unfinished-material refusal: reasons and appeal information expressly required.",
+    "afterLabel": "EU recast requirement",
+    "after": "Also identify the preparing body and estimated completion time.",
+    "note": "The unresolved issue is equivalent notice coverage for the special private-body category, not a blanket Swedish public-authority failure."
+  },
+  "review": "Independent qualified adverse review passed: a second agent read the entire current special statute and current Administrative Procedure Act §§1–12. The original official EU PDF, private-body appeals Act §§1–5 and government explanation were also actually read by the first reviewer; parent independently read the special statute and public-authority routes. Equivalent general principles, sector-specific obligations and EU remedies remain legal questions; no practical refusal outcome was verified.",
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Bounded official and public searches located no precise published analysis of this private-body notice gap. The 2005 government bill explicitly discusses the EU completion-time duty and relies on public-authority service duties; that contrary position is disclosed. No first-discovery claim.",
+  "noveltySearch": {
+    "date": "2026-10-26",
+    "method": "Exact Act number with unfinished-material, completion-time, preparer-name and service-duty terms; Swedish and English directive/private-body searches; current statute and later-law searches. No exact private-body mismatch analysis located. Searches do not establish exhaustive absence.",
+    "queries": [
+      "\"2005:181\" \"färdigställas\" \"beräknas\"",
+      "\"2005:181\" \"färdigställande\" \"serviceskyldighet\"",
+      "\"2005:181\" \"namnet\" \"färdigställas\"",
+      "Sweden environmental information unfinished material private bodies completion time 2003/4"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Original EU environmental-information recast",
+      "url": "https://publications.europa.eu/resource/cellar/65bee8e7-6e37-49c9-a431-67083fe22157.0004.02/DOC_1",
+      "role": "EU obligation",
+      "locator": "Official English OJ L41/29, Article 4(1) final subparagraph; Article 10, OJ L41/31. Actual original seven-page PDF read."
+    },
+    {
+      "title": "Current Swedish private-body environmental-information law",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2005181-om-miljoinformation-hos-vissa_sfs-2005-181/",
+      "role": "Current national text",
+      "locator": "Entire §§1–9 read; header amended through 2009:508; §§1, 4–6, 8–9 especially."
+    },
+    {
+      "title": "Government explanation of service duties and private-body legislation",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/proposition/arhuskonventionen_gs0365/html/",
+      "role": "Contrary government position and scope",
+      "locator": "Prop 2004/05:65 §6.3, printed pp44–46 explicitly concerns Swedish public authorities; §9.1 pp102–105 and §13.1 pp133–135 explain the separate private-body law."
+    },
+    {
+      "title": "Current general Administrative Procedure Act",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forvaltningslag-2017900_sfs-2017-900/",
+      "role": "Alternative-route check",
+      "locator": "§1 applies to administrative authorities and court administrative cases; §6 service duty. No automatic general incorporation for all special-law private bodies located."
+    },
+    {
+      "title": "Current appeals law for private public-function bodies",
+      "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-19861142-om-overklagande-av-beslut-av_sfs-1986-1142/",
+      "role": "Appeal-route adverse check",
+      "locator": "Entire §§1–5 read; amended through 2017:902. Filing, timing and forwarding rules, not substantive completion-notice particulars."
+    }
+  ],
+  "researchMetadata": {
+    "assessmentScope": "Formal-law comparison and bounded alternative-route/currentness review; no administrative-performance audit.",
+    "legalConclusion": "Inconclusive qualified formal-law lead; independent adverse review passed.",
+    "scope": "Private bodies within Act 2005:181 §1 only; no actual deficient refusal or infringement determination."
+  },
+  "timeline": [
+    {
+      "date": "2003-01-28",
+      "who": "eu",
+      "event": "Environmental-information recast adopted."
+    },
+    {
+      "date": "2005-02-14",
+      "who": "eu",
+      "event": "Original national implementation deadline."
+    },
+    {
+      "date": "2005-04-07",
+      "who": "national",
+      "event": "Special private-body environmental-information law issued."
+    },
+    {
+      "date": "2026-10-26",
+      "who": "check",
+      "event": "Current special law, alternative procedures and government explanation checked."
+    }
+  ]
+}

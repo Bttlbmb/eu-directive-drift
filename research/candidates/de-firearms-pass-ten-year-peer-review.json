@@ -1,0 +1,52 @@
+{
+  "id": "de-firearms-pass-ten-year-peer-review",
+  "snapshot": "2026-10-26",
+  "decision": "Qualified source-level PASS on statutory mismatch; parent owns publication decision",
+  "scope": "Initial document validity for an EFP containing only the specified single-shot smooth-bore long guns for hunters/sports shooters. Not weapons-possession authorisation, not an identified invalid trip or issued pass.",
+  "history": [
+    {
+      "act": "91/477",
+      "provision": "Original Article 1(4)",
+      "assessment": "Original five-year rule expressly allowed ten years for category D. This historic exception is context, not current EU permission."
+    },
+    {
+      "act": "2008/51",
+      "provision": "Article 1(1)(e), replacing the entire Article 1(4); Article 2(1)",
+      "assessment": "Personally read entire authentic replacement and deadline: maximum five years, extendable; no former ten-year category-D exception; due 28 July 2010. The official Cellar manifestation returned HTML/XML, which was read as text.",
+      "url": "https://publications.europa.eu/resource/cellar/40a2761d-f224-4c01-bd6e-f98a22675a3f.0006.02/DOC_1"
+    },
+    {
+      "act": "2017/853 and 2021/555",
+      "assessment": "Later replacement/codification retains the five-year maximum; 2017 is not the earliest origin of this missed update."
+    }
+  ],
+  "national": {
+    "url": "https://www.gesetze-im-internet.de/awaffv/__33.html",
+    "provision": "Section 33(1), whole current provision personally read",
+    "assessment": "Express initial ten-year duration in the specified cohort, followed separately by two possible five-year extensions. Merely allowing extension under EU law does not textually establish that an initial ten-year document is itself a five-year issue plus a separately assessed extension."
+  },
+  "adverse": [
+    "Current individual limitations, periodic weapons-authorisation review, withdrawal and EU-consistent interpretation remain material. A document-duration discrepancy does not establish unlawful weapons possession.",
+    "Parent independently read BVA/general five-year guidance; other current official guidance describes the ten-year exception. Mixed guidance prevents claiming universal national practice.",
+    "No individual pass, administrative decision, failed travel or actual reliance was identified."
+  ],
+  "officialPracticeCorroboration": [
+    {
+      "url": "https://service.berlin.de/dienstleistung/330331/en/",
+      "assessment": "Actual official indexed full service text, crawled two days before snapshot, describes five years and the ten-year single-loader exception. Its English translation is broader/imprecise compared with the statutory smooth-bore cohort, so the statute controls scope."
+    },
+    {
+      "url": "https://www.kreis-reutlingen.de/leistung/Europaeischen-Feuerwaffenpass-beantragen-service714",
+      "assessment": "Official district service text expressly describes ten years for hunters/sports shooters with only single-shot smooth-bore long guns; displayed source date 24 October 2025. Not evidence of an issued pass."
+    }
+  ],
+  "recognitionSearch": {
+    "result": "No precise prior published criticism of this EU-versus-German validity mismatch located in bounded searches. Statute reproductions, ordinary ten-year guidance, and unrelated cases are not exact recognition. No first-discovery claim.",
+    "queries": [
+      "\"Feuerwaffenpass\" \"zehn Jahre\" \"Richtlinie\" \"2008\"",
+      "\"Feuerwaffenpass\" \"zehn Jahre\" \"fünf\" \"unionsrecht\"",
+      "\"Europäischer Feuerwaffenpass\" \"33\" \"fehlerhaft\"",
+      "\"European firearms pass\" Germany \"ten years\" directive"
+    ]
+  }
+}

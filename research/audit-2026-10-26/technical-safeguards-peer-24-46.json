@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "scope": [
+    "scripts/validate.py",
+    "scripts/test_catalogue_safeguards.py",
+    "scripts/build_coverage.py catalogue overlay/research merge changes",
+    "docs/systematic.js catalogue correction display"
+  ],
+  "mode": "Read-only review; tests executed only in their own temporary fixtures; no shared/public edits",
+  "result": "No blocking introduced defect found in the new safeguards.",
+  "checks": [
+    {
+      "area": "Withdrawn IDs",
+      "result": "Validator rejects exact excludedIDs reintroduced into public findings. Fixture first verifies its valid baseline then asserts the specific withdrawal failure message; no unrelated-failure false pass observed."
+    },
+    {
+      "area": "Temporary fixture isolation",
+      "result": "The builder fixture replaces its fixedWORKpath with its own temp/work directory and copies only selected metadata/current decisions. Both black-box tests passed; researcher temp files do not contaminate the current fixture."
+    },
+    {
+      "area": "Catalogue overlay precedence",
+      "result": "Exclusion reasons/evidence are applied after every retained/temp/repository research merge. A stale source can still supply older research assessments, but cannot erase the dedicated catalogueReview reason or restore findingIds absent from public findings."
+    },
+    {
+      "area": "UI precedence",
+      "result": "The catalogueReview branch replaces the older conclusion at the top of the country comparison. Correction evidence is included in source lists. Older clause-level assessments remain below in details as research history/context, but do not override the visible catalogue correction."
+    },
+    {
+      "area": "Coverage mapping",
+      "result": "For every current exclusion originally present in baseline findings, expected selected-act links using the builder's CELEX/baseAct matching equal the decision's coverageActs; no missing withdrawal overlay mapping found."
+    },
+    {
+      "area": "Completion",
+      "result": "Overlay does not itself promote any cell tocomplete; status continues to rely on explicit research reviewComplete:true. Validator checks the marker and count arithmetic. The builder test's mocked complete marker tests precedence only, not a substantive legal assessment."
+    },
+    {
+      "area": "Revision consistency",
+      "result": "Checked selected-act cells linked to current revised findings. Formal-text descriptions generally remain bounded; no newly introduced material claim contradicting the revised public outcome identified."
+    }
+  ],
+  "testRun": {
+    "command": "python3 scripts/test_catalogue_safeguards.py",
+    "result": "2 tests,OK;0.130seconds; no persistent fixture"
+  },
+  "nonBlockingLegacyIssue": {
+    "scope": "18complete2024/1416countrycells",
+    "description": "Some changeInventory IDs lack a matching provisionChecks/changeAssessments/changes entry, so the UI says ‘Comparison still pending’ beneath an Assessmentcomplete badge. These same18cells already existed in the supplied baseline, which additionally had a similarIE1998/26case. This review does not establish their legal assessment is incomplete; some reviewScope text expressly assesses the correction context.",
+    "recommendation": "Future cleanup should explicitly enumerate applicable/not-applicable correction groups or distinguish an unmapped clause from an unread one. Do not attribute this to the new catalogue safeguards.",
+    "newBlockingIssue": false
+  },
+  "limits": [
+    "No claim that a boolean completion marker proves substantive legal completeness; that remains researcher certification under the existing editorial rule.",
+    "Exact-ID exclusion guards cannot detect a semantically identical issue republished under a new ID without editorial review; no such current restoration found.",
+    "No browser rendering test performed in this pass; the display precedence was verified by direct code reading and current generated data."
+  ]
+}

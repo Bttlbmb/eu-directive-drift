@@ -1,0 +1,67 @@
+{
+  "id": "pt-romanian-nurse-upgrade-recognition",
+  "reviewDate": "2026-10-26",
+  "reviewer": "agent-01-23",
+  "recommendation": "revise-open-possibly",
+  "publicWithdrawalTest": "Equivalence has not been established. The binding certificate and EPC routes are substantial counter-evidence and must lead the caveat. A narrowly scoped unresolved question survives because the new EU duty is unconditional recognition of defined upgrade evidence, while current Article 30(3) still conditions older Romanian qualifications on practice and general-system recognition may involve compensation measures. This is not a finding that an upgraded nurse has been refused or cannot qualify.",
+  "legalResult": [
+    "Directive 2024/505 Article 1(2), new 33a(2)(b)–(c), requires recognition of specified older Romanian qualifications combined with the upgrade diploma/supplement or competence-revaluation certificate, without the three-in-five practice condition applicable to 33a(2)(a). Recitals 4 and 8 say the upgrade programme was designed to fulfil the minimum training requirements; it would therefore overstate matters to assume an upgraded holder cannot obtain a conformity certificate.",
+    "Regulation 371/2025 is binding and provides an EU-national registration route through Articles 6(1)(c), 16 and Annex II(g). The broad certificate must attest the required qualification and training compliance. It may accommodate the new Romanian certificate; its text does not expressly prescribe three years of practice. But the document checklist alone does not establish a right overriding the substantive qualification law. Article 6(1)(c) refers to the Nurses Statute and Article 1(2) retains the applicable law.",
+    "Law 9/2009 Article 2-D supplies binding EPC decisions, deadlines, tacit issuance and procedural priority. It is not merely non-binding guidance. Nevertheless Article 2-D(4) refers to the Article 17 categories and (12) gives priority to procedures in paragraphs 1–3, without expressly removing substantive acquired-rights requirements. A default outcome on authority silence does not establish unconditional recognition when a decision is taken.",
+    "Law 9/2009 Articles 17 and 19(7) offer automatic recognition for listed/equivalent titles satisfying minimum training conditions. Article 20(1)(a) offers general-system recognition when the practice condition is not met; that route may involve compensation measures, unlike the specific new upgrade duty. The sources do not resolve whether the upgrade diploma or certificate must be accepted under the automatic routes irrespective of Article 30(3).",
+    "Directly applicable EPC Regulation 2015/983 Articles 4, 10, 20 and Annex II provide an operational EU procedure, including acquired-rights certificates under 33a. Its older Annex II wording also refers to minimum practice evidence, so its existence alone does not settle how the new upgrade route is processed. It materially strengthens individual protection and makes categorical missing-recognition claims inappropriate."
+  ],
+  "freshEvidence": [
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80203",
+      "pinpoint": "Authentic EU 2024/505, recitals 4, 8–9; Article 1(2), 33a(2)(a)–(c); Article 2",
+      "scope": "Fresh complete operative text read via official Spanish EU publication mirror; English EUR-Lex request hit anti-bot."
+    },
+    {
+      "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-107094734",
+      "pinpoint": "Articles 2-A, 2-D(4), (8), (11)–(12), 17, 19(7), 20(1)(a), 30(3)",
+      "scope": "Fresh official web-rendered text read. Returned version date 24 August 2026 and last amendment 24 May 2021; root separately checked the live 26 October version. No claim of my own live 26 October date selection."
+    },
+    {
+      "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/371-2025-911688722",
+      "pinpoint": "Articles 1(2), 6(1)(c), 16, 18, 20, 22; Annex II(g)",
+      "scope": "Fresh binding official regulation read, including the broad conformity-certificate route and decision/compensation provisions."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg_impl/2015/983/2020-09-01/eng",
+      "pinpoint": "Articles 4(f), 10(1), 20–21; Annex II A.1(b)–(c)",
+      "scope": "Fresh consolidated EPC regulation read; automatic/general choice, document restrictions, decision and evidence rules."
+    },
+    {
+      "url": "https://www.oamr.ro/anunt-3/",
+      "pinpoint": "Romanian competent-authority notice, 14 March 2024; certificate purpose and required documents 5–10",
+      "scope": "Fresh complete relevant notice read. The authority positively issues certificates for the new upgrade route, without listing a three-in-five practice requirement. This establishes availability of source-country evidence, not Portuguese acceptance."
+    },
+    {
+      "url": "https://www.ordemenfermeiros.pt/media/42321/10_o_rev6_mar%C3%A7o_2025_v1.pdf",
+      "pinpoint": "Official Order guide OE 10-O Rev 6, March 2025; section 6, Romania; general acquired-rights explanation",
+      "scope": "Fresh 8-page PDF read. Section 6 still describes a five-in-seven-year practice requirement, older even than current statute. Visibly stale guidance, not controlling law or proof of actual refusal. It prevents confidently assuming that the broad certificate checklist has operationally resolved the question."
+    },
+    {
+      "url": "https://www.gov.pt/guias/qualificacoes-profissionais",
+      "pinpoint": "Updated 11 May 2026, European Professional Card section",
+      "scope": "Fresh official indexed guidance confirms the EPC procedure is available in Portugal for general-care nurses."
+    }
+  ],
+  "limits": [
+    "No applicant file, reasoned refusal, domestic judgment or current Portuguese instruction expressly accepting or rejecting 33a(2)(b)–(c) evidence located.",
+    "The stale professional-order guide should not be described as a binding current five-year requirement or an amendment to Article 30.",
+    "No assertion that the domestic proposal has become law or that its wording is adequate.",
+    "Government transposition acknowledgment is corroboration of legislative work, not a substitute for the substantive equivalence analysis."
+  ],
+  "proposedFields": {
+    "title": "Romanian nursing upgrades: recognition without practice evidence remains unclear",
+    "recordKind": "lead",
+    "statusKind": "open",
+    "statusLabel": "Automatic recognition route unresolved",
+    "statusDetail": "Binding certificate and EPC procedures exist; their equivalence for the specified upgrades remains unverified",
+    "summary": "Portugal has binding conformity-certificate and European Professional Card procedures for EU nurses. Its special statutory provision for older Romanian qualifications still requires practice evidence. Whether the existing automatic procedures fully cover the EU-added upgrade certificates without that evidence remains unresolved.",
+    "consequence": "Possibly. The required result is recognition of specified Romanian upgrades without separate practice evidence. Binding certificate and EPC procedures may already provide it; their equivalence has not been established, and no actual refusal was found.",
+    "caveat": "Regulation 371/2025 Annex II(g) provides a broad conformity-certificate route, and Law 9/2009 Article 2-D gives binding EPC procedures priority, deadlines and tacit issuance. Romania issues certificates for the new upgrades. These are substantial protections. The remaining question concerns automatic acceptance of the specified upgrade evidence despite Article 30(3), not exclusion of Romanian nurses or lack of all recognition routes."
+  }
+}

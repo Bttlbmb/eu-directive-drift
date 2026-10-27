@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "problem": "18 complete cadmium cells have no explicit per-group rows for later correction inventory IDs; six also omit a separate transposition group. The renderer currently interprets absence as pending.",
+  "schema": "All affected cells use provisionChecks arrays keyed by changeId. IDs for substantive39a/39b match correctly. Inventory separately includes cadmium-transposition and two later corrections with language metadata LT/PT. No evidence of a failed object/array lookup in these cells.",
+  "affectedCells": [
+    {
+      "countryCode": "AT",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": "Both changed substantive cadmium entries and their application route checked against current operative law. Later selected-act corrections apply onlyLT/PT; no relevant later change found. NIM used only to establish communication/discovery, not substantive coverage.",
+      "nationalLaw": "EAG-VO §4(2a), current EU Annexes III/IV incorporated dynamically"
+    },
+    {
+      "countryCode": "CZ",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-transposition",
+          "language": null,
+          "delta": "Adopt/publishby31December2024;applyfrom1January2025;referenceandcommunicate."
+        },
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": "Both changed substantive cadmium entries and their application route checked against current operative law. Later selected-act corrections apply onlyLT/PT; no relevant later change found. NIM used only to establish communication/discovery, not substantive coverage.",
+      "nationalLaw": "GovernmentRegulation224/2024ArticleI(3)–(4), amending481/2012Annex2;ArticleII."
+    },
+    {
+      "countryCode": "DK",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "BEK541/17June2026 §3(2), Annex3 entries39.a/39.b"
+    },
+    {
+      "countryCode": "EE",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-transposition",
+          "language": null,
+          "delta": "Adopt/publishby31December2024;applyfrom1January2025;referenceandcommunicate."
+        },
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "MinisterialRegulation44/2016 §6(4)"
+    },
+    {
+      "countryCode": "FR",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-transposition",
+          "language": null,
+          "delta": "Adopt/publishby31December2024;applyfrom1January2025;referenceandcommunicate."
+        },
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "Order19August2024 Article1 updates Order5March2020 AnnexTable1; EnvironmentCodeR543-171-3."
+    },
+    {
+      "countryCode": "DE",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-transposition",
+          "language": null,
+          "delta": "Adopt/publishby31December2024;applyfrom1January2025;referenceandcommunicate."
+        },
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": "Both changed substantive cadmium entries and their application route checked against current operative law. Later selected-act corrections apply onlyLT/PT; no relevant later change found. NIM used only to establish communication/discovery, not substantive coverage.",
+      "nationalLaw": "ElektroStoffV§3(3)."
+    },
+    {
+      "countryCode": "HU",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "374/2012 Annex2 rows83 and86f; §3(2)"
+    },
+    {
+      "countryCode": "IE",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "SI513/2012 Regulation4(4), read with current Directive definition inserted by SI110/2026"
+    },
+    {
+      "countryCode": "LT",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "Order4-534/9October2024, points1.2.1/1.2.2; principal4-459/2008Annex1points39.1/39.2."
+    },
+    {
+      "countryCode": "LU",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": null
+    },
+    {
+      "countryCode": "MT",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "LN297/2024, regulations1(3),2 and3; principalSL427.57 ScheduleIII39a/39b."
+    },
+    {
+      "countryCode": "NL",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "Regeling gevaarlijke stoffen in elektrische en elektronische apparatuur, Article15"
+    },
+    {
+      "countryCode": "PL",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-transposition",
+          "language": null,
+          "delta": "Adopt/publishby31December2024;applyfrom1January2025;referenceandcommunicate."
+        },
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": "Both changed cadmium entries apply through express EUAnnexIII/IV incorporation in§4(2). Enacting2024reference and1January2025application, latest2026lead-only amendment and official principal/consolidation histories actually checked.",
+      "nationalLaw": "2016 national RoHS regulation §4(2), read with20December2024amendment"
+    },
+    {
+      "countryCode": "PT",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "Decree-Law69/2024, Articles2–3 and AnnexI entries39a/39b (PDFp5)."
+    },
+    {
+      "countryCode": "SK",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "Decree465/2013 §1 and Annex point84; Decree249/2024 ArticlesI–II"
+    },
+    {
+      "countryCode": "SI",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": null
+    },
+    {
+      "countryCode": "ES",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-transposition",
+          "language": null,
+          "delta": "Adopt/publishby31December2024;applyfrom1January2025;referenceandcommunicate."
+        },
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": "Both changed substantive cadmium entries and their application route checked against current operative law. Later selected-act corrections apply onlyLT/PT; no relevant later change found. NIM used only to establish communication/discovery, not substantive coverage.",
+      "nationalLaw": "OrderPJC/1503/2024 singleArticle, RD219/2013 AnnexIII39a/39b; finalprovision2."
+    },
+    {
+      "countryCode": "SE",
+      "missingExplicitRows": [
+        {
+          "id": "cadmium-lt-deadline-correction",
+          "language": "LT",
+          "delta": "CorrectLithuanianadoptiondate."
+        },
+        {
+          "id": "cadmium-pt-technical-correction",
+          "language": "PT",
+          "delta": "CorrectPortuguesetechnicaldownshiftingdescriptionwithoutchanginglimits/dates."
+        }
+      ],
+      "reviewScope": null,
+      "nationalLaw": "KIFS2024:2 amendingKIFS2017:7 Annex3entries39a/39b."
+    }
+  ],
+  "representativeEvidence": {
+    "AT": "reviewScope expressly says later corrections apply onlyLT/PT and no relevant later change found; missing both correction rows.",
+    "CZ": "Review scope covers both entries/application route; source locator cites Government224/2024ArticleII, but no separate transposition row. This supports an enactment-route assessment without proving every administrative act.",
+    "LT": "Both39a/39b evidence strings expressly say originalOrder4-534point2 applies1January2025, correct afterLTcorrigendum. It is a recorded answer under another group, not an unread deadline issue.",
+    "PT": "National sources verify current39a/39b and later amendments, but do not expressly decide the corrected Portuguese technical meaning; do not synthesize an equivalent-correction conclusion."
+  },
+  "ie1998_26": {
+    "current": "Already fixed:27 explicit group rows, including four not-applicable-language-specific-correction rows forCZ/RO/HRwording;blockers empty.",
+    "baseline": "23rows, four missing language-only groups and obsolete25group blocker.",
+    "requiredAction": "None for current Irish cell."
+  },
+  "recommendedRendererFix": {
+    "missingValue": "No separate clause assessment is recorded; see the assessment scope and sources.",
+    "explicitPending": "Continue to describe expressly pending/unread comparisons as pending.",
+    "completion": "Do not infer that a missing clause is satisfied, exempt or complete. Continue displaying the researcher’s explicit scoped cell certification; if stronger per-clause completion validation is desired, correct upstream rows rather than treating missing IDs as successful checks.",
+    "languageMetadata": "Can display that an item concerns theLT/PTlanguage version without concluding any particular national legal result. For targetLT/PTrows, an explicit substantive assessment remains necessary."
+  },
+  "upstreamFollowup": "Ask raw-bundle owner to enumerate language-correction applicability/results and separate transposition assessments. Existing evidence can support some entries, but the renderer should not invent them.",
+  "publicEdits": false
+}

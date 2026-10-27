@@ -1,0 +1,97 @@
+{
+  "id": "ee-lead-legacy-exposure-cutoff",
+  "title": "Lead-exposure exception uses a later national cut-off",
+  "country": "Estonia",
+  "countryCode": "EE",
+  "topic": "Worker health and safety",
+  "baseAct": "Directive 2004/37/EC",
+  "baseActPublished": "2004-04-30",
+  "amendingAct": "Directive (EU)2024/869",
+  "celex": "32024L0869",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "research",
+  "statusLabel": "Qualified concern · later grandfather cut-off",
+  "statusKind": "differs",
+  "statusDetail": null,
+  "evidenceDate": "2026-10-26",
+  "deadline": "2026-04-09",
+  "correctionDate": null,
+  "deadlineLabel": "Implementation deadline",
+  "summary": "The current exception uses 16 May rather than 9 April 2026. Its scope could include additional historic lead exposure; no affected worker has been identified.",
+  "euChange": "Legacy exposure must precede 9 April 2026.",
+  "nationalGap": "Regulation 49/2026 §13(5) instead refers to exposure before its own commencement, 16 May 2026. This extends the express qualifying period by 37 days.",
+  "nationalLaw": "Regulation 49 of 8 May 2026, §13(3)–(5), effective 16 May 2026.",
+  "provisions": "2024/869 Annex II(3), new 2004/37 Annex IIIa 1.1.1.",
+  "consequence": "Exposure during 9 April–15 May could qualify for continued work above the ordinary blood limit. Actual eligibility and any practical effect remain unverified.",
+  "resolution": "The official current-version API still returns the original operative version, without an end date. No later correction was located.",
+  "caveat": "The national rule retains initial work suspension, regular medical surveillance, the upper 70µg/100 ml threshold and a declining blood-lead trend. General prevention duties and directive-consistent interpretation remain relevant. This is a conditional scope comparison, not evidence of an unsafe workplace.",
+  "review": "Two agents independently read the authentic EU exception and current national §13. Qualified concern; no worker-level outcome assessed.",
+  "comparison": {
+    "before": "Exposure before national commencement:16 May 2026.",
+    "after": "Exposure before 9 April 2026.",
+    "note": "Only the cut-off differs in this comparison; other safeguards remain.",
+    "beforeLabel": "Current national exception",
+    "afterLabel": "EU qualifying cut-off"
+  },
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Bounded Estonian and English searches on 26 October 2026 combined lead, both dates, the national provision and incompatibility terms. Public consultation material described the new regime; no precise published comparison of these cut-offs was located. This does not establish first discovery.",
+  "catalogueStatus": "review",
+  "evidenceLabel": "Current official body and metadata checked",
+  "sources": [
+    {
+      "title": "EU lead-exposure revision",
+      "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX%3A32024L0869",
+      "role": "EU amendment",
+      "locator": "Annex II(3), newAnnex IIIa 1.1.1; Article 3."
+    },
+    {
+      "title": "Current official chemical-agent regulation",
+      "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/113052026003/blob-html",
+      "role": "Current national text",
+      "locator": "Header: current from 16 May 2026;§13(3)–(5)."
+    },
+    {
+      "title": "Official current-version metadata",
+      "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/113052026003?leiaKehtiv=true",
+      "role": "Currentness check",
+      "locator": "CurrentID 113052026003; no end date; checked 26 October 2026."
+    },
+    {
+      "title": "Current general occupational-health statute",
+      "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/116102026003/blob-html",
+      "role": "Scope qualification",
+      "locator": "Current 26 October 2026;§§12–13 and 13¹ prevention and occupational-health duties."
+    }
+  ],
+  "researchMetadata": {
+    "systematicAct": "2024/869",
+    "countryAssessmentComplete": false,
+    "peerReview": "Reference independently confirmed both qualifying dates and continuing conditional effect; no blocking alternative cure located.",
+    "recognitionSearchScope": "Estonian and English exact dates/provision; current national register checked. Public March draft used 9 April, final enacted text changed to own commencement; draft is contextual, not legal proof.",
+    "sourcePolicy": "Only compact analysis retained; source bodies transient."
+  },
+  "timeline": [
+    {
+      "date": "2026-04-09",
+      "event": "EU implementation deadline.",
+      "who": "eu"
+    },
+    {
+      "date": "2026-05-13",
+      "event": "National regulation published.",
+      "who": "national"
+    },
+    {
+      "date": "2026-05-16",
+      "event": "National commencement and express legacy-exposure cut-off.",
+      "who": "national"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Current operative body and metadata checked.",
+      "who": "check"
+    }
+  ]
+}

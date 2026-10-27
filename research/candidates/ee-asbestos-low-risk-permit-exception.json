@@ -1,0 +1,110 @@
+{
+  "id": "ee-asbestos-low-risk-permit-exception",
+  "title": "Low-risk asbestos exception still reaches the new permit clause",
+  "country": "Estonia",
+  "countryCode": "EE",
+  "topic": "Worker health and safety",
+  "baseAct": "Directive 2009/148/EC",
+  "baseActPublished": "2009-12-16",
+  "amendingAct": "Directive (EU) 2023/2668",
+  "celex": "32023L2668",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "research",
+  "statusLabel": "Qualified concern · permit scope",
+  "statusKind": "differs",
+  "statusDetail": null,
+  "evidenceDate": "2026-10-26",
+  "deadline": "2025-12-21",
+  "correctionDate": null,
+  "deadlineLabel": "General implementation deadline",
+  "summary": "The unchanged low-risk exception reaches the whole section containing the newly introduced permit.",
+  "euChange": "Demolition/removal permits; low-risk derogation concerns notification only.",
+  "nationalGap": "Section 5(3) permits omission of the whole of Section 6 for qualifying low-risk work. New Section 6(4)–(6) contains the permit and public-list provisions, potentially excluding qualifying low-risk asbestos removal.",
+  "nationalLaw": "Regulation 224/2007, current from 25 January 2026, Sections 5–6; amended by Regulation 6/2026.",
+  "provisions": "2023/2668 Article 1(3)(b) and (13); revised 2009/148 Articles 3(3) and 15.",
+  "consequence": "Possibly. The express exception could bypass permit scrutiny for otherwise covered low-risk removal. No company, operation or harm has been established.",
+  "resolution": "Current official metadata retains this version. No later narrowing of Section 5(3) was located.",
+  "caveat": "This concerns removal/demolition within EU scope, not every low-risk activity. General prevention, exposure limits, training and health surveillance remain. Section 6(4) and consistent interpretation may constrain the exception; actual administrative practice requires legal assessment.",
+  "review": "Two agents and the lead independently checked the clauses, EU derogation and current parent statute. Qualified concern.",
+  "comparison": {
+    "before": "Low-risk exception reaches the whole permit section.",
+    "after": "Low-risk derogation limited to notification.",
+    "note": "Only the newly introduced permit coverage is compared.",
+    "beforeLabel": "Current national scope",
+    "afterLabel": "EU exception scope"
+  },
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Bounded Estonian and English searches on 26 October 2026 used the EU amendment, permit, low-risk exception and national sections. Official guidance describes the notification exception; government transposition material treats it as compliant. No precise published analysis of its interaction with the new permit was located. This does not establish first discovery.",
+  "catalogueStatus": "review",
+  "evidenceLabel": "Current official body, annex and metadata checked",
+  "sources": [
+    {
+      "title": "EU asbestos worker-protection revision",
+      "url": "https://eur-lex.europa.eu/eli/dir/2023/2668/oj/eng",
+      "role": "EU amendment",
+      "locator": "Article 1(3)(b) limits the low-risk derogation to notification under Article 4; Article 1(13) replaces Article 15 with prior permits and a public list. Authentic English and Estonian publications read."
+    },
+    {
+      "title": "Current official asbestos regulation",
+      "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004/blob-html",
+      "role": "Current national text",
+      "locator": "Version 25 January 2026–20 December 2029; whole body, especially Sections 5(2)–(3),6(1)/(4)–(6),8/12/13."
+    },
+    {
+      "title": "Official current-version metadata",
+      "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004?leiaKehtiv=true",
+      "role": "Currentness check",
+      "locator": "Current ID 122012026004; checked 26 October 2026; future 2029 microscopy version distinguished."
+    },
+    {
+      "title": "Current parent occupational-health statute",
+      "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/116102026003/blob-html",
+      "role": "Alternative-safeguard check",
+      "locator": "Current 26 October 2026; Sections 4(5)/(7),12–13¹; no independent universal company-permit route located."
+    },
+    {
+      "title": "Government transposition explanation and comparison table",
+      "url": "https://adr.rik.ee/mkm/dokument/18283351",
+      "role": "Contrary interpretation and recognition check",
+      "locator": "Original public 31 December 2025 signed bundle actually read; explanatory pp 9–10; comparison table Article 3(3) and new 15. It treats the low-risk notification exception as compliant, without addressing its reach into the new permit subsections."
+    },
+    {
+      "title": "Current Labour Inspectorate asbestos guidance",
+      "url": "https://www.tooelu.ee/et/129/asbest",
+      "role": "Administrative-context check",
+      "locator": "Updated 20 February 2026; low-risk-work section describes notification/work-plan exemption, without an express separate low-risk permit procedure."
+    }
+  ],
+  "researchMetadata": {
+    "systematicAct": "2009/148",
+    "countryAssessmentComplete": false,
+    "peerReview": "Reference independently read current Sections 5–7, authentic EU Articles 3(3) and 15, and the latest parent TTOS Section 4. Root independently read the current national Sections 5–12 and authentic English EU Articles 3(3) and 15. Verify challenged alternative routes and interpretation. Qualified PASS.",
+    "sourcePolicy": "Original government bundle read transiently; only compact analysis retained.",
+    "laterLawSearch": "Current officialAPIand parent statute 26 October 2026; bounded later national rule searches.",
+    "scopeControl": "No separate claim about old national work-plan exemption; that is not a newly introduced 2023 duty."
+  },
+  "timeline": [
+    {
+      "date": "2025-12-21",
+      "event": "General EU implementation deadline.",
+      "who": "eu"
+    },
+    {
+      "date": "2026-01-22",
+      "event": "National asbestos amendment published.",
+      "who": "national"
+    },
+    {
+      "date": "2026-01-25",
+      "event": "New permit subsections commence; old low-risk cross-reference remains.",
+      "who": "national"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Current clauses, parent statute and alternatives checked.",
+      "who": "check"
+    }
+  ]
+}

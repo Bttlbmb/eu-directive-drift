@@ -1,0 +1,196 @@
+{
+  "findings": [
+    {
+      "topic": "Food composition and labelling",
+      "baseAct": "Directive 2001/113/EC",
+      "baseActPublished": "2002-01-12",
+      "amendingAct": "Directive (EU) 2024/1438",
+      "celex": "32024L1438",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Qualified concern · current composition table",
+      "statusKind": "open",
+      "statusDetail": "The enacted quantities differ; no actual product or enforcement outcome was established.",
+      "evidenceDate": "2026-10-27",
+      "deadline": "2026-06-14",
+      "deadlineLabel": "New composition rules apply",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "catalogueStatus": "review",
+      "evidenceLabel": "Authentic EU chain and current national table independently checked",
+      "euChange": "The 2024 amendment raises jam and extra-jam fruit minima. The unchanged jelly definitions link their juice or aqueous-extract quantities to jam and extra jam respectively, after deducting water used to prepare extracts. General minima therefore become 450 g and 500 g per kilogram from 14 June 2026.",
+      "provisions": "2024/1438 Article 3(4), Annex II(1)(a), Articles 5–6; 2001/113 Annex I Part I, third and fourth indents.",
+      "caveat": "This is a comparison of binding texts, not a court finding. EU-consistent interpretation may narrow the effect. Goods lawfully placed on the market or labelled before 14 June 2026 may continue until stocks are exhausted; the concern is newly made and newly labelled goods outside that protection. No actual recipe, product, inspection or consumer harm was established.",
+      "resolution": "The official current version retains the discrepant quantities. No later binding correction or authoritative interpretation resolving them was located in this bounded review.",
+      "timeline": [
+        {
+          "date": "2024-05-24",
+          "event": "EU amendment published, increasing jam and extra-jam minima.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "New EU composition requirements apply, with protection for earlier marketed or labelled stock.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-10-27",
+          "event": "Current national table and authentic EU chain independently checked.",
+          "who": "check"
+        }
+      ],
+      "id": "cz-extra-jelly-fruit-minima",
+      "country": "Czechia",
+      "countryCode": "CZ",
+      "title": "Extra-jelly table uses ordinary-jam quantities after the EU increase",
+      "summary": "Czechia raised extra-jam fruit minima to 500 g per kilogram generally, but its new extra-jelly row uses the lower ordinary-jam quantities: 450 g generally. The EU still links extra jelly to extra jam.",
+      "nationalGap": "Current Decree 397/2021 Section 5(6) points directly to Annex 1. Its extra-jelly row specifies 450/350/180/230/80 g for general fruit, the specified fruit group, ginger, cashew apples and passion fruit. The EU-linked extra-jam quantities are 500/450/280/290/100 g. Current official inspectorate guidance repeats the lower general and special-group figures.",
+      "nationalLaw": "Decree 397/2021, Sections 2(1)(i), 5(6) and 7(1), Annex 1; replaced by Decree 358/2025 Article I point 26, applicable from 14 June 2026.",
+      "consequence": "A newly produced extra jelly could satisfy the written Czech quantity table while falling below the EU minimum. For ordinary fruit, the difference is 50 g per kilogram; special-fruit differences vary. No such product was identified.",
+      "review": "An independent researcher personally read the authentic EU amendment, original jelly links and the enacted Czech amendment table. The parent separately read the current official consolidation, operative table hook, all relevant amendment points and full version history. Czech-language authentic EU texts were also checked.",
+      "recognitionNote": "Bounded Czech and English searches on 27 October 2026 combined the decree, extra jelly, the EU amendment and the conflicting quantities. They found laws, guidance and general reform descriptions, but no precise published criticism of this discrepancy. This does not establish first discovery.",
+      "comparison": {
+        "before": "450 g generally for extra jelly; 350 g for the specified fruit group.",
+        "after": "500 g generally for extra jelly; 450 g for the specified fruit group, through the unchanged extra-jam link.",
+        "beforeLabel": "Current Czech table",
+        "afterLabel": "EU minimum from 14 June 2026",
+        "note": "Amounts per kilogram of finished product; extract-preparation water is deducted. Special ginger, cashew and passion-fruit thresholds also differ."
+      },
+      "sources": [
+        {
+          "title": "Original EU jelly and extra-jelly definitions",
+          "url": "https://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0004.05/DOC_1",
+          "role": "Unchanged EU cross-references",
+          "locator": "Annex I Part I third and fourth indents link jelly to jam and extra jelly to extra jam; extract preparation water is deducted."
+        },
+        {
+          "title": "EU amendment raises the linked quantities",
+          "url": "https://publications.europa.eu/resource/cellar/263d0199-1968-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+          "role": "Authentic EU amendment",
+          "locator": "Article 3(4), Annex II(1)(a): replaces first two indents, retaining jelly links. Articles 5–6: application and stock protection."
+        },
+        {
+          "title": "Current Czech composition rules and version history",
+          "url": "https://e-sbirka.gov.cz/sb/2021/397",
+          "role": "Current official national text",
+          "locator": "Current from 14 June 2026. Sections 2(1)(i), 5(6), 7(1), Annex 1 extra-jelly row; full history lists 358/2025 as the latest amendment."
+        },
+        {
+          "title": "Enacted Czech amendment",
+          "url": "https://e-sbirka.gov.cz/sb/2025/358",
+          "role": "Binding amendment",
+          "locator": "Article I point 26 replaces Annex 1; Article II(3) protects earlier marketed or labelled stock; Article IV applies the relevant changes from 14 June 2026."
+        },
+        {
+          "title": "Official food inspectorate guidance repeats the quantities",
+          "url": "https://www.szpi.gov.cz/clanek/zmena-pozadavku-na-dzemy.aspx",
+          "role": "Administrative corroboration",
+          "locator": "12 June 2026 table: extra jelly 450 g generally and 350 g for the specified fruit group. This describes the national rule; it does not recognize an EU-law discrepancy."
+        }
+      ],
+      "researchMetadata": {
+        "systematicAct": "2001/113",
+        "countryAssessmentComplete": true,
+        "peerReview": "reference actual-source challenge; parent current consolidation and Czech authentic EU reread.",
+        "sourcePolicy": "Compact notes and links retained; source bodies temporary."
+      }
+    },
+    {
+      "topic": "Food composition and labelling",
+      "baseAct": "Directive 2001/113/EC",
+      "baseActPublished": "2002-01-12",
+      "amendingAct": "Directive (EU) 2024/1438",
+      "celex": "32024L1438",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Qualified concern · current composition table",
+      "statusKind": "open",
+      "statusDetail": "The enacted quantities differ; no actual product or enforcement outcome was established.",
+      "evidenceDate": "2026-10-27",
+      "deadline": "2026-06-14",
+      "deadlineLabel": "New composition rules apply",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "catalogueStatus": "review",
+      "evidenceLabel": "Authentic EU chain and current national table independently checked",
+      "euChange": "The 2024 amendment raises jam and extra-jam fruit minima. The unchanged jelly definitions link their juice or aqueous-extract quantities to jam and extra jam respectively, after deducting water used to prepare extracts. General minima therefore become 450 g and 500 g per kilogram from 14 June 2026.",
+      "provisions": "2024/1438 Article 3(4), Annex II(1)(a), Articles 5–6; 2001/113 Annex I Part I, third and fourth indents.",
+      "caveat": "This is a comparison of binding texts, not a court finding. EU-consistent interpretation may narrow the effect. Goods lawfully placed on the market or labelled before 14 June 2026 may continue until stocks are exhausted; the concern is newly made and newly labelled goods outside that protection. No actual recipe, product, inspection or consumer harm was established.",
+      "resolution": "The official current version retains the discrepant quantities. No later binding correction or authoritative interpretation resolving them was located in this bounded review.",
+      "timeline": [
+        {
+          "date": "2024-05-24",
+          "event": "EU amendment published, increasing jam and extra-jam minima.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-06-14",
+          "event": "New EU composition requirements apply, with protection for earlier marketed or labelled stock.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-10-27",
+          "event": "Current national table and authentic EU chain independently checked.",
+          "who": "check"
+        }
+      ],
+      "id": "sk-jelly-fruit-minima",
+      "country": "Slovakia",
+      "countryCode": "SK",
+      "title": "Jam quantities increased, but both jelly rows retain the old minima",
+      "summary": "Slovakia updated the jam and extra-jam rows but left its jelly and extra-jelly fruit quantities unchanged. Its current binding table still gives general minima of 350 g and 450 g per kilogram, against EU-linked minima of 450 g and 500 g.",
+      "nationalGap": "Decree 44/2012 Section 3(1) directs manufacturers to Annex 1. Rows 1–2 now use the increased jam quantities; rows 3–4 retain all five previous jelly quantities. The 399/2025 amendment changes weights only in rows 1–2, although it edits some names in all four rows.",
+      "nationalLaw": "Decree 44/2012, Sections 2(j), 3(1) and Annex 1 rows 1–4; Decree 399/2025 Article I points 26–27 and Article II.",
+      "consequence": "A new jelly made to the written Slovak minimum could contain 100 g less fruit juice or extract per kilogram than the EU-linked general minimum; for extra jelly the general difference is 50 g. No actual product or inspection outcome was established.",
+      "review": "The parent and an independent verification researcher each read the current binding table and the entire 399/2025 amendment. The parent also visually checked both table pages. A second researcher independently read the authentic EU amendment and original jelly cross-references; Slovak-language authentic EU texts were checked.",
+      "recognitionNote": "Two bounded Slovak and English search sets on 27 October 2026 combined jelly, the 2025 decree, the 2012 principal act and the EU amendment. They found statutes and general reform material but no precise published recognition of this residual jelly-table mismatch. This does not establish first discovery.",
+      "comparison": {
+        "before": "Jelly 350 g and extra jelly 450 g generally per kilogram; special-fruit rows also retain old values.",
+        "after": "Jelly 450 g and extra jelly 500 g generally per kilogram, through their jam and extra-jam links.",
+        "beforeLabel": "Current Slovak table",
+        "afterLabel": "EU minimum from 14 June 2026",
+        "note": "The binding current PDF confirms the unchanged jelly rows. Extract-preparation water is deducted. The concern excludes protected earlier stock."
+      },
+      "sources": [
+        {
+          "title": "Original EU jelly and extra-jelly definitions",
+          "url": "https://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0004.05/DOC_1",
+          "role": "Unchanged EU cross-references",
+          "locator": "Annex I Part I third and fourth indents link jelly to jam and extra jelly to extra jam; extract preparation water is deducted."
+        },
+        {
+          "title": "EU amendment raises the linked quantities",
+          "url": "https://publications.europa.eu/resource/cellar/263d0199-1968-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+          "role": "Authentic EU amendment",
+          "locator": "Article 3(4), Annex II(1)(a): replaces first two indents, retaining jelly links. Articles 5–6: application and stock protection."
+        },
+        {
+          "title": "Current binding Slovak decree and jelly table",
+          "url": "https://static.slov-lex.sk/pdf/SK/ZZ/2012/44/ZZ_2012_44_20260614.pdf",
+          "role": "Current binding national text",
+          "locator": "Sections 2(j), 3(1); Annex 1 rows 1–4, pages 5–6, current from 14 June 2026. Table personally and visually checked."
+        },
+        {
+          "title": "Authentic Slovak amendment",
+          "url": "https://static.slov-lex.sk/pdf/SK/ZZ/2025/399/ZZ_2025_399_20260614.pdf",
+          "role": "Binding amendment",
+          "locator": "Entire amender read. Article I points 26–27 raise weights only in first and second rows; point 22 inserts stock transition; Article II applies from 14 June 2026."
+        },
+        {
+          "title": "Official current-version and amendment history",
+          "url": "https://static.slov-lex.sk/static/SK/ZZ/2012/44/20260614.html",
+          "role": "Currentness check",
+          "locator": "History identifies 399/2025 as the latest amendment and the 14 June 2026 version as open-ended."
+        }
+      ],
+      "researchMetadata": {
+        "systematicAct": "2001/113",
+        "countryAssessmentComplete": true,
+        "peerReview": "research/pass-2026-10-27/sk-jelly-peer.json; verifier independent national source review and reference independent EU review.",
+        "sourcePolicy": "Compact notes and links retained; full source bodies temporary."
+      }
+    }
+  ]
+}

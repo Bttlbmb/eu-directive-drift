@@ -1,0 +1,115 @@
+{
+  "id": "fr-partner-gamete-first-blood-sampling",
+  "title": "Partner fertility-treatment screening uses a six-month first-sample window",
+  "country": "France",
+  "countryCode": "FR",
+  "topic": "Health and donor safety",
+  "baseAct": "Directive 2006/17/EC",
+  "baseActPublished": "2006-02-09",
+  "amendingAct": "Directive 2012/39/EU",
+  "celex": "32012L0039",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "research",
+  "statusLabel": "Qualified concern · first-sample timing",
+  "statusKind": "differs",
+  "statusDetail": null,
+  "evidenceDate": "2026-10-26",
+  "deadline": "2014-06-17",
+  "correctionDate": null,
+  "deadlineLabel": "Implementation deadline",
+  "summary": "Current assisted-reproduction rules allow a six-month first-sample window, reversing an earlier three-month transposition. The comparison concerns partner gametes outside direct use.",
+  "euChange": "First partner sample: within three months before donation.",
+  "nationalGap": "Annex II-5.1 allows HIV, hepatitis B and hepatitis C screening within six months before the first gamete collection. A 2014 order had expressly changed six months to three.",
+  "nationalLaw": "Order of 11 April 2008, annex II-5.1 as replaced by the Order of 5 October 2023.",
+  "provisions": "2012/39 Annex (2)(c), replacing 2006/17 Annex III 4.2.",
+  "consequence": "The first-sample window is wider for relevant partner treatment. No actual outdated test, infection or patient harm has been established.",
+  "resolution": "The current official consolidation was checked on 26 October 2026. No later correction or exact published discrepancy analysis was located in bounded searches.",
+  "caveat": "Direct-use partner donations are outside this EU timing requirement. Third-party donation has separate rules. Current Code Articles R1211-25 and R1211-26, clinical risk assessment and additional testing remain relevant; no equivalent binding three-month partner rule was identified. This does not assess individual treatment safety.",
+  "review": "Independent adverse review passed: current Code donor rules do not establish a three-month partner-treatment cure; root independently read the current binding annex.",
+  "comparison": {
+    "before": "First partner sample: three months before donation.",
+    "after": "Current national first-sample window: six months.",
+    "note": "The 2014 transposition expressly shortened the window; the current replacement annex widens it again.",
+    "beforeLabel": "Revised EU requirement",
+    "afterLabel": "Current national rule"
+  },
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Bounded French and English searches on 26 October 2026 combined the directive, 2014 and 2023 orders, partner screening and three-/six-month terms. The earlier transposition and current rule are public; no analysis identifying this exact current mismatch was located. This does not establish first discovery.",
+  "catalogueStatus": "review",
+  "evidenceLabel": "Current official consolidation checked",
+  "sources": [
+    {
+      "title": "EU donor-testing amendment",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32012L0039",
+      "role": "EU requirement",
+      "locator": "Annex (2)(c); Article 2."
+    },
+    {
+      "title": "Current binding assisted-reproduction rules",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+      "role": "Current national rule",
+      "locator": "Annex II-5.1 and footnote 93; current header 26 October 2026, latest change 11 October 2023."
+    },
+    {
+      "title": "Earlier express transposition of the EU timing change",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029069103",
+      "role": "National legislative chain",
+      "locator": "Order of 2 June 2014, Article 1(1); published 12 June 2014."
+    },
+    {
+      "title": "Replacement of the entire assisted-reproduction annex",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048178648",
+      "role": "National legislative chain",
+      "locator": "Order of 5 October 2023, Article 1; annex II-5.1 and preamble; published 10 October 2023."
+    },
+    {
+      "title": "Third-party definition of gamete donation",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006686232",
+      "role": "Alternative-route scope check",
+      "locator": "Code de la santé publique, L1244-1; current definition since 7 August 2004."
+    },
+    {
+      "title": "Current donor testing rules",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006160951",
+      "role": "Alternative-route check",
+      "locator": "Subsection 2, R1211-25 and R1211-26, current since 1 January 2022."
+    }
+  ],
+  "researchMetadata": {
+    "systematicAct": "2012/39",
+    "countryAssessmentComplete": false,
+    "sourcePolicy": "No full source files retained. Authentic EU text and published Gazette PDF read in memory; root independently read current official consolidation live.",
+    "independentCurrentness": "Root live 26 October 2026: current header, latest change 11 October 2023; full II-5.1 actually read.",
+    "peerReview": "Research agent read current R1211-25/26, L1244-1 and R2141-23. L1244-1 defines donation as a third-party contribution; donor rules therefore do not plainly override partner ART. No general binding three-month partner rule located in bounded searches. The current order was independently read by root and reference, not directly accessible to research.",
+    "scope": "Only current first-sample partner timing. Nonpartner each-donation wording predates 2012 and is excluded from this finding. HTLV criteria are not included in this record."
+  },
+  "timeline": [
+    {
+      "date": "2012-11-27",
+      "event": "EU timing revision published.",
+      "who": "eu"
+    },
+    {
+      "date": "2014-06-12",
+      "event": "French transposition expressly shortens six months to three.",
+      "who": "national"
+    },
+    {
+      "date": "2014-06-17",
+      "event": "EU implementation deadline.",
+      "who": "eu"
+    },
+    {
+      "date": "2023-10-10",
+      "event": "Replacement annex published.",
+      "who": "national"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Current national rule and alternative Code routes checked.",
+      "who": "check"
+    }
+  ]
+}

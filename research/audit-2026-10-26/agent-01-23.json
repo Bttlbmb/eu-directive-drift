@@ -1,0 +1,998 @@
+{
+  "reviewDate": "2026-10-26",
+  "scope": "Original records 1–23; conservative adverse review; fresh primary-source browsing. Access failures are recorded, not treated as proof.",
+  "records": [
+    {
+      "id": "sk-traineeship-guidelines",
+      "recommendation": "retain",
+      "reason": "The dated Court finding and current Commission allegation are separately supported; the existing text keeps the distinction and does not assert financial sanctions.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/C/2024/5769/oj/eng/pdf",
+          "locator": "Operative part (1), final dash; (2)",
+          "finding": "Court upheld the traineeship-guidelines complaint and dismissed the remainder."
+        },
+        {
+          "url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+          "locator": "Section 11, INFR(2018)2304",
+          "finding": "October 2026 Commission notice reports residual procedures/guidelines gaps for some professions."
+        }
+      ],
+      "limitations": [
+        "Full French judgment was anti-bot blocked in this pass; assessment date and national-law history were not freshly re-established."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "si-posted-worker-expenses",
+      "recommendation": "revise",
+      "reason": "Retain the scoped Commission-recognised coverage lead, but downgrade the consequence/status because whole-law equivalence remains unresolved. Fresh alternative-route checks do not establish a universal cure: ZDR-1 3(3) limits inbound foreign-law postings to the posted-worker provisions, 139 depends on an agreed accommodation-as-pay term, and 210(6) starts broader protection after 12/18 months. Separate housing standards exist and must be foregrounded.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A52024SC0320",
+          "locator": "Section 3.1.1.4.4",
+          "finding": "Commission identifies Slovenia accommodation and expenses coverage concerns."
+        },
+        {
+          "url": "https://pisrs.si/api/datoteke/integracije/358535676",
+          "locator": "Articles 3(3), 130(1), 139, 210(2), (6)–(7)",
+          "finding": "Fresh full official-hosted consolidation: foreign-law inbound workers receive this Act through the posted-worker provisions; the initial 210(2) list omits both heads. Article 139 is conditional accommodation already agreed as pay; all rights apply only after 12/18 months. Article 130 alone is not a demonstrated general inbound cure."
+        },
+        {
+          "url": "https://pisrs.si/api/datoteke/integracije/486890556",
+          "locator": "Version from 21 March 2026; Articles 6 and 16",
+          "finding": "Current cross-border framework located; outbound/inbound distinction preserved."
+        },
+        {
+          "url": "https://pisrs.si/api/datoteke/integracije/352141583",
+          "locator": "PRAV12538, Articles 1–6; 2015 housing-standard regulation",
+          "finding": "Fresh full 3-page text provides binding living/hygiene standards where an employer/client rents owned, leased or affiliated housing to foreign workers; inspectors can enforce it. This is a material alternative protection, not evidence of no national housing rules."
+        },
+        {
+          "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1958",
+          "locator": "Authentic ZZSDT-UPB4, Articles 4(1), 4(11), 5(2)(18), 10",
+          "finding": "Enabling foreign-employment law has narrower employer definitions and excludes free-movement workers; Article 10 supplies the housing-standard power. Thus this route is not obviously universal for EU postings."
+        },
+        {
+          "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2023-01-1142",
+          "locator": "ZZSDT-D, Article 2 and complete amending text",
+          "finding": "Fresh 2023 amendment adds a further 5(2) exclusion, without altering 5(2)(18) or Article 10."
+        },
+        {
+          "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2025-01-1286",
+          "locator": "ZZSDT-E, Article 3 and complete amending text",
+          "finding": "Fresh 2025 amendment changes 5(2)(9) and paragraph 3, without altering 5(2)(18) or Article 10."
+        }
+      ],
+      "limitations": [
+        "No full census of collective agreements, housing law, overriding mandatory rules or domestic case law; no worker denial established.",
+        "ZZSDT later-amendment chain checked through 2025; current PISRS main-law page remains a JavaScript shell, so no claim of a freshly read complete current consolidation.",
+        "Accommodation conditions and reimbursement are separate legal heads; neither implies a universal duty to provide accommodation or pay the initial journey into Slovenia."
+      ],
+      "replacement": {
+        "id": "si-posted-worker-expenses",
+        "country": "Slovenia",
+        "title": "Posted workers: accommodation and travel-expense coverage needs checking",
+        "topic": "Employment",
+        "baseAct": "Directive 96/71/EC",
+        "baseActPublished": "1997-01-21",
+        "amendingAct": "Directive (EU) 2018/957",
+        "celex": "32018L0957",
+        "deadline": "2020-07-30",
+        "stage": "commission",
+        "evidenceDate": "2026-10-26",
+        "euChange": "The amendment added host-state accommodation conditions and reimbursement for professional journeys within the posting assignment to Article 3(1). It requires equal treatment where host-state entitlements exist, not universal employer-provided accommodation.",
+        "consequence": "Possibly. The initial statutory list for workers posted into Slovenia omits accommodation conditions and professional travel expenses. Other binding rules provide some protection, and wider national coverage has not been fully established. No denial of an individual worker’s rights is shown.",
+        "nationalGap": "The Commission identified inbound coverage concerns in 2024. Current ZDR-1 Article 210(2) still omits the two heads; Article 3(3) applies ZDR-1 to inbound foreign-law contracts through its posting provisions. Article 130 supplies ordinary employee expense rights and Article 139 preserves accommodation already agreed as remuneration, but neither has been established as a universal initial inbound route. Separate foreign-worker housing standards also exist.",
+        "caveat": "This is a coverage lead, not an established denial of rights. The 2015 foreign-worker housing regulation provides living and hygiene standards in covered employer-provided accommodation. Longer postings receive broader rights after 12 months, or 18 after a motivated extension, under Article 210(6)–(7). Collective agreements, overriding mandatory rules and the complete housing framework were not exhaustively audited.",
+        "nationalLaw": "ZDR-1 Articles 3(3), 130(1), 139, 210(2), (6)–(7); ZČmIS-1 Articles 6(3), 16(12); ZZSDT Articles 5(2)(18), 10; PRAV12538 Articles 1–6.",
+        "provisions": "EU 2018/957 Article 1(2)(a), adding Directive 96/71 Article 3(1)(h), (i); SWD(2024)320 section 3.1.1.4.4; national ZDR-1 Article 210(2).",
+        "resolution": "The current initial inbound list still leaves out the two express heads. Fresh checks of the general expense provision, contractual accommodation right, long-posting rule and foreign-worker housing standards do not settle whether Slovenian law as a whole supplies equivalent coverage.",
+        "timeline": [
+          {
+            "date": "2018-06-28",
+            "event": "Amending directive adopted, adding the two core heads.",
+            "who": "eu"
+          },
+          {
+            "date": "2020-07-30",
+            "event": "General transposition/application deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2023-04-03",
+            "event": "ZČmIS-1 published with outbound rights in Article 6(3) and inbound cross-reference in Article 16(12).",
+            "who": "national"
+          },
+          {
+            "date": "2024-04-30",
+            "event": "Commission staff assessment identifies Slovenia’s inbound gaps.",
+            "who": "commission"
+          },
+          {
+            "date": "2026-01-01",
+            "event": "Effective date of the official consolidation inspected; Article 210(2) still lacks the two explicit heads.",
+            "who": "national"
+          },
+          {
+            "date": "2026-03-21",
+            "event": "Latest ZČmIS-1 consolidation applies; outbound list and inbound cross-reference remain. The March amendment concerns transport/A1 conditions.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current posting provisions checked against general expense, accommodation and longer-posting rules and the separate foreign-worker housing standards; whole-law coverage remains unresolved.",
+            "who": "national"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Directive 2018/957: Article 1(2)(a)",
+            "url": "https://eur-lex.europa.eu/eli/dir/2018/957/oj/eng",
+            "role": "EU amendment",
+            "locator": "Article 1(2)(a), revised Article 3(1)(h)–(i); Article 3(1) deadline"
+          },
+          {
+            "title": "Commission assessment SWD(2024)320, section 3.1.1.4.4",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52024SC0320",
+            "role": "Commission implementation observation",
+            "locator": "Section 3.1.1.4.4, accommodation and reimbursement; Slovenia"
+          },
+          {
+            "title": "Official-hosted ZDR-1 unofficial consolidation",
+            "url": "https://pisrs.si/api/datoteke/integracije/358535676",
+            "role": "National law",
+            "locator": "NPB14, applies 1 January 2026; PDF pp. 84–85, Article 210(2), (6)–(7); Articles 130, 139"
+          },
+          {
+            "title": "ZČmIS-1 original publication: Articles 6(3) and 16(12)",
+            "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2023-01-1126",
+            "role": "National implementation law",
+            "locator": "Articles 6(3) and 16(12); published 3 April 2023"
+          },
+          {
+            "title": "Official-hosted current ZČmIS-1 unofficial consolidation",
+            "url": "https://pisrs.si/api/datoteke/integracije/486890556",
+            "role": "Current national framework",
+            "locator": "NPB2, applies 21 March 2026; PDF p. 7 Article 6(3), p. 16 Article 16(12)"
+          },
+          {
+            "title": "Foreign-worker housing standards, official-hosted text",
+            "url": "https://pisrs.si/api/datoteke/integracije/352141583",
+            "role": "Alternative binding national protection",
+            "locator": "PRAV12538 Articles 1–6"
+          },
+          {
+            "title": "Authentic foreign-employment law consolidation",
+            "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2021-01-1958",
+            "role": "Scope of housing-standard framework",
+            "locator": "ZZSDT-UPB4 Articles 4, 5(2)(18), 10; read with 2023 and 2025 amendments"
+          },
+          {
+            "title": "Foreign-employment law 2023 amendment",
+            "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2023-01-1142",
+            "role": "National amendment-chain check",
+            "locator": "ZZSDT-D Article 2"
+          },
+          {
+            "title": "Foreign-employment law 2025 amendment",
+            "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2025-01-1286",
+            "role": "National amendment-chain check",
+            "locator": "ZZSDT-E Article 3"
+          }
+        ],
+        "review": "Two independent agents challenged the current list against Articles 3(3), 130, 139 and 210(6)–(7), and the separate 2015 housing standards. The entry remains a qualified lead because complete cross-statute and collective-agreement coverage was not established.",
+        "countryCode": "SI",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "statusLabel": "Commission concern · wider coverage unresolved",
+        "statusKind": "open",
+        "statusDetail": "The initial inbound list omits two heads; other binding protections need to be reconciled",
+        "summary": "Slovenia’s initial statutory list for workers posted into the country omits accommodation conditions and travel expenses within a posting. The Commission raised concerns in 2024. General expense rights, longer-posting protection and separate housing standards exist; whether they fully cover the required workers and situations remains unresolved.",
+        "catalogueStatus": "open",
+        "priorRecognition": "recognized",
+        "recognizedBy": [
+          "European Commission"
+        ],
+        "recognitionNote": "SWD(2024)320 expressly identifies these Slovenian implementation concerns."
+      }
+    },
+    {
+      "id": "dk-environmental-information-corrigendum",
+      "recommendation": "remove",
+      "reason": "The corrected wording is documented, but no unresolved implementation defect is established. Ministry instructions apply the EU definition despite the national wording, and the wider domestic wording does not establish reduced access. Retain as an excluded textual-variation control rather than an unresolved public issue.",
+      "evidence": [
+        {
+          "url": "https://www.ombudsmanden.dk/find-viden/myndighedsguiden/specifikke-sagsomraader/22-hvad-er-miljoeoplysninger",
+          "locator": "Section 3, correction note (guide updated 15 April 2025)",
+          "finding": "Official guide acknowledges the 2022 correction and unchanged statute, and directs interpretation in the light of the directive and Aarhus Convention."
+        },
+        {
+          "url": "https://mim.dk/media/l3zp0yz1/7-rapport_dansk-version.pdf",
+          "locator": "PDF page 13, Definitionen af miljøoplysninger",
+          "finding": "Ministry expressly directs application of the directive definition despite the wording difference."
+        }
+      ],
+      "limitations": [
+        "No actual refusal of access or narrower authoritative interpretation established. Underlying EU source was anti-bot blocked in this audit; existing recital-24 wider-access safeguard is consistent with the official interpretive evidence."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "hu-emf-corrigendum",
+      "recommendation": "remove",
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?rid=2&uri=CELEX%3A32013L0035",
+          "locator": "Recital 8; Annex II Table A3",
+          "finding": "EU minimum protection expressly allows lower national limits; authentic English table has constant 0.07 and rising 0.0028 × f."
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2016-33-20-5H",
+          "locator": "Annex 2 Table 1.3 rows 2–3; displayed version 11 August 2023",
+          "finding": "Fresh official page displays 0.07/f and 0.0028/f."
+        }
+      ],
+      "limitations": [],
+      "replacement": null
+    },
+    {
+      "id": "be-jam-fruit-content",
+      "recommendation": "retain",
+      "reason": "The officially acknowledged delay and October Commission concern hold up. Existing record already distinguishes historical legislative absence from notification allegations and protects old stock; do not strengthen present-day absence claims without current text.",
+      "evidence": [
+        {
+          "url": "https://boe.es/doue/2024/1438/L00001-00019.pdf",
+          "locator": "Annex II(1)(a); Articles 5–6",
+          "finding": "Fresh official EU-text mirror verifies general 450/500 fruit minima and stock transition."
+        },
+        {
+          "url": "https://news.economie.fgov.be/266258-un-nouvel-etiquetage-pour-un-dejeuner-plus-sain/",
+          "locator": "3 June 2026; fourth-decree and confiture sections",
+          "finding": "Fresh ministry statement confirms jam decree remained forthcoming."
+        },
+        {
+          "url": "https://www.dekamer.be/doc/CCRI/html/56/ic417x.html",
+          "locator": "8 July 2026, question34, 56017265C",
+          "finding": "Fresh official parliamentary record explains technical-notification delay."
+        },
+        {
+          "url": "https://technical-regulation-information-system.ec.europa.eu/fr/notification/27565",
+          "locator": "2025/0792/BE; disclosed-message table",
+          "finding": "Fresh TRIS record shows standstill extended to29June2026 and Belgian answer6August2026; draft remains a draft."
+        },
+        {
+          "url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+          "locator": "Section10 Agriculture, INFR(2026)0014",
+          "finding": "Fresh October notice alleges no notified Article3/AnnexII measures."
+        }
+      ],
+      "limitations": [
+        "Current Justel page returned access error and public terminal retrieval returned denial; no fresh full current consolidated national decree read. Existing original-minima evidence remains necessary.",
+        "Belgian6AugustTRIS answer link could not be retrieved; notification omission alone does not establish legislative absence."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "de-waste-prevention-definition",
+      "recommendation": "remove",
+      "reason": "Ministry confirms the planned terminology update, but neither its explanation nor the record establishes a narrower operative duty or outcome. An acknowledged editorial alignment, with possibly broader current wording, is insufficient for the conservative unresolved-implementation catalogue.",
+      "evidence": [
+        {
+          "url": "https://www.gesetze-im-internet.de/krwg/__3.html",
+          "locator": "Section 3(20)",
+          "finding": "Fresh current page retains harmful-substances wording."
+        },
+        {
+          "url": "https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Glaeserne_Gesetze/21._LP/krwg/refe_krwg_bf.pdf",
+          "locator": "Article 1(4)(c); memorandum PDF page 26",
+          "finding": "Draft explains that it follows the EU terminology change; no specific narrowed protection or inadmissible exception identified."
+        }
+      ],
+      "limitations": [
+        "Exclusion does not certify the entire waste regime compliant or say the ministry amendment is unnecessary."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "lv-emf-corrigendum",
+      "recommendation": "remove",
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?rid=2&uri=CELEX%3A32013L0035",
+          "locator": "Recital 8; Annex II Table A3",
+          "finding": "EU minimum protection expressly allows lower national limits; authentic English table has constant 0.07 and rising 0.0028 × f."
+        },
+        {
+          "url": "https://likumi.lv/ta/id/277138",
+          "locator": "Annex 1 Table 2 rows 2.2–2.3",
+          "finding": "Fresh official page displays both division formulas."
+        }
+      ],
+      "limitations": [],
+      "replacement": null
+    },
+    {
+      "id": "lt-emf-corrigendum",
+      "recommendation": "remove",
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?rid=2&uri=CELEX%3A32013L0035",
+          "locator": "Recital 8; Annex II Table A3",
+          "finding": "EU minimum protection expressly allows lower national limits; authentic English table has constant 0.07 and rising 0.0028 × f."
+        }
+      ],
+      "limitations": [
+        "E-TAR main page returned 403; print endpoint cache miss. Official indexed print confirms act identity and current status, but national table was not freshly extracted. Removal follows even if the existing table comparison is assumed correct."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "de-hazardous-waste-separation",
+      "recommendation": "retain",
+      "reason": "A concrete national economic exception persists and the ministry expressly identifies it as inadmissible under EU Article 18(3), materially stronger than mere different wording.",
+      "evidence": [
+        {
+          "url": "https://www.gesetze-im-internet.de/krwg/__9a.html",
+          "locator": "Section 9a(3), sentence 2",
+          "finding": "Fresh current page retains the economically-unreasonable alternative to separation."
+        },
+        {
+          "url": "https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Glaeserne_Gesetze/21._LP/krwg/refe_krwg_bf.pdf",
+          "locator": "Memorandum PDF page 28, Zu Nummer 9",
+          "finding": "Ministry says economic reasonableness is not an admissible separation criterion for unlawfully mixed hazardous waste."
+        }
+      ],
+      "limitations": [
+        "EU amendment direct fetch was anti-bot blocked in this pass; no individual operator conduct or harm checked."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "nl-psd2-corrigendum-optout",
+      "recommendation": "retain",
+      "reason": "The correction adds a concrete business contracting choice, and full harmonisation restricts divergent national rules. Existing lead classification and contract-effect caveats are appropriate.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02015L2366-20250117",
+          "locator": "Articles 61(1), 90, 107(1)–(3)",
+          "finding": "Fresh browser read verifies corrected opt-out covers 90 and full harmonisation exceptions do not include 61(1)."
+        },
+        {
+          "url": "https://wetten.overheid.nl/BWBR0005290/2026-10-08/#Boek7_Titeldeel7b_Afdeling4_Artikel550",
+          "locator": "Articles 7:550(1)–(2), 7:545a",
+          "finding": "Fresh browser read confirms current 8 October 2026 version lists 543, 544, 545 but not 545a; independent refund obligation survives separately."
+        }
+      ],
+      "limitations": [
+        "No actual business contract or domestic judicial interpretation assessed; no missing consumer refund alleged."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "fr-psd2-corrigendum-optout",
+      "recommendation": "retain",
+      "reason": "The correction adds a concrete business contracting choice, and full harmonisation restricts divergent national rules. Existing lead classification and contract-effect caveats are appropriate.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02015L2366-20250117",
+          "locator": "Articles 61(1), 90, 107(1)–(3)",
+          "finding": "Fresh browser read verifies corrected opt-out covers 90 and full harmonisation exceptions do not include 61(1)."
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037294418",
+          "locator": "L133-2, L133-22-1 and L133-22-2",
+          "finding": "Fresh browser read dated 26 October 2026 confirms opt-out list omits both separate payment-initiation articles."
+        }
+      ],
+      "limitations": [
+        "No actual business contract or domestic judicial interpretation assessed; no missing consumer refund alleged."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "dk-psd2-corrigendum-optout",
+      "recommendation": "retain",
+      "reason": "The correction adds a concrete business contracting choice, and full harmonisation restricts divergent national rules. Existing lead classification and contract-effect caveats are appropriate.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02015L2366-20250117",
+          "locator": "Articles 61(1), 90, 107(1)–(3)",
+          "finding": "Fresh browser read verifies corrected opt-out covers 90 and full harmonisation exceptions do not include 61(1)."
+        },
+        {
+          "url": "https://www.retsinformation.dk/eli/lta/2026/463/pdf",
+          "locator": "Sections 6(3), 105",
+          "finding": "Fresh PDF confirms list omits 105. Later 2026 amendments were not freshly reread."
+        }
+      ],
+      "limitations": [
+        "No actual business contract or domestic judicial interpretation assessed; no missing consumer refund alleged."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "lv-psd2-corrigendum-optout",
+      "recommendation": "retain",
+      "reason": "The correction adds a concrete business contracting choice, and full harmonisation restricts divergent national rules. Existing lead classification and contract-effect caveats are appropriate.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02015L2366-20250117",
+          "locator": "Articles 61(1), 90, 107(1)–(3)",
+          "finding": "Fresh browser read verifies corrected opt-out covers 90 and full harmonisation exceptions do not include 61(1)."
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=NIM%3A202607468",
+          "locator": "Article 76",
+          "finding": "Official EU-hosted indexed national document reproduces list ending in 99, omitting 99¹; full live national page timed out."
+        },
+        {
+          "url": "https://titania.saeima.lv/LIVS14/saeimalivs14.nsf/0/E1020C7F81EC4355C2258E7C003715A6/%24FILE/1388_Maksajumu_pak.docx",
+          "locator": "Final adopted law, 17 September 2026; all operative amendments and transitions",
+          "finding": "Fresh full text of bill 1388/Lp14 changes Articles 17, 45, 46¹, inserts 79¹, changes 105–106 and adds 108, with transitions; it does not change Articles 76 or 99¹."
+        },
+        {
+          "url": "https://titania.saeima.lv/LIVS14/saeimalivs14.nsf/0/6733E6C9B567569FC2258E6F00345638/%24FILE/111.9_2-101-14_26.pdf",
+          "locator": "Third-reading table, 17 pages; adopted 17 September 2026",
+          "finding": "Fresh full table independently confirms the same limited amendment scope."
+        },
+        {
+          "url": "https://likumi.lv/ta/id/371277-grozijumi-maksajumu-pakalpojumu-un-elektroniskas-naudas-likuma",
+          "locator": "Official indexed metadata and operative body; effective 15 October 2026",
+          "finding": "The recent amendment is in force. The indexed main law includes new 79¹ and 108 with the 17 September/15 October 2026 footnote, so the earlier list is not simply an index of a pre-amendment version."
+        }
+      ],
+      "limitations": [
+        "No actual business contract or domestic judicial interpretation assessed; no missing consumer refund alleged.",
+        "Live current national consolidation still times out. Fresh indexed current body and complete final September 2026 amending law checked; that recent amendment does not touch 76 or 99¹."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "si-rohs-two-wheel-scope",
+      "recommendation": "remove",
+      "reason": "Keep the literal difference internally, but remove from public unresolved implementation issues pending a demonstrated incompatibility. EU scope exclusion does not itself establish that an independent wider national hazardous-substance rule is impermissible; the possible notification/free-movement issue was not established. This is an evidence-threshold exclusion, not a finding that every wider national rule is lawful.",
+      "evidence": [
+        {
+          "url": "https://pisrs.si/api/datoteke/integracije/357980256",
+          "locator": "NPB17, Articles2(3)fifthindent,3(4)",
+          "finding": "Fresh accessible predecessor retains earlier wording and separate electricity-dependent EEE definition."
+        },
+        {
+          "url": "https://environment.ec.europa.eu/system/files/2021-01/FAQ%20key%20guidance%20document%20-%20RoHS.pdf",
+          "locator": "Q7.1–7.2,pp19–20; decision treep8",
+          "finding": "Fresh Commission guidance confirms petrol equipment can be EEE through electric ignition; it does not resolve legality of wider national rules."
+        },
+        {
+          "url": "https://ec.europa.eu/environment/pdf/waste/faq_weee.pdf",
+          "locator": "2006FAQ Q1.4,p9",
+          "finding": "Older Commission guidance discusses notification for wider national scope under former Article95(5); not proof of a current unnotified or unlawful Slovenian measure."
+        }
+      ],
+      "limitations": [
+        "CurrentNPB18 and2026amender PISRS pages yielded JavaScript shells; authentic correction and unchanged-Article2 chain remain supported by earlier evidence/other reviewers, not freshly read in full by this agent.",
+        "No current Article114 notification census, legal ruling, actual affected vehicle or free-movement measure established. Do not say ignition-equipped non-electric vehicles can never be EEE."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "ie-biomass-sustainability-threshold",
+      "recommendation": "retain",
+      "reason": "Express automatic-compliance rule still covers the newly included7.5–under20MW band. This is a concrete statutory default rather than a wording-only issue; existing exceptions and uncertainty about individual schemes are appropriate.",
+      "evidence": [
+        {
+          "url": "https://www.irishstatutebook.ie/eli/2022/si/350/made/en/print",
+          "locator": "Regulations6(4),6(10),8",
+          "finding": "Fresh full public retrieval confirms solid-biomass under20MW deemed compliance and support/verification linkage."
+        },
+        {
+          "url": "https://www.irishstatutebook.ie/isbc/si2022_301-350.html",
+          "locator": "Entry350; updated13October2026",
+          "finding": "Fresh amendment register lists multiple changes but none toRegulation6/Schedule3."
+        },
+        {
+          "url": "https://www.seai.ie/renewable-energy/bioenergy/verification-procedure",
+          "locator": "Current verification instructions,2026submission",
+          "finding": "Fresh SEAI page continues to cite350/2022 andREDII verification."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81530&lang=es",
+          "locator": "Article1(19)(a)(iii),(i),Article5",
+          "finding": "Fresh official EU text confirms7.5MW threshold and constrained legacy-support route until2030."
+        }
+      ],
+      "limitations": [
+        "Targeted later-enactment searches found no correction, but amendment-register cutoff is13October2026.",
+        "No plant/support decision reviewed; other scheme conditions andEUETS may protect particular installations. Existing statutory lead qualification should remain."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "be-dac8-ledger-address-reference",
+      "recommendation": "remove",
+      "reason": "Fresh texts substantiate a stale citation but no reporting transaction excluded, unintelligible obligation, or missing administrative collection was established. Treat as an editorial-reference control rather than a substantive unresolved implementation issue.",
+      "evidence": [
+        {
+          "url": "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026005033/justel",
+          "locator": "Article 2(4); Articles 13 and 15 insert 5/11 and 5/13",
+          "finding": "French Community enactment reproduces Regulation 2023/1114 reference."
+        },
+        {
+          "url": "https://wallex.wallonie.be/eli/loi-decret/1999/05/06/1999027513",
+          "locator": "Article 64bis, definition 31°",
+          "finding": "Fresh current regional text retains the same reference."
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "locator": "Points 1–2",
+          "finding": "Official EU correction changes the address reference to Regulation 2023/1113."
+        }
+      ],
+      "limitations": [
+        "Authentic French correction fetch was anti-bot blocked; official Spanish OJ copy used to corroborate common cross-reference change. No coverage defect inferred from the typo. Existing source locator wrongly attributes 5/11 and 5/13 to Article 11; actual inserting articles are 13 and 15."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "hu-toy-cobalt-permission",
+      "recommendation": "retain",
+      "reason": "Fresh national Appendix A still has only nickel, and current official consultation proposes cobalt permissions. Qualified absence of the express permission route holds; broad toy bans or unsafe-toy claims would not.",
+      "evidence": [
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2011-38-20-2X",
+          "locator": "Annex 2 Part III 4.1–4.3; Appendix A; version 31 December 2022",
+          "finding": "Fresh page retains only nickel in the permission table; alternative exceptions exist."
+        },
+        {
+          "url": "https://kormany.hu/dokumentumtar/tarsadalmi-egyeztetes-a-gyermekjatekok-biztonsagarol-szolo-38-2011-x-5-ngm-rendelet-modositasarol",
+          "locator": "Consultation 8 October 2026, deadline 16 October",
+          "finding": "Government recognizes need to align cobalt provisions; consultation is a draft."
+        },
+        {
+          "url": "https://www.boe.es/doue/2026/192/L00001-00005.pdf",
+          "locator": "Authentic EU Directive 2026/192, Article 1 and Annex; Article 2 dates",
+          "finding": "Fresh official EU publication in Spanish confirms the three defined cobalt uses and application from 29 August 2026, subject to the unchanged other safety requirements."
+        }
+      ],
+      "limitations": [
+        "Targeted official later-enactment searches located the October consultation, no enacted update. No product refusal or unsafe product was checked. The authentic EU text was freshly read through the Spanish official gazette mirror."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "es-energy-audit-sme-exclusion",
+      "recommendation": "retain",
+      "reason": "Current express SME exclusion and official pending-transposition FAQ support the scoped nationwide implementation concern. Existing alternatives, regional-law limitations and absence of actual firm-level harm are appropriate.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-1460",
+          "locator": "Articles 2(2), 3(1)–(2); latest update 2 June 2021",
+          "finding": "Current nationwide rule excludes SMEs; statutory alternatives apply."
+        },
+        {
+          "url": "https://www.miteco.gob.es/es/energia/eficiencia/auditorias-energeticas-y-sge/preguntas-frecuentes.html",
+          "locator": "FAQ on Article 11 transposition",
+          "finding": "Ministry confirms text still being prepared and RD 56/2016 remains national reference."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81299",
+          "locator": "Directive 2023/1791 Article 11",
+          "finding": "Official Spanish EU text available through ministry link as alternate to anti-bot EUR-Lex."
+        }
+      ],
+      "limitations": [
+        "No regional-law census or individual firm audit. EU source direct fetch anti-bot blocked; threshold and deadline need corroboration from official alternate text in this pass."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "lu-dac8-ledger-address-reference",
+      "recommendation": "remove",
+      "reason": "The statute expressly includes the relevant outbound-transfer reporting category despite its incorrect external citation. The tax authority now supplies an operational TransferWallet reporting field with required amount/unit data. Keep the typo internally; a missing or unintelligible reporting obligation is not established.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "locator": "Point 2",
+          "finding": "Corrected reporting provision points to Regulation 2023/1113."
+        },
+        {
+          "url": "https://impotsdirects.public.lu/fr/echanges_electroniques/cdc-carf.html",
+          "locator": "CARF reporting framework page",
+          "finding": "Tax-authority reporting framework remains available; this does not establish a reporting omission."
+        },
+        {
+          "url": "https://legilux.public.lu/eli/etat/leg/loi/2026/03/27/a144/jo",
+          "locator": "Article 5(3)(c)(ix); act marked in force",
+          "finding": "Fresh browser read overcame JavaScript shell and confirms the 1114 citation; reporting category still expressly exists."
+        },
+        {
+          "url": "https://impotsdirects.public.lu/dam-assets/fr/echanges-electroniques/carf/cdc-manuel-dutilisationv100.pdf",
+          "locator": "Version1.00,published14October2026;tablep57,section6.5.2.3.2.3.3p61",
+          "finding": "Fresh full officialPDF read:TransferWallet covers transfers to unknown wallet addresses and mandates amount/unit fields. Positive evidence that the category remains operational despite citation error."
+        }
+      ],
+      "limitations": [
+        "No omitted transaction category or administrative reporting failure established. Exclusion does not assert that the typo has been corrected."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "it-lead-exposure-limit-2024-amendment",
+      "recommendation": "retain",
+      "reason": "Current national numerical limits remain above the EU values due inApril2026, with explicit official acknowledgment of implementation delay. The existing transitional-exposure and general-prevention caveats are essential and accurate.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80389",
+          "locator": "AnnexII(2)–(3)",
+          "finding": "Fresh official EU text confirms0.03mg/m³, blood30through2028, and conditional prior-exposure exception."
+        },
+        {
+          "url": "https://www.gazzettaufficiale.it/do/atto/serie_generale/caricaPdf?art.codiceRedazionale=24G00153&art.dataPubblicazioneGazzetta=2024-09-26&art.num=2&art.tiposerie=SG&cdimg=24G0015300200020110001&dgu=2024-09-26",
+          "locator": "AnnexB,printedp10",
+          "finding": "Fresh authentic Gazette table confirms airborne0.15mg/m³ eight-hour limit."
+        },
+        {
+          "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=24G00153&art.dataPubblicazioneGazzetta=2024-09-26&art.flagTipoArticolo=3&art.idArticolo=3&art.idGruppo=0&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1",
+          "locator": "AnnexC,XLIII-bis point1",
+          "finding": "Fresh authentic Gazette biological table confirms60µg/100ml."
+        },
+        {
+          "url": "https://www.ispettorato.gov.it/files/2026/10/TU-81-08-Ed.-Ottobre-2026.pdf",
+          "locator": "October2026 compilation,annexprintedpp162–163",
+          "finding": "Fresh26MBdownload and text extraction confirms currentXLIII/XLIII-bis tables retain0.15/60, distinct from reproduced superseded annexes."
+        },
+        {
+          "url": "https://www.senato.it/leggi-e-documenti/attivita-non-legislative/documenti-non-legislativi?documentoId=53938&flagNumerato=0&sottoTipoDoc=0&tipoDoc=2615",
+          "locator": "INFR2026/0247,notification28May2026",
+          "finding": "Fresh official indexed parliamentary record identifies transposition concern."
+        }
+      ],
+      "limitations": [
+        "Inspectorate compilation disclaims official status. FreshNormattiva complete header not read in this pass; targeted official later-law searches did not locate correction.",
+        "No exposure case, court ruling, or general legal entitlement to expose workers at the table limit claimed."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "it-biomass-verification-transition",
+      "recommendation": "retain",
+      "reason": "Article42(16) expressly dispenses with verification pending a future scheme, while revised EU30(6) permits simplified systems that ensure compliance. Ministry interpretation confirms automatic deemed compliance. Existing qualified-lead status, grandfathering and alternative-protection caveats are appropriate.",
+      "evidence": [
+        {
+          "url": "https://def.finanze.it/DocTribFrontend/executePrintArticolo.do?articolo=Articolo+42&codiceOrdinamento=0000000000000420000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&id=%7B94D92DE2-E0D3-429E-8A58-5BFF69A98337%7D",
+          "locator": "Article42(2),(3),(16),(18-ter);version4February2026",
+          "finding": "Fresh official FinanceMinistryPDF confirms7.5MW threshold, no-verification transition and legacy support protection."
+        },
+        {
+          "url": "https://www.mase.gov.it/portale/documents/d/guest/faq-d-lgs-9-gennaio-2026-1-pdf",
+          "locator": "26May2026FAQ,question2",
+          "finding": "Fresh one-page ministryPDF says criteria automatically considered met during transition for7.5–20MW plants."
+        },
+        {
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2026/01/20/15/sg/pdf",
+          "locator": "Decree5/2026 Article20(n)",
+          "finding": "Fresh authentic Gazette confirms replacement of42(16)."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81530&lang=es",
+          "locator": "Article1(21)(e);revised30(6)",
+          "finding": "Fresh official EU text permits simplified verification ensuring compliance."
+        }
+      ],
+      "limitations": [
+        "No later simplified-system decree located in targeted official searches; July2026Gazette reproduction was not freshly reread in this pass.",
+        "No individual fuel or subsidy case audited. Article42(3), legacy-support protection, voluntary certification and scheme-specific conditions may cover particular cases."
+      ],
+      "replacement": null
+    },
+    {
+      "id": "fr-listing-research-payment-cap",
+      "recommendation": "revise",
+      "reason": "The statutory cap survives, but current AMF guidance says the wider payment option is available. Present the outstanding legal alignment as a qualified concern, not a demonstrated practical restriction.",
+      "evidence": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044502777",
+          "locator": "L533-12-4-1 I(3°), current 26 October 2026",
+          "finding": "Fresh browser read confirms the €1 billion/36-month safe-harbour condition."
+        },
+        {
+          "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/listing-act",
+          "locator": "Fin de l’obligation d’unbundling",
+          "finding": "Fresh official indexed page says joint payments available since 6 June 2026, and national implementation still requires measures."
+        },
+        {
+          "url": "https://www.senat.fr/leg/etudes-impact/pjl25-118-ei/pjl25-118-ei.pdf",
+          "locator": "Article 6 impact assessment, printed page 118",
+          "finding": "Official pending-bill explanation supports recognized legislative alignment concern."
+        }
+      ],
+      "limitations": [
+        "The national cap is a safe-harbour condition, not itself a universal prohibition. Actual payment refusals not established."
+      ],
+      "replacement": {
+        "baseAct": "Directive 2014/65/EU (MiFID II)",
+        "baseActPublished": "2014-06-12",
+        "amendingAct": "Directive (EU) 2024/2811 (Listing Act)",
+        "celex": "32024L2811",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "stage": "government",
+        "statusLabel": "Current statutory mismatch · recognised implementation work",
+        "statusKind": "open",
+        "statusDetail": "The regulator says joint payments are already available",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Live national law and regulator position checked",
+        "deadline": "2026-06-05",
+        "deadlineLabel": "National implementation deadline",
+        "priorRecognition": "recognized",
+        "recognizedBy": [
+          "French government",
+          "Autorité des marchés financiers"
+        ],
+        "euChange": "The 2024 revision removes the issuer-size cap from MiFID II Article 24(9a), while adding payment-policy, transparency and annual research-assessment conditions. Application began on 6 June 2026.",
+        "consequence": "Possibly. The statutory safe harbour still contains the old issuer-size cap, while the regulator describes the wider EU payment option as available from June 2026. National legal alignment remains incomplete in the sources checked; an actual restriction on joint payments or loss to a firm has not been established.",
+        "caveat": "A legislative-text mismatch, not a finding that any payment is unlawful. MiFID II Article 24(12) permits exceptional, justified additional national requirements subject to notification; no notification retaining this cap was located. General inducement rules, directive-consistent interpretation and supervisory practice may affect the result.",
+        "noveltySearch": {
+          "date": "2026-10-25",
+          "scope": "Recognition positively located; exact cap, French implementation and Article 24(12) notification searches.",
+          "queries": [
+            "site.legifrance.gouv.fr \"L533-12-4-1\" \"2026\"",
+            "site.amf-france.org \"recherche\" \"Listing Act\" \"2026\"",
+            "site.senat.fr \"2024/2811\" \"recherche\"",
+            "\"France\" \"research\" \"24(12)\" notification"
+          ]
+        },
+        "id": "fr-listing-research-payment-cap",
+        "title": "Research payments: old €1 billion issuer cap still in French law",
+        "country": "France",
+        "countryCode": "FR",
+        "topic": "Financial services",
+        "summary": "The EU removed the issuer-size cap for joint research and trading payments. The old cap remains in the statutory safe harbour, but the French regulator says the wider payment option is available. The remaining concern is legal alignment, rather than an established practical ban.",
+        "nationalGap": "Code monétaire et financier Article L533-12-4-1 I(3°), current since 28 February 2022, retains the €1 billion/36-month condition. Its safe-harbour conditions have not been replaced with the revised payment-policy framework. Current AMF Article 314-22 also retains the older own-funds/research-account routes.",
+        "nationalLaw": "Code monétaire et financier, Article L533-12-4-1 I(3°); AMF general regulation Article 314-22, current version of 11 September 2026.",
+        "provisions": "Directive 2024/2811 Article 1(2)(b), replacing MiFID II Article 24(9a); Article 3(1); national L533-12-4-1 I(3°).",
+        "resolution": "A live check of the official Légifrance text on 25 October 2026 confirmed the cap is unchanged. The AMF’s Listing Act explanation says French implementation still needs national measures. A bill is in Parliament; we found no enacted replacement.",
+        "comparison": {
+          "beforeLabel": "Current French safe harbour",
+          "before": "Research on companies worth at most €1 billion over the previous 36 months.",
+          "afterLabel": "Revised EU framework",
+          "after": "No company-size cap; joint payments keep their policy, disclosure and assessment conditions.",
+          "note": "Statutory catch-up remains necessary; practical exclusion of joint payments is not established."
+        },
+        "recognitionNote": "Government impact assessment for bill 118 (2025–2026), printed page 118, identifies legislation on financial-research treatment as needing amendment. The current AMF explanation also acknowledges that national implementation measures are required. This is a recognised implementation matter.",
+        "review": "Two agents independently checked the national cap and revised EU provision. A third directly verified live Legifrance dated 25 October 2026. Adverse checks covered current AMF rules, its statement that joint payments are available, and Article 24(12). No practical prohibition or harm is claimed. Final independent review passed, including the practical-relief qualifications.",
+        "timeline": [
+          {
+            "date": "2022-02-28",
+            "event": "The present French joint-payment safe harbour takes effect.",
+            "who": "national"
+          },
+          {
+            "date": "2024-10-23",
+            "event": "The EU adopts the Listing Act amendment.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-11-07",
+            "event": "Government impact assessment identifies financial-research legislation needing amendment.",
+            "who": "national"
+          },
+          {
+            "date": "2026-06-05",
+            "event": "Deadline for national implementation.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "Live French text retains the issuer cap; AMF says national measures are needed.",
+            "who": "check"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Listing Act amendment",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/2811/oj",
+            "role": "EU amendment",
+            "locator": "Article 1(2)(b), revised 24(9a); Article 3(1)"
+          },
+          {
+            "title": "Current French research-payment safe harbour",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044502777",
+            "role": "Current national law",
+            "locator": "L533-12-4-1 I(3°); live 25 October 2026"
+          },
+          {
+            "title": "AMF research-payment and implementation explanation",
+            "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/listing-act",
+            "role": "Regulator acknowledgment and practical qualification",
+            "locator": "Les modifications des dispositions de MiFID 2 concernant la recherche"
+          },
+          {
+            "title": "Current AMF general regulation",
+            "url": "https://www.amf-france.org/fr/eli",
+            "role": "Additional national rule check",
+            "locator": "11 September 2026 version; Article 314-22"
+          },
+          {
+            "title": "Government impact assessment for bill 118",
+            "url": "https://www.senat.fr/leg/etudes-impact/pjl25-118-ei/pjl25-118-ei.pdf",
+            "role": "Government acknowledgment",
+            "locator": "Printed page 118 (PDF page 117); Article 6"
+          },
+          {
+            "title": "Pending implementation legislative dossier",
+            "url": "https://www.senat.fr/dossier-legislatif/pjl25-118.html",
+            "role": "Pending legislation check",
+            "locator": "Updated 4 September 2026; Assembly first reading"
+          },
+          {
+            "title": "MiFID II national-additions qualification",
+            "url": "https://eur-lex.europa.eu/eli/dir/2014/65/oj",
+            "role": "Scope qualification",
+            "locator": "Article 24(12)"
+          }
+        ],
+        "catalogueStatus": "review",
+        "researchRound": 2
+      }
+    },
+    {
+      "id": "fr-mifid-systematic-internaliser-definition",
+      "recommendation": "revise",
+      "reason": "Current national definition retains volume tests, but ESMA expressly relieves firms of performing them. Keep only a qualified statutory-alignment concern and foreground that relief.",
+      "evidence": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032786516",
+          "locator": "L533-32, current 26 October 2026",
+          "finding": "Fresh browser read confirms transaction-number and volume measurements persist."
+        },
+        {
+          "url": "https://www.consob.it/documents/d/asset-library-1912910/esma74-276584410-11123",
+          "locator": "ESMA 10 October 2025 statement, SI regime, page 3",
+          "finding": "Official indexed mirror expressly states mandatory quantitative regime no longer applicable and firms relieved of test."
+        },
+        {
+          "url": "https://www.senat.fr/encommission/textes/2025-2026/118.html",
+          "locator": "Article 4, L533-32 replacement",
+          "finding": "Fresh bill text replaces definition with qualitative equity criteria and opt-in."
+        }
+      ],
+      "limitations": [
+        "ESMA and CONSOB full PDF downloads were access blocked; official indexed statement text was available. No continuing calculation burden established."
+      ],
+      "replacement": {
+        "baseAct": "Directive 2014/65/EU (MiFID II)",
+        "baseActPublished": "2014-06-12",
+        "amendingAct": "Directive (EU) 2024/790 (MiFID II review)",
+        "celex": "32024L0790",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "stage": "government",
+        "statusLabel": "Current statutory mismatch · recognised implementation work",
+        "statusKind": "open",
+        "statusDetail": "ESMA says firms are relieved of the old quantitative test",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Live national law and regulator position checked",
+        "deadline": "2025-09-29",
+        "deadlineLabel": "National implementation deadline",
+        "priorRecognition": "recognized",
+        "recognizedBy": [
+          "French government",
+          "European Commission"
+        ],
+        "euChange": "The 2024 revision replaces the quantitative systematic-internaliser test with qualitative criteria for equity instruments, while retaining an opt-in route. National implementation was due on 29 September 2025.",
+        "consequence": "Possibly. The statutory definition still describes the old volume tests, but ESMA says the mandatory quantitative regime no longer applies and firms are relieved of the test. National legal alignment remains incomplete in the sources checked; no continuing calculation burden or improper registration has been established.",
+        "caveat": "A recognised stale-text issue, not evidence that firms must still perform the old calculation or that any registration is unlawful. ESMA’s 10 October 2025 transition statement says the mandatory quantitative regime no longer applies and firms are relieved of the test; qualitative equity registration and opt-in remain. Directly applicable MiFIR provisions and subsequent technical standards also affect practice.",
+        "noveltySearch": {
+          "date": "2026-10-25",
+          "scope": "Prior recognition positively located in the government replacement bill and Commission implementation monitoring.",
+          "queries": [
+            "site.senat.fr \"L. 533-32\" \"2024/790\"",
+            "site.legifrance.gouv.fr \"Article L533-32\" \"2026\"",
+            "site.esma.europa.eu \"quantitative\" \"relieved\" \"systematic\""
+          ]
+        },
+        "id": "fr-mifid-systematic-internaliser-definition",
+        "title": "Definition of ‘systematic internaliser’: old volume tests still in French law",
+        "country": "France",
+        "countryCode": "FR",
+        "topic": "Financial services",
+        "summary": "The EU replaced fixed volume tests for systematic internalisers with qualitative equity criteria. French statutory wording still describes the old tests, but ESMA says firms no longer have to perform them. The remaining concern is legal alignment, rather than an established continuing burden.",
+        "nationalGap": "Current Article L533-32 still defines frequent/systematic activity through transaction numbers and substantial activity through relative trading volumes. Its definition is not expressly limited to equity instruments. Bill 118 proposes replacing that text to implement the EU review.",
+        "nationalLaw": "Code monétaire et financier, Article L533-32, version current since 3 January 2018.",
+        "provisions": "Directive 2024/790 Article 1(3)(b), replacing MiFID II Article 4(1)(20); Article 2(1); national L533-32.",
+        "resolution": "A further review read the official text dated 25 October 2026: article L533-32 is unchanged since 3 January 2018 and still has the old trade-number and volume tests. A pending government bill would replace it; we found no enacted replacement. ESMA already relieves firms of the fixed test.",
+        "comparison": {
+          "beforeLabel": "Current French definition",
+          "before": "Fixed tests on the number of trades and relative volume; no limit to equity products.",
+          "afterLabel": "Revised EU definition",
+          "after": "A judgement-based test for equity products, plus a voluntary opt-in.",
+          "note": "The statutory difference does not demonstrate a continuing calculation burden; ESMA has expressly removed it."
+        },
+        "recognitionNote": "Government bill 118 (2025–2026), Article 4, expressly replaces L533-32. The Commission’s MiFID review implementation page, updated 7 August 2026, records French non-notification. The exact national text and transition effect were checked separately; notification alone is not the basis for this record.",
+        "review": "Two agents independently checked the national wording, EU replacement and pending government bill. A third directly checked the live official chapter dated 25 October 2026 and followed the current article link. ESMA’s express relief from the quantitative test is retained as an adverse qualification. The current article ID was corrected after a stale legacy link failed live review. Final independent review passed, including the practical-relief qualifications.",
+        "timeline": [
+          {
+            "date": "2018-01-03",
+            "event": "The current French definition takes effect.",
+            "who": "national"
+          },
+          {
+            "date": "2024-02-28",
+            "event": "The EU adopts the MiFID II review.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-09-29",
+            "event": "National implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-10-10",
+            "event": "ESMA confirms relief from the quantitative test.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-11-10",
+            "event": "Government introduces bill 118, including replacement of L533-32.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "The existing French definition and pending replacement were checked.",
+            "who": "check"
+          }
+        ],
+        "sources": [
+          {
+            "title": "MiFID II review amendment",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/790/oj",
+            "role": "EU amendment",
+            "locator": "Article 1(3)(b), revised Article 4(1)(20); Article 2(1)"
+          },
+          {
+            "title": "Current French systematic-internaliser definition",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032786516",
+            "role": "Current national law",
+            "locator": "L533-32, current since 3 January 2018"
+          },
+          {
+            "title": "Live official chapter including current definition",
+            "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006154697",
+            "role": "Currentness cross-check",
+            "locator": "Header 25 October 2026; L533-32 since 3 January 2018"
+          },
+          {
+            "title": "Government bill: replacement definition",
+            "url": "https://www.senat.fr/encommission/textes/2025-2026/118.html",
+            "role": "Government recognition and proposed remedy",
+            "locator": "Article 4, L533-32 replacement"
+          },
+          {
+            "title": "ESMA transition statement: quantitative test no longer applies",
+            "url": "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA74-276584410-11123_Public_statement_on_the_Transition_for_the_application_of_the_MiFID_II-MiFIR_review_No.2.pdf",
+            "role": "Practical-effect qualification",
+            "locator": "SI regime section; 10 October 2025"
+          },
+          {
+            "title": "Pending implementation legislative dossier",
+            "url": "https://www.senat.fr/dossier-legislatif/pjl25-118.html",
+            "role": "Pending legislation check",
+            "locator": "Updated 4 September 2026; Assembly first reading"
+          },
+          {
+            "title": "Commission implementation monitoring",
+            "url": "https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/enforcement-and-infringements-banking-and-finance-law/monitoring-banking-and-finance-directives/markets-financial-instruments-directive-ii-amendment-mifid-ii-amended-directive-eu-2024790_en",
+            "role": "Broader recognised implementation status",
+            "locator": "Updated 7 August 2026; France listed among countries with no notified measures"
+          }
+        ],
+        "catalogueStatus": "review",
+        "researchRound": 2
+      }
+    }
+  ]
+}

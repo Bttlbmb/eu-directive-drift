@@ -1,0 +1,56 @@
+{
+  "startedAt": "2026-10-27T03:23:35Z",
+  "targetAt": "2026-10-27T04:53:35Z",
+  "date": "2026-10-27",
+  "baseline": {
+    "entries": 53,
+    "complete": 205,
+    "partial": 59,
+    "pending": 411,
+    "notLocated": 14
+  },
+  "after": {
+    "entries": 57,
+    "recordKinds": {
+      "finding": 6,
+      "lead": 51
+    },
+    "notLocated": 17,
+    "coverage": {
+      "acts": 25,
+      "countries": 27,
+      "countryActPairs": 675,
+      "complete": 237,
+      "inProgress": 47
+    },
+    "pending": 391
+  },
+  "newLeads": [
+    "cz-extra-jelly-fruit-minima",
+    "sk-jelly-fruit-minima",
+    "si-jam-cashew-pomegranate",
+    "hr-toy-cobalt-permission"
+  ],
+  "newNoPrecisePriorReportLocated": 3,
+  "newEstablishedFindings": 0,
+  "twoAgents": [
+    "reference",
+    "verify"
+  ],
+  "peerScope": "Independent actual-source checks and adversarial assessment review; individual peer scopes recorded, not a second complete national audit for every cell.",
+  "qualifications": [
+    "Completed cells assess every inventoried change against current formal law, with legal uncertainty retained. They are not conformity certificates or audits of administrative practice.",
+    "All27 jam country assessments complete, covering13 inventoried groups.",
+    "No resolved cases added;16 exclusion decisions preserved.",
+    "Slovenian chamber submission partially read in extraction only; full visual review not completed, so no claim to have exhausted that prior-recognition source.",
+    "Re-downloadable full bodies retained only temporarily; compact source links and notes in project."
+  ],
+  "additionalChecks": [
+    "Whole disclosed Czech Commission comments independently read: mutual recognition only. Whole Czech reply and separate conformity reservation read by parent.",
+    "All15 visible Slovak consultation comment texts read by parent; no precise jelly-weight recognition found. Individual-detail responses and every legislative attachment not audited.",
+    "Estonian fund limits independently parent-checked against whole EU2994 and currentUCITS1(6)/(7); stricter-domestic/no-conflict issue remains legally inconclusive."
+  ],
+  "sourceCutoff": "2026-10-27T04:49:00Z",
+  "completedAt": "2026-10-27T04:53:50Z",
+  "verification": "Final npm check passed;237complete47partial391pending displayed in browser;17/57 recognition filter and new leads visually checked.16 exclusions preserved; generated source URLs free of whitespace corruption."
+}

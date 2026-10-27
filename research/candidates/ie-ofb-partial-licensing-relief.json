@@ -1,0 +1,141 @@
+{
+  "id": "ie-ofb-partial-licensing-relief",
+  "country": "Ireland",
+  "countryCode": "IE",
+  "title": "Ireland permits own-batch relief despite some licensed production",
+  "topic": "Alcohol excise and small producers",
+  "baseAct": "Directive 92/83/EEC",
+  "amendingAct": "Directive (EU)2020/1151",
+  "celex": "32020L1151",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "catalogueStatus": "hold",
+  "researchRound": "systematic 25",
+  "stage": "national",
+  "statusKind": "differs",
+  "statusLabel": "Held: mandatory certification may cure apparent difference",
+  "evidenceDate": "2026-10-26",
+  "evidenceLabel": "Current national scheme and guidance checked",
+  "deadline": "2022-01-01",
+  "deadlineLabel": "EU application date; adoption due 31 December 2021",
+  "summary": "Ireland excludes licensed batches from a small-producer excise reduction but allows some producers with licensed output to retain relief for their own batches.",
+  "euChange": "New OFB relief uses a producer-level no-licence condition, with a small-cooperation exception.",
+  "nationalGap": "Section 78 D(1)(iv) permits less than 50% licensed, franchise or contract output. Subsection 4(a) excludes those batches; it does not expressly exclude the producer’s remaining output. Revenue guidance repeats that design.",
+  "nationalLaw": "FinanceAct 2003 section 78 D, inserted by FinanceAct 2024 section 69; operative 1 March 2025",
+  "provisions": [
+    "Directive 2020/1151 Article 1(7), new 92/83 Article 13 a(4)",
+    "National 78 D(1)(ii),(iv),4(a)–(b),5"
+  ],
+  "consequence": "Possibly, on paper: a producer using a genuine third-party production licence could retain relief on its own output. No recipient or incorrect payment has been identified.",
+  "resolution": "HOLD: current APT5 note2 appears to direct every producer manufacturing for another under a licence or contract into Declaration2, which imposes the combined15000hl small-cooperation limit. Mandatory certification under current manual5.7 may therefore close the apparent residual cohort. Do not publish as an unresolved omission without resolving this route.",
+  "caveat": "Mandatory certified APT5 is a material contrary route: note2 may require every licensed producer to use Declaration2 and satisfy small-cooperation limits. Its interaction with the less-than50% declarations and statutory wording is uncertain. This concerns genuine production licences, not all manufacturing contracts. No actual recipient, incorrect payment or Irish/EU judgment on78D has been identified.",
+  "comparison": {
+    "beforeLabel": "Irish scheme",
+    "before": "Exclude licensed batches; allow less than 50% licensed production.",
+    "afterLabel": "EU producer criterion",
+    "after": "No licensed operation, subject to small cooperation.",
+    "note": "Compare producers outside the qualifying cooperation exception."
+  },
+  "review": "Root independently read the national statute/current August2026 manual. Research personally read the whole APT5; verify independently accepted its note2 as a material adverse cure route. HOLD: no surviving current-entitlement cohort established, and no public missed-update claim recommended.",
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Revenue openly describes the national partial-licensing policy. Bounded searches found no published analysis identifying this precise Irish OFB/EU producer-condition mismatch; this is not a first-discovery claim.",
+  "noveltySearch": {
+    "date": "2026-10-26",
+    "method": "Bounded official and public identifier, licensing and Court-case searches. General Irish tax commentary and Revenue policy descriptions were found, but no exact mismatch analysis.",
+    "queries": [
+      "\"Ireland\" \"excise\" \"licence\" \"Brasserie Bouquet\"",
+      "\"78 D\" \"licence\" \"Directive\"",
+      "\"Ireland\" \"fermented beverages\" \"licence\" \"incompatible\"",
+      "\"Irish\" \"cider\" \"licence\" \"Directive 92/83\""
+    ]
+  },
+  "sources": [
+    {
+      "title": "EU alcohol excise amendment",
+      "url": "https://eur-lex.europa.eu/eli/dir/2020/1151/oj/eng",
+      "role": "EU amendment",
+      "locator": "Article 1(7), inserted 13 a(1),(4)."
+    },
+    {
+      "title": "Authentic Irish OFB relief provision",
+      "url": "https://www.irishstatutebook.ie/eli/2024/act/43/section/69/enacted/en/html",
+      "role": "National rule",
+      "locator": "Section 69(1)(a), whole new 78 D, especially 1(iv),4(a)–(b),5."
+    },
+    {
+      "title": "Actual commencement order",
+      "url": "https://www.irishstatutebook.ie/eli/2025/si/39/made/en/print",
+      "role": "Commencement",
+      "locator": "Whole order;1 March 2025."
+    },
+    {
+      "title": "Official Irish amendment table",
+      "url": "https://www.irishstatutebook.ie/isbc/2003_3.html",
+      "role": "Currentness check",
+      "locator": "Actual downloaded 13 October 2026 header; target 73–86 and Schedule 2 rows. Simplified commencement descriptions cross-checked against authentic orders."
+    },
+    {
+      "title": "Revenue current OFB qualification guidance",
+      "url": "https://www.revenue.ie/en/companies-and-charities/excise-and-licences/alcohol-products-tax/cider-perry/qualify.aspx",
+      "role": "Published national policy",
+      "locator": "Published 25 November 2025; partial licensing, batch exclusion and cooperation conditions."
+    },
+    {
+      "title": "Revenue administrative manual",
+      "url": "https://www.revenue.ie/en/tax-professionals/tdm/excise/tax-warehouses/part2-breweries-microbreweries-cider.pdf",
+      "role": "Alternative-conditions check",
+      "locator": "August2026 edition; root independently read whole sections5.1–5.9 and1.9. Section5.7 makes certified APT5 mandatory before any relief."
+    },
+    {
+      "title": "Commission qualitative-criteria explanatory notes",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/725d96c9-26f8-4d06-9e51-4950d70e5a1a_en?filename=Explanatory+Notes+on+the+qualitative+criteria+applicable+to+independent+small+propducers+of+alcoholic+beverages_0.pdf",
+      "role": "Nonbinding interpretation",
+      "locator": "September 2023, sections 2.4–2.5, pages 9–11: licence restriction applies to all same-category output; small cooperation distinguished."
+    },
+    {
+      "title": "Court judgment on the parallel brewery condition",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62014CJ0285",
+      "role": "Adverse interpretive context",
+      "locator": "C 285/14,4 June 2015, paragraphs 20–25 and operative part; beer, not an Irish OFB judgment."
+    },
+    {
+      "title": "Current mandatory APT5 eligibility form",
+      "url": "https://www.revenue.ie/en/companies-and-charities/documents/excise/form-apt5.pdf",
+      "role": "Material contrary certification route",
+      "locator": "Entire3pages, especially note2 and Declarations1/2. Note2 may channel any licensed producer into the small-cooperation declaration."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2020-07-29",
+      "who": "eu",
+      "event": "Small-OFB-producer reduction introduced."
+    },
+    {
+      "date": "2022-01-01",
+      "who": "eu",
+      "event": "National application date."
+    },
+    {
+      "date": "2024-11-12",
+      "who": "national",
+      "event": "New 78 D enacted."
+    },
+    {
+      "date": "2025-03-01",
+      "who": "national",
+      "event": "Current OFB scheme commenced."
+    },
+    {
+      "date": "2025-11-25",
+      "who": "national",
+      "event": "Revenue published partial-licensing qualification guidance."
+    },
+    {
+      "date": "2026-10-26",
+      "who": "check",
+      "event": "Current scheme, exceptions and later-law sources assessed."
+    }
+  ]
+}

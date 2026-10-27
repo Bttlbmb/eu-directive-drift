@@ -1,0 +1,105 @@
+{
+  "reviewDate": "2026-10-26",
+  "reviewer": "agent-01-23",
+  "scope": "Focused independent legal-result challenge of existing LU worksite approval and ES payment-system routes. No public edits.",
+  "records": [
+    {
+      "id": "lu-asbestos-company-permit-transition",
+      "recommendation": "retain-narrow-open-possibly",
+      "conclusion": "Existing visa and capacity/training rules may supply the EU result for many ordinary removals; a different company-permit name is not itself a gap. A narrower residual survives because the visa expressly has removal-work exceptions, while the EU prior undertaking-permit duty has no corresponding low-intensity exception. Foreground this scope question and the substantial existing controls.",
+      "legalResult": [
+        "New EU Article 15 requires a competent-authority permit before demolition/asbestos-removal work, supported by Article 6 compliance evidence and training certificates, and a public list. Article 2 sets 21 December 2025; the 2029 derogation concerns measurement/limits, not permits.",
+        "The fresh EU amendment narrows Article 3(3) low-intensity derogation to notification Article 4. It does not excuse Article 15 permission.",
+        "Existing Article 11(3) worksite visas are a credible form of prior authorisation. Article 11ter requires operational-capacity evidence before obtaining that visa, and 11bis requires individual training certificates. These must not be dismissed merely because the scheme uses a different form.",
+        "However, the visa text excepts small-scale work and nondestructive outdoor roof/wall asbestos-cement removal when the building is not publicly occupied. Small-scale work expressly includes removal. The capacity-before-visa rule does not on its face impose a separate prior company authorisation in these excepted cases. Individual training certificates do not by themselves establish prior undertaking permission based on both exposure-control and training evidence.",
+        "The fresh full authentic May 2026 amender does not amend principal Article 11, so does not itself remove its visa exceptions. Article 14 substitutes the more general permission/list rule, but Article 25 defers it until 1 May 2027. This supports the residual beyond merely missing a special statutory form."
+      ],
+      "sources": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81725",
+          "pinpoint": "Article 1(3)(b), revised 3(3); Article 1(13), revised 15; Article 2(1)–(2)",
+          "scope": "Fresh authentic EU operative text read; distinguishes notification exception from prior permit."
+        },
+        {
+          "url": "https://itm.public.lu/dam-assets/fr/legislations/securite/conditions-types/7017-1.pdf",
+          "pinpoint": "Printed pp. 5–7 Articles 11(3), 11bis, 11ter; p. 13 Annex III small-scale definition",
+          "scope": "Fresh full official-hosted July 2012 coordination read. Historical source; not claimed to be a complete fresh current consolidation."
+        },
+        {
+          "url": "https://data.legilux.public.lu/filestore/eli/etat/leg/rgd/2026/05/19/a246/jo/fr/pdfa/eli-etat-leg-rgd-2026-05-19-a246-jo-fr-pdfa.pdf",
+          "pinpoint": "Authentic final May 2026 amendment, all operative amendments; Articles 14 and 25",
+          "scope": "Fresh full official PDF downloaded/read. Principal Article 11 is not amended; company permission/list amendment is deferred."
+        },
+        {
+          "url": "https://itm.public.lu/fr/actualites/conferences/2026/08/amiante.html",
+          "pinpoint": "13 August 2026, first section and transition",
+          "scope": "Fresh official implementation statement confirms new general permission applies 1 May 2027 and existing competencies/training evidence. Corroboration, not a substitute for scope analysis."
+        }
+      ],
+      "limits": [
+        "My current consolidated Legilux HTML returns a JavaScript shell and attempted current PDF 404. Root baseline states live current Articles 11(3)/11ter were read; if current exceptions cannot be reconfirmed in that retained evidence, keep this only as an explicitly unresolved lead or temporarily withdraw.",
+        "No complete census of every business, waste or sectoral authorisation; no injury, unsafe work or actual permit refusal established.",
+        "Do not claim all firms lack authorisation. For visa-covered work, equivalence remains plausible. Do not assume the public list is absent solely because its express new national duty is deferred."
+      ],
+      "proposedConsequence": "Possibly, for work outside the existing visa scheme. Luxembourg already checks many asbestos worksites and requires capacity and training evidence. The unresolved difference concerns removal work excepted from those prior visas while the new general undertaking-permit rule waits until May 2027; no actual unsafe work or exposure consequence is established.",
+      "currentnessFollowup": "Coordinating researcher reported a fresh live read on26October2026 of the current20May2026 consolidation Articles11(3),11ter and chronology, confirming the old visa exceptions and capacity route. This closes team currentness verification; it is not claimed as my own successful direct current-consolidation retrieval."
+    },
+    {
+      "id": "es-payment-system-access-nonbanks",
+      "recommendation": "retain-narrow-open-possibly",
+      "conclusion": "TARGET is a genuine binding non-bank admission route and indirect SNCE access has substantial safeguards. They do not establish equivalent eligibility and direct-access protection across designated Spanish systems. Fresh SNCE basic rules and current operator admission criteria identify a concrete non-TARGET residual tied to the still-narrow statutory definition.",
+      "legalResult": [
+        "Fresh EU 2024/886 Article 3(2) deletes the designated-system exemption from PSD2 Article 35(1), preserving only the same-group exception; Article 4 expands SFD institution categories; Article 5 requires national implementation by 9 April 2025. The result is qualified eligibility and objective/proportionate/nondiscriminatory access, not guaranteed admission regardless of risk.",
+        "Law 41/1999 Article 2(c)(2) still limits the ordinary institution category to credit/investment and specified public/equivalent entities. Its reference to Directive 98/26 Article 2(b) appears within the credit/investment description, not an unqualified dynamic incorporation of every newly added institution. Other participants can qualify in distinct clearing/settlement roles, but no universal ordinary PI/EMI route was established.",
+        "Royal Decree-law 19/2018 Article 8(2)(a) still excludes designated systems from the general direct-access safeguards. The same provision gives indirect-access safeguards; these are real protections and must remain prominent.",
+        "TARGET conditions published in the authentic September 2025 Banco de España resolution add non-bank eligibility and safeguards. This is binding operational implementation, not mere guidance. The later May 2026 rule does not repeal that route. It is system-specific and does not amend other designated systems or their statutory protections.",
+        "Fresh SNCE basic regulation, published in BOE in February 2024 with Banco de España approval, makes ordinary membership depend on Law 41/1999 eligibility (Article 5), permits reasoned refusal for failure of statutory eligibility (Article 6), and expressly says an accessible nonmember is not a member (Article 23(6)). Its objective/non-discriminatory accessible-entity protection (23(7)) concerns the indirect route.",
+        "The operator Iberpay current adhesion page explicitly limits participants/direct settlement to EEA credit institutions and links to Law 41/1999 while listing 2026 admission windows. This corroborates an operative general eligibility distinction outside TARGET, beyond mere absence of the new national statutory form. It does not prove an actual refusal or exclude overriding EU protection."
+      ],
+      "sources": [
+        {
+          "url": "https://www.boe.es/doue/2024/886/L00001-00021.pdf",
+          "pinpoint": "Articles 3(2)–(3), 4(1), 5",
+          "scope": "Fresh authentic EU text read via official indexed full relevant clauses; no reliance on guessed BOE identifier."
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-21980#a2",
+          "pinpoint": "Article 2(c)(1)–(6), Article 3 and recognised systems",
+          "scope": "Fresh official-hosted consolidation read; last consolidated change March 2023."
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16036#ar-8",
+          "pinpoint": "Article 8(1)–(2)",
+          "scope": "Fresh official-hosted current consolidation read; direct/indirect safeguards distinguished."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19591",
+          "pinpoint": "Preamble; First(2) Article 4(2)(d bis); First(3) application safeguards",
+          "scope": "Fresh authentic binding national TARGET resolution read. It itself acknowledges missing legislative transposition while providing an alternative route."
+        },
+        {
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-5773",
+          "pinpoint": "Preamble; Articles 5–7 and 23(1), (3)–(7)",
+          "scope": "Fresh full relevant basic SNCE regulation read. Approved by Banco de España; binding system rules under Law 41/1999, not an individual admission decision."
+        },
+        {
+          "url": "https://www.iberpay.com/es/pagos/sistema-de-pagos-snce/adhesion",
+          "pinpoint": "General admission criteria; direct participant formal requirements; 2026 calendar",
+          "scope": "Fresh current operator text read; supports current operation of the eligibility restriction. It does not itself supersede statute or establish a complete census of every later operational instruction."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12414",
+          "pinpoint": "First(1), TARGET Article 4(1) change",
+          "scope": "Fresh earlier peer-pass read; non-bank Article 4(2) alternative retained."
+        }
+      ],
+      "limits": [
+        "A complete later-instruction or judicial-interpretation census was not performed; no individual denial or financial harm established.",
+        "Directly applicable/overriding EU law may protect applicants. That does not establish that domestic statutory exclusions and SNCE criteria are generally cured.",
+        "Do not describe TARGET admission as impossible or automatic. Do not equate indirect technical presentation through another participant with legal direct membership.",
+        "Public wording should foreground genuine alternative routes before the remaining general statutory question; Commission/government acknowledgment corroborates but does not substitute for this legal-result analysis."
+      ],
+      "proposedConsequence": "Possibly beyond TARGET. Binding TARGET rules allow qualified non-bank admission, and indirect access is protected. The general statutes and published SNCE membership rules still retain narrower eligibility and the designated-system direct-access exception. No individual refusal or quantified harm is established."
+    }
+  ]
+}

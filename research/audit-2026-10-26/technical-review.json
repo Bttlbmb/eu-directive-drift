@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "scope": [
+    "scripts/validate.py",
+    "scripts/test_catalogue_safeguards.py",
+    "scripts/build_coverage.py catalogue overlay",
+    "docs/systematic.js display and missing-clause labels"
+  ],
+  "mode": "Independent read-only review; isolated fixture tests; no public/shared edits.",
+  "result": "No blocking introduced defect found in the catalogue safeguards. A legacy missing-clause display ambiguity was identified and the parent implemented the conservative renderer-only correction.",
+  "safeguards": [
+    "Validator rejects excluded IDs reintroduced into public findings and checks each excluded coverage link carries its catalogue correction.",
+    "Exclusion overlays are applied after all research merges. Stale research cannot erase the dedicated reason/evidence or create finding links absent from the public catalogue.",
+    "The UI gives catalogueReview priority over older research conclusions and includes the correction evidence among its sources.",
+    "The test fixture first checks its valid baseline, then asserts the specific exclusion failure, and isolates the builder from ongoing research temporary files.",
+    "Completion still requires an explicit researcher reviewComplete:true marker; catalogue correction overlays do not grant completion."
+  ],
+  "verification": {
+    "command": "python3 scripts/test_catalogue_safeguards.py",
+    "result": "2 tests passed in the independent run; no persistent fixture",
+    "browser": "Parent separately reports all 52 case pages and 675 selector combinations checked without errors; this reviewer did not independently repeat that browser run."
+  },
+  "missingClauseRows": {
+    "act": "2024/1416",
+    "affectedCells": 18,
+    "countries": [
+      "AT",
+      "CZ",
+      "DK",
+      "EE",
+      "FR",
+      "DE",
+      "HU",
+      "IE",
+      "LT",
+      "LU",
+      "MT",
+      "NL",
+      "PL",
+      "PT",
+      "SK",
+      "SI",
+      "ES",
+      "SE"
+    ],
+    "cause": "The provisionChecks arrays are correctly keyed by changeId, but omit separate rows for the later LT/PT correction groups; six also omit a separate transposition row. Absence was previously rendered as an expressly pending comparison. The same 18 cells existed in the supplied baseline.",
+    "evidenceLimits": "Some review scopes and existing clause evidence address the later correction context, including Lithuania’s corrected deadline. Other missing rows do not contain an explicit legal result. Neither completion nor non-applicability can be inferred from a missing row.",
+    "implementedRemedy": {
+      "missingValue": "No separate clause assessment is recorded; see the assessment scope and sources.",
+      "explicitPending": "Comparison still pending.",
+      "location": "docs/systematic.js lines 14–15"
+    },
+    "assessment": "The renderer now faithfully distinguishes an unmapped separate row from a researcher’s explicit pending assessment, without inventing a satisfied duty or a completion verdict.",
+    "upstreamFollowup": "Raw-bundle owner can separately enumerate correction applicability/results and transposition assessments where evidence supports them; no automatic substantive synthesis recommended."
+  },
+  "irishSettlementFinality": {
+    "act": "1998/26",
+    "result": "The current Irish cell already has 27 explicit group rows, including four language-specific corrections marked not applicable, and no obsolete blocker. The supplied baseline had only 23 rows. No further remediation needed."
+  },
+  "finalCataloguePass": {
+    "retainedRecords": 52,
+    "result": "Final titles, summaries, consequences and qualifications remain conservative overall. The revised French research-payment entry foregrounds binding alternative payment routes and limits the unresolved concern to legal alignment; no practical restriction or missing safeguard is asserted. No additional blocking claim inconsistency identified in this pass.",
+    "substantiveLimit": "This is a final consistency check informed by the completed primary-source and peer audits, not a fresh independent retrieval of every cited source."
+  },
+  "limits": [
+    "Exact-ID exclusion checks do not detect a semantically identical issue republished under a new ID; none was found in the current catalogue.",
+    "A researcher completion marker certifies scoped research; validation does not establish the legal truth or completeness of every clause.",
+    "Detailed evidence and representative missing-row cells are preserved in technical-safeguards-peer-24-46.json and coverage-clause-label-peer-24-46.json."
+  ]
+}

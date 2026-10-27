@@ -1,0 +1,516 @@
+{
+  "snapshot": "2026-10-26",
+  "reviewer": "audit_records_01_23",
+  "scope": "Independent second legal challenge of original24–46; source access limits recorded. No shared catalogue edits.",
+  "audits": [
+    {
+      "id": "cy-asbestos-exposure-limit-2023-amendment",
+      "recommendation": "retain",
+      "challenge": "Could2029 derogation or the more-favourable carcinogen saving clause override the comparison?",
+      "conclusion": "The2029 derogation concerns later methods/alternative limits, not initial0.01 requirement. The2015 saving clause supplies no revised number itself. Retain with pending-replacement and general-duties caveats.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81725",
+          "pinpoint": "Article1(7),2(1)–(2)",
+          "scope": "Fresh EU text separates2025 limit from2029 changes."
+        },
+        {
+          "url": "https://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/5486B4AE4614EBCCC2257E0B002E78CB/%24file/KDP_46_2015.pdf",
+          "pinpoint": "Regulation2",
+          "scope": "Fresh one-page2015 amendment leaves Regulation4 untouched."
+        },
+        {
+          "url": "https://www.mlsi.gov.cy/mlsi/dli/dliup.nsf/All/D9B5CAD7824AFB79C2257E0C0040752E?Opendocument=&print=",
+          "pinpoint": "Updated3September2026",
+          "scope": "Fresh indexed ministry guidance continues citing2006 rules."
+        }
+      ],
+      "limits": [
+        "Parliamentary answer fresh retrieval failed; latest Gazette/currentness supplied by first reviewer. No exhaustive carcinogen-law census."
+      ]
+    },
+    {
+      "id": "de-energy-efficient-utilities-procurement",
+      "recommendation": "retain",
+      "challenge": "Could general climate-procurement duties and mandatory consumption information already require the EUresult?",
+      "conclusion": "SektVO58(1) requires information, while58(2) leaves itsawarduse optional. Broad consideration duties do not themselves require only AnnexIV-high-efficiency purchases for all coveredutilities; targeted tender/regional rules may cover particularbuyers. Retain frameworklead withscope caveats.",
+      "evidence": [
+        {
+          "url": "https://www.gesetze-im-internet.de/sektvo_2016/__58.html",
+          "pinpoint": "58(1)–(2)",
+          "scope": "Fresh current fulltext confirmsinformation/optionalawarddistinction."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81299",
+          "pinpoint": "Article7(1),AnnexIV",
+          "scope": "Fresh official EU-text mirror:onlyhigh-efficiency purchases subject totechnicalfeasibility."
+        }
+      ],
+      "limits": [
+        "KSG13 freshdirectreadtimedout. Regional/publicbuyersnotexhaustivelysurveyed."
+      ]
+    },
+    {
+      "id": "ie-new-residential-charging-infrastructure",
+      "recommendation": "retain",
+      "challenge": "Could local planning requirements, renovation exceptions or later existing-car-park deadlines remove the new-build gap?",
+      "conclusion": "The EU duty independently requires precabling and at least one installed point for qualifying new homes. Renovation-cost exceptions and2027 existing-stock dates do not defer that new-build duty. Current L2A provides conduits; individual planning conditions cannot establish nationwide equivalence.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80664",
+          "pinpoint": "14(4)–(5),35(1)",
+          "scope": "Fresh full EU text confirms residential duty and narrow exceptions."
+        },
+        {
+          "url": "https://revisedacts.lawreform.ie/eli/1997/si/497/revised/en/html",
+          "pinpoint": "Second Schedule L2A",
+          "scope": "Fresh current full consolidation says conduits for subsequent charging-point installation."
+        }
+      ],
+      "limits": [
+        "No local-planning census; first reviewer handles amendment-register currentness."
+      ]
+    },
+    {
+      "id": "fr-diisocyanate-binding-limit",
+      "recommendation": "retain",
+      "challenge": "Do indicative limits impose enough binding prevention/monitoring duties to satisfy the interim EU ceiling?",
+      "conclusion": "Indicative status is not merely terminology: R4412-29 requires risk reassessment after exceedance, distinct from binding-limit obligations. General duties do not plainly impose the same numeric maximum. Retain with existing safety-duty caveat.",
+      "evidence": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021490878",
+          "pinpoint": "R4412-29,current since18December2009",
+          "scope": "Fresh official indexed fullarticle confirms risk-reassessment consequence forindicative exceedance."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80389",
+          "pinpoint": "AnnexI,diisocyanates",
+          "scope": "Fresh official EU-text mirror confirmsbinding interim10/20µgNCO/m³."
+        }
+      ],
+      "limits": [
+        "Fresh fullorder/bindingtable directfetch403; firstreviewer supplies livecurrentreads. No claim thatindicative exceedance isgenerallylawful."
+      ]
+    },
+    {
+      "id": "es-payment-system-access-nonbanks",
+      "recommendation": "retain",
+      "challenge": "Does TARGET non-bank admission already cure the statutory eligibility/access safeguards?",
+      "conclusion": "TARGET expressly admits non-bank providers subject to safeguards, so a blanket ban would be wrong. It does not remove the statutory exclusion of designated systems from general access rules or establish all-system eligibility. Retain both narrow statutory concerns with TARGET prominently disclosed.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16036",
+          "pinpoint": "8(1)–(2)",
+          "scope": "Fresh full code confirms general nondiscrimination plus designated-system exception."
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-21980",
+          "pinpoint": "2(c)",
+          "scope": "Fresh full current law read for system participants."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19591",
+          "pinpoint": "First(2),4(2)(d bis);First(3)",
+          "scope": "Fresh non-bank TARGET route and safeguards read."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12414",
+          "pinpoint": "First amendments",
+          "scope": "Fresh later amendment does not replace the non-bank category."
+        }
+      ],
+      "limits": [
+        "No refusal examined; eligibility never guarantees admission."
+      ]
+    },
+    {
+      "id": "pl-biomass-sustainability-threshold",
+      "recommendation": "retain",
+      "challenge": "Could legacy support, ETS, certification or later2026 legislation cover the entire new band?",
+      "conclusion": "Legacy support is restricted; ETS does not generally cover every7.5–under20MW thermal installation. Fresh135a(8)(2) retains20MW, and no general substitute found. Keep narrowed newer-installation focus and case-specific scheme caveat.",
+      "evidence": [
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/68/text/U/D20260068Lj.pdf",
+          "pinpoint": "3August2026 consolidation,135a(1),(8)(2),pp307–310",
+          "scope": "Fresh public official PDF download/text read confirms scope and20MW thermal threshold."
+        },
+        {
+          "url": "https://www.gov.pl/web/klimat/projekt-zmian-w-ustawie-o-oze-skierowany-do-konsultacji-publicznych",
+          "pinpoint": "15May2026,UC118",
+          "scope": "Fresh official account distinguishes pending REDIII biomass reform from existing law."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81530&lang=es",
+          "pinpoint": "Article1(19)(a)(iii),(i)",
+          "scope": "Fresh EU threshold and constrained legacy-support text."
+        }
+      ],
+      "limits": [
+        "Later1347 act checked by first reviewer; no project/support-file census."
+      ]
+    },
+    {
+      "id": "fr-repair-warranty-extension",
+      "recommendation": "agree-revise",
+      "challenge": "Could twelve-month government guidance establish implementation or concern only digital updates? Could hidden-defects remedies substitute for the fixed-period extension?",
+      "conclusion": "Guide remedy section and2024washing-machine example genuinely say twelve months; September news says national transposition pending and six months. Neither nonbinding guidance nor fact-specific hidden-defect protection establishes universal statutory twelve-month extension. Keep only the proposed qualified wording concern.",
+      "evidence": [
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11094",
+          "pinpoint": "Verified17August2026,remedy section andworkedexample",
+          "scope": "Fresh fulltext:12-month extension appears inordinarygoods sections, notonlydigitalcontent."
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19033",
+          "pinpoint": "Updated10September2026,opening andfirstwarrantyparagraph",
+          "scope": "Fresh fulltext expressly says incomplete transposition and contrastsforthcomingone year/current six months."
+        }
+      ],
+      "limits": [
+        "DirectL217-13freshweb fetchfailed; first reviewer independently read current code. No statutorychange proved by the guide."
+      ]
+    },
+    {
+      "id": "fr-energy-sharing-legal-entity",
+      "recommendation": "agree-revise",
+      "challenge": "Could authorized private electricity sales satisfy the alternative?",
+      "conclusion": "Sales may be possible without providing metered deduction and household supplier-obligation exemption. EU15a(11) preserves supplier authorization, so combined-framework equivalence needs assessment. ProposedPossibly/open framing is warranted.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80973",
+          "pinpoint": "15a(2),(4)(a),(c),(11)",
+          "scope": "Fresh EU text confirms private agreements, deduction, household exemption and authorization reservation."
+        },
+        {
+          "url": "https://www.cre.fr/fileadmin/Documents/Rapports_et_etudes/2026/Rapport_Prospective_Territoires.pdf",
+          "pinpoint": "February2026,p40",
+          "scope": "Fresh regulator report corroborates organizing legal person."
+        }
+      ],
+      "limits": [
+        "L333-1 direct fetch403; current articles read live by first reviewer."
+      ]
+    },
+    {
+      "id": "fr-offset-claim-blacklist",
+      "recommendation": "retain",
+      "challenge": "Could general misleading-practice law already prohibit every relevant claim?",
+      "conclusion": "General rules can catch particular advertisements; a per-se blacklist removes case-specific misleading-effect proof. DGCCRF expressly distinguishes that change and the planned transparency-rule repeal. Keep the specific-rule concern and caveat against treating disclosure as permission.",
+      "evidence": [
+        {
+          "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/larsenal-juridique-de-la-lutte-contre-lecoblanchiment-bientot-complete",
+          "pinpoint": "Blacklist andL229-68 sections",
+          "scope": "Fresh full ministry guidance confirms distinction."
+        }
+      ],
+      "limits": [
+        "Current code supplied by first reviewer; no advertisement reviewed."
+      ]
+    },
+    {
+      "id": "pl-green-transition-commencement",
+      "recommendation": "retain",
+      "challenge": "Could existing misleading-practice rules or CPC phased enforcement make the new blacklist delay immaterial?",
+      "conclusion": "Existing rules retain protection but do not reproduce per-se software-update prohibitions. The signed act expressly starts27September2027; CPC old-stock enforcement discretion does not change the EU application date or justify a yearlong whole-act postponement.",
+      "evidence": [
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/1353/text/O/D20261353.pdf",
+          "pinpoint": "Article1(5)(d),Article3,printedpp3,5",
+          "scope": "Fresh official signedPDF download/text confirms additions and27September2027 start."
+        },
+        {
+          "url": "https://commission.europa.eu/document/download/264d8c70-2f9a-4955-8e7b-154d55a9b684_en?filename=Final+CPC+common+understanding+on+old+stock+situations+June+2026.pdf",
+          "pinpoint": "Principles1–6",
+          "scope": "Fresh full PDF confirms case-specific enforcement, not exemption."
+        }
+      ],
+      "limits": [
+        "No software marketing or consumer dispute examined."
+      ]
+    },
+    {
+      "id": "se-energy-sharing-deduction-deferral",
+      "recommendation": "retain",
+      "challenge": "Could existing communities/private contracts or EU-derived rights already secure deduction?",
+      "conclusion": "Communities and contracts do not themselves impose the specific supplier deduction duty. Regulator candidly says current rules are in EU15a while the formal national framework starts2027. Keep the statutory-commencement claim and EU-rights caveat; do not claim every customer lacks enforceable rights.",
+      "evidence": [
+        {
+          "url": "https://ei.se/bransch/ellagens-kundnara-bestammelser/energidelning---fragor-och-svar",
+          "pinpoint": "Regler om energidelning;När kan man börja dela energi?",
+          "scope": "Fresh full regulator FAQ confirms EU15a current reference, deduction obligation and national1January2027 start."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80973",
+          "pinpoint": "15a(4)(a),Article3",
+          "scope": "Fresh EU text confirms metered deduction and relevant application deadline."
+        }
+      ],
+      "limits": [
+        "Current/future statutes independently read by first reviewer; no supplier-contract census."
+      ]
+    },
+    {
+      "id": "de-biomass-electricity-support-threshold",
+      "recommendation": "retain",
+      "challenge": "Could EEG44c sustainability/efficiency checks or the official Dena7.5MW account override BioSt-NachV20MW?",
+      "conclusion": "44c requires feedstock records and efficiency conditions but not the complete revised sustainability criteria; non-CHP plants remain possible when efficient CHP is uneconomic.90 is regulatory authority, not the missing threshold. Dena summary conflicts with binding text. Retain narrow power-only/new-support lead with that counterevidence disclosed.",
+      "evidence": [
+        {
+          "url": "https://www.gesetze-im-internet.de/biost-nachv_2021/BJNR512610021.html",
+          "pinpoint": "1(2),3;header latest13December2022",
+          "scope": "Fresh public full-law download confirms20MW thermal scope."
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/eeg_2014/__44c.html",
+          "pinpoint": "44c(1),(3)–(6)",
+          "scope": "Fresh current full article confirms recordkeeping/efficiency and non-CHP exception."
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/eeg_2014/__90.html",
+          "pinpoint": "90",
+          "scope": "Fresh full article is delegated regulatory authority."
+        },
+        {
+          "url": "https://www.dena.de/biogaspartner/gesetzlicher-ueberblick/biomethan-im-strommarkt/",
+          "pinpoint": "BioSt overview,StandAugust2025",
+          "scope": "Fresh full page asserts7.5MW with installed-power terminology; contrary nonbinding evidence preserved."
+        }
+      ],
+      "limits": [
+        "Specific permits, heat-law duties, ETS and support conditions not exhaustively surveyed."
+      ]
+    },
+    {
+      "id": "es-online-withdrawal-function",
+      "recommendation": "retain",
+      "challenge": "Could existing email/form withdrawal rights satisfy the new requirement or the amendment be financial-services-only?",
+      "conclusion": "New11a requires an additional online-interface function; other channels remain. It applies to covered online contracts, not only financial services. Current106(3) remains optional, and no general mandatory replacement appeared in the code. Retain within contracts having a withdrawal right.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20555",
+          "pinpoint": "106(1),(3),current consolidation",
+          "scope": "Fresh full code confirms other withdrawal routes and optional website function."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81696",
+          "pinpoint": "Article1(3),new11a;Article2",
+          "scope": "Fresh official EU mirror confirms additional function and application19June2026."
+        }
+      ],
+      "limits": [
+        "No shop examined; subsequent-law search bounded."
+      ]
+    },
+    {
+      "id": "fr-dac8-ledger-address-reference",
+      "recommendation": "agree-remove",
+      "challenge": "Could citation error defeat the mandatory external-transfer duty?",
+      "conclusion": "That would matter if demonstrated, but current record proves only citation divergence. The category remains expressly described; no plausible competing meaning or omitted field established. Withdraw pending that analysis, preserving erratum internally.",
+      "evidence": [
+        {
+          "url": "https://www.impots.gouv.fr/transfert-dinformations-en-application-des-dispositifs-carfdac8",
+          "pinpoint": "Published20April2026,modified20July2026",
+          "scope": "Fresh indexed landing page identifies technical pack; live maintenance prevents reading coverage."
+        },
+        {
+          "url": "https://taxation-customs.ec.europa.eu/taxation/tax-transparency-cooperation/administrative-co-operation-and-mutual-assistance/directive-administrative-cooperation-dac/dac8_en?prefLang=lt",
+          "pinpoint": "CARF interpretation paragraph",
+          "scope": "Fresh Commission page recognizes aligned CARF commentaries as interpretive material."
+        }
+      ],
+      "limits": [
+        "Current statute supplied by first reviewer. No claim technical coverage proved or typo corrected."
+      ]
+    },
+    {
+      "id": "lu-asbestos-company-permit-transition",
+      "recommendation": "retain",
+      "challenge": "Could worksite-plan visas constitute the required company permit?",
+      "conclusion": "Old visas include capacity/training checks but exempt small work and nondestructive outdoor asbestos-cement dismantling. New EU Article15 has no permit exemption; revised low-intensity derogation is from notification Article4 only. Keep the transition lead with partial-protection caveat.",
+      "evidence": [
+        {
+          "url": "https://itm.public.lu/dam-assets/fr/legislations/securite/conditions-types/7017-1.pdf",
+          "pinpoint": "Historical Articles11(3),11ter,pp6–7",
+          "scope": "Fresh full official compilation verifies visa exceptions and capacity evidence."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81725",
+          "pinpoint": "Article1(3)(b),(13);Article2",
+          "scope": "Fresh EU text verifies limited notification derogation and company permit/list duty."
+        },
+        {
+          "url": "https://itm.public.lu/fr/actualites/conferences/2026/08/amiante.html",
+          "pinpoint": "13August2026,transition",
+          "scope": "Fresh official instructions confirm permit starts1May2027."
+        },
+        {
+          "url": "https://conseil-etat.public.lu/content/dam/conseil_etat/fr/avis/2026/20012026/62316-avis-du-20-janvier-2026.pdf",
+          "pinpoint": "Article25,pp4–5",
+          "scope": "Fresh advisory opinion expressly challenges deferred commencement."
+        }
+      ],
+      "limits": [
+        "Current Legilux read supplied by first reviewer;2012 coordination is historical."
+      ]
+    },
+    {
+      "id": "nl-heat-cost-benefit-analysis-threshold",
+      "recommendation": "retain",
+      "challenge": "Do different average-input/nominal-input metrics or EUexemptions eliminate the uncovered band?",
+      "conclusion": "No. A thermal generator averagingabove10MW andratedatmost20MW ispossible andnotnecessarilypeak/back-up. Article26(8) exceptions arelimited; the distance/heat exceptions coverothercategories, notthermalgenerator26(7)(a). Retain preciseoverlapexample andexistingcase-specific caveats.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81299",
+          "pinpoint": "26(7)(a),26(8)–(10)",
+          "scope": "Fresh EU-text read verifiesmetrics andlimitedexceptions."
+        },
+        {
+          "url": "https://www.internetconsultatie.nl/wijzigingsbesluiteed/document/15086",
+          "pinpoint": "25November2025draft,ArticleII(AK) andexplanation",
+          "scope": "Fresh fullofficialdraft stillproposesthresholdreplacement; nottreatedasenactment."
+        }
+      ],
+      "limits": [
+        "CurrentBAL livefulltext independently read byfirstreviewer; no specificprojectreviewed."
+      ]
+    },
+    {
+      "id": "ie-renewable-eia-scoping-deferral",
+      "recommendation": "retain",
+      "challenge": "Could optional EIA scoping, the2024 Planning Act or shorter permit deadlines already supply the guarantee?",
+      "conclusion": "Optional scoping is distinct from mandatory opinion and fixed scope for covered projects. Current agency guide expressly postpones mandatory scoping to1November2026. General EIA/time limits do not reproduce the procedural guarantee. Keep statutory deferral and EU-derived-rights caveats.",
+      "evidence": [
+        {
+          "url": "https://www.pleanala.ie/en-ie/renewable-energy-directive-iii-%281%29/renewable-energy-directive-%28red%29-iii-eia-scoping-g",
+          "pinpoint": "About guide,introduction,Changes Post Scoping",
+          "scope": "Fresh full official guide confirms1November2026 start and distinct material-project-change considerations."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2023-81530&lang=es",
+          "pinpoint": "Article1(7),16b(2);Article5(1)",
+          "scope": "Fresh EU text confirms mandatory opinion/fixed scope and1July2024 deadline."
+        }
+      ],
+      "limits": [
+        "Fresh Irish instruments direct web403; original statutory commencement checked by first reviewer. No actual expanded scope/delay claim."
+      ]
+    },
+    {
+      "id": "at-dac8-ledger-address-reference",
+      "recommendation": "agree-remove",
+      "challenge": "Could wrong citation make the reporting category undefined?",
+      "conclusion": "18(1)3(i) expressly requires the external-transfer category, and official explanation directs CARF-consistent interpretation of4. Keep an internal erratum; no competing meaning or unavailable reporting category established. Do not say the typo is fixed.",
+      "evidence": [
+        {
+          "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013064",
+          "pinpoint": "4(7),18(1)3(i),19–20",
+          "scope": "Fresh current20October2026 text confirms citation and aggregate-value/unit duty."
+        },
+        {
+          "url": "https://www.parlament.gv.at/dokument/XXVIII/I/306/fnameorig_1723216.html",
+          "pinpoint": "Introduction andZu4",
+          "scope": "Fresh explanation explicitly directs OECD CARF interpretation."
+        }
+      ],
+      "limits": [
+        "Technical schema not independently read; withdrawal rests on unsubstantiated substantive gap, not lack of actual tax loss alone."
+      ]
+    },
+    {
+      "id": "fi-green-claim-old-stock-transition",
+      "recommendation": "retain",
+      "challenge": "Does CPC old-stock guidance authorize the statutory delay?",
+      "conclusion": "It expressly rejects an old-stock exemption and preserves compliance from27September2026. Case-specific phased enforcement for genuine difficulties differs from a blanket statutory postponement. Keep the qualified lead.",
+      "evidence": [
+        {
+          "url": "https://commission.europa.eu/document/download/264d8c70-2f9a-4955-8e7b-154d55a9b684_en?filename=Final+CPC+common+understanding+on+old+stock+situations+June+2026.pdf",
+          "pinpoint": "pp2–4,principles1–6",
+          "scope": "Fresh full official PDF confirms nonbinding status and case-specific discretion."
+        }
+      ],
+      "limits": [
+        "Fresh Finlex page yielded shell; first reviewer supplies decree text."
+      ]
+    },
+    {
+      "id": "de-residential-charging-commencement",
+      "recommendation": "retain",
+      "challenge": "Can new-build application transitions or EU14(5) justify national commencement in2027?",
+      "conclusion": "The recast requires the new-build duty by29May2026. Narrow micro-isolated/outermost-region and renovation-cost exceptions do not authorize blanket deferral of new applications. Keep the lead limited to qualifying new applications after the deadline.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80664",
+          "pinpoint": "14(4)–(5),35(1)",
+          "scope": "Fresh EU text confirms new-build requirements and limited exceptions."
+        }
+      ],
+      "limits": [
+        "GEIG6 fresh direct fetch timed out; enacted transition independently read by first reviewer. No individual building outcome assessed."
+      ]
+    },
+    {
+      "id": "it-dac8-ledger-address-reference",
+      "recommendation": "agree-remove",
+      "challenge": "Could the incorporated citation make reporting unintelligible?",
+      "conclusion": "The external-transfer category is expressly present. Public implementation-gap treatment needs a reason ordinary/CARF-consistent interpretation cannot identify it or conflicting instructions. Preserve internal erratum and withdraw for insufficient substantive evidence.",
+      "evidence": [
+        {
+          "url": "https://taxation-customs.ec.europa.eu/taxation/tax-transparency-cooperation/administrative-co-operation-and-mutual-assistance/directive-administrative-cooperation-dac/dac8_en?prefLang=lt",
+          "pinpoint": "CARF interpretive material",
+          "scope": "Fresh Commission page supports aligned CARF interpretation, without an Italy-specific coverage conclusion."
+        }
+      ],
+      "limits": [
+        "Current Italian statute/measure read by first reviewer; peer did not read full technical annexes/FAQs. No actual-harm prerequisite inferred."
+      ]
+    },
+    {
+      "id": "pt-electricity-complaint-protection-scope",
+      "recommendation": "agree-revise",
+      "challenge": "Could regulation82 make termination impossible while a complaint remains open, supplying equivalent protection?",
+      "conclusion": "Regulation82 permits termination after specified interruptions or direct fraud ground; articles83–88 give remedies without a general automatic stay. This is substantial protection but does not plainly replace a complaint-ground stay for every nonbilling dispute. Retain proposedPossibly qualification; do not claim practical failure.",
+      "evidence": [
+        {
+          "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2026-1139897687",
+          "pinpoint": "Article2,new185(5)–(8)",
+          "scope": "Fresh fulltext confirms express disputed-invoice restriction."
+        },
+        {
+          "url": "https://www.erse.pt/media/cw5fdm3i/regulamento-827-2023_consolidado.pdf",
+          "pinpoint": "Articles78,82–88,printedpp67–74",
+          "scope": "Fresh fullPDF targeted read shows substantive termination restrictions and complaint remedies."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80973",
+          "pinpoint": "Article2(9),new28a(2)",
+          "scope": "Fresh official EU-text mirror confirms termination/disconnection protection oncomplained-of grounds; contractual rights andantiabuse caveats remain."
+        }
+      ],
+      "limits": [
+        "No exhaustive national remedies census or actual interruption reviewed."
+      ]
+    },
+    {
+      "id": "be-single-permit-unemployment-period",
+      "recommendation": "agree-revise",
+      "challenge": "Do overriding EU rights/61/25-4 saving clause defeat a public claim of automatic residence loss?",
+      "conclusion": "They defeat an unconditional practical claim, not the concrete national90-day default. Fresh official Flanders guidance still describes three months andreturn without newemployment. Attribute the headline to the statute and keep EU-rights/validity/scope qualifications.",
+      "evidence": [
+        {
+          "url": "https://www.vlaanderen.be/en/working-enterprise-and-investment/working/employing-a-foreigner-in-flanders/changes-after-obtaining-a-permit",
+          "pinpoint": "Dismissalsection",
+          "scope": "Fresh fulltext confirms three-month practice guidance andseparate newworkauthorisation."
+        },
+        {
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80617",
+          "pinpoint": "Articles11(4),18",
+          "scope": "Fresh official EU-text mirror supports conditional unemploymentprotection anddeadline."
+        }
+      ],
+      "limits": [
+        "CurrentJustel read supplied by firstreviewer; no individualdirect-effectcase or unlawfulremoval established."
+      ]
+    }
+  ],
+  "status": "complete-first-peer-pass"
+}

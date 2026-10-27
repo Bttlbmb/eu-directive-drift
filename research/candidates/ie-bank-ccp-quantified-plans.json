@@ -1,0 +1,113 @@
+{
+  "id": "ie-bank-ccp-quantified-plans",
+  "country": "Ireland",
+  "countryCode": "IE",
+  "title": "Irish bank rules and the new quantified clearing-risk plans",
+  "topic": "Bank supervision",
+  "baseAct": "Directive 2013/36/EU",
+  "baseActPublished": "2013-06-27",
+  "amendingAct": "Directive (EU) 2024/2994",
+  "celex": "32024L2994",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "research",
+  "statusLabel": "Current statutory comparison · supervisory equivalence needs review",
+  "statusKind": "differs",
+  "statusDetail": null,
+  "evidenceDate": "2026-10-26",
+  "evidenceLabel": "Operative national provisions and later amendment register checked",
+  "deadline": "2026-06-25",
+  "deadlineLabel": "Transposition deadline",
+  "correctionDate": null,
+  "summary": "Ireland updated its investment-firm and fund rules in June 2026. Its bank rules still use general risk-governance and concentration controls. The specific new bank-management planning requirement has not been located in those rules or in a generally binding supervisory substitute.",
+  "euChange": "Bank boards must develop quantified clearing-risk plans.",
+  "nationalGap": "Regulation 64(2)–(4) requires board attention, resources and risk reporting. Regulation 69 already covers central-counterparty concentration through written policies. The later 2026 amendment adds quantitative plans for environmental, social and governance risks; it does not add the corresponding clearing-specific requirement.",
+  "nationalLaw": "European Union (Capital Requirements) Regulations 2014, SI 158/2014, regulations 61, 64 and 69, as subsequently amended, including SI 326/2026.",
+  "provisions": "2024/2994 Article 2(2), inserting CRD 76(2), fifth subparagraph; Irish regulation 64(2)–(4), read with 61 and 69; SI 326/2026 regulation 23.",
+  "consequence": "Possibly. The statutory comparison leaves a question about the specific duty to prepare quantified clearing-risk plans. Existing risk controls continue to apply. No bank failure, excessive exposure or missing actual plan has been established.",
+  "resolution": "No later express bank-plan amendment was located. The official amendment table is updated through 13 October 2026; searches for subsequent measures through 26 October found no correction.",
+  "caveat": "This is a qualified legal comparison, not a finding that banks have no clearing-risk duties. Directly applicable EMIR 7a active-account requirements, general statutory risk policies, ECB/CBI powers and individual supervisory directions remain important. A binding generally applicable supervisory rule or EU-consistent interpretation could supply equivalence. Confidential individual decisions were not audited. The duty concerns exposures to CCPs offering services of substantial systemic importance, under the EMIR 7a conditions; no qualifying Irish bank or actual affected exposure is asserted. Later unindexed measures cannot be categorically excluded.",
+  "comparison": {
+    "beforeLabel": "Current Irish bank provisions",
+    "before": "General board risk oversight and written concentration policies; new quantified plans expressly concern ESG risks.",
+    "afterLabel": "EU bank-management update",
+    "after": "Specific CCP concentration plans with quantifiable targets.",
+    "note": "The question is the specific planning obligation, not the existence of bank supervision."
+  },
+  "review": "Two researchers independently read the EU addition, Irish regulations 64 and 69, the 2026 ESG-plan amendment and targeted public supervisory alternatives. The lead also read the authentic EU amendment and the Irish operative baseline and later regulation 23. Qualified concern: possible supervisory equivalence remains unresolved; no bank-level deficiency is established.",
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Bounded searches located public discussion of EMIR3 and the correctly enacted fund/investment-firm measures, but no published identification of this precise remaining Irish bank-plan comparison. This is not a first-discovery claim.",
+  "noveltySearch": {
+    "date": "2026-10-26",
+    "method": "Exact directive, national provision, bank-plan and quantified-target searches across the Irish statute book, CBI, ECB, EBA, official transposition references and public legal commentary. General EMIR3 analysis was distinguished from identification of this exact national comparison.",
+    "queries": [
+      "Ireland \"2024/2994\" \"banks\"",
+      "Ireland \"CCP\" \"plans and quantifiable targets\"",
+      "Ireland \"Regulation 64\" \"concentration\"",
+      "Ireland \"2024/2994\" \"transposition\"",
+      "Ireland \"2024/2994\" \"October 2026\"",
+      "site:centralbank.ie \"concentration risk\" \"plans\" \"clearing\"",
+      "site:irishstatutebook.ie \"central counterparties\" \"quantifiable targets\""
+    ]
+  },
+  "sources": [
+    {
+      "title": "Authentic EMIR3 sectoral amending directive",
+      "url": "https://eur-lex.europa.eu/eli/dir/2024/2994/oj/eng",
+      "role": "EU amendment",
+      "locator": "Article 2(2), new CRD 76(2) fifth subparagraph; Article 4 deadline"
+    },
+    {
+      "title": "Irish bank governance and concentration provisions",
+      "url": "https://www.irishstatutebook.ie/eli/2014/si/158/made/en/print",
+      "role": "National operative baseline",
+      "locator": "Regulations 61,64(2)–(4),69; read together with subsequent amendments, not treated as a current consolidation"
+    },
+    {
+      "title": "Later Irish bank amendment",
+      "url": "https://www.irishstatutebook.ie/eli/2026/si/326/made/en/print",
+      "role": "Later national-law check",
+      "locator": "Regulations 22,23 and27; regulation 23 adds 64(4A)–(4D) for ESG plans, while 64(2)–(4) remains"
+    },
+    {
+      "title": "Official current bank-rule amendment table",
+      "url": "https://www.irishstatutebook.ie/isbc/si2014_151-200.html#a158_2014",
+      "role": "Currentness",
+      "locator": "Instrument 158/2014; entries for 61,64 and69; updated 13 October 2026"
+    },
+    {
+      "title": "Correctly enacted Irish investment-firm planning rules",
+      "url": "https://www.irishstatutebook.ie/eli/2026/si/290/made/en/print",
+      "role": "Scope control",
+      "locator": "Regulation 4(b), inserting 26(5A); effective 25 June 2026. This record does not allege the same omission for investment firms."
+    },
+    {
+      "title": "Correctly enacted Irish fund-rule update",
+      "url": "https://www.irishstatutebook.ie/eli/2026/si/289/made/en/print",
+      "role": "Scope control",
+      "locator": "Regulations 3–4; effective 25 June 2026. Fund implementation is separate from the bank-plan question."
+    }
+  ],
+  "catalogueStatus": "withdrawn",
+  "researchRound": "systematic",
+  "timeline": [
+    {
+      "date": "2026-06-25",
+      "event": "EU transposition deadline; Irish fund and investment-firm amendments take effect.",
+      "who": "eu"
+    },
+    {
+      "date": "2026-10-13",
+      "event": "Official bank-rule amendment table cutoff; it records no clearing-plan insertion into regulation 64.",
+      "who": "national"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Current statutory chain and supervisory alternatives checked; precise equivalence remains qualified.",
+      "who": "check"
+    }
+  ],
+  "publicationDecision": "WITHDRAWN: contrary binding CBI2015 licence conditions",
+  "withdrawalReason": "Actual conditions3.1,3.7,13.1(c),15.1–15.4,15.8 provide binding board strategy, quantitative risk metrics, monitoring, remedial notification and contingency planning. Combined with statutory CCP policies and EMIR7a, they prevent publication of the previously asserted missing binding route."
+}

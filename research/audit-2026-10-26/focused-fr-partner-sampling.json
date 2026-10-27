@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "id": "fr-partner-gamete-first-blood-sampling",
+  "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+  "access": "Fresh live browser rendered text; header EN VIGUEUR AU26OCTOBRE2026; latestupdate11October2023",
+  "pinpoints": [
+    "Annex introduction: rules are opposable; covers intraconjugal and third-party AMP",
+    "AnnexII-5.1 heading and first four bullets",
+    "AnnexII-5.1 paragraph on repeat testing after intercurrent contamination risk",
+    "Annex footnote93",
+    "AnnexII-5.2 third-party donors"
+  ],
+  "paraphrase": {
+    "firstSampling": "HIV1/2,HBV andHCV markers for concerned persons (both couple members if applicable) within six months before the first relevant event: collection/retrieval for parental AMP or non-medical conservation; first donated-gamete insemination/embryo transfer; first fertility-preservation gamete/tissue collection; first use of fertility-preserved gametes/tissues.",
+    "repeat": "Repeat testing is required when interviews identify an intervening contamination risk.",
+    "footnote93": "Attempt means insemination,IVF,embryo transfer or gamete collection for future use underL2141-12. This definition does not add a three-month limit.",
+    "thirdParty": "II-5.2 expressly concerns third-party gamete donors. For sperm, repeat markers at donation/last collection plus genomic testing, or repeat after six months where genomic testing absent, determine release. These separate third-party rules should not be assumed to cure the first partner-sampling interval."
+  },
+  "limits": [
+    "No direct-use definition located in the inspected annex.",
+    "The six-month rule is not confined to the later fertility-preservation first-use bullet; it separately includes first parental-AMP collection.",
+    "No clinic practice, actual delay or safety outcome assessed.",
+    "R1211-25/26 scope is being independently checked by agent47–68."
+  ],
+  "scopeContext": "Elsewhere the annex expressly contemplates temporary conservation of sperm during intraconjugal AMP underR2142-1(2a),including longer-term transfer if the parental project is deferred."
+}

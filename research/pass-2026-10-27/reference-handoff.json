@@ -1,0 +1,65 @@
+{
+  "researcher": "reference",
+  "date": "2026-10-27",
+  "savedAt": "2026-10-27T04:45:45Z",
+  "sourceReadCutoff": "2026-10-27T04:49:00Z",
+  "bundle": "research/reference-bundle.json",
+  "baselineComplete": 41,
+  "completeNow": 45,
+  "newComplete": [
+    {
+      "act": "31998L0026",
+      "country": "DE",
+      "conclusion": "Formal changed meanings assessed; historic designation/order saving and administrative-act equivalence remain legally inconclusive."
+    },
+    {
+      "act": "31998L0026",
+      "country": "FI",
+      "conclusion": "Formal changed meanings assessed; coordination, indirect-participant liability, historical saving, stale conflict-rule cross-reference and exact ESA promptness remain qualified."
+    },
+    {
+      "act": "31998L0026",
+      "country": "EE",
+      "conclusion": "Formal changed meanings assessed; knowledge-time anchor, historic designation/order preservation and authority allocation remain qualified."
+    },
+    {
+      "act": "32024L2994",
+      "country": "EE",
+      "conclusion": "All14 introduced meanings assessed; explicit bank/investment routes. Fund old-limit/definition equivalence, UCITS stricter-domestic no-conflict option and board attribution remain legally inconclusive. No public case."
+    }
+  ],
+  "countsByAct": {
+    "32012L0039": 26,
+    "32024L2994": 5,
+    "31996L0071": 2,
+    "31998L0026": 8,
+    "32022L2556": 4
+  },
+  "partialAdvances": [
+    {
+      "act": "32012L0039",
+      "country": "IT",
+      "progress": "Actual binding nationwide2024 PMA guideline and central donor rules establish a substantial reproductive minimum; peer personally read decisive hierarchy and screening passages.",
+      "blocker": "Nonreproductive regional-supersession dependency remains unread/unclosed. No false all4 completion."
+    },
+    {
+      "act": "31998L0026",
+      "country": "LV",
+      "progress": "Official current English collateral-law body §§1–11 read; narrows the credit-claim dependency.",
+      "blocker": "Current companion financial-instrument and central-bank cooperation sources remain inaccessible; historic saving, coordination and indirect-liability routes remain unclosed. Parent browser failure independently recorded."
+    }
+  ],
+  "peerReviews": {
+    "file": "research/pass-2026-10-27/reference-peer-reviews.json",
+    "count": 22,
+    "scope": "Bounded actual-source comparisons, with separate credit for parent and peer currentness/full-chain work. Not second exhaustive national audits or performance certificates."
+  },
+  "candidates": "No new candidate from own portfolio. HR cobalt candidate passed bounded actual-source/prose challenge; root owns publication. Czech TRIS whole Commission comment did not identify the exact extra-jelly mismatch. Bulgarian cobalt target source passed but currentness remains partial.",
+  "qualityChecks": "All135 rows present; all45 completed rows have every inventoried change ID exactly once, actual-source evidence and no remaining access blocker. Legal uncertainties remain explicit. Prose-only spacing pass preserves IDs, statuses and URLs.",
+  "publicFilesModified": false,
+  "gitModified": false,
+  "referenceRepositoriesModified": false,
+  "excludedCasesRestored": false,
+  "irishBankPlanExclusion": "Preserved; actual binding CBI2015 conditions prevent restoring the withdrawn lead.",
+  "temporaryOwnFilesRemoved": 133
+}

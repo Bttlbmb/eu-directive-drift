@@ -1,0 +1,1409 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_47_68",
+  "status": "first-pass-complete",
+  "scope": [
+    "se-single-permit-unemployment-period",
+    "nl-slapp-third-country-jurisdiction",
+    "pt-online-withdrawal-function",
+    "de-trafficking-nonsexual-service-use",
+    "hu-bank-capital-leverage-trigger",
+    "pl-water-abstraction-criminalisation",
+    "fr-electricity-fixed-price-entitlement",
+    "cz-financial-human-explanation-deferral",
+    "ro-aifm-group-investor-corrigendum",
+    "pt-repair-warranty-extension",
+    "pt-outdoor-noise-declaration-copy-duty",
+    "fi-outdoor-noise-declaration-copy-duty",
+    "pt-romanian-nurse-upgrade-recognition",
+    "de-pv-business-waste-financing-date",
+    "hu-noise-national-copy-retained",
+    "pl-reproductive-donor-htlv-prevalence",
+    "fr-partner-gamete-first-blood-sampling",
+    "ee-lead-legacy-exposure-cutoff",
+    "at-noise-declaration-copy-retained",
+    "ee-asbestos-low-risk-permit-exception",
+    "ie-bank-ccp-quantified-plans",
+    "lv-noise-national-copy-retained"
+  ],
+  "standards": "Conservative editorial assessment. Retention never certifies breach; missing notification or different words alone is insufficient. Authentic EU originals read anew; current national sources fetched where available, source-access gaps expressly stated. Fresh independent browser checks credited separately. No shared website or ledger files edited.",
+  "records": [
+    {
+      "id": "se-single-permit-unemployment-period",
+      "recommendation": "retain",
+      "assessment": "The current Migration Agency page expressly gives three months while the July government proposal supplies six months for holders over two years and proposes February2027. Authentic EU Article11(4) supports that distinction. The record already distinguishes a proposed remedy from enacted law and preserves discretion, validity and individual EU rights.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/0e6d5222-068f-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Articles3,11(4),18(1)"
+        },
+        {
+          "url": "https://www.migrationsverket.se/du-har-tillstand-i-sverige/arbeta/byta-arbetsgivare-eller-yrke-eller-sluta-arbeta.html",
+          "pinpoint": "Om du ska sluta jobba and Om du inte hittar ett nytt arbete inom tre månader; live page read 26 October"
+        },
+        {
+          "url": "https://www.regeringen.se/rattsliga-dokument/lagradsremiss/2026/07/nya-regler-om-ansokningsforfarandet-for-vissa-uppehalls--och-arbetstillstand/",
+          "pinpoint": "Published 8 July 2026; proposed commencement 1 February 2027; no operative remedy shown at check"
+        }
+      ],
+      "limits": "National statutory currentness not independently reread in this pass; agency and government pages independently retrieved. No individual permit audited.",
+      "patch": {}
+    },
+    {
+      "id": "nl-slapp-third-country-jurisdiction",
+      "recommendation": "retain",
+      "assessment": "The final implementation act leaves the general forum unchanged. The Ministry’s post-enactment table relies on existing law; the parliamentary amendment gives an expressly opposing coverage assessment. The record fairly preserves this actual dispute rather than claiming lack of any Dutch court.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/bc256fa1-fb8b-11ee-a251-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Articles17,18,22"
+        },
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/stb-2026-185.html",
+          "pinpoint": "Article I: 224a,237,353,414; no Article 6 amendment"
+        },
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26595.html",
+          "pinpoint": "20 July 2026; transposition-table Article 17(1), relying on Rv 1/6(e)"
+        },
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/kst-36731-11.html",
+          "pinpoint": "Received 29 June, published 2 July 2026; proposed Rv 6(j), explanation, notes 4–7"
+        }
+      ],
+      "limits": "Current-code endpoint returned429. No independent fresh full judgment read; retained as a contested lead.",
+      "patch": {}
+    },
+    {
+      "id": "pt-online-withdrawal-function",
+      "recommendation": "retain",
+      "assessment": "The current official prosecutorial compilation still lists its latest change as Law10/2023, and Article11(4) keeps an optional website route. Authentic new EU Article11a requires the additional function. Existing withdrawal rights are not equivalent to supplying that function.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/ba0121b2-8d8f-11ee-8aa6-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article1(3), new11a; Article2(1)"
+        },
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis",
+          "pinpoint": "Version 7, latest Law 10/2023; Articles 2, 4, 5, 10–12, 17, 31"
+        }
+      ],
+      "limits": "Bounded check of the general statute; no individual trader or complete sector-by-sector audit.",
+      "patch": {}
+    },
+    {
+      "id": "de-trafficking-nonsexual-service-use",
+      "recommendation": "retain",
+      "assessment": "Fresh current StGB232a(6) remains tied to paid sexual acts. Section233 reaches exploitation with additional elements. The pending government bill describes a broader customer offence. Authentic EU18a covers intentional knowing use of exploited services; the existing caveat correctly excludes a universal-immunity assertion.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/4bf06ba8-3204-11ef-a61b-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article1(15), new18a; Article2"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stgb/__232a.html",
+          "pinpoint": "Section 232a(6), first sentence; current title Zwangsprostitution"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stgb/__233.html",
+          "pinpoint": "Sections 233(1),(5)"
+        },
+        {
+          "url": "https://dserver.bundestag.de/btd/21/065/2106584.pdf",
+          "pinpoint": "22 June 2026; Article 1(14), proposed 232a; printed pp.43–44 explanation, especially p.44 distinction from 233"
+        }
+      ],
+      "limits": "Section10a endpoint timed out in web; no criminal case audited.",
+      "patch": {}
+    },
+    {
+      "id": "hu-bank-capital-leverage-trigger",
+      "recommendation": "retain",
+      "assessment": "The national capital provision retains the reversed risk selector identified by the authentic Hungarian correction; this is more than a lawful higher percentage. General supervisory powers may supply the correct bank-specific outcome, which remains unverified.",
+      "sourcesChecked": [
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2013-237-00-00",
+          "pinpoint": "Version 1 October–19 November 2026; Section 186(9)–(12), footnotes 605–606. Navigate to Section 186 to load its text."
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2025-100-00-00.0",
+          "pinpoint": "Section 192(1), inserting Hpt Section 186(9a)"
+        },
+        {
+          "url": "https://publications.europa.eu/resource/cellar/a9884825-912e-11f1-9262-01aa75ed71a1.0001.03/DOC_1",
+          "pinpoint": "Fresh authentic Hungarian corrigendum, new104a(4) second subparagraph: removes other-than, so Tier1 applies to excessive-leverage-risk requirement."
+        }
+      ],
+      "limits": "Parent independently browser-read current186(9)–(12) and authentic correction. This agent retrieved the current national body and authentic original amender; actual supervisory decisions were not examined.",
+      "patch": {}
+    },
+    {
+      "id": "pl-water-abstraction-criminalisation",
+      "recommendation": "retain",
+      "assessment": "The October Water Law consolidation still has no473a. Government UC148 expressly proposes a new risk-based abstraction offence including negligence. The listed administrative and criminal alternatives have different additional elements; retaining the narrow risk-only legislative coverage question is justified.",
+      "sourcesChecked": [
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/1335/text.pdf",
+          "pinpoint": "Published 14 October 2026; legal state 14 September; printed pp.205–207, Articles 473–479"
+        },
+        {
+          "url": "https://www.gov.pl/web/premier/projekt-ustawy-o-zmianie-ustawy--kodeks-karny-oraz-niektorych-innych-ustaw4",
+          "pinpoint": "Updated 18 August 2026; section 10 proposes Water Law 473a; project status"
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1566",
+          "pinpoint": "Updated 21 October 2026; amending acts and commencement dates"
+        },
+        {
+          "url": "https://eli.gov.pl/api/acts/DU/2026/1358/text.pdf",
+          "pinpoint": "Published 19 October 2026; all three pages; Article 2 commencement after 14 days"
+        },
+        {
+          "url": "https://publications.europa.eu/resource/cellar/4fb3a2ec-068e-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Fresh authentic Article3(1),3(2)(m),3(4),5(2)(e): unlawful intentional abstraction causing or likely to cause substantial status damage, serious negligence coverage; three-year minimum maximum applies to intentional category."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/1342/text.pdf",
+          "pinpoint": "Fresh complete 16 October 2026 Criminal Code consolidation read, printed pages39–45, Articles163–165,181–187. Article181 requires actual biological destruction;182 requires pollution by substance/radiation;163–165 require public danger/human or major property interests."
+        }
+      ],
+      "limits": "Fresh Water Law and Criminal Code October 2026 consolidated PDFs and current metadata now read. No individual abstraction incident, charging decision or prosecution audited.",
+      "patch": {}
+    },
+    {
+      "id": "fr-electricity-fixed-price-entitlement",
+      "recommendation": "revise",
+      "assessment": "The authentic EU amendment gives a fixed-term/fixed-price entitlement distinct from France’s one-year-duration option. The current code was independently read by the24–46 agent and still ends atL332-7; the Senate dossier remains pending. Bound the absence claim to inspected provisions.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/10e921be-3357-11ef-b441-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article2(4)(b), revised11(1); Article3"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043211411",
+          "pinpoint": "Energy Code L332-7, in force since 5 March 2021; live chapter dated 26 October 2026 still ends at L332-7"
+        },
+        {
+          "url": "https://www.senat.fr/dossier-legislatif/pjl25-118.html",
+          "pinpoint": "Updated 4 September 2026; Senate adoption 18 February, transmission to National Assembly 20 February; no promulgation stage"
+        }
+      ],
+      "limits": "Legifrance returned403 to this agent. Independent browser findings saved in crosscheck-fr-gametes-electricity.json. No individual supplier refusal audited.",
+      "patch": {
+        "consequence": "Yes, on paper. The current provisions we checked do not express the new right to a fixed-price contract from every qualifying large supplier. Fixed-price offers already exist on the market, qualifying dynamic-only suppliers may be exempt, and no refusal or customer loss has been investigated."
+      },
+      "proposedRecord": {
+        "id": "fr-electricity-fixed-price-entitlement",
+        "country": "France",
+        "countryCode": "FR",
+        "title": "Electricity contracts: new fixed-price entitlement not yet added",
+        "topic": "Electricity markets",
+        "baseAct": "Directive (EU) 2019/944 (electricity markets)",
+        "baseActPublished": "2019-06-14",
+        "amendingAct": "Directive (EU) 2024/1711 (electricity market design)",
+        "celex": "32024L1711",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "catalogueStatus": "review",
+        "researchRound": 4,
+        "stage": "government",
+        "statusLabel": "Current statutory entitlement gap · remedy proposed",
+        "statusKind": "draft",
+        "statusDetail": "A bill is before the National Assembly",
+        "evidenceDate": "2026-10-26",
+        "evidenceLabel": "Current codes and pending implementation proposal checked",
+        "deadline": "2025-01-17",
+        "deadlineLabel": "Relevant implementation deadline",
+        "summary": "France’s code still imposes the dynamic-offer obligation. The proposed additional fixed-price entitlement has not been inserted.",
+        "euChange": "Fixed-price contract entitlement.",
+        "nationalGap": "Energy Code L332-7 requires dynamic-price offers from suppliers serving more than 200,000 sites. Consumer Code L224-5 requires a one-year contract option, without requiring its price to be fixed. Proposed L332-8 would add a fixed-price obligation for large suppliers, but remains in the pending DDADUE bill.",
+        "nationalLaw": "Energy Code L332-7; Consumer Code L224-5; proposed Energy Code L332-8 in DDADUE Article 37.",
+        "provisions": "Amending Article 2(4)(b), revised Article 11(1); Article 3(1); national L332-7, L224-5.",
+        "consequence": "Yes, on paper. The current provisions we checked do not express the new right to a fixed-price contract from every qualifying large supplier. Fixed-price offers already exist on the market, qualifying dynamic-only suppliers may be exempt, and no refusal or customer loss has been investigated.",
+        "resolution": "The current chapter of the Energy Code still ends at L332-7. The parliamentary file records a bill before the National Assembly; bounded searches for later measures found no enacted L332-8 or equivalent general obligation.",
+        "caveat": "Fixed-price products already exist commercially, and ordinary consumer and contract protections continue. The comparison concerns an entitlement from every qualifying large supplier, rather than market availability. Qualifying dynamic-only suppliers may be exempt. Possible EU-derived rights and consistent interpretation require individual assessment. Voluntary CRE commitments are not a demonstrated equivalent mandatory entitlement.",
+        "comparison": {
+          "beforeLabel": "Current national obligations",
+          "before": "Dynamic-price offers from large suppliers and a one-year contract option, which does not have to be at a fixed price.",
+          "afterLabel": "EU requirement",
+          "after": "A right to a fixed-price contract.",
+          "note": "Commercial fixed-price offers already exist."
+        },
+        "review": "Independent adverse review passed. A second researcher checked the EU provision and deadline, existing one-year consumer rule, CRE commitments and later-enactment searches. A third read the live current Energy Code chapter on 26 October, confirming L332-7 and no L332-8. No mandatory equivalent was located.",
+        "priorRecognition": "recognized",
+        "recognizedBy": [
+          "French government",
+          "French Senate"
+        ],
+        "recognitionNote": "The government bill and Senate report expressly identify the fixed-price obligation as an addition still needed in French law.",
+        "noveltySearch": {
+          "date": "2026-10-26",
+          "method": "Read current code text, the pending implementation provisions and official regulator material; searched for later enactment and equivalent mandatory rules. Precise prior government and parliamentary recognition was found.",
+          "queries": [
+            "site:legifrance.gouv.fr \"L332-8\" \"énergie\"",
+            "site:cre.fr \"2024/1711\" \"prix fixe\"",
+            "site:senat.fr \"pjl25-118\" \"prix fixe\"",
+            "site:legifrance.gouv.fr \"L224-5\" \"un an\""
+          ]
+        },
+        "sources": [
+          {
+            "title": "Electricity-market reform",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024L1711",
+            "role": "EU amendment and deadline",
+            "locator": "Article 2(4)(b), replacing Article 11(1); Article 3(1)"
+          },
+          {
+            "title": "Current electricity contract and offer provisions",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043211411",
+            "role": "Current national law",
+            "locator": "Energy Code L332-7, in force since 5 March 2021; live chapter dated 26 October 2026 still ends at L332-7"
+          },
+          {
+            "title": "Existing one-year consumer contract option",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226729",
+            "role": "Adverse existing-law check",
+            "locator": "Consumer Code L224-5; in force since 1 July 2016; duration requirement without fixed-price requirement"
+          },
+          {
+            "title": "Proposed fixed-price obligation",
+            "url": "https://www.senat.fr/seances/s202602/s20260217/s20260217025.html",
+            "role": "Proposed remedy and prior recognition",
+            "locator": "17 February 2026; Article 37, proposed L332-8(I)"
+          },
+          {
+            "title": "Senate explanation of the new obligation",
+            "url": "https://www.senat.fr/rap/r25-300/r25-30070.html",
+            "role": "Prior parliamentary recognition",
+            "locator": "Section B, Article 37 bullet on creating the fixed-price obligation; report dated 21 January 2026"
+          },
+          {
+            "title": "Current legislative dossier",
+            "url": "https://www.senat.fr/dossier-legislatif/pjl25-118.html",
+            "role": "Later-enactment status check",
+            "locator": "Updated 4 September 2026; Senate adoption 18 February, transmission to National Assembly 20 February; no promulgation stage"
+          },
+          {
+            "title": "CRE describes voluntary supplier commitments",
+            "url": "https://www.cre.fr/actualites/toute-lactualite/lenergie-du-droit-numero-77.html",
+            "role": "Adverse alternative-rule check",
+            "locator": "Voluntary consumer-protection commitments, rather than a general mandatory fixed-price offer duty"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-06-26",
+            "event": "Electricity-market amendment published.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-01-17",
+            "event": "Relevant implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-02-17",
+            "event": "Senate considers the proposed fixed-price obligation.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current provisions and pending-remedy status checked.",
+            "who": "check"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cz-financial-human-explanation-deferral",
+      "recommendation": "retain",
+      "assessment": "Authentic EU16d establishes human intervention within the adequate-explanation regime with sectoral limits. Official parliamentary debate explicitly records the January2027 amendment and discusses the precise human-explanation clause. The notified final enactment is indexed on EUR-Lex with the new clause. The record correctly confines the concern to delayed commencement.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/ba0121b2-8d8f-11ee-8aa6-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "New16d(3),(5); Article2"
+        },
+        {
+          "url": "https://www.psp.cz/eknih/2025ps/stenprot/027schuz/s027026.htm",
+          "pinpoint": "10 July 2026, bill16 third reading: commencement amendment and debate on Section1845 human explanation"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=NIM%3A202607034",
+          "pinpoint": "Final Act159/2026, ArticleV(9); ArticleXII"
+        }
+      ],
+      "limits": "e-Sbirka supplies only an empty JS shell to this agent. Final commencement was not freshly read from its full promulgated PDF; parliamentary date independently verified.",
+      "patch": {}
+    },
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "recommendation": "remove",
+      "assessment": "The branch/subsidiary difference is real, but the operative EU clause defines an exclusion from AIFMD, not an independently demonstrated ban on national regulation of excluded managers. No affected manager, decision, restriction of an EU passport or specific contrary EU obligation is established. Under the requested conservative threshold, hold the textual drafting lead in research rather than list it publicly as an unresolved implementation issue.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/d75d4591-19f4-470f-a1ba-6833902d0d76.0017.03/DOC_1",
+          "pinpoint": "Article3(1), recitals8,16; recital17 concerns a separate subthreshold category"
+        },
+        {
+          "url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3PEIZSBUIT9PF2MEAYMVWDFYOH",
+          "pinpoint": "Articles 1(5)(a), 2(1), 3(25); body includes Law 243/2025 amendments effective 16 April 2026; checked 26 October 2026."
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62010CJ0602",
+          "pinpoint": "C602/10 paras38–43, analogy only: excluded agreements can be regulated in a national transposition measure"
+        }
+      ],
+      "limits": "This is an editorial insufficient-evidence exclusion, not a finding that the national wording is correct or that every wider rule is lawful. The cited judgment addresses a different directive; the inference is expressly limited.",
+      "patch": {}
+    },
+    {
+      "id": "pt-repair-warranty-extension",
+      "recommendation": "retain",
+      "assessment": "Fresh current national18(4) still gives six months per repair. Authentic EU10(2a) requires a once-only twelve-month increment. The longer baseline does not itself satisfy the increment; the special10(5a) alternative is for systems without fixed liability periods, unlike the national three-year rule. Existing qualifications are appropriate.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/c106003f-3e56-11ef-ab8f-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article16(2), new10(2a),(3),(5a); Articles21–22"
+        },
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&nid=3471&pagina=1&so_miolo=&tabela=leis",
+          "pinpoint": "Currentness header reports no amendments; Articles 12(1), 12(4), 17 and 18(4)."
+        }
+      ],
+      "limits": "No individual claim or full enforcement audit. Compare the added incentive, not total warranty duration.",
+      "patch": {}
+    },
+    {
+      "id": "pt-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain",
+      "assessment": "The current official consolidation retains Article7(3)’s express premarket copies to national authority and Commission. Authentic EU reporting simplification removes the routine-copy scheme. The concrete premarket condition is stronger evidence than missing notification alone.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/edafb9b4-9ca8-11ef-85f0-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Recital5, Articles2(1),5(1)"
+        },
+        {
+          "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-156246098",
+          "pinpoint": "Article 7(3); current version at 26 October 2026 directly read; last change 29 January 2021."
+        }
+      ],
+      "limits": "DRE cached comparison page displays an August2026 version date and latest amendment2021; its separate history endpoint returnedJS. No current enforcement or penalty inferred.",
+      "patch": {}
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "recommendation": "retain",
+      "assessment": "Fresh official consolidatedXML Section10 retains the route through SYKE to Commission. Its scope is correctly limited to equipment manufactured in Finland or first EEA commissioning there. The record fairly separates proposed reform and retained targeted surveillance duties.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/edafb9b4-9ca8-11ef-85f0-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Recital5, Articles2(1),5(1)"
+        },
+        {
+          "url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/621/fin%40",
+          "pinpoint": "Section 10; retrieved 26 October 2026. Consolidation incorporates the 18 December 2025 amendment; document produced 16 October 2026."
+        },
+        {
+          "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2025/1324",
+          "pinpoint": "Decree 1324/2025 changes Section 8(2), effective 1 January 2026; not Section 10."
+        }
+      ],
+      "limits": "Consultation endpoint returned403; no fresh full consultation attachment read. Later enactment/currentness beyond the XML production date still requires care.",
+      "patch": {}
+    },
+    {
+      "id": "pt-romanian-nurse-upgrade-recognition",
+      "recommendation": "retain",
+      "assessment": "Current Law9/2009 Article30(3) still lists the older qualification routes with practice evidence. The2025 Order registration regulation supplies a broad conformity-certificate procedure, but does not expressly replace the special statutory route. The authentic EU upgrade exceptions and pending government proposal support a narrow drafting/coverage lead; no refusal should be claimed.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/cd63e106-c947-11ee-95d9-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article1(2), new33a(2)(b),(c); Article2"
+        },
+        {
+          "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-107094734",
+          "pinpoint": "Article 30(3), last amended in 2017; live version at 26 October 2026, latest statutory amendment 24 May 2021. General recognition in Articles 17/20."
+        },
+        {
+          "url": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=356612",
+          "pinpoint": "Proposal 71/XVII/1; introduced 21 April 2026, general approval/committee referral 25 September 2026; linked original text Article 2, proposed Article 30."
+        },
+        {
+          "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/371-2025-911688722",
+          "pinpoint": "Article 6(1)(c), Article 16 and Annex II(g): conformity-certificate procedure; no express upgraded Romanian exception located."
+        }
+      ],
+      "limits": "DRE cached page’s displayed version date isAugust2026; its latest amendment header is2021. General recognition, conformity certificates and primacy remain possible protections.",
+      "patch": {}
+    },
+    {
+      "id": "de-pv-business-waste-financing-date",
+      "recommendation": "revise",
+      "assessment": "Fresh current ElektroG3(4)(b) retains the2015 historical-panel cutoff, while19(3) assigns historical nonhousehold costs to users. Authentic revised EU13(1)(b) uses2012. The record already narrows to exclusive nonhousehold panels, applicable scope, contractual variation and the ministry’s contrary sufficiency assessment. Current EAR guidance expressly lists large and small PV modules exclusively for non-household use, but current UBA disposal guidance says even commercial/freestanding panels are dual-use household waste. Retain only an open conditional default comparison; do not infer qualifying waste from commercial use or claim an affected present cohort.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/c2697f27-e597-11ee-8b2b-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article1(3), revised13(1)(b); recitals4–9"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html",
+          "pinpoint": "3(4)(b),3(5),19(3); last amended 25 November 2025, checked 26 October 2026."
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2024/118/VO.html",
+          "pinpoint": "Notice 9 April 2024, BGBl I 118 published 15 April 2024; official one-page PDF personally read."
+        },
+        {
+          "url": "https://www.stiftung-ear.de/themenwelten/pflichten-hersteller/welche-geraetearten-gibt-es/",
+          "pinpoint": "Current page, heading Gerätearten für, B2B list expressly includes large and small photovoltaic modules exclusively for non-household use; body freshly read 26 October 2026."
+        },
+        {
+          "url": "https://www.umweltbundesamt.de/en/node/10453",
+          "pinpoint": "Entsorgung und Behandlung von alten Photovoltaikmodulen; page dated 26 March 2024 with June 2026 map; says even commercial/freestanding modules are household/dual-use. Fresh full body read; contrary guidance."
+        }
+      ],
+      "limits": "No panel classification or contract audited; Article13(2) agreements remain relevant. Current statutory body retrieved directly.",
+      "patch": {
+        "statusKind": "open",
+        "statusDetail": "Default comparison depends on whether any panels qualify as exclusively non-household waste",
+        "summary": "German law still uses a 2015 cutoff where the revised EU non-household financing rule uses 2012. The practical scope is unresolved: the official register lists exclusively commercial panel categories, while environmental-agency guidance treats commercial panels as household dual-use waste.",
+        "consequence": "Possibly, if panels placed on the market in the relevant 2012–2015 interval qualify as exclusively non-household waste. The statutory default assigns historical-panel costs to users, while the EU default generally assigns the relevant newer panels to producers. Ordinary commercial or solar-park use does not establish that classification; no affected panel or contract has been identified.",
+        "sources": [
+          {
+            "title": "WEEE financing amendment",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/884/oj",
+            "role": "EU changed rule and date",
+            "locator": "Article 1(3), revised 13(1);Article 2;recitals 4–9. Full official English original read."
+          },
+          {
+            "title": "Current German electrical-waste law",
+            "url": "https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html",
+            "role": "Current national comparison",
+            "locator": "3(4)(b),3(5),19(3); last amended 25 November 2025, checked 26 October 2026."
+          },
+          {
+            "title": "Federal implementation notice",
+            "url": "https://www.recht.bund.de/bgbl/1/2024/118/VO.html",
+            "role": "Contrary official position",
+            "locator": "Notice 9 April 2024, BGBl I 118 published 15 April 2024; official one-page PDF personally read."
+          },
+          {
+            "title": "Original directive agreement option",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012L0019",
+            "role": "Financing qualification",
+            "locator": "Article 13(2), not replaced by 2024/884."
+          },
+          {
+            "title": "Current registration authority equipment categories",
+            "url": "https://www.stiftung-ear.de/themenwelten/pflichten-hersteller/welche-geraetearten-gibt-es/",
+            "role": "Current category and scope check",
+            "locator": "B2B list expressly includes large and small photovoltaic modules exclusively for use outside private households. Current full body read 26 October 2026; no actual panel classified."
+          },
+          {
+            "title": "Environmental agency photovoltaic disposal guidance",
+            "url": "https://www.umweltbundesamt.de/en/node/10453",
+            "role": "Contrary official classification guidance",
+            "locator": "Disposal section says modules from commercial use, including solar parks, are also household or equivalent dual-use waste. Fresh full page read; page dated 26 March 2024, June 2026 map. Limits any inference from commercial use."
+          }
+        ],
+        "review": "Current law and authentic EU financing default independently read. A further adverse classification review found express current EAR categories for exclusively non-household modules but contrary UBA guidance treating commercial modules as dual-use household waste. This remains an open conditional comparison; no qualifying panel, affected contract or unpaid disposal was identified.",
+        "peerReviewStatus": "qualified"
+      },
+      "proposedRecord": {
+        "id": "de-pv-business-waste-financing-date",
+        "country": "Germany",
+        "countryCode": "DE",
+        "title": "Exclusive business-use solar panels retain a later financing cutoff",
+        "topic": "Electrical waste",
+        "baseAct": "Directive 2012/19/EU (WEEE)",
+        "amendingAct": "Directive (EU) 2024/884",
+        "celex": "32024L0884",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "catalogueStatus": "review",
+        "researchRound": "systematic",
+        "stage": "research",
+        "statusLabel": "Current date mismatch · government considers law sufficient",
+        "deadline": "2025-10-09",
+        "deadlineLabel": "Implementation deadline",
+        "evidenceDate": "2026-10-26",
+        "evidenceLabel": "Current statutory definitions and financing default read",
+        "summary": "German law still uses a 2015 cutoff where the revised EU non-household financing rule uses 2012. The practical scope is unresolved: the official register lists exclusively commercial panel categories, while environmental-agency guidance treats commercial panels as household dual-use waste.",
+        "euChange": "Revised 13(1)(b) expressly covers panels marketed from 13 August 2012.",
+        "nationalGap": "ElektroG §3(4)(b) classifies earlier-than 24 October 2015 panels as historical. Section 19(3) assigns historical non-household disposal costs to the end user. The compared cohort is exclusively non-household panels first marketed 13 August 2012–23 October 2015.",
+        "nationalLaw": "ElektroG §3(4)(b),3(5),19(3).",
+        "provisions": "2024/884 Article 1(3); revised 2012/19 Article 13(1)(b); Article 2 deadline;currentElektroG §3/19.",
+        "consequence": "Possibly, if panels placed on the market in the relevant 2012–2015 interval qualify as exclusively non-household waste. The statutory default assigns historical-panel costs to users, while the EU default generally assigns the relevant newer panels to producers. Ordinary commercial or solar-park use does not establish that classification; no affected panel or contract has been identified.",
+        "resolution": "Current official law retains both provisions. The federal ministry’s 2024 notice declares that the existing ElektroG implements the amendment; this contrary position remains material.",
+        "caveat": "Only panels otherwise within WEEE scope are compared; equipment excluded under Article2(4), including qualifying large-scale fixed installations, is excluded. This concerns genuinely exclusive non-household equipment. Dual-use panels fall within the broader household category even when bought by businesses. EU Article 13(2) permits alternative financing agreements, and national 19(3) also permits contractual variation. Individual contracts, conformity with EU law and official practice need assessment. The 2012 onward rule was not first invented in 2024; the amendment restates differentiated dates after C-181/20’s pre-2012 invalidity finding. This is a qualified comparison, not a demonstrated uncovered disposal or adjudicated breach.",
+        "comparison": {
+          "beforeLabel": "National historical-waste default",
+          "before": "End user pays for exclusively business-use panels marketed before 24 October 2015.",
+          "afterLabel": "Revised EU producer-financing period",
+          "after": "From 13 August 2012, subject to permitted agreements.",
+          "note": "Only otherwise in-scope, exclusively business-use panels are compared. Household-compatible equipment and applicable installation exclusions are outside this lead."
+        },
+        "review": "Current law and authentic EU financing default independently read. A further adverse classification review found express current EAR categories for exclusively non-household modules but contrary UBA guidance treating commercial modules as dual-use household waste. This remains an open conditional comparison; no qualifying panel, affected contract or unpaid disposal was identified.",
+        "priorRecognition": "not-located",
+        "recognizedBy": [],
+        "recognitionNote": "Bounded searches found descriptions of national 2015 rules and of EU 2012 dates, but no analysis expressly identifying this precise residual cohort mismatch. The ministry takes the contrary position that existing law implements the amendment.",
+        "noveltySearch": {
+          "date": "2026-10-26",
+          "method": "Searched exact paired dates, photovoltaic financing, statutory provisions and 2024/884; reviewed current official law, amendment status and contrary ministry notice. No precise mismatch acknowledgment located; no first-discovery claim.",
+          "queries": [
+            "\"Photovoltaikmodule\" \"13. August 2012\" \"24. Oktober 2015\"",
+            "\"ElektroG\" \"historische\" \"2012\" \"Finanzierung\"",
+            "\"2024/884\" \"Deutschland\" \"Umsetzung\" \"Photovoltaik\"",
+            "\"2024/884\" \"§19\" \"2015\""
+          ]
+        },
+        "sources": [
+          {
+            "title": "WEEE financing amendment",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/884/oj",
+            "role": "EU changed rule and date",
+            "locator": "Article 1(3), revised 13(1);Article 2;recitals 4–9. Full official English original read."
+          },
+          {
+            "title": "Current German electrical-waste law",
+            "url": "https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html",
+            "role": "Current national comparison",
+            "locator": "3(4)(b),3(5),19(3); last amended 25 November 2025, checked 26 October 2026."
+          },
+          {
+            "title": "Federal implementation notice",
+            "url": "https://www.recht.bund.de/bgbl/1/2024/118/VO.html",
+            "role": "Contrary official position",
+            "locator": "Notice 9 April 2024, BGBl I 118 published 15 April 2024; official one-page PDF personally read."
+          },
+          {
+            "title": "Original directive agreement option",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012L0019",
+            "role": "Financing qualification",
+            "locator": "Article 13(2), not replaced by 2024/884."
+          },
+          {
+            "title": "Current registration authority equipment categories",
+            "url": "https://www.stiftung-ear.de/themenwelten/pflichten-hersteller/welche-geraetearten-gibt-es/",
+            "role": "Current category and scope check",
+            "locator": "B2B list expressly includes large and small photovoltaic modules exclusively for use outside private households. Current full body read 26 October 2026; no actual panel classified."
+          },
+          {
+            "title": "Environmental agency photovoltaic disposal guidance",
+            "url": "https://www.umweltbundesamt.de/en/node/10453",
+            "role": "Contrary official classification guidance",
+            "locator": "Disposal section says modules from commercial use, including solar parks, are also household or equivalent dual-use waste. Fresh full page read; page dated 26 March 2024, June 2026 map. Limits any inference from commercial use."
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2012-08-13",
+            "event": "EU financing cutoff for panels in the compared rule.",
+            "who": "eu"
+          },
+          {
+            "date": "2015-10-24",
+            "event": "National historic-panel cutoff.",
+            "who": "national"
+          },
+          {
+            "date": "2024-03-19",
+            "event": "EU amending directive published.",
+            "who": "eu"
+          },
+          {
+            "date": "2024-04-15",
+            "event": "Ministry declares existing law implements it.",
+            "who": "national"
+          },
+          {
+            "date": "2025-10-09",
+            "event": "Implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current statutory default and contrary position reviewed.",
+            "who": "check"
+          }
+        ],
+        "peerReviewStatus": "qualified",
+        "statusKind": "open",
+        "statusDetail": "Default comparison depends on whether any panels qualify as exclusively non-household waste",
+        "baseActPublished": "2012-07-24"
+      }
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "recommendation": "revise",
+      "assessment": "Fresh national11(1) still imposes an automatic national copy, and the authentic2025 amender deletes only the Commission route. EU recital5 expressly describes deletion of both national and Commission copy burdens, supporting a plausible implementation question. Nevertheless, separate lawful domestic surveillance is unresolved, so status and consequence must remain open.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/edafb9b4-9ca8-11ef-85f0-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Recital5, Articles2(1),5(1)"
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2001-140-20-22",
+          "pinpoint": "Sections 3, 5(3), 10(2), 11, 12(3); current 31 December 2025 onward; live 26 October 2026."
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2025-469-K3-22",
+          "pinpoint": "Broad reporting reform acknowledged; precise residual mismatch not identified."
+        }
+      ],
+      "limits": "The government rationale does not expressly admit the surviving national-only clause is an error. No premarket condition, actual filing or penalty is established.",
+      "patch": {
+        "statusKind": "open",
+        "consequence": "Possibly. A routine copy to the national authority remains after the EU removed the reporting scheme. Whether this survives lawfully as a separate national surveillance rule, or creates any actual filing burden, has not been established."
+      },
+      "proposedRecord": {
+        "id": "hu-noise-national-copy-retained",
+        "country": "Hungary",
+        "countryCode": "HU",
+        "title": "Routine equipment declarations still go to the national authority",
+        "topic": "Outdoor equipment and reporting",
+        "baseAct": "Directive 2000/14/EC",
+        "amendingAct": "Directive (EU) 2024/2839",
+        "celex": "32024L2839",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "catalogueStatus": "review",
+        "researchRound": "systematic25",
+        "stage": "research",
+        "statusKind": "open",
+        "evidenceDate": "2026-10-26",
+        "evidenceLabel": "Current national law independently read",
+        "deadline": "2025-11-29",
+        "deadlineLabel": "EU application date; adoption/publication due 28 November 2025",
+        "summary": "The national-only submission remains after Hungary’s 2025 partial repeal. Its compatibility requires legal review.",
+        "euChange": "Delete the routine declaration-copy provision.",
+        "nationalGap": "Section 11(1) still requires a copy for every equipment type. The 2025 amender deleted only Section 11(2), the Commission route.",
+        "nationalLaw": "Government Decree 140/2001, Section 11(1); amending Decree 469/2025, Section 2.",
+        "provisions": [
+          "EU 2024/2839 Articles 2(1), 5(1)",
+          "National 140/2001 Sections 3, 5(3), 10(2), 11, 12(3)"
+        ],
+        "consequence": "Possibly. A routine copy to the national authority remains after the EU removed the reporting scheme. Whether this survives lawfully as a separate national surveillance rule, or creates any actual filing burden, has not been established.",
+        "resolution": "No later removal of Section 11(1) located.",
+        "caveat": "This is a residual-text lead, not a finding that every national information duty is unlawful. The underlying directive’s harmonisation/free-movement rules support scrutiny, but lawful market-surveillance requests remain available. The national rule states no advance-submission deadline; no premarketing condition or automatic fine is inferred. Declaration preparation, retention, targeted requests and actual administrative practice are separate.",
+        "comparison": {
+          "beforeLabel": "Current national text",
+          "before": "Copy to Government Office for every type.",
+          "afterLabel": "EU simplification",
+          "after": "Routine-copy provision deleted.",
+          "note": "Targeted requests remain distinct."
+        },
+        "review": "Independent primary-law comparison, authentic amender and adverse legal-scope review passed. The coordinating researcher separately read the live current national version. Legal significance and actual enforcement remain qualified.",
+        "priorRecognition": "not-located",
+        "recognizedBy": [],
+        "recognitionNote": "Government publications acknowledge the broader reporting reform. No published source identifying this precise surviving national-only copy duty as an implementation mismatch was located; no first-discovery claim.",
+        "noveltySearch": {
+          "date": "2026-10-26",
+          "method": "Bounded exact identifier and Hungarian reporting/error searches across official sources and public commentary found enactment, explanatory memorandum, draft and generic reform summaries; none identified the precise residual national-copy mismatch.",
+          "queries": [
+            "\"140/2001\" \"2024/2839\" \"11\" \"másolat\"",
+            "\"140/2001\" \"2024/2839\" \"11\" hiba",
+            "\"469/2025\" \"zaj\" \"adatszolgáltatás\"",
+            "\"140/2001\" \"megküldeni\" \"Bizottság\" 2026"
+          ]
+        },
+        "sources": [
+          {
+            "title": "EU reporting simplification, authentic Hungarian text",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/hun",
+            "role": "EU amendment",
+            "locator": "Articles 2(1), 5(1); entire relevant clauses read."
+          },
+          {
+            "title": "Current Hungarian outdoor-equipment decree",
+            "url": "https://njt.jog.gov.hu/jogszabaly/2001-140-20-22",
+            "role": "Current national rule",
+            "locator": "Sections 3, 5(3), 10(2), 11, 12(3); current 31 December 2025 onward; live 26 October 2026."
+          },
+          {
+            "title": "Authentic 2025 partial repeal",
+            "url": "https://magyarkozlony.hu/dokumentumok/82c68f94f4b407cf9e51b594d2f43255655549c4/letoltes",
+            "role": "Enacted change",
+            "locator": "Gazette 2025 No 161, p 11721; 469/2025 Sections 1–4."
+          },
+          {
+            "title": "Official explanation of the reporting repeal",
+            "url": "https://njt.jog.gov.hu/jogszabaly/2025-469-K3-22",
+            "role": "Related government recognition",
+            "locator": "Broad reporting reform acknowledged; precise residual mismatch not identified."
+          },
+          {
+            "title": "Current EU noise directive",
+            "url": "https://eur-lex.europa.eu/eli/dir/2000/14/2026-05-30/eng",
+            "role": "Later-law and adverse-scope check",
+            "locator": "Articles 1, 6, 9, 17; Article 16 deleted; consolidation includes 2024/2749."
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-10-23",
+            "who": "eu",
+            "event": "EU adopted reporting simplification."
+          },
+          {
+            "date": "2025-11-29",
+            "who": "eu",
+            "event": "National application date."
+          },
+          {
+            "date": "2025-12-30",
+            "who": "national",
+            "event": "Hungary published 469/2025."
+          },
+          {
+            "date": "2025-12-31",
+            "who": "national",
+            "event": "Commission-copy repeal took effect; national-copy clause remained."
+          },
+          {
+            "date": "2026-10-26",
+            "who": "check",
+            "event": "Current rule and later-law indications checked."
+          }
+        ],
+        "baseActPublished": "2000-07-03",
+        "statusDetail": "The Commission copy was removed; the national copy remains.",
+        "statusLabel": "Residual national copy duty; legal significance under review"
+      }
+    },
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "recommendation": "remove-to-research-only-pending-non-equivalence-analysis",
+      "assessment": "Fresh incidence/prevalence difference remains verified, but the focused final review found binding parent-law current-medical-knowledge and necessary-testing/risk duties in Articles3,29 and30. A high-prevalence/low-incidence scenario shows a possible categorical gap; this review did not establish that omitting HTLV testing would be lawful after those duties apply. Recommend conservative research-only withholding, without claiming complete transposition. Independent challenge favours possible open retention; see focused note for both arguments.",
+      "sourcesChecked": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32012L0039",
+          "pinpoint": "Recital3; Annex(2)(a),(b)"
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/384/text.pdf",
+          "pinpoint": "Printed pp. 5–6, Annex 1 tables 1–2; pp. 2–3, Sections 2–3."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/272/text.html",
+          "pinpoint": "Section 3(5)(e)."
+        },
+        {
+          "url": "https://publications.europa.eu/resource/cellar/f23ce6a3-3a53-11e2-b7ce-01aa75ed71a1.0006.04/DOC_1",
+          "pinpoint": "Fresh authentic recital3 and Annex(1)/(2): incidence replaced by prevalence; first partner donation outside direct use sampling within three months, subsequent sampling no later than24 months."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/442/text.pdf",
+          "pinpoint": "Fresh full current Infertility Act; printedp5 Article3(1),p10 Article29,p11 Article30,p14 Article35. Binding current medical knowledge, necessary tests and recipient/child risk control."
+        }
+      ],
+      "limits": "No authoritative clinical-law application establishing residual permissible omission or full equivalence. No actual missed test or harm. Final focused note: research/audit-2026-10-26/focused-donor-testing-47-68.json; agent01 independently challenges withdrawal.",
+      "patch": {}
+    },
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "recommendation": "revise",
+      "assessment": "The authentic EU rule distinguishes first partner non-direct-use sampling within three months from later sampling up to24months. Independent fresh browser reading confirms the French six-month first-sample clause and that footnote93 creates no three-month override. Make the narrow partner/non-direct-use scope visible in the title and consequence. Final focused review confirms a credible first banked-partner collection within the six-month national clause but outside the EU three-month rule. Separate direct-use and third-party rules do not provide an identified universal cure. Current hospital policies differ; clinical duties remain material.",
+      "sourcesChecked": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32012L0039",
+          "pinpoint": "Annex(2)(c), revisedAnnexIII4.2"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+          "pinpoint": "Annex II-5.1 and footnote 93; current header 26 October 2026, latest change 11 October 2023."
+        },
+        {
+          "url": "https://publications.europa.eu/resource/cellar/f23ce6a3-3a53-11e2-b7ce-01aa75ed71a1.0006.04/DOC_1",
+          "pinpoint": "Fresh authentic recital3 and Annex(1)/(2): incidence replaced by prevalence; first partner donation outside direct use sampling within three months, subsequent sampling no later than24 months."
+        },
+        {
+          "url": "https://hopital-antoine-beclere.aphp.fr/biologie-de-la-reproduction-amp",
+          "pinpoint": "Fresh current first-party hospital policy, updated1October2025: first attempt serology under3months."
+        },
+        {
+          "url": "https://hopital-dcss.org/notre-dossier-fertilite",
+          "pinpoint": "Fresh current first-party hospital policy: both partners first-attempt serology under6months;FIV/ICSI/TECcontext. Evidence of different protocols, not universallegalrule."
+        }
+      ],
+      "limits": "Legifrance403 to this agent; independent national check saved in crosscheck-fr-gametes-electricity.json. No individual treatment safety inference.",
+      "patch": {
+        "title": "First blood sample for some partner fertility treatment can be six months old",
+        "consequence": "The current annex allows a six-month first-sample window for relevant partner collection, while the EU requires three months for partner donations outside direct use, including banked material. Additional clinical testing duties and stricter local protocols remain relevant. No actual outdated test, infection or patient harm has been established.",
+        "caveat": "Direct-use partner donations are outside this EU timing requirement; third-party donation has separate rules. The concern is limited to an initial partner collection with banking/storage or relevant embryo cryopreservation. Interview-based risk assessment and additional testing continue, and some hospitals require three months. No equivalent binding nationwide three-month partner rule was identified. This does not assess individual treatment safety."
+      },
+      "proposedRecord": {
+        "id": "fr-partner-gamete-first-blood-sampling",
+        "title": "First blood sample for some partner fertility treatment can be six months old",
+        "country": "France",
+        "countryCode": "FR",
+        "topic": "Health and donor safety",
+        "baseAct": "Directive 2006/17/EC",
+        "baseActPublished": "2006-02-09",
+        "amendingAct": "Directive 2012/39/EU",
+        "celex": "32012L0039",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "stage": "research",
+        "statusLabel": "Qualified concern · first-sample timing",
+        "statusKind": "differs",
+        "statusDetail": "France previously shortened the window to three months, then replaced the annex with a six-month window.",
+        "evidenceDate": "2026-10-26",
+        "deadline": "2014-06-17",
+        "correctionDate": null,
+        "deadlineLabel": "Implementation deadline",
+        "summary": "Current assisted-reproduction rules allow a six-month first-sample window, reversing an earlier three-month transposition. The comparison concerns partner gametes outside direct use.",
+        "euChange": "First partner sample: within three months before donation.",
+        "nationalGap": "Annex II-5.1 allows HIV, hepatitis B and hepatitis C screening within six months before the first gamete collection. A 2014 order had expressly changed six months to three.",
+        "nationalLaw": "Order of 11 April 2008, annex II-5.1 as replaced by the Order of 5 October 2023.",
+        "provisions": "2012/39 Annex (2)(c), replacing 2006/17 Annex III 4.2.",
+        "consequence": "The current annex allows a six-month first-sample window for relevant partner collection, while the EU requires three months for partner donations outside direct use, including banked material. Additional clinical testing duties and stricter local protocols remain relevant. No actual outdated test, infection or patient harm has been established.",
+        "resolution": "The current official consolidation was checked on 26 October 2026. No later correction or exact published discrepancy analysis was located in bounded searches.",
+        "caveat": "Direct-use partner donations are outside this EU timing requirement; third-party donation has separate rules. The concern is limited to an initial partner collection with banking/storage or relevant embryo cryopreservation. Interview-based risk assessment and additional testing continue, and some hospitals require three months. No equivalent binding nationwide three-month partner rule was identified. This does not assess individual treatment safety.",
+        "review": "Independent adverse review passed: current Code donor rules do not establish a three-month partner-treatment cure; root independently read the current binding annex.",
+        "comparison": {
+          "before": "First partner sample: three months before donation.",
+          "after": "Current national first-sample window: six months.",
+          "note": "The 2014 transposition expressly shortened the window; the current replacement annex widens it again.",
+          "beforeLabel": "Revised EU requirement",
+          "afterLabel": "Current national rule"
+        },
+        "priorRecognition": "not-located",
+        "recognizedBy": [],
+        "recognitionNote": "Bounded French and English searches on 26 October 2026 combined the directive, 2014 and 2023 orders, partner screening and three-/six-month terms. The earlier transposition and current rule are public; no analysis identifying this exact current mismatch was located. This does not establish first discovery.",
+        "catalogueStatus": "review",
+        "evidenceLabel": "Current official consolidation checked",
+        "sources": [
+          {
+            "title": "EU donor-testing amendment",
+            "url": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32012L0039",
+            "role": "EU requirement",
+            "locator": "Annex (2)(c); Article 2."
+          },
+          {
+            "title": "Current binding assisted-reproduction rules",
+            "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+            "role": "Current national rule",
+            "locator": "Annex II-5.1 and footnote 93; current header 26 October 2026, latest change 11 October 2023."
+          },
+          {
+            "title": "Earlier express transposition of the EU timing change",
+            "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029069103",
+            "role": "National legislative chain",
+            "locator": "Order of 2 June 2014, Article 1(1); published 12 June 2014."
+          },
+          {
+            "title": "Replacement of the entire assisted-reproduction annex",
+            "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048178648",
+            "role": "National legislative chain",
+            "locator": "Order of 5 October 2023, Article 1; annex II-5.1 and preamble; published 10 October 2023."
+          },
+          {
+            "title": "Third-party definition of gamete donation",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006686232",
+            "role": "Alternative-route scope check",
+            "locator": "Code de la santé publique, L1244-1; current definition since 7 August 2004."
+          },
+          {
+            "title": "Current donor testing rules",
+            "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006160951",
+            "role": "Alternative-route check",
+            "locator": "Subsection 2, R1211-25 and R1211-26, current since 1 January 2022."
+          }
+        ],
+        "researchMetadata": {
+          "systematicAct": "2012/39",
+          "countryAssessmentComplete": false,
+          "sourcePolicy": "No full source files retained. Authentic EU text and published Gazette PDF read in memory; root independently read current official consolidation live.",
+          "independentCurrentness": "Root live 26 October 2026: current header, latest change 11 October 2023; full II-5.1 actually read.",
+          "peerReview": "Research agent read current R1211-25/26, L1244-1 and R2141-23. L1244-1 defines donation as a third-party contribution; donor rules therefore do not plainly override partner ART. No general binding three-month partner rule located in bounded searches. The current order was independently read by root and reference, not directly accessible to research.",
+          "scope": "Only current first-sample partner timing. Nonpartner each-donation wording predates 2012 and is excluded from this finding. HTLV criteria are not included in this record."
+        },
+        "timeline": [
+          {
+            "date": "2012-11-27",
+            "event": "EU timing revision published.",
+            "who": "eu"
+          },
+          {
+            "date": "2014-06-12",
+            "event": "French transposition expressly shortens six months to three.",
+            "who": "national"
+          },
+          {
+            "date": "2014-06-17",
+            "event": "EU implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2023-10-10",
+            "event": "Replacement annex published.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current national rule and alternative Code routes checked.",
+            "who": "check"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ee-lead-legacy-exposure-cutoff",
+      "recommendation": "revise",
+      "assessment": "Fresh official current regulation13(5) refers to exposure before national commencement16May2026; authentic EU AnnexIIIa1.1.1 fixes9April2026. The37-day extension follows arithmetically. Initial suspension, medical surveillance and declining blood levels remain conditions, not proof of actual unsafe practice.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/c1b2d956-e597-11ee-8b2b-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "AnnexII(3), newAnnexIIIa1.1.1"
+        },
+        {
+          "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/113052026003/blob-html",
+          "pinpoint": "Header: current from 16 May 2026;§13(3)–(5)."
+        },
+        {
+          "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/116102026003/blob-html",
+          "pinpoint": "Current 26 October 2026;§§12–13 and 13¹ prevention and occupational-health duties."
+        }
+      ],
+      "limits": "No affected worker, eligibility decision or workplace audit.",
+      "patch": {
+        "consequence": "Possibly. Exposure during 9 April–15 May 2026 could qualify for continued work above the ordinary blood limit under the national wording. Actual eligibility and any practical effect remain unverified."
+      },
+      "proposedRecord": {
+        "id": "ee-lead-legacy-exposure-cutoff",
+        "title": "Lead-exposure exception covers an extra 37 days",
+        "country": "Estonia",
+        "countryCode": "EE",
+        "topic": "Worker health and safety",
+        "baseAct": "Directive 2004/37/EC",
+        "baseActPublished": "2004-04-30",
+        "amendingAct": "Directive (EU) 2024/869",
+        "celex": "32024L0869",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "stage": "research",
+        "statusLabel": "Qualified concern · later grandfather cut-off",
+        "statusKind": "differs",
+        "statusDetail": "The national cut-off follows its commencement on 16 May rather than the EU date of 9 April 2026.",
+        "evidenceDate": "2026-10-26",
+        "deadline": "2026-04-09",
+        "correctionDate": null,
+        "deadlineLabel": "Implementation deadline",
+        "summary": "The current exception uses 16 May rather than 9 April 2026. Its scope could include additional historic lead exposure; no affected worker has been identified.",
+        "euChange": "Legacy exposure must precede 9 April 2026.",
+        "nationalGap": "Regulation 49/2026 §13(5) refers to exposure before its own commencement, 16 May 2026. This extends the express qualifying period by 37 days.",
+        "nationalLaw": "Regulation 49 of 8 May 2026, §13(3)–(5), effective 16 May 2026.",
+        "provisions": "2024/869 AnnexII(3), new 2004/37 AnnexIIIa 1.1.1.",
+        "consequence": "Possibly. Exposure during 9 April–15 May 2026 could qualify for continued work above the ordinary blood limit under the national wording. Actual eligibility and any practical effect remain unverified.",
+        "resolution": "The official current-version API still returns the original operative version, without an end date. No later correction was located.",
+        "caveat": "The national rule retains initial work suspension, regular medical surveillance, the upper 70µg/100 ml threshold and a declining blood-lead trend. General prevention duties and directive-consistent interpretation remain relevant. This is a conditional scope comparison, not evidence of an unsafe workplace.",
+        "review": "Two agents independently read the authentic EU exception and current national section 13; root additionally read the current national body and version metadata. Qualified concern; no worker-level outcome assessed.",
+        "comparison": {
+          "before": "Exposure before national commencement:16 May 2026.",
+          "after": "Exposure before 9 April 2026.",
+          "note": "Only the cut-off differs in this comparison; other safeguards remain.",
+          "beforeLabel": "Current national exception",
+          "afterLabel": "EU qualifying cut-off"
+        },
+        "priorRecognition": "not-located",
+        "recognizedBy": [],
+        "recognitionNote": "Bounded Estonian and English searches on 26 October 2026 combined lead, both dates, the national provision and incompatibility terms. Public consultation material described the new regime; no precise published comparison of these cut-offs was located. This does not establish first discovery.",
+        "catalogueStatus": "review",
+        "evidenceLabel": "Current official body and metadata checked",
+        "sources": [
+          {
+            "title": "EU lead-exposure revision",
+            "url": "https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX%3A32024L0869",
+            "role": "EU amendment",
+            "locator": "AnnexII(3), newAnnexIIIa 1.1.1; Article 3."
+          },
+          {
+            "title": "Current official chemical-agent regulation",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/113052026003/blob-html",
+            "role": "Current national text",
+            "locator": "Header: current from 16 May 2026;§13(3)–(5)."
+          },
+          {
+            "title": "Official current-version metadata",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/113052026003?leiaKehtiv=true",
+            "role": "Currentness check",
+            "locator": "CurrentID 113052026003; no end date; checked 26 October 2026."
+          },
+          {
+            "title": "Current general occupational-health statute",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/116102026003/blob-html",
+            "role": "Scope qualification",
+            "locator": "Current 26 October 2026;§§12–13 and 13¹ prevention and occupational-health duties."
+          }
+        ],
+        "researchMetadata": {
+          "systematicAct": "2024/869",
+          "countryAssessmentComplete": false,
+          "peerReview": "Reference independently confirmed both qualifying dates and continuing conditional effect; no blocking alternative cure located.",
+          "recognitionSearchScope": "Estonian and English exact dates/provision; current national register checked. Public March draft used 9 April, final enacted text changed to own commencement; draft is contextual, not legal proof.",
+          "sourcePolicy": "Only compact analysis retained; source bodies transient."
+        },
+        "timeline": [
+          {
+            "date": "2026-04-09",
+            "event": "EU implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-05-13",
+            "event": "National regulation published.",
+            "who": "national"
+          },
+          {
+            "date": "2026-05-16",
+            "event": "National commencement and express legacy-exposure cut-off.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current operative body and metadata checked.",
+            "who": "check"
+          }
+        ]
+      }
+    },
+    {
+      "id": "at-noise-declaration-copy-retained",
+      "recommendation": "retain",
+      "assessment": "Fresh official regulation6(3) retains both national and Commission copies. The government draft explicitly deletes the paragraph, and its explanation identifies the exact EU reason. This is an acknowledged pending repeal, unlike an inference based only on nonnotification.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/edafb9b4-9ca8-11ef-85f0-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Recital5, Articles2(1),5(1)"
+        },
+        {
+          "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001417",
+          "pinpoint": "Sections 4–6; returned official version 22 October 2026; last amendment 347/2006."
+        },
+        {
+          "url": "https://www.wko.at/oe/news/0281-ak-entwurf-geraeuschemissionen.pdf",
+          "pinpoint": "Point 8, deletion of Section 6(3); points 3 and 6 provide context."
+        },
+        {
+          "url": "https://www.wko.at/oe/news/0281-ak-erlaeuterungen-geraeuschemissionen.pdf",
+          "pinpoint": "Explanation of point 8, page 2."
+        }
+      ],
+      "limits": "Indexed RIS page returned20October2026; draft attachments read directly. No premarket condition or actual filing burden asserted.",
+      "patch": {}
+    },
+    {
+      "id": "ee-asbestos-low-risk-permit-exception",
+      "recommendation": "revise",
+      "assessment": "Fresh current5(3) refers to all of6, which now contains permit subsections. Authentic EU low-risk derogation is confined to notification; new15 requires prior permits. However, national6(4)’s explicit prior-permit sentence and official compliant-transposition assessment create an interpretation question. Put that uncertainty in the title/status. EU Article 15 requires an undertaking permit; it does not establish a new permit for every job. The residual concern is limited to an undertaking doing otherwise covered qualifying low-risk removal without any valid undertaking permit.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/bacbeacf-8f22-11ee-8aa6-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article1(3)(b),(13), revised3(3),15"
+        },
+        {
+          "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004/blob-html",
+          "pinpoint": "Version 25 January 2026–20 December 2029; whole body, especially Sections 5(2)–(3),6(1)/(4)–(6),8/12/13."
+        },
+        {
+          "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/116102026003/blob-html",
+          "pinpoint": "Current 26 October 2026; Sections 4(5)/(7),12–13¹; no independent universal company-permit route located."
+        },
+        {
+          "url": "https://www.tooelu.ee/et/129/asbest",
+          "pinpoint": "Updated 20 February 2026; low-risk-work section describes notification/work-plan exemption, without an express separate low-risk permit procedure."
+        },
+        {
+          "url": "https://ti.ee/jarelevalve/asbestitood",
+          "pinpoint": "Fresh official body read; updated25August2026; opening requires notification and permit before asbestos work without low-risk exception, then publishes licensed company names."
+        }
+      ],
+      "limits": "No permit practice examined; later specific6(4) could constrain the older general exception. National 6(4)–(5) attaches the application to a work notification but does not establish here how long an undertaking approval remains valid or its scope across jobs. No unapproved company identified.",
+      "patch": {
+        "title": "Low-risk asbestos exception may reach the new permit clause",
+        "statusKind": "open",
+        "statusDetail": "The interaction between the exception and the new permit needs interpretation",
+        "summary": "The low-risk exception refers to the whole section containing the newly introduced permit. A separate sentence requires a permit before removal work, so the interaction needs legal interpretation.",
+        "nationalGap": "Section 5(3) permits omission of the whole of Section 6 for qualifying low-risk work. New Section 6(4)–(6) contains the permit provisions. The unresolved question concerns an undertaking doing covered low-risk removal without a valid undertaking permit, including any approval obtained for other work.",
+        "consequence": "Possibly. The cross-reference could leave an undertaking doing only qualifying low-risk removal outside permit scrutiny. EU Article 15 requires an undertaking permit, rather than a fresh permit for every job. No unapproved undertaking, operation or harm has been identified.",
+        "caveat": "This concerns removal/demolition within EU scope, not every low-risk activity. An existing valid undertaking permit may satisfy EU Article 15 even when a particular job needs no notification. National Section 6(4), consistent interpretation and permit practice may constrain the exception. General prevention, exposure limits, training and health surveillance remain. The Labour Inspectorate’s permit guidance, updated 25 August 2026, requires notification and a permit before asbestos work without stating a low-risk exception. This supports a potentially narrower administrative reading."
+      },
+      "proposedRecord": {
+        "id": "ee-asbestos-low-risk-permit-exception",
+        "title": "Low-risk asbestos exception may reach the new permit clause",
+        "country": "Estonia",
+        "countryCode": "EE",
+        "topic": "Worker health and safety",
+        "baseAct": "Directive 2009/148/EC",
+        "baseActPublished": "2009-12-16",
+        "amendingAct": "Directive (EU) 2023/2668",
+        "celex": "32023L2668",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "stage": "research",
+        "statusLabel": "Qualified concern · permit scope",
+        "statusKind": "open",
+        "statusDetail": "The interaction between the exception and the new permit needs interpretation",
+        "evidenceDate": "2026-10-26",
+        "deadline": "2025-12-21",
+        "correctionDate": null,
+        "deadlineLabel": "General implementation deadline",
+        "summary": "The low-risk exception refers to the whole section containing the newly introduced permit. A separate sentence requires a permit before removal work, so the interaction needs legal interpretation.",
+        "euChange": "Demolition/removal permits; low-risk derogation concerns notification only.",
+        "nationalGap": "Section 5(3) permits omission of the whole of Section 6 for qualifying low-risk work. New Section 6(4)–(6) contains the permit provisions. The unresolved question concerns an undertaking doing covered low-risk removal without a valid undertaking permit, including any approval obtained for other work.",
+        "nationalLaw": "Regulation 224/2007, current from 25 January 2026, Sections 5–6; amended by Regulation 6/2026.",
+        "provisions": "2023/2668 Article 1(3)(b) and (13); revised 2009/148 Articles 3(3) and 15.",
+        "consequence": "Possibly. The cross-reference could leave an undertaking doing only qualifying low-risk removal outside permit scrutiny. EU Article 15 requires an undertaking permit, rather than a fresh permit for every job. No unapproved undertaking, operation or harm has been identified.",
+        "resolution": "Current official metadata retains this version. No later narrowing of Section 5(3) was located.",
+        "caveat": "This concerns removal/demolition within EU scope, not every low-risk activity. An existing valid undertaking permit may satisfy EU Article 15 even when a particular job needs no notification. National Section 6(4), consistent interpretation and permit practice may constrain the exception. General prevention, exposure limits, training and health surveillance remain. The Labour Inspectorate’s permit guidance, updated 25 August 2026, requires notification and a permit before asbestos work without stating a low-risk exception. This supports a potentially narrower administrative reading.",
+        "review": "Two agents and the lead independently checked the clauses, EU derogation and current parent statute. Qualified concern.",
+        "comparison": {
+          "before": "Low-risk exception reaches the whole permit section.",
+          "after": "Low-risk derogation limited to notification.",
+          "note": "Only the newly introduced permit coverage is compared.",
+          "beforeLabel": "Current national scope",
+          "afterLabel": "EU exception scope"
+        },
+        "priorRecognition": "not-located",
+        "recognizedBy": [],
+        "recognitionNote": "Bounded Estonian and English searches on 26 October 2026 used the EU amendment, permit, low-risk exception and national sections. Official guidance describes the notification exception; government transposition material treats it as compliant. No precise published analysis of its interaction with the new permit was located. This does not establish first discovery.",
+        "catalogueStatus": "review",
+        "evidenceLabel": "Current official body, annex and metadata checked",
+        "sources": [
+          {
+            "title": "EU asbestos worker-protection revision",
+            "url": "https://eur-lex.europa.eu/eli/dir/2023/2668/oj/eng",
+            "role": "EU amendment",
+            "locator": "Article 1(3)(b) limits the low-risk derogation to notification under Article 4; Article 1(13) replaces Article 15 with prior permits and a public list. Authentic English and Estonian publications read."
+          },
+          {
+            "title": "Current official asbestos regulation",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004/blob-html",
+            "role": "Current national text",
+            "locator": "Version 25 January 2026–20 December 2029; whole body, especially Sections 5(2)–(3),6(1)/(4)–(6),8/12/13."
+          },
+          {
+            "title": "Official current-version metadata",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004?leiaKehtiv=true",
+            "role": "Currentness check",
+            "locator": "Current ID 122012026004; checked 26 October 2026; future 2029 microscopy version distinguished."
+          },
+          {
+            "title": "Current parent occupational-health statute",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/116102026003/blob-html",
+            "role": "Alternative-safeguard check",
+            "locator": "Current 26 October 2026; Sections 4(5)/(7),12–13¹; no independent universal company-permit route located."
+          },
+          {
+            "title": "Government transposition explanation and comparison table",
+            "url": "https://adr.rik.ee/mkm/dokument/18283351",
+            "role": "Contrary interpretation and recognition check",
+            "locator": "Original public 31 December 2025 signed bundle actually read; explanatory pp 9–10; comparison table Article 3(3) and new 15. It treats the low-risk notification exception as compliant, without addressing its reach into the new permit subsections."
+          },
+          {
+            "title": "Current Labour Inspectorate asbestos guidance",
+            "url": "https://www.tooelu.ee/et/129/asbest",
+            "role": "Administrative-context check",
+            "locator": "Updated 20 February 2026; low-risk-work section describes notification/work-plan exemption, without an express separate low-risk permit procedure."
+          }
+        ],
+        "researchMetadata": {
+          "systematicAct": "2009/148",
+          "countryAssessmentComplete": false,
+          "peerReview": "Reference independently read current Sections 5–7, authentic EU Articles 3(3) and 15, and the latest parent TTOS Section 4. Root independently read the current national Sections 5–12 and authentic English EU Articles 3(3) and 15. Verify challenged alternative routes and interpretation. Qualified PASS.",
+          "sourcePolicy": "Original government bundle read transiently; only compact analysis retained.",
+          "laterLawSearch": "Current officialAPIand parent statute 26 October 2026; bounded later national rule searches.",
+          "scopeControl": "No separate claim about old national work-plan exemption; that is not a newly introduced 2023 duty."
+        },
+        "timeline": [
+          {
+            "date": "2025-12-21",
+            "event": "General EU implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-01-22",
+            "event": "National asbestos amendment published.",
+            "who": "national"
+          },
+          {
+            "date": "2026-01-25",
+            "event": "New permit subsections commence; old low-risk cross-reference remains.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current clauses, parent statute and alternatives checked.",
+            "who": "check"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ie-bank-ccp-quantified-plans",
+      "recommendation": "remove-to-research-only",
+      "assessment": "The statutory CCP-labelled insertion is absent, but independent peer review found binding CBI licensing conditions, not merely voluntary guidance. I freshly read the official requirements: board responsibility for material-risk strategy, documented comprehensive quantitative risk appetite, monitoring/remedial action and contingency plans. Together with existing statutory CCP concentration policies and directly applicable EMIR Article7a, a credible equivalent route exists. A residual missing EU result has not been demonstrated. Conservatively withdraw the public issue pending non-equivalence proof; do not claim complete transposition.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/ef90f649-b1e0-11ef-acb1-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Article2(2), newCRD76(2) fifthsubparagraph; Article4"
+        },
+        {
+          "url": "https://www.irishstatutebook.ie/eli/2014/si/158/made/en/print",
+          "pinpoint": "Regulations 61,64(2)–(4),69; read together with subsequent amendments, not treated as a current consolidation"
+        },
+        {
+          "url": "https://www.irishstatutebook.ie/eli/2026/si/326/made/en/print",
+          "pinpoint": "Regulations 22,23 and27; regulation 23 adds 64(4A)–(4D) for ESG plans, while 64(2)–(4) remains"
+        },
+        {
+          "url": "https://www.irishstatutebook.ie/isbc/si2014_151-200.html#a158_2014",
+          "pinpoint": "Instrument 158/2014; entries for 61,64 and69; updated 13 October 2026"
+        },
+        {
+          "url": "https://www.centralbank.ie/docs/default-source/Regulation/industry-market-sectors/credit-institutions/regulatory-requirements/gns-4-4-3-2-cgr-2015.pdf?sfvrsn=2",
+          "pinpoint": "Fresh official full PDF. Sections1/3.1/3.7 establish scope and binding licence conditions;13.1(c),15.1–15.4,15.8 impose quantitative risk appetite, oversight, remediation and contingency planning."
+        }
+      ],
+      "limits": "No bank-level plan or confidential direction inspected. Withdrawal follows insufficient residual-duty evidence after identifying binding public alternatives, not a finding that every bank has complied.",
+      "patch": {}
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "recommendation": "revise",
+      "assessment": "Fresh national39 retains the automaticPTAC copy while40 is expressly deleted by679/2025. EU recital5 specifically addresses both national and Commission submissions and supports a plausible unresolved reporting-relief question. A separate lawful national purpose remains possible, so present it as open.",
+      "sourcesChecked": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/edafb9b4-9ca8-11ef-85f0-01aa75ed71a1.0006.03/DOC_1",
+          "pinpoint": "Recital5, Articles2(1),5(1)"
+        },
+        {
+          "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+          "pinpoint": "Points 13, 37–41 and EU reference; official in-force version from 29 November 2025 with no end."
+        },
+        {
+          "url": "https://www.vestnesis.lv/op/2025/225.17",
+          "pinpoint": "Regulation 679/2025 points 1.6, 1.8 and 2; published 21 November 2025."
+        }
+      ],
+      "limits": "The government project’s explanatory memorandum was not obtained; no prior-submission condition or actual filing burden established.",
+      "patch": {
+        "title": "A separate national noise-declaration copy remains",
+        "statusKind": "open"
+      },
+      "proposedRecord": {
+        "id": "lv-noise-national-copy-retained",
+        "country": "Latvia",
+        "countryCode": "LV",
+        "title": "A separate national noise-declaration copy remains",
+        "topic": "Outdoor equipment and reporting",
+        "baseAct": "Directive 2000/14/EC",
+        "amendingAct": "Directive (EU) 2024/2839",
+        "celex": "32024L2839",
+        "updateType": "Amendment",
+        "recordKind": "lead",
+        "catalogueStatus": "review",
+        "researchRound": "systematic25",
+        "stage": "research",
+        "statusKind": "open",
+        "statusLabel": "Residual national copy duty; legal significance under review",
+        "evidenceDate": "2026-10-26",
+        "evidenceLabel": "Current national law independently read",
+        "deadline": "2025-11-29",
+        "deadlineLabel": "EU application date; adoption/publication due 28 November 2025",
+        "summary": "The Commission-copy clause was deleted, while a copy to the national consumer-protection authority remains.",
+        "euChange": "Delete the routine declaration-copy provision.",
+        "nationalGap": "Current point 39 requires manufacturers or representatives to send PTAC a declaration copy. Point 40 is expressly deleted. Regulation 679/2025 removed only point 40 and added the EU amendment reference.",
+        "nationalLaw": "Cabinet Regulation 163/2002, current version from 29 November 2025",
+        "provisions": "National points 13, 37–41; amender 679/2025 points 1.6, 1.8, 2; EU Articles 2(1), 5(1).",
+        "consequence": "Possibly. A national submission duty remains on paper. Whether it is permissible as a separate national rule, and whether it creates an actual filing burden, require further review.",
+        "resolution": "The current official text retains point 39. Its amendment-history list contains no later change after 679/2025.",
+        "caveat": "Retention, accompanying declarations and lawful surveillance remain separate. A deliberate national rule or EU-consistent interpretation may affect the comparison. The clause states no advance-submission deadline; no premarket condition, automatic fine or actual filing burden is inferred. The 2025 project was located, but its explanatory memorandum was not retrieved.",
+        "comparison": {
+          "beforeLabel": "Current national text",
+          "before": "Declaration copy to PTAC still required.",
+          "afterLabel": "EU simplification",
+          "after": "Routine-copy provision deleted.",
+          "note": "The national and Commission copy clauses were separate."
+        },
+        "review": "Two researchers independently reviewed the current text, authentic amender and adverse scope. The lead also read current points 37–41 and the authentic repeal of point 40. Official open-ended version and amendment list support currentness. Deliberate national design, legal equivalence and practical enforcement remain qualified.",
+        "priorRecognition": "not-located",
+        "recognizedBy": [],
+        "recognitionNote": "The government enacted and notified the reporting amendment. No published analysis identifying the precise surviving point 39 as an implementation mismatch was found in bounded official and public searches; no first-discovery claim.",
+        "noveltySearch": {
+          "date": "2026-10-26",
+          "method": "Bounded searches of exact national identifiers, point 39, the EU amendment and Latvian reporting/error terms across official sources and public commentary. Current legal texts and the adopted government project were located; no exact published mismatch analysis was found. Explanatory-memorandum access remains incomplete.",
+          "queries": [
+            "\"163\" \"2024/2839\" \"Patērētāju\"",
+            "\"2024/2839\" \"39. punktu\"",
+            "\"679\" \"trokšņa emisiju\" anotācija 2025",
+            "\"2024/2839\" \"deklarācijas kopiju\" Latvija"
+          ]
+        },
+        "sources": [
+          {
+            "title": "EU reporting simplification",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/lav",
+            "role": "EU amendment",
+            "locator": "Articles 2(1), 5(1)."
+          },
+          {
+            "title": "Current Latvian noise regulation",
+            "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+            "role": "Current national rule",
+            "locator": "Points 13, 37–41 and EU reference; official in-force version from 29 November 2025 with no end."
+          },
+          {
+            "title": "Authentic Latvian partial repeal",
+            "url": "https://www.vestnesis.lv/op/2025/225.17",
+            "role": "Enacted national change",
+            "locator": "Regulation 679/2025 points 1.6, 1.8 and 2; published 21 November 2025."
+          },
+          {
+            "title": "Official amendment-history list",
+            "url": "https://m.likumi.lv/saistitie.php?id=61592&saistitie_id=468",
+            "role": "Later-law check",
+            "locator": "Six amendments; latest 679/2025."
+          },
+          {
+            "title": "Current EU noise framework",
+            "url": "https://eur-lex.europa.eu/eli/dir/2000/14/2026-05-30/eng",
+            "role": "Adverse-scope check",
+            "locator": "Articles 1, 6, 9, 17; Article 16 deleted."
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-10-23",
+            "who": "eu",
+            "event": "EU adopted reporting simplification."
+          },
+          {
+            "date": "2025-11-19",
+            "who": "national",
+            "event": "Cabinet adopted the partial repeal."
+          },
+          {
+            "date": "2025-11-21",
+            "who": "national",
+            "event": "Regulation 679/2025 published."
+          },
+          {
+            "date": "2025-11-29",
+            "who": "national",
+            "event": "Point 40 deletion applied; point 39 remained."
+          },
+          {
+            "date": "2026-10-26",
+            "who": "check",
+            "event": "Current national clauses and later-law indications independently checked."
+          }
+        ],
+        "statusDetail": null,
+        "baseActPublished": "2000-07-03",
+        "correctionDate": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "lv-noise-national-copy-retained",
+  "country": "Latvia",
+  "countryCode": "LV",
+  "title": "Latvia kept a separate national noise-declaration copy",
+  "topic": "Outdoor equipment and reporting",
+  "baseAct": "Directive 2000/14/EC",
+  "amendingAct": "Directive (EU) 2024/2839",
+  "celex": "32024L2839",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "catalogueStatus": "review",
+  "researchRound": "systematic25",
+  "stage": "research",
+  "statusKind": "differs",
+  "statusLabel": "Residual national copy duty; legal significance under review",
+  "evidenceDate": "2026-10-26",
+  "evidenceLabel": "Current national law independently read",
+  "deadline": "2025-11-29",
+  "deadlineLabel": "EU application date; adoption/publication due 28 November 2025",
+  "summary": "The Commission-copy clause was deleted, while a copy to the national consumer-protection authority remains.",
+  "euChange": "Delete the routine declaration-copy provision.",
+  "nationalGap": "Current point 39 requires manufacturers or representatives to send PTAC a declaration copy. Point 40 is expressly deleted. Regulation 679/2025 removed only point 40 and added the EU amendment reference.",
+  "nationalLaw": "Cabinet Regulation 163/2002, current version from 29 November 2025",
+  "provisions": "National points 13, 37–41; amender 679/2025 points 1.6, 1.8, 2; EU Articles 2(1), 5(1).",
+  "consequence": "Yes, on paper: a national submission duty remains. Its legal effect and actual use require further review.",
+  "resolution": "The current official text retains point 39. Its amendment-history list contains no later change after 679/2025.",
+  "caveat": "Retention, accompanying declarations and lawful surveillance remain separate. A deliberate national rule or EU-consistent interpretation may affect the comparison. The clause states no advance-submission deadline; no premarket condition, automatic fine or actual filing burden is inferred. The 2025 project was located, but its explanatory memorandum was not retrieved.",
+  "comparison": {
+    "beforeLabel": "Current national text",
+    "before": "Declaration copy to PTAC still required.",
+    "afterLabel": "EU simplification",
+    "after": "Routine-copy provision deleted.",
+    "note": "The national and Commission copy clauses were separate."
+  },
+  "review": "Independent final current-text, authentic-amender and adverse-scope reviews passed. Official open-ended version and amendment list support currentness. Deliberate national design, legal equivalence and practical enforcement remain qualified.",
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "The government enacted and notified the reporting amendment. No published analysis identifying the precise surviving point 39 as an implementation mismatch was found in bounded official and public searches; no first-discovery claim.",
+  "noveltySearch": {
+    "date": "2026-10-26",
+    "method": "Bounded searches of exact national identifiers, point 39, the EU amendment and Latvian reporting/error terms across official sources and public commentary. Current legal texts and the adopted government project were located; no exact published mismatch analysis was found. Explanatory-memorandum access remains incomplete.",
+    "queries": [
+      "\"163\" \"2024/2839\" \"Patērētāju\"",
+      "\"2024/2839\" \"39. punktu\"",
+      "\"679\" \"trokšņa emisiju\" anotācija 2025",
+      "\"2024/2839\" \"deklarācijas kopiju\" Latvija"
+    ]
+  },
+  "sources": [
+    {
+      "title": "EU reporting simplification",
+      "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/lav",
+      "role": "EU amendment",
+      "locator": "Articles 2(1), 5(1)."
+    },
+    {
+      "title": "Current Latvian noise regulation",
+      "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+      "role": "Current national rule",
+      "locator": "Points 13, 37–41 and EU reference; official in-force version from 29 November 2025 with no end."
+    },
+    {
+      "title": "Authentic Latvian partial repeal",
+      "url": "https://www.vestnesis.lv/op/2025/225.17",
+      "role": "Enacted national change",
+      "locator": "Regulation 679/2025 points 1.6, 1.8 and 2; published 21 November 2025."
+    },
+    {
+      "title": "Official amendment-history list",
+      "url": "https://m.likumi.lv/saistitie.php?id=61592&saistitie_id=468",
+      "role": "Later-law check",
+      "locator": "Six amendments; latest 679/2025."
+    },
+    {
+      "title": "Current EU noise framework",
+      "url": "https://eur-lex.europa.eu/eli/dir/2000/14/2026-05-30/eng",
+      "role": "Adverse-scope check",
+      "locator": "Articles 1, 6, 9, 17; Article 16 deleted."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024-10-23",
+      "who": "eu",
+      "event": "EU adopted reporting simplification."
+    },
+    {
+      "date": "2025-11-19",
+      "who": "national",
+      "event": "Cabinet adopted the partial repeal."
+    },
+    {
+      "date": "2025-11-21",
+      "who": "national",
+      "event": "Regulation 679/2025 published."
+    },
+    {
+      "date": "2025-11-29",
+      "who": "national",
+      "event": "Point 40 deletion applied; point 39 remained."
+    },
+    {
+      "date": "2026-10-26",
+      "who": "check",
+      "event": "Current national clauses and later-law indications independently checked."
+    }
+  ]
+}

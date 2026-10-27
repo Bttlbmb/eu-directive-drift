@@ -1,0 +1,119 @@
+{
+  "reviewDate": "2026-10-26",
+  "reviewer": "audit_records_01_23",
+  "scope": "Final independent read of all 16 exclusion reasons, evidence/limitations, summary policy/counts and relevant completed primary-source notes. No repeated source search and no public edits.",
+  "conclusion": "No materially unsupported removal reason or false certificate of national compliance identified. All 16 withdrawals can stand under the stated conservative evidence threshold, with the preserved caveats. Three minor wording/source-scope clarifications are recommended below.",
+  "checks": [
+    "The policy expressly distinguishes insufficient public support from national compliance. Individual exclusion caveats preserve this distinction, including scope-extension, binding-alternative and national-only-reporting cases.",
+    "No withdrawal relies only on absence of an injured person, fine, refusal, patient or affected operator. Those observations are ancillary; operative reasons concern permitted protective variation, missing proof of incompatible scope extension, intelligible reporting categories or plausible binding alternative duties.",
+    "The 16 exclusion IDs and reason strings exactly match the summary withdrawn records. Current public data count52, 46leads/6findings, 21countries/27EUchanges matches summary counts. This is a consistency check, not a repeat of browser verification.",
+    "The remaining differences across retained and withdrawn cases have stated substantive grounds: noise Portugal has an advance marketing condition, Austria specific repeal rationale and a remaining Commission chain, Finland a remaining Commission chain; Hungary/Latvia retain only national reporting with incompatibility unresolved. Dutch SLAPP has distinct restrictive jurisdiction conditions plus specific judicial disagreement; Irish/Polish withdrawals preserve credible but unproved non-equivalence arguments."
+  ],
+  "records": [
+    {
+      "id": "dk-environmental-information-corrigendum",
+      "verdict": "support-with-scope-clarification",
+      "basis": "Official EU-conforming interpretation plus permitted wider access. No-refusal observation is not the legal basis."
+    },
+    {
+      "id": "hu-emf-corrigendum",
+      "verdict": "support",
+      "basis": "Compared division formulas lower the trigger/limit throughout the stated frequency bands; EU expressly permits lower national values."
+    },
+    {
+      "id": "lv-emf-corrigendum",
+      "verdict": "support",
+      "basis": "Same permitted protective variation, bounded to the compared table rows."
+    },
+    {
+      "id": "lt-emf-corrigendum",
+      "verdict": "support",
+      "basis": "Same legal conclusion even assuming reported national formulas correct; fresh national-table access gap disclosed."
+    },
+    {
+      "id": "de-waste-prevention-definition",
+      "verdict": "support",
+      "basis": "Recognised terminology alignment does not establish narrower duty. Distinguishable from ministry’s express rejection of the separate economic hazardous-waste exception."
+    },
+    {
+      "id": "si-rohs-two-wheel-scope",
+      "verdict": "support",
+      "basis": "No proved prohibition on independent wider national scope; electrical ignition qualification and access limits preserved. Does not declare every wider rule lawful."
+    },
+    {
+      "id": "be-dac8-ledger-address-reference",
+      "verdict": "support",
+      "basis": "Wrong pointer proved; intelligible reporting category and no established omitted transaction. No unverified federal correction used."
+    },
+    {
+      "id": "lu-dac8-ledger-address-reference",
+      "verdict": "support",
+      "basis": "Express statutory reporting category plus positive current operational TransferWallet fields, without claiming typo corrected."
+    },
+    {
+      "id": "fr-dac8-ledger-address-reference",
+      "verdict": "support",
+      "basis": "Citation defect established, substantive ambiguity/omission unproved; technical source blockage not treated as proof of correction."
+    },
+    {
+      "id": "at-dac8-ledger-address-reference",
+      "verdict": "support",
+      "basis": "CARF-consistent explanation and binding technical-specification route supplement absence of demonstrated coverage defect; schema gap disclosed."
+    },
+    {
+      "id": "it-dac8-ledger-address-reference",
+      "verdict": "support",
+      "basis": "Express external-transfer reporting survives; no substantive scope ambiguity established, unread later/technical sources disclosed."
+    },
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "verdict": "support-with-optional-clarification",
+      "basis": "EU exclusion not shown to bar national extension; analogy limited and no claim of categorical lawfulness. Actual affected manager is not necessary to establish an EU incompatibility."
+    },
+    {
+      "id": "ie-bank-ccp-quantified-plans",
+      "verdict": "support",
+      "basis": "Current enforceable CBI quantitative risk strategy, reporting, remedy and contingency rules are a plausible complete-result route with CCP/EMIR requirements. Reason does not assert proved equivalence."
+    },
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "verdict": "support",
+      "basis": "Binding current-knowledge/necessary-test/risk duties plus original express prevalence mapping; categorical-trigger counterargument preserved. Actual patient/harm expressly unnecessary."
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "verdict": "support",
+      "basis": "National-only duty remains; EU deletion does not by itself establish all independent national reporting prohibited. Reopening can rest on legal-effect analysis without operator case."
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "verdict": "support",
+      "basis": "Same national-only distinction with current deletion chain confirmed, without asserting lawfulness."
+    }
+  ],
+  "minorClarifications": [
+    {
+      "id": "dk-environmental-information-corrigendum",
+      "priority": "source-scope-only",
+      "issue": "The exclusion limitation says the underlying EU source was anti-bot blocked in this audit, but root-checks.json records root’s fresh authentic recital24 read. The agent-level block is true; whole-audit wording is now stale.",
+      "suggestion": "Replace with: The initial agent retrieval was blocked; a separate coordinating review freshly read EU recital24 confirming that wider national access is permitted."
+    },
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "priority": "optional-clarity",
+      "issue": "The list beginning No affected manager could be misread as requiring a real claimant, although the same sentence also asks for a specific contrary EU obligation and the policy is clear.",
+      "suggestion": "Prefer: No specific EU obligation or passport restriction incompatible with the wider national scope was established; an individual affected-manager decision is not required to reopen the question."
+    },
+    {
+      "id": "fr-dac8-ledger-address-reference/it-dac8-ledger-address-reference",
+      "priority": "guard-against-misreading",
+      "issue": "First filing in2027 appears only as a limitation/context, not as the actual withdrawal ground. Preserve that distinction: current due-diligence/reporting-framework duties may precede the first filing.",
+      "suggestion": "No change essential; never describe the2027 filing date as postponing all substantive DAC8 obligations or curing a current legal ambiguity."
+    }
+  ],
+  "limits": [
+    "This closeout checks recorded reasoning and consistency; it does not certify national regimes or repeat every completed primary read.",
+    "No basis found to reverse an exclusion. The plausible binding alternatives in Ireland/Poland and the HU/LV national-reporting competence question remain intentionally unresolved research.",
+    "Summary remains in progress with completedAt null; set completion time only when the root completes the requested audit window."
+  ]
+}

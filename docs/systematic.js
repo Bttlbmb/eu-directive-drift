@@ -11,12 +11,13 @@
  const groupAssessment = (review, id) => {
   const match = (review.provisionChecks || review.changeAssessments || []).find(item => item.changeId === id || item.id === id);
   const value = match || review.changes?.[id];
-  if (!value || value === 'pending') return 'Comparison still pending.';
+  if (!value) return 'No separate clause assessment is recorded; see the assessment scope and sources.';
+  if (value === 'pending') return 'Comparison still pending.';
   if (typeof value === 'object') return prose(value);
   const known = {'express-correct-national-wording-read':'Matching national wording read.', 'current-provision-supported':'Current provision supports the changed obligation.', 'not-applicable-language-specific-correction':'No separate national amendment needed for this correction.', 'not-applicable':'No national legislative obligation for this item.'};
   return known[value] || sentence(value);
  };
- const sources = review => ['currentNationalEvidence','evidence','nationalSources'].flatMap(key => review[key] || []).filter(item => item && typeof item === 'object');
+ const sources = review => ['currentNationalEvidence','evidence','nationalSources','catalogueReviewEvidence'].flatMap(key => review[key] || []).filter(item => item && typeof item === 'object');
  const sourceHTML = item => {
   const links = [...new Set([...(item.urls || []), item.url].filter(url => typeof url === 'string' && /^https?:\/\//.test(url)))];
   return `<li>${links.map((url,index) => `<a href="${html(url)}" target="_blank" rel="noopener noreferrer">${html(item.title || (index ? 'Additional source' : 'Official source'))} ↗</a>`).join(' · ')}<p>${html([item.locator,item.assessment,item.readScope,item.read,item.role].filter(Boolean).join(' '))}</p></li>`;
@@ -34,9 +35,9 @@
    const act = ledger.acts.find(item => item.celex === actSelect.value), cell = act.countries.find(item => item.countryCode === countrySelect.value), review = cell.review || {};
    const evidence = sources(review);
    const note = review.conclusion || review.legalConclusion || review.assessmentScope || review.reviewScope;
-   const limits = [review.currentness,...list(review.limitations),...list(review.uncertainties),...list(review.blockers),...list(review.completionBlocker),...list(review.adverseReview)].filter(Boolean);
+   const limits = [review.scope ? `Assessment scope: ${prose(review.scope)}` : null,review.currentness,...list(review.limitations),...list(review.uncertainties),...list(review.blockers),...list(review.completionBlocker),...list(review.adverseReview)].filter(Boolean);
    const groupList = Array.isArray(act.changeInventory) ? act.changeInventory : [];
-   mount.querySelector('#systematic-comparison').innerHTML = `<div class="systematic-cell"><span class="review-state ${cell.status}">${statusName[cell.status]}</span><h3>${html(cell.country)} · ${html(act.id)}</h3>${note ? `<p>${html(sentence(note))}</p>` : '<p>This country–directive comparison is still open. No compliance conclusion follows from an empty row.</p>'}<p><a href="${html(act.originalSource)}" target="_blank" rel="noopener noreferrer">Original EU text ↗</a></p><details><summary>EU change inventory (${groupList.length} groups)</summary><p>${html(act.inventoryStatus)}</p>${groupList.map(group => `<article class="systematic-clause"><h4>${html(locator(group))}</h4><p>${html(groupName(group))}</p><p class="systematic-note">${html(groupAssessment(review,group.id))}</p></article>`).join('') || '<p>The substantive change inventory is still being prepared.</p>'}</details>${evidence.length ? `<details><summary>National sources and comparisons (${evidence.length})</summary><ol class="systematic-sources">${evidence.map(sourceHTML).join('')}</ol></details>` : ''}${limits.length ? `<details><summary>Limits and remaining work</summary>${limits.map(limit => `<p>${html(prose(limit))}</p>`).join('')}</details>` : ''}${cell.findingIds.length ? `<p>Cases in the catalogue: ${cell.findingIds.map(id => `<a href="#case/${encodeURIComponent(id)}">Read case</a>`).join(' · ')}</p>` : ''}</div>`;
+   mount.querySelector('#systematic-comparison').innerHTML = `<div class="systematic-cell"><span class="review-state ${cell.status}">${statusName[cell.status]}</span><h3>${html(cell.country)} · ${html(act.id)}</h3>${review.catalogueReview ? `<p><b>Catalogue correction:</b> ${html(review.catalogueReview)}</p>` : note ? `<p>${html(sentence(note))}</p>` : '<p>This country–directive comparison is still open. No compliance conclusion follows from an empty row.</p>'}<p><a href="${html(act.originalSource)}" target="_blank" rel="noopener noreferrer">Original EU text ↗</a></p><details><summary>EU change inventory (${groupList.length} groups)</summary><p>${html(act.inventoryStatus)}</p>${groupList.map(group => `<article class="systematic-clause"><h4>${html(locator(group))}</h4><p>${html(groupName(group))}</p><p class="systematic-note">${html(groupAssessment(review,group.id))}</p></article>`).join('') || '<p>The substantive change inventory is still being prepared.</p>'}</details>${evidence.length ? `<details><summary>National sources and comparisons (${evidence.length})</summary><ol class="systematic-sources">${evidence.map(sourceHTML).join('')}</ol></details>` : ''}${limits.length ? `<details><summary>Limits and remaining work</summary>${limits.map(limit => `<p>${html(prose(limit))}</p>`).join('')}</details>` : ''}${cell.findingIds.length ? `<p>Cases in the catalogue: ${cell.findingIds.map(id => `<a href="#case/${encodeURIComponent(id)}">Read case</a>`).join(' · ')}</p>` : ''}</div>`;
   };
   actSelect.addEventListener('change',inspect); countrySelect.addEventListener('change',inspect);
   mount.querySelectorAll('[data-inspect-act]').forEach(button => button.addEventListener('click',() => {actSelect.value=button.dataset.inspectAct;inspect();actSelect.focus();actSelect.scrollIntoView({block:'center'});}));
@@ -44,5 +45,5 @@
  };
  const coveragePage = document.querySelector('#coverage-page');
  if (coveragePage) new MutationObserver(() => window.renderSystematicCoverage()).observe(coveragePage,{childList:true});
- fetch('data/systematic.json').then(response => {if (!response.ok) throw new Error('Review ledger unavailable');return response.json();}).then(data => {ledger=data;window.renderSystematicCoverage();}).catch(() => {const mount=document.querySelector('#systematic-review');if(mount)mount.textContent='The systematic review ledger could not be loaded. The catalogue remains available.';});
+ fetch('data/systematic.json',{cache:'no-cache'}).then(response => {if (!response.ok) throw new Error('Review ledger unavailable');return response.json();}).then(data => {ledger=data;window.renderSystematicCoverage();}).catch(() => {const mount=document.querySelector('#systematic-review');if(mount)mount.textContent='The systematic review ledger could not be loaded. The catalogue remains available.';});
 })();

@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "scope": "All55 currently retained docs/data/findings.json records; title,summary,nationalGap,consequence,caveat,status fields read",
+  "publicEdits": false,
+  "result": "No additional removal recommended from this consistency pass. Current records generally distinguish missing express wording, binding alternatives, actual practice and unproved outcomes. Three visible scope/practice title edits are materially useful; one duplicated caveat can be cleaned up.",
+  "recommendations": [
+    {
+      "id": "cz-financial-human-explanation-deferral",
+      "issue": "Title can imply all human-explanation rights begin in2027, although sectoral binding rights already apply to many financial products.",
+      "proposedPatch": {
+        "title": "Specific online-finance explanation rule deferred until2027",
+        "summary": "For services outside existing sectoral explanation regimes, Czechia enacted the specific right to a human explanation when online tools are used, but postponed it untilJanuary2027."
+      },
+      "reason": "Move substantive cohort qualification out of caveat into visible summary/title."
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "issue": "Title’s ‘still goes through’ can suggest established filing practice despite unverified enforcement.",
+      "proposedPatch": {
+        "title": "Rule retains a routine noise declaration-copy route through the environmental authority"
+      },
+      "reason": "Describe the inspected legal duty rather than actual submissions."
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "issue": "Title’s ‘still go’ can suggest established actual submissions despite unverified filing burden.",
+      "proposedPatch": {
+        "title": "Rule retains routine equipment-declaration copies to the national authority"
+      },
+      "reason": "Describe the inspected legal duty rather than actual submissions."
+    },
+    {
+      "id": "ee-asbestos-low-risk-permit-exception",
+      "priority": "minor-cleanup",
+      "issue": "Caveat repeats two versions of the same25August2026LabourInspectorate guidance qualification.",
+      "proposedChange": "Keep the latter fuller sentence group only."
+    }
+  ],
+  "huManualLocator": {
+    "correction": "My earlier focused-note attribution toVI.1.4.8 was inaccurate; the table of contents and paragraph order show the operative minimumTier1 sentence underVI.1.4.9 OLRR. The public record is now correct.",
+    "headings": [
+      {
+        "section": "VI.1.4.7",
+        "text": "A túlzott tőkeáttételi kockázatra vonatkozó 2. pillér szerinti tőkekövetelmény (P2R-LR)"
+      },
+      {
+        "section": "VI.1.4.8",
+        "text": "A teljes SREP tőkeáttételimutató-követelmény (TSLRR)"
+      },
+      {
+        "section": "VI.1.4.9",
+        "text": "A tőkeáttételre vonatkozó teljes követelmény (OLRR)"
+      },
+      {
+        "section": "VI.1.4.10",
+        "text": "A túlzott tőkeáttétel kockázatára vonatkozó 2. pillér szerinti tőkeajánlás (P2G-LR)"
+      }
+    ],
+    "page": "All four printed49",
+    "source": "https://www.mnb.hu/letoltes/icaap-ilaap-bma-kezikonyv-2025q4.docx",
+    "uniqueNotesCorrected": [
+      "research/audit-2026-10-26/focused-hu-capital.json",
+      "research/audit-2026-10-26/peer-47-68.json"
+    ]
+  }
+}

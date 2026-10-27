@@ -1,0 +1,122 @@
+{
+  "id": "hr-toy-cobalt-permission",
+  "title": "Cobalt permissions remain outside the national toy list while a draft is consulted on",
+  "country": "Croatia",
+  "countryCode": "HR",
+  "topic": "Product safety",
+  "baseAct": "Directive 2009/48/EC on toy safety",
+  "baseActPublished": "2009-06-30",
+  "amendingAct": "Commission Directive (EU)2026/192",
+  "celex": "32026L0192",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "government",
+  "statusLabel": "Qualified omission · corrective draft under consultation",
+  "statusKind": "draft",
+  "statusDetail": "A proposed cobalt entry is under consultation until 31 October 2026; its proposed 25 November commencement is not enacted law.",
+  "evidenceDate": "2026-10-27",
+  "deadline": "2026-08-29",
+  "deadlineLabel": "Updated permission route must apply",
+  "priorRecognition": "recognized",
+  "recognizedBy": [
+    "Croatian Ministry of Health"
+  ],
+  "catalogueStatus": "review",
+  "evidenceLabel": "Authentic EU amendment and actual national amendment chain read",
+  "summary": "Croatia’s toy-safety list still contains only nickel. The Ministry’s September draft would add the three specified cobalt uses, after the EU application date. Existing low-concentration and inaccessibility alternatives remain available.",
+  "euChange": "Adds three defined cobalt permissions; national application is required from 29 August 2026.",
+  "nationalGap": "Article 10(1) binds the national Annex II. Its Part III points 4(c) and 5(c) require both European permission and inclusion in national Appendix A. The 2015 replacement lists nickel only; the five later enacted amendments read do not add cobalt. A September 2026 ministry draft expressly proposes adding that entry to the currently applicable text.",
+  "nationalLaw": "Pravilnik o sigurnosti igračaka, NN 83/2014 Article 10 and Annex II Part III points 3–7/Appendix A; Appendix A replaced by NN 38/2015 Article 3. Later amendments: NN 35/2017,50/2018,60/2019,48/2021 and 140/2022.",
+  "consequence": "For a specified cobalt use that cannot independently satisfy the low-concentration or inaccessibility exceptions, the written national list does not yet express the new permission. No actual product refusal, prohibited sale or trade obstruction was established.",
+  "caveat": "This is a qualified comparison of formal rules, not an adjudicated breach. Low-concentration and inaccessible-material alternatives, CE conformity presumptions, EU free-movement rights and directive-consistent interpretation may protect products. The draft is not a correction already in force. No unsafe-toy, actual refusal or deliberate-disregard claim is made. The new Toy Safety Regulation’s substantive replacement applies from 1 August 2030 and does not itself complete this current permission update.",
+  "provisions": "EU 2026/192 Articles 1–2;2009/48 Articles 12,15 and Annex II Part III points 3–7; national Article 10, Annex II Part III points 4(c)/5(c), Appendix A.",
+  "resolution": "The current ministry regulatory lists end with NN 140/2022. The 30 September 2026 draft adds cobalt and proposes force on 25 November 2026; consultation remains open until 31 October. Bounded official-register searches found no later enacted amendment by 27 October. The national text was reconstructed from actual originals and the complete officially listed amendment chain, not represented as a newly read official consolidation.",
+  "recognitionNote": "The Ministry’s draft and explanatory memorandum identify adding cobalt as the key difference from the currently applicable rule. This precise issue is already publicly recognized; no novelty claim is made.",
+  "review": "Verify personally read the original operative chemical exceptions, all six enacted amendments, official current regulatory list, whole September draft and explanatory memorandum, and authentic EU clauses. Reference independently read original Articles 10/12–16 and Annex II Part III points 3–7, the entire 2015/38 and 2022/140 amendments, entire draft and EU 192 operative provisions. Intervening amendments and bounded currentness search are separately credited to verify. No actual refusal or product outcome was established.",
+  "reviewAfter": "2026-11-25",
+  "comparison": {
+    "beforeLabel": "Current national listing",
+    "before": "Appendix A lists nickel; there is no cobalt entry in the current reconstructed national chain.",
+    "afterLabel": "EU permission addition",
+    "after": "Three specified cobalt uses, subject to their conditions and continuing general safety rules.",
+    "note": "Only the listing route is compared. Other material/concentration exceptions continue independently."
+  },
+  "timeline": [
+    {
+      "date": "2026-08-29",
+      "event": "Updated EU permission route must apply.",
+      "who": "eu"
+    },
+    {
+      "date": "2026-09-30",
+      "event": "Ministry opens consultation on the specific cobalt addition.",
+      "who": "national"
+    },
+    {
+      "date": "2026-10-27",
+      "event": "Actual national sources and bounded later-law search checked.",
+      "who": "check"
+    }
+  ],
+  "sources": [
+    {
+      "title": "EU cobalt amendment",
+      "url": "https://eur-lex.europa.eu/legal-content/HR/TXT/?uri=CELEX%3A32026L0192",
+      "role": "Authentic EU changed obligation",
+      "locator": "Articles 1–2; all three uses and application date actually read."
+    },
+    {
+      "title": "Original Croatian toy-safety rule",
+      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_83_1618.html",
+      "role": "Operative national scope and exception route",
+      "locator": "Articles 10,12–16; Annex II Part III points 3–7; Appendix A."
+    },
+    {
+      "title": "Enacted national Appendix A replacement",
+      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_04_38_792.html",
+      "role": "Actual national list",
+      "locator": "Article 3 lists nickel only; Article 5 commencement. Entire amender read."
+    },
+    {
+      "title": "Latest officially listed enacted amendment",
+      "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_140_2129.html",
+      "role": "Later-law chain check",
+      "locator": "Entire three-article act; only reference update/aniline in Appendix C, no cobalt listing."
+    },
+    {
+      "title": "Current Ministry regulatory list",
+      "url": "https://zdravlje.gov.hr/pristup-informacijama/zakoni-i-ostali-propisi/zakoni/2426",
+      "role": "Currentness corroboration",
+      "locator": "Toy rule cites NN 83/14,38/15,35/17,50/18,60/19,48/21,140/22. This is checked against the actual originals, not used as proof of their substantive contents."
+    },
+    {
+      "title": "Official consultation on the cobalt addition",
+      "url": "https://zdravstvo.gov.hr/pristup-informacijama/savjetovanje-s-javnoscu/otvorena-savjetovanja/nacrt-pravilnika-o-izmjeni-i-dopuni-pravilnika-o-sigurnosti-igracaka-7533/7533",
+      "role": "Recognition and pending remedy",
+      "locator": "30 September–31 October 2026."
+    },
+    {
+      "title": "Official draft cobalt entry",
+      "url": "https://zdravlje.gov.hr/UserDocsImages/2026_Savjetovanje%20s%20javno%C5%A1%C4%87u/Nacrt%20pravilnika%20o%20izmjeni%20i%20dopuni%20Pravilnika%20o%20sigurnosti%20igra%C4%8Daka.pdf",
+      "role": "Proposed law, not enacted remedy",
+      "locator": "Entire Articles 1–3; Article 2 adds all three permissions, Article 3 proposes 25 November 2026 commencement."
+    },
+    {
+      "title": "Official explanatory memorandum",
+      "url": "https://zdravlje.gov.hr/UserDocsImages/2026_Savjetovanje%20s%20javno%C5%A1%C4%87u/Obrazlo%C5%BEenje_Pravilnik%20igra%C4%8Dke.pdf",
+      "role": "Specific government recognition",
+      "locator": "Entire one-page memo: identifies adding cobalt as the key change from the currently applicable rule."
+    },
+    {
+      "title": "New Toy Safety Regulation transition",
+      "url": "https://publications.europa.eu/resource/cellar/f2294563-d703-11f0-8da2-01aa75ed71a1.0006.03/DOC_1",
+      "role": "Later directly applicable law checked for a cure",
+      "locator": "Articles 57 and 59: substantive replacement applies 1August 2030; early 2026 provisions do not make this cobalt listing obsolete today."
+    }
+  ],
+  "researchMetadata": {
+    "systematicAct": "2026/192",
+    "sourcePolicy": "Lean links and analysis retained; source bodies temporary.",
+    "peerReview": "Actual-source bounded qualified PASS by reference: base operative scope and exceptions, whole decisive 2015 and latest 2022 amenders, whole current draft and authentic EU provisions; final candidate prose checked."
+  }
+}

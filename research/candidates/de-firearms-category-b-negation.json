@@ -1,0 +1,39 @@
+{
+  "id": "de-firearms-category-b-negation",
+  "status": "PRIVATE HOLD — negative control",
+  "snapshot": "2026-10-26",
+  "question": "Current WaffG Annex 1 section 3 B 2.6 appears to omit the negation in the EU B 6 exclusion of A 7(b).",
+  "observedNationalText": "The current national clause refers to arms listed in 1.7.2 while also describing capacity of at most 3 rounds, creating an internal contradiction. The original government bill already contains that wording.",
+  "sourceRead": [
+    {
+      "url": "https://www.gesetze-im-internet.de/waffg_2002/anlage_1.html",
+      "locator": "Current B 2.6 and A 1.7.2 read independently by root; official indexed full body corroborated by verify."
+    },
+    {
+      "url": "https://dserver.bundestag.de/btd/19/138/1913839.pdf",
+      "locator": "Printedp 29, proposed B 2.6 personally read by verify. This is the proposal, not represented as independently reread authentic 2020 enactment."
+    },
+    {
+      "url": "https://xwaffe.de/Matrix_20230801.pdf",
+      "locator": "Actual XWaffe 2.5 matrix personally retrieved/read. B 2.6 rows classify detachable-magazine semiautomatic long arms, including Sauer 303/BrowningBARIIexamples, as B; C 3.3 rows refer to fixed<=2 round examples.",
+      "role": "Material contrary published administrative classification, not proof of every authority’s conduct."
+    },
+    {
+      "url": "https://xwaffe.de/",
+      "locator": "Live current public landing page read26 October2026, explicitly still links the2023matrix and describes the tool for weapons authorities. Page refers to2.7and an April2025update; those dated statements are not treated as proof of all2026operational versions.",
+      "role": "Current public link/context, not a universal practice audit."
+    },
+    {
+      "url": "https://nwr-fl.de/impressum.html",
+      "locator": "Current imprint updated19 May2026; provider Nationales Waffenregister–Fachliche Leitstelle, Hamburg Behörde für Inneres und Sport. Actual page read.",
+      "role": "Official issuer context for the linked matrix."
+    }
+  ],
+  "adverseAssessment": "The matrix applies the intended B classification despite the statutory contradiction. EU-conforming correction of an obvious clerical omission is a material alternative. No actual EU-B 6 firearm misclassified as C, omitted home-state consent, unlawful possession or failed transfer control was established. Ordinary German C firearms are also generally licensed.",
+  "recognitionSearch": "Bounded searches for the precise 2.6/1.7.2 wording with Fehler, Redaktionsversehen, Druckfehler and nicht found reproductions, not an exact published criticism. This is not a first-discovery claim.",
+  "remainingChecks": [
+    "Authentic2020enactment/corrigenda chain not independently completed by verify; parent owns original firearm-law work.",
+    "The matrix alone does not prove legal equivalence of every cross-border-consent decision."
+  ],
+  "decision": "Keep private unless a residual operative consequence survives the contrary routes. Do not publish a current substantive omission on the missing word alone."
+}

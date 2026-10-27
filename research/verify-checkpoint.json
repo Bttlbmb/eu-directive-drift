@@ -1,0 +1,142 @@
+{
+  "snapshot": "2026-10-27",
+  "checkpointUTC": "2026-10-27T04:46:00Z",
+  "assessmentScope": "Formal-law assessments of all changed meanings, with options and transitions. Completed means assessed, sometimes legally inconclusive; it does not certify conformity, enforcement, administrative communication or practical performance. Unread material current-source dependencies remain partial.",
+  "countryCells": 243,
+  "cellsWithSomeActualNationalBodyRead": 121,
+  "completedFormalLawAssessments": 90,
+  "byAct": [
+    {
+      "celex": "32024L1416",
+      "bodiesRead": 27,
+      "reviewComplete": 23
+    },
+    {
+      "celex": "32026L0192",
+      "bodiesRead": 27,
+      "reviewComplete": 24
+    },
+    {
+      "celex": "32024L0884",
+      "bodiesRead": 11,
+      "reviewComplete": 9
+    },
+    {
+      "celex": "32019L0983",
+      "bodiesRead": 10,
+      "reviewComplete": 7
+    },
+    {
+      "celex": "32017L2398",
+      "bodiesRead": 10,
+      "reviewComplete": 6
+    },
+    {
+      "celex": "32019L0130",
+      "bodiesRead": 10,
+      "reviewComplete": 8
+    },
+    {
+      "celex": "32004L0037",
+      "bodiesRead": 10,
+      "reviewComplete": 4
+    },
+    {
+      "celex": "32009L0148",
+      "bodiesRead": 6,
+      "reviewComplete": 4
+    },
+    {
+      "celex": "32024L0869",
+      "bodiesRead": 10,
+      "reviewComplete": 5
+    }
+  ],
+  "dependencyAudit": "All parent2004/37 child links now reflect the actual current assessments of the four selected amendments. Germany remains partial for its distinct medical-file succession/closure route despite all four children being assessed. No dependency was promoted from a notification or from an unresolved source blocker.",
+  "candidateQualifications": {
+    "se-private-environment-unfinished-notice": "Narrow special-law private bodies only; contrary government service-equivalence position, EU remedies and no actual deficient refusal retained. Recast, not a Finnish correction attributed to Sweden. Independent peer qualified PASS.",
+    "ie-asbestos-low-risk-permit-exception": "Only otherwise-covered low-risk-only removal undertaking without valid approval from another notification/route. EU undertaking permission, not per-job permission. General controls retained; no actual undertaking/operation/harm. Root whole-amender/EU and reference exact-clause qualified PASS."
+  },
+  "newAssessmentWork": [
+    "France, Slovenia, Lithuania, Belgium, Croatia and Romania cobalt: actual target rules/currentness chains plus bounded independent source challenges.",
+    "Belgium, Latvia and Croatia cadmium: all five introduced/correction groups explicitly mapped, actual current bodies or reconstructed official chains read.",
+    "Finland WEEE: mainland current 646/2011 and 519/2014, actual2026amenders and dynamic Åland routes; marking equivalence remains qualified.",
+    "Germany 2017/2398 and2024/869: actual sectoral/medical/technical routes; specific process, blood-limit and transition equivalence questions retained.",
+    "Germany asbestos: all 21 changed groups assessed with actual current ordinance, selected TRGS519 sections/annexes, whole BMAS bridge/instructions and source-level peer.",
+    "Germany parent2004/37: all 27 groups now have explicit partial source assessments; separate medical-file succession remains unclosed.",
+    "Cyprus cadmium: entire additional KDP 270/2026 lead-only companion read; current parent/delegation/history remains partial.",
+    "Bulgaria: parent chemical-law delegation and actual official index/date inconsistencies investigated; toy target independently peer-read but later-currentness remains partial."
+  ],
+  "remainingBlockers": [
+    "Most remaining portfolio cells still require current operative target bodies and full changed-group comparisons; notifications remain discovery only.",
+    "Bulgaria, Cyprus and Greece cobalt and Bulgaria, Cyprus, Greece, Romania cadmium retain specific primary-currentness/parent-chain limitations.",
+    "Romanian cadmium current 310834 failed web, terminal and parent browser retrieval again; old150166 was not counted as current.",
+    "German 2004/37 medical-file succession/closure is unresolved; employer visit cards and exposure lists are not substituted.",
+    "Historical Hungarian cadmium qualifying biomonitoring-system route remains unclosed; no public allegation from the old general threshold alone.",
+    "Belgium WEEE and other regional/special-sector dependencies remain partial where material current sources were not read."
+  ],
+  "publicEdits": "None by this agent. Parent owns public catalogue and generated coverage. Existing audit exclusions and held Irish licensing issue preserved.",
+  "completedThisPass": [
+    {
+      "celex": "32026L0192",
+      "countries": [
+        "FR",
+        "SI",
+        "LT",
+        "BE",
+        "HR",
+        "RO"
+      ]
+    },
+    {
+      "celex": "32024L1416",
+      "countries": [
+        "BE",
+        "LV",
+        "HR"
+      ]
+    },
+    {
+      "celex": "32024L0884",
+      "countries": [
+        "FI"
+      ]
+    },
+    {
+      "celex": "32017L2398",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "celex": "32024L0869",
+      "countries": [
+        "DE"
+      ]
+    },
+    {
+      "celex": "32009L0148",
+      "countries": [
+        "DE"
+      ]
+    }
+  ],
+  "completedThisPassCount": 13,
+  "finalQA": [
+    "All90 completed rows have every inventory change ID explicitly assessed; no missing/duplicate completed provision IDs.",
+    "No completed row has bodyRead false or currentnessVerified false.",
+    "Source/history URLs and CELEX values checked for whitespace corruption;46 earlier altered history URLs restored to exact tokens.",
+    "Finalfour new public records read for qualification consistency; no blocking overclaim found.",
+    "Peer scope is described as bounded actual-source reading; no second exhaustive national audit is implied."
+  ],
+  "carriedPrivateReviewNotes": [
+    "research/candidates/se-private-environment-unfinished-notice.json",
+    "research/candidates/ie-asbestos-low-risk-permit-exception.json"
+  ],
+  "newPrivateCandidates": [],
+  "publicCandidateHandledByParentThisPass": {
+    "id": "hr-toy-cobalt-permission",
+    "path": "research/candidates/hr-toy-cobalt-permission.json",
+    "status": "Recognized government corrective draft; qualified formal listing comparison. Parent handles public inclusion. No audit exclusion was restored."
+  }
+}

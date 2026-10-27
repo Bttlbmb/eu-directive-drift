@@ -1,0 +1,901 @@
+{
+  "reviewDate": "2026-10-26",
+  "policy": "A textual difference alone does not establish an unresolved implementation concern. Exclusion means the public issue is insufficiently supported within the reviewed scope; it is not a certificate that the national framework complies.",
+  "exclusions": [
+    {
+      "id": "dk-environmental-information-corrigendum",
+      "countryCode": "DK",
+      "celex": "32003L0004R(05)",
+      "reason": "The corrected wording is documented, but no unresolved implementation defect is established. Ministry instructions apply the EU definition despite the national wording, and the wider domestic wording does not establish reduced access. Retain as an excluded textual-variation control rather than an unresolved public issue.",
+      "evidence": [
+        {
+          "url": "https://www.ombudsmanden.dk/find-viden/myndighedsguiden/specifikke-sagsomraader/22-hvad-er-miljoeoplysninger",
+          "locator": "Section 3, correction note (guide updated 15 April 2025)",
+          "finding": "Official guide acknowledges the 2022 correction and unchanged statute, and directs interpretation in the light of the directive and Aarhus Convention."
+        },
+        {
+          "url": "https://mim.dk/media/l3zp0yz1/7-rapport_dansk-version.pdf",
+          "locator": "PDF page 13, Definitionen af miljøoplysninger",
+          "finding": "Ministry expressly directs application of the directive definition despite the wording difference."
+        }
+      ],
+      "limitations": [
+        "No refusal of access or narrower authoritative interpretation was established. The initial reviewer encountered an anti-bot block for the EU text; the coordinating review subsequently read the authentic source, including recital 24, which permits broader national access."
+      ],
+      "coverageActs": [
+        "32003L0004"
+      ],
+      "category": "permitted-variation",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "hu-emf-corrigendum",
+      "countryCode": "HU",
+      "celex": "32013L0035R(01)",
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?rid=2&uri=CELEX%3A32013L0035",
+          "locator": "Recital 8; Annex II Table A3",
+          "finding": "EU minimum protection expressly allows lower national limits; authentic English table has constant 0.07 and rising 0.0028 × f."
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2016-33-20-5H",
+          "locator": "Annex 2 Table 1.3 rows 2–3; displayed version 11 August 2023",
+          "finding": "Fresh official page displays 0.07/f and 0.0028/f."
+        }
+      ],
+      "limitations": [],
+      "coverageActs": [],
+      "category": "permitted-variation",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "lv-emf-corrigendum",
+      "countryCode": "LV",
+      "celex": "32013L0035R(01)",
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?rid=2&uri=CELEX%3A32013L0035",
+          "locator": "Recital 8; Annex II Table A3",
+          "finding": "EU minimum protection expressly allows lower national limits; authentic English table has constant 0.07 and rising 0.0028 × f."
+        },
+        {
+          "url": "https://likumi.lv/ta/id/277138",
+          "locator": "Annex 1 Table 2 rows 2.2–2.3",
+          "finding": "Fresh official page displays both division formulas."
+        }
+      ],
+      "limitations": [],
+      "coverageActs": [],
+      "category": "permitted-variation",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "lt-emf-corrigendum",
+      "countryCode": "LT",
+      "celex": "32013L0035R(01)",
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?rid=2&uri=CELEX%3A32013L0035",
+          "locator": "Recital 8; Annex II Table A3",
+          "finding": "EU minimum protection expressly allows lower national limits; authentic English table has constant 0.07 and rising 0.0028 × f."
+        }
+      ],
+      "limitations": [
+        "E-TAR main page returned 403; print endpoint cache miss. Official indexed print confirms act identity and current status, but national table was not freshly extracted. Removal follows even if the existing table comparison is assumed correct."
+      ],
+      "coverageActs": [],
+      "category": "permitted-variation",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "de-waste-prevention-definition",
+      "countryCode": "DE",
+      "celex": "32018L0851",
+      "reason": "Ministry confirms the planned terminology update, but neither its explanation nor the record establishes a narrower operative duty or outcome. An acknowledged editorial alignment, with possibly broader current wording, is insufficient for the conservative unresolved-implementation catalogue.",
+      "evidence": [
+        {
+          "url": "https://www.gesetze-im-internet.de/krwg/__3.html",
+          "locator": "Section 3(20)",
+          "finding": "Fresh current page retains harmful-substances wording."
+        },
+        {
+          "url": "https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Glaeserne_Gesetze/21._LP/krwg/refe_krwg_bf.pdf",
+          "locator": "Article 1(4)(c); memorandum PDF page 26",
+          "finding": "Draft explains that it follows the EU terminology change; no specific narrowed protection or inadmissible exception identified."
+        }
+      ],
+      "limitations": [
+        "Exclusion does not certify the entire waste regime compliant or say the ministry amendment is unnecessary."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/peer-01-23.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "si-rohs-two-wheel-scope",
+      "countryCode": "SI",
+      "celex": "32011L0065R(06)",
+      "reason": "Keep the literal difference internally, but remove from public unresolved implementation issues pending a demonstrated incompatibility. EU scope exclusion does not itself establish that an independent wider national hazardous-substance rule is impermissible; the possible notification/free-movement issue was not established. This is an evidence-threshold exclusion, not a finding that every wider national rule is lawful.",
+      "evidence": [
+        {
+          "url": "https://pisrs.si/api/datoteke/integracije/357980256",
+          "locator": "NPB17, Articles2(3)fifthindent,3(4)",
+          "finding": "Fresh accessible predecessor retains earlier wording and separate electricity-dependent EEE definition."
+        },
+        {
+          "url": "https://environment.ec.europa.eu/system/files/2021-01/FAQ%20key%20guidance%20document%20-%20RoHS.pdf",
+          "locator": "Q7.1–7.2,pp19–20; decision treep8",
+          "finding": "Fresh Commission guidance confirms petrol equipment can be EEE through electric ignition; it does not resolve legality of wider national rules."
+        },
+        {
+          "url": "https://ec.europa.eu/environment/pdf/waste/faq_weee.pdf",
+          "locator": "2006FAQ Q1.4,p9",
+          "finding": "Older Commission guidance discusses notification for wider national scope under former Article95(5); not proof of a current unnotified or unlawful Slovenian measure."
+        }
+      ],
+      "limitations": [
+        "CurrentNPB18 and2026amender PISRS pages yielded JavaScript shells; authentic correction and unchanged-Article2 chain remain supported by earlier evidence/other reviewers, not freshly read in full by this agent.",
+        "No current Article114 notification census, legal ruling, actual affected vehicle or free-movement measure established. Do not say ignition-equipped non-electric vehicles can never be EEE."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/peer-01-23.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "be-dac8-ledger-address-reference",
+      "countryCode": "BE",
+      "celex": "32023L2226R(01)",
+      "reason": "Fresh texts substantiate a stale citation but no reporting transaction excluded, unintelligible obligation, or missing administrative collection was established. Treat as an editorial-reference control rather than a substantive unresolved implementation issue.",
+      "evidence": [
+        {
+          "url": "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026005033/justel",
+          "locator": "Article 2(4); Articles 13 and 15 insert 5/11 and 5/13",
+          "finding": "French Community enactment reproduces Regulation 2023/1114 reference."
+        },
+        {
+          "url": "https://wallex.wallonie.be/eli/loi-decret/1999/05/06/1999027513",
+          "locator": "Article 64bis, definition 31°",
+          "finding": "Fresh current regional text retains the same reference."
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "locator": "Points 1–2",
+          "finding": "Official EU correction changes the address reference to Regulation 2023/1113."
+        }
+      ],
+      "limitations": [
+        "Authentic French correction fetch was anti-bot blocked; official Spanish OJ copy used to corroborate common cross-reference change. No coverage defect inferred from the typo. Existing source locator wrongly attributes 5/11 and 5/13 to Article 11; actual inserting articles are 13 and 15.",
+        "The first reporting date is context only; it does not postpone all current registration, due-diligence or implementation duties. Withdrawal rests on the unestablished substantive effect of the citation error."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/peer-01-23.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "lu-dac8-ledger-address-reference",
+      "countryCode": "LU",
+      "celex": "32023L2226R(01)",
+      "reason": "The statute expressly includes the relevant outbound-transfer reporting category despite its incorrect external citation. The tax authority now supplies an operational TransferWallet reporting field with required amount/unit data. Keep the typo internally; a missing or unintelligible reporting obligation is not established.",
+      "evidence": [
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "locator": "Point 2",
+          "finding": "Corrected reporting provision points to Regulation 2023/1113."
+        },
+        {
+          "url": "https://impotsdirects.public.lu/fr/echanges_electroniques/cdc-carf.html",
+          "locator": "CARF reporting framework page",
+          "finding": "Tax-authority reporting framework remains available; this does not establish a reporting omission."
+        },
+        {
+          "url": "https://legilux.public.lu/eli/etat/leg/loi/2026/03/27/a144/jo",
+          "locator": "Article 5(3)(c)(ix); act marked in force",
+          "finding": "Fresh browser read overcame JavaScript shell and confirms the 1114 citation; reporting category still expressly exists."
+        },
+        {
+          "url": "https://impotsdirects.public.lu/dam-assets/fr/echanges-electroniques/carf/cdc-manuel-dutilisationv100.pdf",
+          "locator": "Version1.00,published14October2026;tablep57,section6.5.2.3.2.3.3p61",
+          "finding": "Fresh full officialPDF read:TransferWallet covers transfers to unknown wallet addresses and mandates amount/unit fields. Positive evidence that the category remains operational despite citation error."
+        }
+      ],
+      "limitations": [
+        "No omitted transaction category or administrative reporting failure established. Exclusion does not assert that the typo has been corrected.",
+        "The first reporting date is context only; it does not postpone all current registration, due-diligence or implementation duties. Withdrawal rests on the unestablished substantive effect of the citation error."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/peer-01-23.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "fr-dac8-ledger-address-reference",
+      "countryCode": "FR",
+      "celex": "32023L2226R(01)",
+      "reason": "Live Article 1649 AC bis II.D(i) retains the1114 citation; EU corrigendum changes the ledger-address reference to1113. This establishes a drafting mismatch, but no substantive reporting omission, scope change or unresolved compliance problem has been demonstrated. Remove from public issues pending such evidence; preserve research.",
+      "evidence": [
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051215656",
+          "locator": "1649 AC bis II.D(i), live header26 October 2026, current since1 January 2026",
+          "finding": "live IAB rendered official text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "locator": "Authentic EU corrigendum, address references1114 → 1113",
+          "finding": "official indexed authentic EU PDF"
+        },
+        {
+          "url": "https://www.impots.gouv.fr/transfert-dinformations-en-application-des-dispositifs-carfdac8",
+          "locator": "Technical-document landing page, maintenance response",
+          "finding": "web and live IAB access attempt"
+        }
+      ],
+      "limitations": [
+        "The technical annex could not be retrieved. Existing record acknowledges detailed reporting documentation unverified; failure to access does not prove a reporting defect. First annual filing remains2027. This is withdrawal for insufficient substantive support, not proof the reference has been corrected.",
+        "The first reporting date is context only; it does not postpone all current registration, due-diligence or implementation duties. Withdrawal rests on the unestablished substantive effect of the citation error."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-24-46.json",
+        "research/audit-2026-10-26/peer-24-46.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "at-dac8-ledger-address-reference",
+      "countryCode": "AT",
+      "celex": "32023L2226R(01)",
+      "reason": "Current RIS§§ 4(7),18(1)Z3(i) retains1114 while EU corrigendum specifies1113. However official explanation directs OECD CARF-consistent interpretation, and binding KDVO§ 4 routes filings to published technical specifications. No substantive scope or reporting failure demonstrated. Remove public issue pending evidence; retain drafting research.",
+      "evidence": [
+        {
+          "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013064",
+          "locator": "§§ 4(7),18(1)Z3(i); current header20 October 2026",
+          "finding": "official full text"
+        },
+        {
+          "url": "https://www.parlament.gv.at/dokument/XXVIII/I/306/fnameorig_1723216.html",
+          "locator": "Introduction and§ 4 explanation: OECD CARF commentary alignment",
+          "finding": "official full text"
+        },
+        {
+          "url": "https://ris.bka.gv.at/Dokumente/Bundesnormen/NOR40274862/NOR40274862.pdf",
+          "locator": "KDVO§ 4 technical reporting specifications, effective1 January 2026",
+          "finding": "official indexed binding national PDF"
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "locator": "Authentic EU corrigendum, address reference1114 → 1113",
+          "finding": "official indexed authentic EU PDF"
+        }
+      ],
+      "limitations": [
+        "No detailed Austrian CARF schema verified; general BMF/FinanzOnline software pages did not supply proof of narrower reporting. This is insufficient substantive evidence, not a finding law has been corrected.",
+        "The first reporting date is context only; it does not postpone all current registration, due-diligence or implementation duties. Withdrawal rests on the unestablished substantive effect of the citation error."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-24-46.json",
+        "research/audit-2026-10-26/peer-24-46.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "it-dac8-ledger-address-reference",
+      "countryCode": "IT",
+      "celex": "32023L2226R(01)",
+      "reason": "Authentic Decree194/2025 Article 6(1)(ee) retains1114 address definition, and Article 13 requires external transfer reports. Literal citation mismatch holds, but there is no demonstrated reporting omission or practical ambiguity. Remove from public issues until substantive evidence; preserve research.",
+      "evidence": [
+        {
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2025/12/22/296/sg/pdf",
+          "locator": "Article 6(1)(ee), PDF 10; Article 13(1)(c)(9), PDF 16",
+          "finding": "official full text"
+        },
+        {
+          "url": "https://www.boe.es/doue/2025/90947/L00001-00002.pdf",
+          "locator": "Authentic EU corrigendum, address reference1114 → 1113",
+          "finding": "official indexed authentic EU PDF"
+        }
+      ],
+      "limitations": [
+        "Current Normattiva replacement and detailed AE technical annexes/JulyFAQs not independently verified in this pass. Existing record itself admits coverage unverified. First filings2027; withdrawal is insufficient substantive support, not proof citation corrected.",
+        "The first reporting date is context only; it does not postpone all current registration, due-diligence or implementation duties. Withdrawal rests on the unestablished substantive effect of the citation error."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-24-46.json",
+        "research/audit-2026-10-26/peer-24-46.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "countryCode": "RO",
+      "celex": "32011L0061R(05)",
+      "reason": "The branch/subsidiary difference is real, but the operative EU clause defines an exclusion from AIFMD, not an independently demonstrated ban on national regulation of excluded managers. No affected manager, decision, restriction of an EU passport or specific contrary EU obligation is established. Under the requested conservative threshold, hold the textual drafting lead in research rather than list it publicly as an unresolved implementation issue.",
+      "evidence": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/d75d4591-19f4-470f-a1ba-6833902d0d76.0017.03/DOC_1",
+          "locator": "Article3(1), recitals8,16; recital17 concerns a separate subthreshold category",
+          "finding": "Primary source reviewed; see linked audit."
+        },
+        {
+          "url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3PEIZSBUIT9PF2MEAYMVWDFYOH",
+          "locator": "Articles 1(5)(a), 2(1), 3(25); body includes Law 243/2025 amendments effective 16 April 2026; checked 26 October 2026.",
+          "finding": "Primary source reviewed; see linked audit."
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62010CJ0602",
+          "locator": "C602/10 paras38–43, analogy only: excluded agreements can be regulated in a national transposition measure",
+          "finding": "Primary source reviewed; see linked audit."
+        }
+      ],
+      "limitations": [
+        "This is an editorial insufficient-evidence exclusion, not a finding that the national wording is correct or that every wider rule is lawful. The cited judgment addresses a different directive; the inference is expressly limited.",
+        "An affected-manager decision or actual harm is not required to reopen this issue. The missing support is a reasoned demonstration that the wider national scope conflicts with a specific EU obligation or right."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-47-68.json",
+        "research/audit-2026-10-26/peer-47-68.json"
+      ],
+      "coverageActs": [],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "ie-bank-ccp-quantified-plans",
+      "countryCode": "IE",
+      "celex": "32024L2994",
+      "reason": "Binding CBI licence conditions already require board risk strategy, documented quantitative risk appetite, monitoring, remedial action and contingency plans. Together with the existing CCP concentration rule and directly applicable EMIR requirements, these provide a plausible route to the changed EU result. No residual missing obligation beyond absent express statutory wording has been established. Withdraw pending a reasoned assessment of non-equivalence.",
+      "evidence": [
+        {
+          "url": "https://www.centralbank.ie/regulation/industry-market-sectors/credit-institutions/regulatory-requirements",
+          "locator": "Current Authorisation & Supervision Requirements section",
+          "finding": "Current regulator index links the 2015 requirements as applicable."
+        },
+        {
+          "url": "https://www.centralbank.ie/docs/default-source/Regulation/industry-market-sectors/credit-institutions/regulatory-requirements/gns-4-4-3-2-cgr-2015.pdf?sfvrsn=2",
+          "locator": "Sections 3.1,3.7,13.1(c),15.1–15.4,15.8",
+          "finding": "Enforceable licence conditions supply board strategy and quantitative risk-control requirements."
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2994/oj/eng",
+          "locator": "Article 2(2), new CRD76(2) fifth subparagraph",
+          "finding": "Exact new result is specific plans and quantifiable targets for the stated CCP concentration risk under EMIR7a."
+        }
+      ],
+      "limitations": [
+        "Exclusion is not a certificate of complete transposition. No individual bank plan or supervisory decision was audited."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-47-68.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ],
+      "coverageActs": [
+        "32024L2994"
+      ],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "countryCode": "PL",
+      "celex": "32012L0039",
+      "reason": "The incidence/prevalence difference is real, but the current parent statute also imposes binding current-medical-knowledge, necessary-testing and clinical-risk duties. The original official transposition table expressly maps EU prevalence screening to those duties. No residual EU-category test omission permissible under the complete framework was established. Keep the wording observation research-only pending a reasoned non-equivalence analysis.",
+      "evidence": [
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/384/text.pdf",
+          "locator": "Annex 1, table 1 row 5 and table 2 row 6; Sections 2–3, printed pp. 2–3 and 5–6.",
+          "finding": "Incidence remains in two rows; necessary additional testing and clinical-risk duties remain binding."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/442/text.pdf",
+          "locator": "Infertility Act Articles 3(1), 29(1)(1)–(2), 30(1)(2)–(3), printed pp. 5 and 10–11.",
+          "finding": "Current medical knowledge, necessary examinations and tests, and risk controls are binding conditions for procurement."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/sejm/term7/prints/3245/3245.pdf",
+          "locator": "Original official transposition table, printed pp. 39–40 and 43–44 (PDF pp. 389–390 and 393–394).",
+          "finding": "EU prevalence screening is expressly reproduced and mapped to parent-law clinical duties; whole relevant mapping read."
+        }
+      ],
+      "limitations": [
+        "The categorical geographic-trigger counterargument remains credible. This withdrawal does not establish full equivalence or correct transposition. A patient case or harm is not required to reopen the question; an authoritative or reasoned demonstration of an uncovered mandatory test would suffice."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/focused-donor-testing-47-68.json",
+        "research/audit-2026-10-26/peer-pl-htlv-testing.json"
+      ],
+      "coverageActs": [
+        "32012L0039"
+      ],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "countryCode": "HU",
+      "celex": "32024L2839",
+      "reason": "The automatic national copy requirement is verified, but the Commission reporting route has been repealed. The EU simplification and harmonisation provisions give grounds for scrutiny; they do not, without further analysis, establish that this remaining national surveillance rule is prohibited. No premarketing condition, disproportionate filing requirement or specific official acknowledgment of an unlawful residual duty was established. Withhold as a public issue pending a reasoned legal-effect assessment.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/eng",
+          "locator": "Recitals 5–6; Articles 2(1), 5(1); read with Directive 2000/14 Articles 1, 6, 14(3), 17.",
+          "finding": "EU removes the routine national/Commission reporting scheme; harmonisation and free movement support scrutiny, while targeted surveillance remains available."
+        },
+        {
+          "url": "https://njt.jog.gov.hu/jogszabaly/2001-140-20-22",
+          "locator": "Sections 3, 5(3), 10(2), 11, 12(3); current 31 December 2025 onward; live 26 October 2026.",
+          "finding": "Section 11(1) still requires a copy for every equipment type. The 2025 amender deleted only Section 11(2), the Commission route."
+        },
+        {
+          "url": "https://magyarkozlony.hu/dokumentumok/82c68f94f4b407cf9e51b594d2f43255655549c4/letoltes",
+          "locator": "Gazette 2025 No 161, p 11721; 469/2025 Sections 1–4.",
+          "finding": "The 2025 amender removes the Commission route while retaining the national submission provision."
+        }
+      ],
+      "limitations": [
+        "This is a conservative evidential withdrawal, not a conclusion that the national duty is lawful. A reasoned demonstration of prohibited additional reporting or a market-access restriction could reopen it; an individual fine or harmed operator is not required."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/focused-noise-copy-duties.json",
+        "research/audit-2026-10-26/root-checks.json",
+        "research/audit-2026-10-26/peer-noise-copy-duties.json"
+      ],
+      "coverageActs": [
+        "32024L2839"
+      ],
+      "category": "insufficient-support-for-public-issue"
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "countryCode": "LV",
+      "celex": "32024L2839",
+      "reason": "The automatic national copy requirement is verified, but the Commission reporting route has been repealed. The EU simplification and harmonisation provisions give grounds for scrutiny; they do not, without further analysis, establish that this remaining national surveillance rule is prohibited. No premarketing condition, disproportionate filing requirement or specific official acknowledgment of an unlawful residual duty was established. Withhold as a public issue pending a reasoned legal-effect assessment.",
+      "evidence": [
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/eng",
+          "locator": "Recitals 5–6; Articles 2(1), 5(1); read with Directive 2000/14 Articles 1, 6, 14(3), 17.",
+          "finding": "EU removes the routine national/Commission reporting scheme; harmonisation and free movement support scrutiny, while targeted surveillance remains available."
+        },
+        {
+          "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+          "locator": "Points 13, 37–41 and EU reference; official in-force version from 29 November 2025 with no end.",
+          "finding": "Current point 39 requires manufacturers or representatives to send PTAC a declaration copy. Point 40 is expressly deleted. Regulation 679/2025 removed only point 40 and added the EU amendment reference."
+        },
+        {
+          "url": "https://www.vestnesis.lv/op/2025/225.17",
+          "locator": "Regulation 679/2025 points 1.6, 1.8 and 2; published 21 November 2025.",
+          "finding": "The 2025 amender removes the Commission route while retaining the national submission provision."
+        }
+      ],
+      "limitations": [
+        "This is a conservative evidential withdrawal, not a conclusion that the national duty is lawful. A reasoned demonstration of prohibited additional reporting or a market-access restriction could reopen it; an individual fine or harmed operator is not required."
+      ],
+      "auditFiles": [
+        "research/audit-2026-10-26/focused-noise-copy-duties.json",
+        "research/audit-2026-10-26/root-checks.json",
+        "research/audit-2026-10-26/peer-noise-copy-duties.json"
+      ],
+      "coverageActs": [
+        "32024L2839"
+      ],
+      "category": "insufficient-support-for-public-issue"
+    }
+  ],
+  "revisions": [
+    {
+      "id": "si-posted-worker-expenses",
+      "fields": [
+        "catalogueStatus",
+        "caveat",
+        "consequence",
+        "evidenceDate",
+        "evidenceLabel",
+        "nationalGap",
+        "recordKind",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "timeline"
+      ],
+      "reason": "The statutory list omits two items, but general reimbursement and longer-posting routes are material. Downgrade to a research lead and leave equivalence open.",
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-01-23.json",
+        "research/audit-2026-10-26/agent-01-23.json"
+      ]
+    },
+    {
+      "id": "be-jam-fruit-content",
+      "fields": [
+        "evidenceDate",
+        "evidenceLabel",
+        "nationalGap",
+        "review",
+        "sources",
+        "timeline"
+      ],
+      "reason": "Fresh Justel text still displays the old general minima. State the bounded currentness check and distinguish the Commission notification concern from proof of continuing legislative absence.",
+      "auditFiles": [
+        "research/audit-2026-10-26/crosscheck-be-jam.json"
+      ]
+    },
+    {
+      "id": "lv-psd2-corrigendum-optout",
+      "fields": [
+        "evidenceDate",
+        "review",
+        "sources",
+        "timeline"
+      ],
+      "reason": "Two reviewers read the latest September amendment, effective 15 October; it changes neither relevant article. Disclose that full live consolidation access timed out during this later check.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json"
+      ]
+    },
+    {
+      "id": "fr-listing-research-payment-cap",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "evidenceDate",
+        "evidenceLabel",
+        "nationalGap",
+        "recognitionNote",
+        "recognizedBy",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "statusLabel",
+        "summary",
+        "timeline",
+        "title"
+      ],
+      "reason": "AMF announces the wider payment option, and binding existing rules already allow combined collection under research-account safeguards. The remaining recognised issue is legal alignment with the new non-account route; no payment ban or missing client protection is established.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json",
+        "research/audit-2026-10-26/focused-fr-research-payment-47-68.json"
+      ]
+    },
+    {
+      "id": "fr-mifid-systematic-internaliser-definition",
+      "fields": [
+        "consequence",
+        "statusDetail",
+        "statusKind",
+        "summary"
+      ],
+      "reason": "Current national definition retains volume tests, but ESMA expressly relieves firms of performing them. Keep only a qualified statutory-alignment concern and foreground that relief.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-01-23.json"
+      ]
+    },
+    {
+      "id": "es-payment-system-access-nonbanks",
+      "fields": [
+        "consequence",
+        "evidenceDate",
+        "evidenceLabel",
+        "nationalGap",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "timeline"
+      ],
+      "reason": "Binding TARGET and indirect routes provide real access. The published SNCE membership rules identify a more specific residual eligibility question; no universal access ban or individual refusal is established.",
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-lu-asbestos-es-payments.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "fr-repair-warranty-extension",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "evidenceDate",
+        "evidenceLabel",
+        "nationalGap",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "statusLabel",
+        "summary",
+        "timeline",
+        "title"
+      ],
+      "reason": "The live code still specifies six months, but a current official consumer-guide page states twelve months. The public record omitted this contrary official evidence. Retain only as a qualified statutory wording concern, not a conclusion about uniform current practice.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-24-46.json"
+      ]
+    },
+    {
+      "id": "fr-energy-sharing-legal-entity",
+      "fields": [
+        "consequence",
+        "review",
+        "statusDetail",
+        "statusKind",
+        "statusLabel"
+      ],
+      "reason": "Live French L315-2 and D315-9 retain an organising legal person for collective self-consumption. EU Article 15a also permits private agreements. An authorised direct-sale route already exists; whole-framework equivalence is unresolved, so consequence should be possible and status open.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-24-46.json"
+      ]
+    },
+    {
+      "id": "lu-asbestos-company-permit-transition",
+      "fields": [
+        "consequence",
+        "evidenceDate",
+        "evidenceLabel",
+        "nationalGap",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "timeline"
+      ],
+      "reason": "Existing worksite visas and capacity evidence are substantial protections. Limit the possible gap to visa-exempt removal work before the general company permit starts, and make the status open.",
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-lu-asbestos-es-payments.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "ie-renewable-eia-scoping-deferral",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "evidenceDate",
+        "evidenceLabel",
+        "nationalGap",
+        "review",
+        "sources",
+        "summary",
+        "timeline",
+        "title"
+      ],
+      "reason": "Existing law already guarantees an opinion on request. Limit the statutory-transition concern to broader mandatory coverage and the specific non-extension safeguard, with material project changes and within-scope clarification distinguished.",
+      "auditFiles": [
+        "research/audit-2026-10-26/focused-ie-eia-scoping.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "pt-electricity-complaint-protection-scope",
+      "fields": [
+        "consequence",
+        "statusDetail",
+        "statusKind"
+      ],
+      "reason": "The billing-limited wording is confirmed, but the legal effect depends on the whole framework, including termination restrictions and dispute remedies. 'Yes, on paper' overstates a comparison whose equivalence remains expressly unresolved.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-24-46.json"
+      ]
+    },
+    {
+      "id": "be-single-permit-unemployment-period",
+      "fields": [
+        "summary",
+        "title"
+      ],
+      "reason": "The statute and current Flemish guidance support the stated 90-day/three-month wording. The title should attribute the period to those sources instead of announcing that residence necessarily ends despite overriding EU rights.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-24-46.json"
+      ]
+    },
+    {
+      "id": "se-single-permit-unemployment-period",
+      "fields": [
+        "title"
+      ],
+      "reason": "Attribute the three-month period to the national rule rather than implying that EU rights cannot protect an individual.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-47-68.json"
+      ]
+    },
+    {
+      "id": "nl-slapp-third-country-jurisdiction",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "nationalGap",
+        "review",
+        "sources",
+        "summary",
+        "timeline",
+        "title"
+      ],
+      "reason": "Dutch domicile normally satisfies the fallback connection test. Narrow the unresolved question to its separate unacceptable-foreign-forum condition, preserving the Ministry’s equivalence view and the actual success under existing law.",
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-nl-slapp-jurisdiction.json",
+        "research/audit-2026-10-26/root-checks.json"
+      ]
+    },
+    {
+      "id": "hu-bank-capital-leverage-trigger",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "nationalGap",
+        "resolution",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "summary",
+        "timeline",
+        "title"
+      ],
+      "reason": "The supervisor’s manual already specifies the correct minimum Tier 1 treatment. Its expressly non-binding status and the reversed statutory selector leave only an open legal-clarity question; no capital shortfall is established.",
+      "auditFiles": [
+        "research/audit-2026-10-26/focused-hu-capital.json"
+      ]
+    },
+    {
+      "id": "fr-electricity-fixed-price-entitlement",
+      "fields": [
+        "comparison",
+        "consequence"
+      ],
+      "reason": "The authentic EU amendment gives a fixed-term/fixed-price entitlement distinct from France’s one-year-duration option. The current code was independently read by the24–46 agent and still ends atL332-7; the Senate dossier remains pending. Bound the absence claim to inspected provisions.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-47-68.json"
+      ]
+    },
+    {
+      "id": "cz-financial-human-explanation-deferral",
+      "fields": [
+        "comparison",
+        "summary",
+        "title"
+      ],
+      "reason": "Make the sectoral scope visible in the title and summary; existing sectoral explanation rights and other safeguards remain.",
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-47-68.json"
+      ]
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "fields": [
+        "consequence",
+        "statusDetail",
+        "statusKind",
+        "title"
+      ],
+      "reason": "Attribute the route to the national rule rather than actual filing practice. Keep the abolished Commission reporting chain as an open concern; practical enforcement and the precise draft rationale are unverified.",
+      "auditFiles": [
+        "research/audit-2026-10-26/focused-noise-copy-duties.json"
+      ]
+    },
+    {
+      "id": "pt-romanian-nurse-upgrade-recognition",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "nationalGap",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "statusLabel",
+        "summary",
+        "timeline",
+        "title"
+      ],
+      "reason": "Binding conformity-certificate and European Professional Card procedures may already supply recognition. Present an open equivalence question, without claiming refusal or absence of all recognition routes.",
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-pt-nurse-recognition.json"
+      ]
+    },
+    {
+      "id": "de-pv-business-waste-financing-date",
+      "fields": [
+        "caveat",
+        "consequence",
+        "peerReviewStatus",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "summary",
+        "title"
+      ],
+      "reason": "Make the conditional non-household category explicit and disclose conflicting current register and environmental-agency guidance. Replace the dead workshop source with current primary sources.",
+      "auditFiles": [
+        "research/audit-2026-10-26/peer-47-68.json"
+      ]
+    },
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "review",
+        "sources",
+        "title"
+      ],
+      "reason": "Limit the issue to initial partner collection outside direct use, disclose differing provider protocols and continuing clinical safeguards, and correct the reversed EU/national comparison-column assignment.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-47-68.json"
+      ]
+    },
+    {
+      "id": "ee-lead-legacy-exposure-cutoff",
+      "fields": [
+        "comparison",
+        "consequence"
+      ],
+      "reason": "Fresh official current regulation13(5) refers to exposure before national commencement16May2026; authentic EU AnnexIIIa1.1.1 fixes9April2026. The37-day extension follows arithmetically. Initial suspension, medical surveillance and declining blood levels remain conditions, not proof of actual unsafe practice.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-47-68.json"
+      ]
+    },
+    {
+      "id": "at-noise-declaration-copy-retained",
+      "fields": [
+        "consequence",
+        "stage",
+        "statusDetail",
+        "statusKind"
+      ],
+      "reason": "The government has proposed an exact repeal, not enacted a corrective act. Correct the evidence category and retain only an open concern about the obsolete reporting chain and its unverified legal effect.",
+      "auditFiles": [
+        "research/audit-2026-10-26/focused-noise-copy-duties.json"
+      ]
+    },
+    {
+      "id": "ee-asbestos-low-risk-permit-exception",
+      "fields": [
+        "caveat",
+        "comparison",
+        "consequence",
+        "nationalGap",
+        "review",
+        "sources",
+        "statusDetail",
+        "statusKind",
+        "summary",
+        "title"
+      ],
+      "reason": "Fresh current5(3) refers to all of6, which now contains permit subsections. Authentic EU low-risk derogation is confined to notification; new15 requires prior permits. However, national6(4)’s explicit prior-permit sentence and official compliant-transposition assessment create an interpretation question. Put that uncertainty in the title/status.",
+      "auditFiles": [
+        "research/audit-2026-10-26/agent-47-68.json"
+      ]
+    }
+  ]
+}

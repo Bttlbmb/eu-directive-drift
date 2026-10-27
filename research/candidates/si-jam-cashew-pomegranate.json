@@ -1,0 +1,96 @@
+{
+  "topic": "Food composition and labelling",
+  "baseAct": "Directive 2001/113/EC",
+  "baseActPublished": "2002-01-12",
+  "amendingAct": "Directive (EU) 2024/1438",
+  "celex": "32024L1438",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "research",
+  "statusLabel": "Qualified concern · fruit-name revision missed",
+  "statusKind": "open",
+  "statusDetail": "The special fruit category differs; no actual product or enforcement outcome was established.",
+  "evidenceDate": "2026-10-27",
+  "deadline": "2026-06-14",
+  "deadlineLabel": "New composition rules apply",
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "catalogueStatus": "review",
+  "evidenceLabel": "Authentic EU chain and current national table independently checked",
+  "euChange": "The 2024 amendment replaces the jam and extra-jam definitions, including the Slovenian fruit term. The special 230 g and 290 g quantities refer to cashew apples; unlisted fruits use the general quantities.",
+  "provisions": "2024/1438 Article 3(4), Annex II(1)(a), Articles 5–6; national Articles 1–7, Annex 1 points 1–2.",
+  "caveat": "This is a qualified comparison of binding texts, not a court finding. Directive-consistent interpretation and EU rights may narrow the effect. Earlier lawfully marketed or labelled stock remains protected. No actual recipe, refusal, unsafe product or deliberate disregard was established. The separate buckthorn wording is not included in this concern.",
+  "resolution": "The current official registry identifies the 2026 rule as valid from 14 June 2026 and lists only its original version. No later binding correction resolving this fruit-name discrepancy was located.",
+  "timeline": [
+    {
+      "date": "2024-05-24",
+      "event": "EU amendment published.",
+      "who": "eu"
+    },
+    {
+      "date": "2026-06-14",
+      "event": "New rules apply, protecting earlier marketed or labelled stock.",
+      "who": "eu"
+    },
+    {
+      "date": "2026-10-27",
+      "event": "Current national table and authentic EU chain independently checked.",
+      "who": "check"
+    }
+  ],
+  "id": "si-jam-cashew-pomegranate",
+  "country": "Slovenia",
+  "countryCode": "SI",
+  "title": "The new jam rules keep pomegranates where the EU amendment specifies cashew apples",
+  "summary": "Slovenia raised its jam quantities in 2026 but retained “granatna jabolka” (pomegranates) in the special fruit category. The replacing EU text expressly uses “akažujeva jabolka” (cashew apples).",
+  "nationalGap": "The new national Annex 1 points 1–2 retain the old Slovenian EU term for pomegranates, although the authentic 2024 replacement uses cashew apples. Articles 2 and 4 make the national annex operative. The EU-reference clause in Article 1 does not itself rewrite that table.",
+  "nationalLaw": "Pravilnik o kakovosti in označevanju sadnih džemov, želejev, marmelad in sladkane kostanjeve kaše, SOP 2026-01-0809, Articles 1–7 and Annex 1 points 1–2.",
+  "consequence": "On the written national categories, pomegranate jam could use the special 230 g minimum rather than the EU general 450 g; extra jam could use 290 g rather than 500 g. Cashew apples could instead face the national general minima. These are potential recipe consequences; no actual product or enforcement outcome was established.",
+  "review": "The parent and a verification researcher independently read the whole six-page national rule, including all three annexes, and the authentic Slovenian original and replacing EU texts. The verifier separately checked the current official registry. Official Slovenian phytosanitary guidance independently identifies granatno jabolko as Punica granatum (pomegranate).",
+  "recognitionNote": "Bounded Slovenian and English searches on 27 October 2026 combined the two fruit names, the national rule identifier and the EU amendment. They found the legislation and general reform material, but no precise prior criticism of this retained fruit-name mismatch. This does not establish first discovery.",
+  "comparison": {
+    "beforeLabel": "Current national Annex 1",
+    "before": "230 g / 290 g for granatna jabolka (pomegranates).",
+    "afterLabel": "Replacing Slovenian EU text",
+    "after": "230 g / 290 g for akažujeva jabolka (cashew apples).",
+    "note": "General minima are 450 g for jam and 500 g for extra jam. The comparison concerns new goods outside the earlier-stock protection."
+  },
+  "sources": [
+    {
+      "title": "Authentic Slovenian EU amendment",
+      "url": "https://publications.europa.eu/resource/cellar/263d0199-1968-11ef-a251-01aa75ed71a1.0022.03/DOC_1",
+      "role": "Changed EU fruit category",
+      "locator": "Annex II(1)(a), replacing jam and extra-jam definitions; akažujeva jabolka."
+    },
+    {
+      "title": "Original Slovenian EU definitions",
+      "url": "https://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0020.01/DOC_1",
+      "role": "Before-and-after term check",
+      "locator": "Annex I Part I first two indents; old granatna jabolka wording."
+    },
+    {
+      "title": "Authentic 2026 Slovenian jam rule",
+      "url": "https://pisrs.si/api/uradni-list/objava/u20260149.pdf",
+      "role": "Current binding national text",
+      "locator": "Entire six-page rule read; Articles 1–7, all three annexes, especially Annex 1 points 1–2 on page 3."
+    },
+    {
+      "title": "Official current-law registry",
+      "url": "https://pisrs.si/api/rezultat/zbirka/id/PRAV16096",
+      "role": "Currentness and amendment check",
+      "locator": "Valid from 14 June 2026; only original version listed at review."
+    },
+    {
+      "title": "Slovenian government phytosanitary guidance",
+      "url": "https://www.gov.si/assets/organi-v-sestavi/UVHVVR/Zdravje-rastlin/Uvoz-rastlin/Smernice-glede-fitosanitarnih-uvoznih-zahtev_koncna.pdf",
+      "role": "Independent botanical term check",
+      "locator": "Page 11, fruit table: Punica granatum — Granatno jabolko. Used only for fruit identity."
+    }
+  ],
+  "researchMetadata": {
+    "systematicAct": "2001/113",
+    "countryAssessmentComplete": true,
+    "peerReview": "Independent whole national/EU source review and registry check by verifier.",
+    "sourcePolicy": "Lean links and notes; full sources temporary."
+  }
+}

@@ -1,0 +1,3063 @@
+{
+  "purpose": "Compact recovery record for the pre-existing working catalogue. Contains prior catalogue text and metadata, not full legislation or source documents. These historical records are not the public issue list. Reintroduction requires addressing the recorded contrary evidence.",
+  "reviewDate": "2026-10-26",
+  "topLevelMetadata": {
+    "snapshot": "2026-10-26",
+    "scope": "unresolved-only",
+    "recognitionScope": "Prior recognition of the specific concern in official sources or published analysis; limited searches cannot establish first discovery.",
+    "researchPasses": [
+      {
+        "date": "2026-10-25",
+        "minutes": 60,
+        "focus": "Initial pilot"
+      },
+      {
+        "date": "2026-10-25",
+        "minutes": 90,
+        "status": "complete",
+        "focus": "Recent repeatedly revised EU legal acts"
+      },
+      {
+        "date": "2026-10-25",
+        "minutes": 60,
+        "status": "complete",
+        "focus": "Recent consumer, energy and workplace amendments; independent adverse review",
+        "addedRecords": 16,
+        "addedNoRecognitionLocated": 4
+      },
+      {
+        "date": "2026-10-26",
+        "minutes": 60,
+        "status": "complete",
+        "focus": "Recent corrections, labour migration, criminal and civil justice, financial and consumer safeguards; independent adverse review",
+        "addedRecords": 11,
+        "addedNoRecognitionLocated": 2
+      },
+      {
+        "date": "2026-10-26",
+        "kind": "systematic-25-shortest",
+        "status": "in-progress",
+        "selectedActs": 25,
+        "countryActPairs": 675,
+        "addedRecords": 12,
+        "focus": "Complete change inventories and all 27 Member States for the 25 shortest previously examined individual EU acts"
+      }
+    ]
+  },
+  "originalOrder": [
+    "sk-traineeship-guidelines",
+    "si-posted-worker-expenses",
+    "dk-environmental-information-corrigendum",
+    "hu-emf-corrigendum",
+    "be-jam-fruit-content",
+    "de-waste-prevention-definition",
+    "lv-emf-corrigendum",
+    "lt-emf-corrigendum",
+    "de-hazardous-waste-separation",
+    "nl-psd2-corrigendum-optout",
+    "fr-psd2-corrigendum-optout",
+    "dk-psd2-corrigendum-optout",
+    "lv-psd2-corrigendum-optout",
+    "si-rohs-two-wheel-scope",
+    "ie-biomass-sustainability-threshold",
+    "be-dac8-ledger-address-reference",
+    "hu-toy-cobalt-permission",
+    "es-energy-audit-sme-exclusion",
+    "lu-dac8-ledger-address-reference",
+    "it-lead-exposure-limit-2024-amendment",
+    "it-biomass-verification-transition",
+    "fr-listing-research-payment-cap",
+    "fr-mifid-systematic-internaliser-definition",
+    "cy-asbestos-exposure-limit-2023-amendment",
+    "de-energy-efficient-utilities-procurement",
+    "ie-new-residential-charging-infrastructure",
+    "fr-diisocyanate-binding-limit",
+    "es-payment-system-access-nonbanks",
+    "pl-biomass-sustainability-threshold",
+    "fr-repair-warranty-extension",
+    "fr-energy-sharing-legal-entity",
+    "fr-offset-claim-blacklist",
+    "pl-green-transition-commencement",
+    "se-energy-sharing-deduction-deferral",
+    "de-biomass-electricity-support-threshold",
+    "es-online-withdrawal-function",
+    "fr-dac8-ledger-address-reference",
+    "lu-asbestos-company-permit-transition",
+    "nl-heat-cost-benefit-analysis-threshold",
+    "ie-renewable-eia-scoping-deferral",
+    "at-dac8-ledger-address-reference",
+    "fi-green-claim-old-stock-transition",
+    "de-residential-charging-commencement",
+    "it-dac8-ledger-address-reference",
+    "pt-electricity-complaint-protection-scope",
+    "be-single-permit-unemployment-period",
+    "se-single-permit-unemployment-period",
+    "nl-slapp-third-country-jurisdiction",
+    "pt-online-withdrawal-function",
+    "de-trafficking-nonsexual-service-use",
+    "hu-bank-capital-leverage-trigger",
+    "pl-water-abstraction-criminalisation",
+    "fr-electricity-fixed-price-entitlement",
+    "cz-financial-human-explanation-deferral",
+    "ro-aifm-group-investor-corrigendum",
+    "pt-repair-warranty-extension",
+    "pt-outdoor-noise-declaration-copy-duty",
+    "fi-outdoor-noise-declaration-copy-duty",
+    "pt-romanian-nurse-upgrade-recognition",
+    "de-pv-business-waste-financing-date",
+    "hu-noise-national-copy-retained",
+    "pl-reproductive-donor-htlv-prevalence",
+    "fr-partner-gamete-first-blood-sampling",
+    "ee-lead-legacy-exposure-cutoff",
+    "at-noise-declaration-copy-retained",
+    "ee-asbestos-low-risk-permit-exception",
+    "ie-bank-ccp-quantified-plans",
+    "lv-noise-national-copy-retained"
+  ],
+  "withdrawnRecords": [
+    {
+      "id": "dk-environmental-information-corrigendum",
+      "title": "Environmental information: old wording kept after an EU correction",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "topic": "Environmental information",
+      "baseAct": "Directive 2003/4/EC",
+      "baseActPublished": "2003-02-14",
+      "amendingAct": "Danish-language corrigendum of 13 October 2022",
+      "celex": "32003L0004R(05)",
+      "updateType": "Corrigendum",
+      "stage": "research",
+      "statusLabel": "Text divergence · legal effect qualified",
+      "statusKind": "differs",
+      "statusDetail": "Official guidance applies the EU definition",
+      "deadlineLabel": "EU correction published",
+      "evidenceDate": "2026-10-25",
+      "summary": "In 2022 the EU corrected the Danish text of its definition of environmental information. Denmark’s statute still uses the earlier words, but official guidance tells authorities to apply the EU definition.",
+      "euChange": "Article 2(1)(b) and (c) changed from factors or measures that affect or can affect the environment to those that affect or are likely to affect it.",
+      "consequence": "Yes, on paper. The Danish statute still defines environmental information with “can affect” where the corrected EU text says “are likely to affect”. This does not show that anyone’s access to information was reduced: official guidance applies the EU definition, and EU law permits wider national access.",
+      "nationalGap": "Consolidation Act 980 of 16 August 2017, § 3 nos 2–3, still uses the former Danish words. Denmark’s 2025 Aarhus implementation report explicitly acknowledges the divergence.",
+      "nationalLaw": "Miljøoplysningsloven, Consolidation Act 980 of 16 August 2017, § 3 nos 2–3; current official consolidation marked applicable.",
+      "provisions": "Directive 2003/4/EC Article 2(1)(b), (c); corrigendum OJ L 266, 13 October 2022, p. 22; national § 3 nos 2–3.",
+      "resolution": "A 2025 ministry report says the EU definition must govern despite the difference in words. The Ombudsman’s guide also points out the correction.",
+      "caveat": "A documented textual divergence, not an established breach or finding that access rights were reduced. Recital 24 permits wider national access. Conforming interpretation and the actual breadth of access require separate analysis. The corrigendum sets no fresh transposition deadline.",
+      "comparison": {
+        "before": "kan påvirke (“can affect”).",
+        "after": "sandsynligvis vil påvirke (“are likely to affect”).",
+        "note": "The Danish-language correction changed both Article 2(1)(b) and (c); it also changed recital 10.",
+        "beforeLabel": "Current national wording",
+        "afterLabel": "Corrected EU wording"
+      },
+      "review": "Two agents independently checked the EU correction, current national consolidation, Ombudsman guidance and explicit 2025 ministry acknowledgment. Both retained the conforming-interpretation and wider-access qualifications; no infringement finding.",
+      "timeline": [
+        {
+          "date": "2017-08-18",
+          "event": "National consolidation published; § 3 retained the earlier definition.",
+          "who": "national"
+        },
+        {
+          "date": "2022-10-13",
+          "event": "EU published the Danish-language corrigendum.",
+          "who": "eu"
+        },
+        {
+          "date": "2025",
+          "event": "Ministry report acknowledged divergent words and directed application of the EU definition.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Official national consolidation checked: former wording remains.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU Danish-language corrigendum",
+          "url": "https://eur-lex.europa.eu/legal-content/DA/TXT/PDF/?uri=CELEX%3A32003L0004R%2805%29",
+          "role": "EU correction",
+          "locator": "OJ L 266, 13 October 2022, p. 22; points 1–2"
+        },
+        {
+          "title": "Current official national consolidation",
+          "url": "https://www.retsinformation.dk/eli/lta/2017/980",
+          "role": "National text",
+          "locator": "§ 3 nos 2–3; published 18 August 2017; marked GÆLDENDE"
+        },
+        {
+          "title": "Denmark’s 2025 Aarhus implementation report",
+          "url": "https://mim.dk/media/l3zp0yz1/7-rapport_dansk-version.pdf",
+          "role": "Official acknowledgment and qualification",
+          "locator": "PDF p. 13, Definitionen af miljøoplysninger"
+        },
+        {
+          "title": "Ombudsman guide: environmental information",
+          "url": "https://www.ombudsmanden.dk/find-viden/myndighedsguiden/specifikke-sagsomraader/22-hvad-er-miljoeoplysninger",
+          "role": "Official guidance",
+          "locator": "Section 3 note; guide updated 15 April 2025, expressly says the EU correction has not yet led to national amendment."
+        },
+        {
+          "title": "Underlying directive and wider-access safeguard",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32003L0004",
+          "role": "Scope qualification",
+          "locator": "Recital 24"
+        }
+      ],
+      "recordKind": "lead",
+      "correctionDate": "2022-10-13",
+      "deadline": null,
+      "evidenceLabel": "National text checked",
+      "catalogueStatus": "review",
+      "priorRecognition": "recognized",
+      "recognizedBy": [
+        "Danish ministry",
+        "Danish Ombudsman"
+      ],
+      "recognitionNote": "The ministry’s 2025 Aarhus report and Ombudsman Guide 22 acknowledge the unamended national wording."
+    },
+    {
+      "id": "hu-emf-corrigendum",
+      "title": "Worker exposure table for electromagnetic fields still has the earlier division formulas",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "topic": "Workplace safety",
+      "baseAct": "Directive 2013/35/EU",
+      "baseActPublished": "2013-06-29",
+      "amendingAct": "Hungarian-language corrigendum of 28 December 2013",
+      "celex": "32013L0035R(01)",
+      "updateType": "Corrigendum",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Qualified concern · current textual divergence",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "deadline": null,
+      "correctionDate": "2013-12-28",
+      "deadlineLabel": "EU correction published",
+      "summary": "Two formulas in the national exposure table divide by the frequency (0.07/f and 0.0028/f). The corrected EU table has a constant 0.07 and multiplies by the frequency in the second (0.0028 × f). No official explanation was found; a deliberately stricter national limit remains possible.",
+      "euChange": "EU Table A3, rows 2–3: 0.07/f → 0.07; 0.0028/f → 0.0028 × f (V/m).",
+      "consequence": "Possibly. Two limits in the national table are calculated differently from the corrected EU table. The national limits are lower than the EU’s in the ranges compared, and stricter national limits are allowed, so this alone shows neither a breach nor an overlooked correction. No official explanation was found, and whether it has affected anyone in practice has not been established.",
+      "nationalGap": "Decree 33/2016 (XI. 29.) EMMI, Annex 2 Table 1.3 rows 2–3, printed both division formulas in the 2016 Gazette. The official consolidated text, displaying a version date of 11 August 2023, retains them when checked 25 October 2026. Section 12 expressly identifies the decree as implementing Directive 2013/35/EU.",
+      "nationalLaw": "33/2016 (XI. 29.) EMMI Decree, Annex 2 Table 1.3 rows 2–3; Sections 3 and 12",
+      "provisions": "Directive 2013/35/EU Annex II Table A3; national counterpart below.",
+      "resolution": "We found no national correction and no official explanation for these two formulas, and no infringement case or court finding.",
+      "caveat": "The national limits are lower in the compared frequency ranges. More protective limits are permitted, so this mismatch alone establishes neither a breach nor an overlooked correction. National intent and practical effects remain unverified. Only two rows are compared. Publication of a correction is not a fresh transposition deadline.",
+      "review": "Two agents independently checked the national table, current status, binding obligation and relevant language of the EU correction. Legal significance remains qualified.",
+      "comparison": {
+        "before": "0.07/f V/m (10–25 Hz) and 0.0028/f V/m (25–400 Hz): divided by the frequency.",
+        "after": "0.07 V/m (constant), and 0.0028 × f V/m (multiplied by the frequency).",
+        "note": "Rows appear in matching frequency order. Stricter national limits may be lawful.",
+        "beforeLabel": "Current national table",
+        "afterLabel": "Corrected EU table"
+      },
+      "timeline": [
+        {
+          "date": "2013-12-28",
+          "event": "EU formula correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2016-11-29",
+          "event": "Hungary published Decree 33/2016 with the earlier division formulas.",
+          "who": "national"
+        },
+        {
+          "date": "2023-08-11",
+          "event": "Version date displayed by the current official national consolidation.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "This review found the two division formulas still displayed in the official national text.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU formula correction",
+          "url": "https://eur-lex.europa.eu/legal-content/HU/TXT/?toc=OJ%3AL%3A2013%3A353%3AFULL&uri=uriserv%3AOJ.L_.2013.353.01.0083.01.HUN",
+          "role": "EU correction",
+          "locator": "OJ L 353 (2013), Table A3 rows 2–3."
+        },
+        {
+          "title": "Current official national consolidation",
+          "url": "https://njt.jog.gov.hu/jogszabaly/2016-33-20-5H",
+          "role": "Current national text",
+          "locator": "Version 11 August 2023; Annex 2 Table 1.3 rows 2–3; Sections 3, 12"
+        },
+        {
+          "title": "Original official national Gazette",
+          "url": "https://magyarkozlony.hu/dokumentumok/cd935469c5b47e6fe4493ef5a93ac9f55b4720cc/letoltes",
+          "role": "Original national text",
+          "locator": "Magyar Közlöny 2016 no. 184, 29 November 2016; printed p. 77471, PDF p. 135"
+        },
+        {
+          "title": "Underlying EU directive: national protective limits",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32013L0035",
+          "role": "Scope qualification",
+          "locator": "Recital 8: more protective national limits permitted"
+        }
+      ],
+      "evidenceLabel": "National text checked",
+      "catalogueStatus": "review",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "No prior official acknowledgment of the exact two-row mismatch located in targeted Hungarian and English searches on 25 October 2026, using 33/2016 EMMI, the directive, formulas and correction terms. This is a limited search result, not proof of first discovery."
+    },
+    {
+      "id": "de-waste-prevention-definition",
+      "title": "Waste prevention: wording replaced by the EU in 2018 is still in use",
+      "country": "Germany",
+      "countryCode": "DE",
+      "topic": "Environment",
+      "baseAct": "Directive 2008/98/EC",
+      "baseActPublished": "2008-11-22",
+      "amendingAct": "Directive (EU) 2018/851",
+      "celex": "32018L0851",
+      "updateType": "Amendment",
+      "recordKind": "finding",
+      "stage": "government",
+      "statusLabel": "Current text lag · correction remains a draft",
+      "statusKind": "draft",
+      "statusDetail": "Ministry draft; Cabinet proposal aimed for January 2027",
+      "evidenceDate": "2026-10-25",
+      "deadline": "2020-07-05",
+      "summary": "Germany still uses the earlier terminology in its definition of waste prevention (“harmful” instead of “hazardous” substances). The environment ministry has a draft that would update it.",
+      "euChange": "Article 1(3)(e) replaced Article 3(12)(c) of the Waste Framework Directive: the prevention definition now refers to reducing hazardous substances in materials and products, replacing harmful substances.",
+      "consequence": "Yes, on paper. German law says “harmful” substances where the EU text now says “hazardous”. “Harmful” may be the broader word, no practical difference in scope has been established, and the ministry’s draft would update the wording.",
+      "nationalGap": "KrWG Section 3(20) retains schädlichen Stoffen. The ministry proposes gefährlichen Stoffen, expressly linking the replacement to the 2018 amendment.",
+      "nationalLaw": "Kreislaufwirtschaftsgesetz (KrWG), Section 3(20), sentence 1; draft amendment Article 1(4)(c).",
+      "provisions": "Directive 2018/851 Article 1(3)(e), replacing Directive 2008/98 Article 3(12)(c); Article 2(1) transposition deadline.",
+      "resolution": "The ministry’s webpage, updated 30 September 2026, lists the proposal as a draft still in progress and aims for a revised Cabinet proposal in January 2027. The official national text, checked on 25 October 2026, still has the earlier wording.",
+      "caveat": "This establishes an acknowledged textual update lag, not reduced environmental protection or harm. Harmful may be broader than hazardous; no practical scope difference was established. The draft is not enacted law. This wording is not specifically identified in the public Commission statement for the separate waste infringement case INFR(2025)2047. The draft’s 2027 timetable does not extend the old 2020 transposition deadline.",
+      "comparison": {
+        "beforeLabel": "Current national text",
+        "before": "KrWG Section 3(20): schädlichen Stoffen — harmful substances.",
+        "afterLabel": "EU update and proposed correction",
+        "after": "Directive Article 3(12)(c), and the German draft: gefährlichen Stoffen — hazardous substances.",
+        "note": "The proposed correction is acknowledged; its practical effect remains unverified."
+      },
+      "review": "Two agents independently read the current official national text, the exact EU amendment, and the ministry’s proposed correction and explanatory acknowledgment.",
+      "timeline": [
+        {
+          "date": "2018-05-30",
+          "event": "EU adopted the amendment replacing the substance terminology.",
+          "who": "eu"
+        },
+        {
+          "date": "2020-07-05",
+          "event": "General transposition deadline.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-06-26",
+          "event": "Ministry circulated a draft containing the delayed wording update.",
+          "who": "national"
+        },
+        {
+          "date": "2026-09-30",
+          "event": "Ministry’s latest process update still describes an ongoing draft.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Current official national text checked; earlier wording remains.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU amendment: replacement of the prevention definition",
+          "url": "https://eur-lex.europa.eu/legal-content/de/TXT/?uri=CELEX%3A32018L0851",
+          "role": "EU amendment",
+          "locator": "Article 1(3)(e); Article 2(1)"
+        },
+        {
+          "title": "Current official German waste-prevention definition",
+          "url": "https://www.gesetze-im-internet.de/krwg/__3.html",
+          "role": "Current national text",
+          "locator": "Section 3(20), sentence 1"
+        },
+        {
+          "title": "Ministry draft and explicit explanation of the delayed update",
+          "url": "https://www.bundesumweltministerium.de/fileadmin/Daten_BMU/Download_PDF/Glaeserne_Gesetze/21._LP/krwg/refe_krwg_bf.pdf",
+          "role": "Proposed corrective measure",
+          "locator": "Article 1(4)(c), PDF p. 5; explanatory memorandum PDF p. 26"
+        },
+        {
+          "title": "Ongoing legislative process, updated 30 September 2026",
+          "url": "https://www.bundesumweltministerium.de/gesetz/referentenentwurf-eines-gesetzes-zur-aenderung-des-kreislaufwirtschaftsgesetzes",
+          "role": "Current draft status",
+          "locator": "Publication date 26 June 2026; updated 30 September 2026"
+        }
+      ],
+      "badgeLabel": "Ministry acknowledgment",
+      "evidenceLabel": "National text checked",
+      "catalogueStatus": "open",
+      "priorRecognition": "recognized",
+      "recognizedBy": [
+        "German environment ministry"
+      ],
+      "recognitionNote": "The ministry draft expressly acknowledges this delayed wording update."
+    },
+    {
+      "id": "lv-emf-corrigendum",
+      "title": "Worker exposure table for electromagnetic fields still has the earlier division formulas",
+      "country": "Latvia",
+      "countryCode": "LV",
+      "topic": "Workplace safety",
+      "baseAct": "Directive 2013/35/EU",
+      "baseActPublished": "2013-06-29",
+      "amendingAct": "Latvian-language corrigendum of 28 December 2013",
+      "celex": "32013L0035R(01)",
+      "updateType": "Corrigendum",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Current textual divergence · no prior acknowledgment located",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "deadline": null,
+      "correctionDate": "2013-12-28",
+      "deadlineLabel": "EU correction published",
+      "summary": "Two formulas in the national exposure table divide by the frequency (0.07/f and 0.0028/f). The corrected EU table has a constant 0.07 and multiplies by the frequency in the second (0.0028 × f). No official explanation was found; a deliberately stricter national limit remains possible.",
+      "euChange": "EU Table A3, rows 2–3: 0.07/f → 0.07; 0.0028/f → 0.0028 × f (V/m).",
+      "consequence": "Possibly. Two limits in the national table are calculated differently from the corrected EU table. The national limits are lower than the EU’s in the ranges compared, and stricter national limits are allowed, so this alone shows neither a breach nor an overlooked correction. No official explanation was found, and whether it has affected anyone in practice has not been established.",
+      "nationalGap": "Cabinet Regulation 584, adopted 13 October 2015, Annex 1 Table 2 rows 2.2–2.3, prints 0.07/f and 0.0028/f V/m. The official legislation publisher’s current consolidated page marks the regulation in force and still displays those formulas on 25 October 2026. Point 6 requires employers to limit exposure to the Annex 1 non-thermal exposure limits.",
+      "nationalLaw": "Cabinet Regulation No. 584 of 13 October 2015, points 5–7; Annex 1 Table 2 rows 2.2–2.3; informative reference to Directive 2013/35/EU.",
+      "provisions": "Directive 2013/35/EU Annex II Table A3; national counterpart below.",
+      "resolution": "We found no national correction and no official explanation for the two formulas. The regulation was published on 15 October 2015 and took effect on 1 July 2016; the official publisher’s current text still has the earlier formulas.",
+      "caveat": "The national limits are lower in the compared frequency ranges. More protective limits are permitted, so this mismatch alone establishes neither a breach nor an overlooked correction. National intent and practical effects remain unverified. Only two rows are compared. Publication of a correction is not a fresh transposition deadline.",
+      "comparison": {
+        "before": "0.07/f V/m (10–25 Hz) and 0.0028/f V/m (25–400 Hz): divided by the frequency.",
+        "after": "0.07 V/m (constant), and 0.0028 × f V/m (multiplied by the frequency).",
+        "note": "Rows appear in matching frequency order. Stricter national limits may be lawful.",
+        "beforeLabel": "Current national table",
+        "afterLabel": "Corrected EU table"
+      },
+      "priorRecognition": "not-located",
+      "recognitionNote": "No prior official acknowledgment located in targeted searches on 25 October 2026 combining Regulation 584, Latvian correction terminology and the exact formulas. Limited searches cannot establish first discovery.",
+      "timeline": [
+        {
+          "date": "2013-12-28",
+          "event": "EU formula correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2015-10-13",
+          "event": "Latvia adopted Cabinet Regulation 584 with both earlier division formulas.",
+          "who": "national"
+        },
+        {
+          "date": "2015-10-15",
+          "event": "National regulation published in Latvijas Vēstnesis, issue 202, item 2015/202.9.",
+          "who": "national"
+        },
+        {
+          "date": "2016-07-01",
+          "event": "National regulation took effect under point 41.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Current official publisher’s text checked; both division formulas remain.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU formula correction",
+          "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/?uri=oj%3AJOL_2013_353_R",
+          "role": "EU correction",
+          "locator": "OJ L 353 (2013), Table A3 rows 2–3."
+        },
+        {
+          "title": "Current official Latvian legislation text",
+          "url": "https://likumi.lv/ta/id/277138",
+          "role": "Current national text",
+          "locator": "In-force status; points 5–7, 41; Annex 1 Table 2 rows 2.2–2.3; informative EU reference"
+        },
+        {
+          "title": "Original official national publication",
+          "url": "https://www.vestnesis.lv/op/2015/202.9",
+          "role": "Original national text",
+          "locator": "15 October 2015, issue 202, Cabinet Regulation 584; Annex 1 Table 2"
+        },
+        {
+          "title": "Underlying directive: national protective limits",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32013L0035",
+          "role": "Scope qualification",
+          "locator": "Recital 8: more protective national limits permitted"
+        }
+      ],
+      "review": "Two agents independently checked the national table, current status, binding obligation and relevant language of the EU correction. Legal significance remains qualified.",
+      "catalogueStatus": "review",
+      "recognizedBy": [],
+      "evidenceLabel": "Current national text checked"
+    },
+    {
+      "id": "lt-emf-corrigendum",
+      "title": "Worker exposure table for electromagnetic fields still has the earlier division formulas",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "topic": "Workplace safety",
+      "baseAct": "Directive 2013/35/EU",
+      "baseActPublished": "2013-06-29",
+      "amendingAct": "Lithuanian-language corrigendum of 28 December 2013",
+      "celex": "32013L0035R(01)",
+      "updateType": "Corrigendum",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Current text divergence · no prior acknowledgment located",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "evidenceLabel": "Current national text checked",
+      "deadline": null,
+      "correctionDate": "2013-12-28",
+      "deadlineLabel": "EU correction published",
+      "summary": "Two formulas in the national exposure table divide by the frequency (0.07/f and 0.0028/f). The corrected EU table has a constant 0.07 and multiplies by the frequency in the second (0.0028 × f). No official explanation was found; a deliberately stricter national limit remains possible.",
+      "euChange": "EU Table A3, rows 2–3: 0.07/f → 0.07; 0.0028/f → 0.0028 × f (V/m).",
+      "consequence": "Possibly. Two limits in the national table are calculated differently from the corrected EU table. The national limits are lower than the EU’s in the ranges compared, and stricter national limits are allowed, so this alone shows neither a breach nor an overlooked correction. No official explanation was found, and whether it has affected anyone in practice has not been established.",
+      "nationalGap": "Order A1-614 of 30 October 2015, Annex 2 Table 2.3, retains both division formulas. The live official E-TAR page marks the order in force and lists zero amendments. Paragraph 9 binds employers to the annex limits.",
+      "nationalLaw": "Minister for Social Security and Labour Order A1-614, 30 October 2015; Annex 2 Table 2.3 rows 2–3; paragraphs 8–9.",
+      "provisions": "Directive 2013/35/EU Annex II Table A3; national counterpart below.",
+      "resolution": "Searches in Lithuanian and English found no official correction, infringement decision, court ruling or government acknowledgment of the two-formula mismatch. This is what our research found, not a claim that nobody noticed it first.",
+      "caveat": "The national limits are lower in the compared frequency ranges. More protective limits are permitted, so this mismatch alone establishes neither a breach nor an overlooked correction. National intent and practical effects remain unverified. Only two rows are compared. Publication of a correction is not a fresh transposition deadline.",
+      "comparison": {
+        "beforeLabel": "Current national table",
+        "before": "0.07/f V/m (10–25 Hz) and 0.0028/f V/m (25–400 Hz), peak values: divided by the frequency.",
+        "afterLabel": "Corrected EU table",
+        "after": "0.07 V/m (constant), and 0.0028 × f V/m (multiplied by the frequency).",
+        "note": "Rows appear in matching frequency order. Stricter national limits may be lawful."
+      },
+      "review": "Two agents independently checked the national table, current status, binding obligation and relevant language of the EU correction. Legal significance remains qualified.",
+      "timeline": [
+        {
+          "date": "2013-12-28",
+          "event": "EU formula correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2015-10-30",
+          "event": "Lithuania adopted and published Order A1-614 with both earlier division formulas.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Live official register still marks the order in force with zero amendments and displays both division formulas.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU formula correction",
+          "url": "https://eur-lex.europa.eu/legal-content/LT/TXT/?uri=CELEX%3A32013L0035R%2801%29",
+          "role": "EU correction",
+          "locator": "OJ L 353 (2013), Table A3 rows 2–3."
+        },
+        {
+          "title": "Live official national register: in-force status and text",
+          "url": "https://www.e-tar.lt/portal/lt/legalAct/201d4db07e4611e5b7eba10a9b5a9c5f",
+          "role": "Current national law",
+          "locator": "Status Galioja; amendments 0; paragraph 9; Annex 2 Table 2.3"
+        },
+        {
+          "title": "Official national legal text in print view",
+          "url": "https://www.e-tar.lt/portal/it/legalActPrint?documentId=201d4db07e4611e5b7eba10a9b5a9c5f",
+          "role": "National table",
+          "locator": "Annex 2 Table 2.3 rows 2–3"
+        },
+        {
+          "title": "Directive: more protective national limits permitted",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32013L0035",
+          "role": "Scope qualification",
+          "locator": "Recital 8"
+        }
+      ],
+      "priorRecognition": "not-located",
+      "recognitionNote": "No official acknowledgment of this exact mismatch located on 25 October 2026 in targeted English and Lithuanian searches combining A1-614, the directive, formulas and correction terminology. Ministry, inspectorate, E-TAR and EUR-Lex results checked; first discovery is not established.",
+      "catalogueStatus": "review",
+      "recognizedBy": []
+    },
+    {
+      "id": "si-rohs-two-wheel-scope",
+      "country": "Slovenia",
+      "topic": "Product safety",
+      "baseAct": "Directive 2011/65/EU (RoHS)",
+      "baseActPublished": "2011-07-01",
+      "amendingAct": "Slovenian-language corrigendum of 8 June 2023",
+      "celex": "32011L0065R(06)",
+      "updateType": "Corrigendum",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Current scope wording · legal review needed",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "title": "Electrical equipment (RoHS): two-wheel vehicle exception keeps its old wording",
+      "correctionDate": "2023-06-08",
+      "deadline": null,
+      "deadlineLabel": "EU correction published",
+      "evidenceDate": "2026-10-25",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "euChange": "The Slovenian correction limits the exception to non-type-approved electric two-wheel vehicles in Article 2(4)(f).",
+      "nationalGap": "Article 2(3), fifth indent, excludes passenger and goods transport but makes an exception for non-type-approved two-wheel vehicles without saying electric. Those excepted vehicles therefore remain within RoHS if they meet the EEE definition. Official NPB18 applies from 1 July 2026.",
+      "nationalLaw": "Pravilnik o omejevanju uporabe določenih nevarnih snovi v električni in elektronski opremi, PRAV11083, Article 2(3), fifth indent; official NPB18.",
+      "consequence": "Possibly. Slovenia’s rule keeps two-wheel vehicles without type approval within the RoHS rules if they meet the electrical-equipment definition, while the corrected EU exception keeps only electric ones. This is a textual mismatch, not an infringement finding. It matters only for a non-electric vehicle that also qualifies as electrical equipment, and no affected vehicle has been identified.",
+      "caveat": "Only relevant where a non-electric two-wheel vehicle nevertheless meets the separate electrical/electronic equipment definition. Ordinary pedal bicycles are not claimed to be covered. Conforming interpretation and the directive reference may affect application. This is a current textual mismatch, not a finding of infringement; the correction set no new deadline. Commission guidance explains that petrol-powered equipment can qualify as EEE through integrated electric ignition; motive power alone is not decisive. No affected vehicle was identified.",
+      "currentness": "Latest amendment PRAV16146, adopted 15 May 2026, published 18 May, effective 2 June and applicable 1 July, replaces Article 1 only. Article 2 is untouched.",
+      "recognitionNote": "Targeted searches of PRAV11083, the national vehicle phrase, the 2023 correction and Slovenian correction terminology found the EU correction and copied national text, but no prior official acknowledgment of the exact national mismatch. Not a first-discovery claim.",
+      "review": "Independent verifier read the authentic Slovenian EU correction and checked current NPB18 plus the latest May 2026 amendment. Exact textual chain passed; materiality remains qualified.",
+      "sources": [
+        {
+          "title": "Authentic Slovenian RoHS correction",
+          "url": "https://eur-lex.europa.eu/legal-content/SL/TXT/?uri=CELEX%3A32011L0065R%2806%29",
+          "locator": "OJ L 148, 8 June 2023, p.130; Article 2(4)(f)",
+          "role": "EU correction"
+        },
+        {
+          "title": "Official current RoHS consolidation",
+          "url": "https://pisrs.si/pregledNpb?idPredpisa=PRAV11083&idPredpisaChng=PRAV16146",
+          "locator": "NPB18; Article 2(3), fifth indent, and Article 3(4); applies 1 July 2026",
+          "role": "Current national law"
+        },
+        {
+          "title": "Latest national amendment",
+          "url": "https://pisrs.si/Pis.web/pregledPredpisa?sop=2026-01-1305",
+          "locator": "Articles 1–2; replaces only Article 1 of the principal rules",
+          "role": "Current-status adverse check"
+        },
+        {
+          "title": "Commission guidance on electricity-dependent functions",
+          "url": "https://environment.ec.europa.eu/system/files/2021-01/FAQ%20key%20guidance%20document%20-%20RoHS.pdf",
+          "role": "Scope interpretation",
+          "locator": "12 December 2012 FAQ Q7.1–7.2, pp.19–20; non-binding guidance"
+        }
+      ],
+      "countryCode": "SI",
+      "summary": "In 2023 the EU corrected the Slovenian text of an exception for two-wheel vehicles so that only electric ones stay in scope. Slovenia’s rule, in its July 2026 consolidation, still uses the earlier wording. No earlier acknowledgment of this mismatch was found.",
+      "provisions": "EU Article 2(4)(f), corrected 8 June 2023; national Article 2(3), fifth indent, read with Article 3(4).",
+      "resolution": "The national rule (NPB18), applying from 1 July 2026, keeps the earlier wording. A May 2026 amendment replaces only Article 1, and we found no later correction in the current consolidation.",
+      "comparison": {
+        "beforeLabel": "Current national exception to transport exclusion",
+        "before": "Two-wheel vehicles without type approval stay in scope if they count as electrical equipment.",
+        "afterLabel": "Corrected EU exception to transport exclusion",
+        "after": "Only electric two-wheel vehicles without type approval stay in scope.",
+        "note": "Both rules first exclude passenger and goods transport; the two-wheeler wording is an exception to that exclusion."
+      },
+      "timeline": [
+        {
+          "date": "2023-06-08",
+          "event": "Slovenian EU correction inserts the electric qualification into Article 2(4)(f).",
+          "who": "eu"
+        },
+        {
+          "date": "2026-05-15",
+          "event": "Latest national amendment replaces Article 1 only.",
+          "who": "national"
+        },
+        {
+          "date": "2026-07-01",
+          "event": "Official NPB18 applies with Article 2 scope wording unchanged.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Independent agents check the exact national/EU chain and bounded recognition searches.",
+          "who": "check"
+        }
+      ],
+      "catalogueStatus": "review",
+      "researchRound": 2
+    },
+    {
+      "id": "be-dac8-ledger-address-reference",
+      "title": "Crypto-reporting decrees cite a reference the EU has since corrected",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "topic": "Tax cooperation",
+      "baseAct": "Directive 2011/16/EU (administrative tax cooperation)",
+      "baseActPublished": "2011-03-11",
+      "amendingAct": "DAC8 correction, 26 November 2025",
+      "celex": "32023L2226R(01)",
+      "updateType": "Corrigendum",
+      "correctionDate": "2025-11-26",
+      "deadline": null,
+      "deadlineLabel": "EU correction published",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": 2,
+      "stage": "research",
+      "statusLabel": "Current reference mismatch · independently cross-checked",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "summary": "Two Belgian decrees (Wallonia and the French Community) still cite the earlier EU reference for crypto-asset ledger addresses. The EU corrected it in November 2025. The practical effect needs further review.",
+      "euChange": "Address reference: 1114 → 1113.",
+      "nationalGap": "The French Community decree of 11 June 2026 inserts the old reference in Article 2(1), seventh subparagraph, point 32, of its 12 January 2017 tax-cooperation decree. The same old reference survives in the reporting provisions inserted as Articles 5/11(2)(c) and 5/13(2)(i). Wallonia’s 19 December 2025 decree also inserts it in Article 64bis, point 31, of the 6 May 1999 regional-tax decree.",
+      "nationalLaw": "French Community: decree 12 January 2017, as amended by decree 11 June 2026, NUMAC 2026005033. Wallonia: decree 6 May 1999, as amended by decree 19 December 2025, NUMAC 2026200320.",
+      "provisions": "EU correction points 1, 2, 4; national provisions identified above.",
+      "consequence": "Yes, on paper. Each of the two decrees cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
+      "resolution": "The French Community’s register shows a July 2026 amendment as the latest. The Walloon consolidated decree, in force from 13 July 2026 to 31 December 2027, keeps the old reference (point 31). We found no later correction and no exact official acknowledgment.",
+      "caveat": "These separate devolved instruments cover tax cooperation for the French Community and Walloon Region, not all Belgian crypto reporting. General EU-law references, conforming interpretation, directly applicable definitions and administrative practice could limit practical uncertainty. No omitted reporting coverage is established; no fresh deadline.",
+      "comparison": {
+        "beforeLabel": "National reference",
+        "before": "Regulation (EU) 2023/1114 on crypto-asset markets.",
+        "afterLabel": "Corrected EU reference",
+        "after": "Regulation (EU) 2023/1113, Article 3(18).",
+        "note": "This concerns the address reference, not every reference to the MiCA regulation elsewhere in DAC8."
+      },
+      "review": "Independent review passed the authentic French EU correction, both national enactments and the live Walloon principal consolidation. A further review checked the French Community principal-law register. Exact stale references survive; practical effects remain unestablished.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "No prior official recognition of this exact address-reference mismatch located in a bounded search. The enactments themselves acknowledge other DAC implementation work; that does not establish acknowledgment of this particular surviving reference. No first-discovery claim. Finland’s official implementing proposal had already discussed the underlying EU drafting error; the bounded search here concerns the surviving national mismatch.",
+      "noveltySearch": {
+        "date": "2026-10-25",
+        "method": "Searches of official EU, Belgian legislation and parliamentary sources for the address phrase, regulation numbers, correction terminology and decree identifiers.",
+        "queries": [
+          "\"adresse de registre distribué\" \"1114\" rectificatif Belgique",
+          "\"2026005033\" correction",
+          "\"2026200320\" \"1113\""
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2025-11-26",
+          "event": "EU correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2025-12-19",
+          "event": "Walloon decree adopted.",
+          "who": "national"
+        },
+        {
+          "date": "2026-01-01",
+          "event": "General national application date.",
+          "who": "national"
+        },
+        {
+          "date": "2026-06-11",
+          "event": "French Community decree adopted.",
+          "who": "national"
+        },
+        {
+          "date": "2026-07-07",
+          "event": "French Community amendment published.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "National references and later amendments checked.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU correction (French)",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ%3AL_202590947",
+          "role": "EU correction",
+          "locator": "Points 1, 2 and 4; OJ 2025/90947, 26 November 2025"
+        },
+        {
+          "title": "French Community enacted DAC8 decree",
+          "url": "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026005033/justel",
+          "role": "National enactment",
+          "locator": "Articles 2(4), 11; inserted Articles 5/11 and 5/13"
+        },
+        {
+          "title": "French Community principal tax-cooperation decree",
+          "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&numac_search=2017020259",
+          "role": "Scope and currentness",
+          "locator": "Article 2; modification register updated 7 July 2026"
+        },
+        {
+          "title": "Walloon enacted DAC8 decree",
+          "url": "https://wallex.wallonie.be/eli/loi-decret/2025/12/19/2026200320/2026/01/01",
+          "role": "National enactment",
+          "locator": "Articles 3(1)(c) and 21; open-ended version from 1 January 2026"
+        },
+        {
+          "title": "Current Walloon principal tax decree",
+          "url": "https://wallex.wallonie.be/eli/loi-decret/1999/05/06/1999027513",
+          "role": "Current national law and scope",
+          "locator": "Article 64bis, scope paragraph and definition 31; current version 13 July 2026–31 December 2027; latest amendment 18 June 2026"
+        },
+        {
+          "title": "Finnish proposal identifying the original EU drafting error",
+          "url": "https://www.finlex.fi/fi/hallituksen-esitykset/2025/84",
+          "role": "Adverse novelty check; underlying EU error already known",
+          "locator": "HE 84/2025, discussion of distributed-ledger address definition"
+        }
+      ]
+    },
+    {
+      "id": "lu-dac8-ledger-address-reference",
+      "title": "New crypto-reporting law cites a reference the EU has since corrected",
+      "country": "Luxembourg",
+      "countryCode": "LU",
+      "topic": "Tax cooperation",
+      "baseAct": "Directive 2011/16/EU (administrative tax cooperation)",
+      "baseActPublished": "2011-03-11",
+      "amendingAct": "DAC8 correction, 26 November 2025",
+      "celex": "32023L2226R(01)",
+      "updateType": "Corrigendum",
+      "correctionDate": "2025-11-26",
+      "deadline": null,
+      "deadlineLabel": "EU correction published",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": 2,
+      "stage": "research",
+      "statusLabel": "Current reference mismatch · independently cross-checked",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "summary": "Luxembourg’s new crypto-reporting law still cites the earlier EU reference for ledger addresses, which the EU corrected.",
+      "euChange": "Address reference: 1114 → 1113.",
+      "nationalGap": "Article 5(3)(c)(ix) still refers to Regulation 2023/1114 when specifying aggregate transfers to ledger addresses not known to be associated with a virtual-asset service provider or financial institution.",
+      "nationalLaw": "Law of 27 March 2026, Mémorial A144, Article 5(3)(c)(ix).",
+      "provisions": "EU correction point 2; national provisions identified above.",
+      "consequence": "Yes, on paper. The Luxembourg law cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
+      "resolution": "The publisher’s “currently applicable” link points to the March 2026 law, and the tax administration’s page, updated 15 October 2026, links it as the governing law. A May implementing regulation sets electronic filing rules without changing this reference. We found no later correction and no exact official acknowledgment.",
+      "caveat": "A statutory reference mismatch, not proof that transactions escape reporting. Directly applicable EU definitions, conforming interpretation and administrative reporting practice may limit or cure practical uncertainty. The first annual reporting deadline is in 2027, so this is not evidence of a missed filing or tax loss. No fresh deadline.",
+      "comparison": {
+        "beforeLabel": "Current national reference",
+        "before": "Article 5(3)(c)(ix) cites Regulation 2023/1114.",
+        "afterLabel": "Corrected EU reference",
+        "after": "Regulation (EU) 2023/1113, Article 3(18).",
+        "note": "Other references to the crypto-markets regulation can be correct; this record concerns the address reference only."
+      },
+      "review": "A separate agent independently checked the authentic French correction and national text. A further review followed the current-applicable link, which returns the March text, and read all four articles of the May implementing regulation. No statutory correction found; the effect of detailed reporting instructions remains open.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "Targeted official-source and exact-phrase searches located no acknowledgment of this particular reference mismatch. Bounded public research; no claim of first discovery. Finland’s official implementing proposal had already discussed the underlying EU drafting error; the bounded search here concerns the surviving national mismatch.",
+      "noveltySearch": {
+        "date": "2026-10-25",
+        "method": "Exact provision and address-reference searches in Luxembourg legislation, tax-administration and parliamentary material, together with correction terminology.",
+        "queries": [
+          "\"27 mars 2026\" \"registre distribué\" \"rectificatif\"",
+          "\"Luxembourg\" \"DAC8\" \"rectificatif\"",
+          "\"a144\" \"1113\""
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2025-11-26",
+          "event": "EU correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-01-01",
+          "event": "First national reporting year begins.",
+          "who": "national"
+        },
+        {
+          "date": "2026-03-27",
+          "event": "National law enacted and published.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-15",
+          "event": "Tax-administration guidance updated.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Reference independently checked.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU correction (French)",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ%3AL_202590947",
+          "role": "EU correction",
+          "locator": "Point 2; OJ 2025/90947"
+        },
+        {
+          "title": "Enacted Luxembourg crypto-reporting law",
+          "url": "https://legilux.public.lu/eli/etat/leg/loi/2026/03/27/a144/jo",
+          "role": "National law",
+          "locator": "Article 5(3)(c)(ix); publisher labels act in force"
+        },
+        {
+          "title": "Current Luxembourg tax-administration implementation page",
+          "url": "https://impotsdirects.public.lu/fr/echanges_electroniques/cdc-carf.html",
+          "role": "Currentness and reporting timetable",
+          "locator": "Sections 3 and 9; updated 15 October 2026"
+        },
+        {
+          "title": "Electronic registration and declaration implementing rules",
+          "url": "https://legilux.public.lu/eli/etat/leg/rgd/2026/05/18/a245/jo",
+          "role": "Alternative-measure check",
+          "locator": "Articles 1–4; filing mechanics, no address-reference correction"
+        },
+        {
+          "title": "Finnish proposal identifying the original EU drafting error",
+          "url": "https://www.finlex.fi/fi/hallituksen-esitykset/2025/84",
+          "role": "Adverse novelty check; underlying EU error already known",
+          "locator": "HE 84/2025, discussion of distributed-ledger address definition"
+        }
+      ]
+    },
+    {
+      "id": "fr-dac8-ledger-address-reference",
+      "title": "Crypto-reporting statute cites a reference the EU has since corrected",
+      "country": "France",
+      "countryCode": "FR",
+      "topic": "Tax cooperation",
+      "baseAct": "Directive 2011/16/EU (administrative tax cooperation)",
+      "baseActPublished": "2011-03-11",
+      "amendingAct": "DAC8 correction, 26 November 2025",
+      "celex": "32023L2226R(01)",
+      "updateType": "Corrigendum",
+      "correctionDate": "2025-11-26",
+      "deadline": null,
+      "deadlineLabel": "EU correction published",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": 3,
+      "stage": "research",
+      "statusLabel": "Current reference mismatch · practical effect unestablished",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "summary": "France’s current tax code still cites the earlier reference for ledger addresses. The reporting decree uses the statute’s list of information.",
+      "euChange": "Address reference: 1114 → 1113.",
+      "nationalGap": "CGI Article 1649 AC bis II.D(i) still points to Regulation 2023/1114 when describing the addresses relevant to aggregate external-transfer reporting. The provision has applied since January 2026. Decree 2025-1276 Article 18(3) incorporates the statutory information list without replacing that reference.",
+      "nationalLaw": "Code général des impôts, Article 1649 AC bis II.D(i); Decree 2025-1276, Articles 6, 18(3), 19 and 21.",
+      "provisions": "EU correction point 4; national provisions identified above.",
+      "consequence": "Yes, on paper. The French tax code cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
+      "resolution": "The current code still has the reference and names the February 2025 Finance Act as its source. The December reporting decree defines transfers but does not replace the address reference. We found no later statutory correction in the sources we checked.",
+      "caveat": "Other references to Regulation 2023/1114, including service-provider definitions, are legitimate. Directly applicable EU definitions, conforming interpretation or reporting instructions may remove practical uncertainty. Detailed technical reporting documentation was not verified. The first returns concern 2026 transactions and are due in 2027; no missed filing is alleged. No fresh deadline.",
+      "comparison": {
+        "beforeLabel": "Current French reporting reference",
+        "before": "Article 1649 AC bis II.D(i) cites Regulation 2023/1114.",
+        "afterLabel": "Corrected EU reference",
+        "after": "Regulation (EU) 2023/1113, Article 3(18).",
+        "note": "Only the ledger-address reference is at issue."
+      },
+      "review": "Independent review checked the authentic EU correction and the full reporting decree, including transfer definitions and incorporation of the statutory list. A separate live reading confirmed the current code. Practical reporting coverage remains unestablished.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "No prior recognition of this specific surviving French statutory reference was located in bounded searches. Finland’s official 2025 implementing proposal had already identified the underlying EU drafting error; this record makes no discovery claim about that error or the correction itself.",
+      "noveltySearch": {
+        "date": "2026-10-25",
+        "method": "Exact French provision and regulation-number searches with correction and error terminology; current code and implementing decree compared. This is a limited search for recognition of the national mismatch. A separate researcher also searched public legal and professional commentary using local-language error and correction terms; no exact earlier national comparison was located. Indexing and search coverage remain incomplete.",
+        "queries": [
+          "\"1649 AC bis\" \"1113\"",
+          "\"1649 AC bis\" \"rectificatif\"",
+          "\"1649 AC bis\" \"erreur\" \"1114\"",
+          "\"1649 AC bis\" adresse coquille",
+          "DAC8 France wrong reference"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2025-02-15",
+          "event": "Finance Act creating the national reporting provision published.",
+          "who": "national"
+        },
+        {
+          "date": "2025-11-26",
+          "event": "EU correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2025-12-24",
+          "event": "National reporting decree published.",
+          "who": "national"
+        },
+        {
+          "date": "2026-01-01",
+          "event": "First reporting year begins.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Current statutory reference and decree independently checked.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU correction (French)",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ%3AL_202590947",
+          "role": "EU correction",
+          "locator": "Point 4; Annex VI II.B(3)(i)"
+        },
+        {
+          "title": "Current French crypto-reporting statute",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051215656",
+          "role": "Current national law",
+          "locator": "Article 1649 AC bis II.D(i); in force since 1 January 2026; live text checked 25 October 2026"
+        },
+        {
+          "title": "Implementing reporting decree",
+          "url": "https://www.legifrance.gouv.fr/eli/decret/2025/12/19/ECOE2522267D/jo/texte",
+          "role": "Alternative-measure check and reporting timetable",
+          "locator": "Articles 6, 18(3), 19 and 21; JORF 24 December 2025"
+        },
+        {
+          "title": "Current consolidated reporting-decree provision",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053160684",
+          "role": "Currentness and incorporation of the statutory list",
+          "locator": "Article 18(3); version in force since 1 January 2026; last update 25 December 2025"
+        },
+        {
+          "title": "Finnish implementing proposal identifying the original EU drafting error",
+          "url": "https://www.finlex.fi/fi/hallituksen-esitykset/2025/84",
+          "role": "Adverse novelty check; not recognition of the French national mismatch",
+          "locator": "HE 84/2025; distributed-ledger address definition discussion"
+        }
+      ]
+    },
+    {
+      "id": "at-dac8-ledger-address-reference",
+      "title": "Crypto-reporting law cites a reference the EU has since corrected",
+      "country": "Austria",
+      "countryCode": "AT",
+      "topic": "Tax cooperation",
+      "baseAct": "Directive 2011/16/EU (administrative tax cooperation)",
+      "baseActPublished": "2011-03-11",
+      "amendingAct": "DAC8 correction, 26 November 2025",
+      "celex": "32023L2226R(01)",
+      "updateType": "Corrigendum",
+      "correctionDate": "2025-11-26",
+      "deadline": null,
+      "deadlineLabel": "EU correction published",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": 3,
+      "stage": "research",
+      "statusLabel": "Current reference mismatch · practical effect unestablished",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "summary": "Austria’s definitions and reporting list still cite the earlier reference for ledger addresses, which the EU corrected.",
+      "euChange": "Address reference: 1114 → 1113.",
+      "nationalGap": "Krypto-MPfG §4(7) and §18(1) Z3(i) retain Regulation 2023/1114 for distributed-ledger addresses. Both have applied since January 2026.",
+      "nationalLaw": "Krypto-Meldepflichtgesetz, §§4(7), 18(1) Z3(i), 19(2) and 45.",
+      "provisions": "EU correction points 1, 4; national provisions identified above.",
+      "consequence": "Yes, on paper. The Austrian law cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
+      "resolution": "The current RIS text keeps both references. An October 2026 clean-up draft changes neighbouring citations and numbering but leaves these provisions untouched.",
+      "caveat": "Other MiCA references are legitimate. The original government explanation calls for interpretation consistent with OECD CARF commentary, which may resolve the meaning. Technical reporting instructions and actual coverage were not verified. First annual returns are due in July 2027. No fresh deadline.",
+      "comparison": {
+        "beforeLabel": "Current Austrian references",
+        "before": "§4(7) and §18(1) Z3(i) cite Regulation 2023/1114.",
+        "afterLabel": "Corrected EU reference",
+        "after": "Regulation (EU) 2023/1113, Article 3(18).",
+        "note": "The address definition and reporting cross-reference are at issue."
+      },
+      "review": "Independent source review checked the authentic German EU correction, current complete national law, original interpretive explanation and October 2026 draft. A separate reviewer first identified the current reporting reference. Practical reporting coverage remains unestablished.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "No recognition of these specific surviving Austrian references was located in bounded searches. The October 2026 government draft acknowledges general drafting issues, but does not identify this address-reference mismatch. Finland’s 2025 proposal had already identified the underlying EU error; no discovery claim is made about that error.",
+      "noveltySearch": {
+        "date": "2026-10-25",
+        "method": "Exact provision/address searches with the two regulation numbers and error/correction terminology across official tax, parliamentary and legal sources; current full law, original explanation and 22 October cleanup draft checked. Search did not establish practical reporting consequences. A separate researcher also searched public legal and professional commentary using local-language error and correction terms; no exact earlier national comparison was located. Indexing and search coverage remain incomplete.",
+        "queries": [
+          "\"Krypto-MPfG\" \"1114\" \"Fehler\"",
+          "\"Krypto-MPfG\" \"Distributed-Ledger-Adresse\" \"1113\"",
+          "site:bmf.gv.at \"Krypto-MPfG\" \"1113\"",
+          "site:parlament.gv.at \"Krypto-Meldepflichtgesetz\" \"Berichtigung\"",
+          "site:findok.bmf.gv.at \"Distributed-Ledger\" \"1113\"",
+          "\"Krypto-MPfG\" \"1113\"",
+          "\"Krypto-MPfG\" \"1114\" Fehler",
+          "\"Krypto-MPfG\" Adresse Fehler",
+          "\"Krypto-MPfG\" falscher Verweis",
+          "DAC8 Österreich 1113 Berichtigung"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2025-11-26",
+          "event": "EU correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2025-12-23",
+          "event": "National implementing act published.",
+          "who": "national"
+        },
+        {
+          "date": "2026-01-01",
+          "event": "Reporting law takes effect.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-22",
+          "event": "Cleanup draft submitted without replacing the address references.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Current law and later-draft checks completed.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU correction (German)",
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ%3AL_202590947",
+          "role": "EU correction",
+          "locator": "Points 1 and 4; Article 3(30), Annex VI II.B(3)(i)"
+        },
+        {
+          "title": "Current Austrian crypto-reporting law",
+          "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20013064",
+          "role": "Current national law",
+          "locator": "§§4(7), 18(1) Z3(i), 19(2), 45; full current text dated 20 October 2026"
+        },
+        {
+          "title": "Authentic Austrian implementing act",
+          "url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2025_I_96/BGBLA_2025_I_96.html",
+          "role": "Original enactment and publication",
+          "locator": "BGBl I 96/2025, issued 23 December 2025; Article 1"
+        },
+        {
+          "title": "Original government explanation: CARF interpretation",
+          "url": "https://www.parlament.gv.at/dokument/XXVIII/I/306/fnameorig_1723216.html",
+          "role": "Adverse interpretive check",
+          "locator": "Explanation of §4; OECD CARF commentary alignment"
+        },
+        {
+          "title": "October 2026 cleanup draft",
+          "url": "https://www.parlament.gv.at/dokument/XXVIII/ME/148/fnameorig_1784999.html",
+          "role": "Later-measure check; draft, not enacted law",
+          "locator": "148/ME, submitted 22 October 2026; Article 14 points 2, 3 and 8; no changes to §4(7) or §18(1) Z3(i)"
+        },
+        {
+          "title": "Explanation of the cleanup draft",
+          "url": "https://www.parlament.gv.at/dokument/XXVIII/ME/148/fnameorig_1785001.html",
+          "role": "Adverse recognition check",
+          "locator": "Article 14 explanation; general citation and enumeration corrections"
+        },
+        {
+          "title": "Finnish proposal identifying the original EU drafting error",
+          "url": "https://www.finlex.fi/fi/hallituksen-esitykset/2025/84",
+          "role": "Adverse novelty check; not recognition of the Austrian mismatch",
+          "locator": "HE 84/2025; distributed-ledger address discussion"
+        }
+      ]
+    },
+    {
+      "id": "it-dac8-ledger-address-reference",
+      "title": "Earlier address reference kept in both the current and the replacement tax texts",
+      "country": "Italy",
+      "countryCode": "IT",
+      "topic": "Tax cooperation",
+      "baseAct": "Directive 2011/16/EU (administrative tax cooperation)",
+      "baseActPublished": "2011-03-11",
+      "amendingAct": "DAC8 correction, 26 November 2025",
+      "celex": "32023L2226R(01)",
+      "updateType": "Corrigendum",
+      "correctionDate": "2025-11-26",
+      "deadline": null,
+      "deadlineLabel": "EU correction published",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": 3,
+      "stage": "research",
+      "statusLabel": "Current reference mismatch · practical effect unestablished",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-25",
+      "summary": "Italy’s crypto-reporting definition still cites the earlier reference for ledger addresses, and so does the enacted replacement.",
+      "euChange": "Address reference: 1114 → 1113.",
+      "nationalGap": "Legislative Decree 194/2025 Article 6(1)(ee), operative through December 2026, points to Regulation 2023/1114 for ledger addresses. Article 13(1)(c)(9) uses that defined term. The June implementing measure incorporates the statutory definitions.",
+      "nationalLaw": "Legislative Decree 194/2025, Articles 6(1)(ee) and 13(1)(c)(9); replacement Decree 141/2026, Annex Article 229(1)(ee).",
+      "provisions": "EU correction point 1; national provisions identified above.",
+      "consequence": "Yes, on paper. Both the current and the replacement Italian text cites a reference the EU has since corrected, so the citation does not match. Whether any report was omitted or any tax lost has not been established.",
+      "resolution": "Normattiva shows the definition in force from 6 January to 31 December 2026. The August replacement repeats the reference in Annex Article 229(1)(ee), applying from January 2027. Its September correction deals with other provisions.",
+      "caveat": "Other MiCA references are legitimate. OECD CARF commentary, conforming interpretation or technical instructions may resolve the meaning. Detailed technical annexes and July FAQs were not verified. First returns are due in June 2027. This is a statutory-reference lead, not a reporting-coverage finding; no fresh deadline.",
+      "comparison": {
+        "beforeLabel": "Current and enacted replacement references",
+        "before": "Article 6(1)(ee) and replacement Article 229(1)(ee) both cite Regulation 2023/1114.",
+        "afterLabel": "Corrected EU reference",
+        "after": "Regulation (EU) 2023/1113, Article 3(18).",
+        "note": "The scheduled replacement repeats the same address reference."
+      },
+      "review": "A separate researcher read the authentic Italian EU correction, national replacement and full June reporting measure. A live reading checked the current article’s operative interval; the September national correction was also read. Technical reporting coverage remains unestablished.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "No recognition of this specific surviving Italian reference was located in bounded correction/error searches. The national September correction concerns other drafting issues. Finland had already identified the underlying EU error; this is no first-discovery claim.",
+      "noveltySearch": {
+        "date": "2026-10-25",
+        "method": "Exact decree number, address phrase, regulation numbers and correction/error terminology; current and replacement texts, national correction and main reporting measure compared. Technical annexes and FAQs remain outside the verified material. A separate researcher also searched public legal and professional commentary using local-language error and correction terms; no exact earlier national comparison was located. Indexing and search coverage remain incomplete.",
+        "queries": [
+          "\"194\" \"2025\" \"1114\" \"refuso\"",
+          "\"194\" \"2025\" \"1113\" \"rettifica\"",
+          "\"194\" \"2025\" \"Indirizzo di Registro Distribuito\" \"rettifica\"",
+          "DAC8 1113 errore",
+          "\"registro distribuito\" 1114 errore",
+          "DAC8 Italy wrong reference"
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2025-11-26",
+          "event": "EU correction published.",
+          "who": "eu"
+        },
+        {
+          "date": "2025-12-22",
+          "event": "National implementing decree published.",
+          "who": "national"
+        },
+        {
+          "date": "2026-01-06",
+          "event": "Current definition takes effect.",
+          "who": "national"
+        },
+        {
+          "date": "2026-06-22",
+          "event": "Reporting measure incorporates statutory definitions.",
+          "who": "national"
+        },
+        {
+          "date": "2026-08-06",
+          "event": "Replacement text published with the same reference.",
+          "who": "national"
+        },
+        {
+          "date": "2026-09-17",
+          "event": "National correction changes other provisions.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-25",
+          "event": "Current and replacement definitions independently checked.",
+          "who": "check"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU correction (Italian)",
+          "url": "https://eur-lex.europa.eu/eli/dir/2023/2226/corrigendum/2025-11-26/oj/ita/pdf",
+          "role": "EU correction",
+          "locator": "Point 1; Article 3(30)"
+        },
+        {
+          "title": "Current Italian implementing decree",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-10;194",
+          "role": "Current national law",
+          "locator": "Article 6(1)(ee), operative 6 January–31 December 2026; latest amendment published 6 August 2026"
+        },
+        {
+          "title": "Authentic national enactment",
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2025/12/22/296/sg/pdf",
+          "role": "National definition and reporting obligation",
+          "locator": "Decree 194/2025, Articles 6(1)(ee) and 13(1)(c)(9); printed pp.6–7 and 11–12"
+        },
+        {
+          "title": "June tax-administration implementing measure",
+          "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10157754/Provvedimento+DAC8+del+22+giugno+2026.pdf/4766b3fc-1a9a-3978-47ba-3c98108d079b",
+          "role": "Adverse check: incorporation of statutory definitions",
+          "locator": "186865/2026, sections 1.2 and 5.1(d); PDF pp.2 and 5"
+        },
+        {
+          "title": "Enacted replacement and its application date",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/08/06/26G00160/sg",
+          "role": "Later-measure check",
+          "locator": "Decree 141/2026, Annex Articles 229(1)(ee), 367(1)(uuuu) and 368; applies January 2027"
+        },
+        {
+          "title": "September correction to the replacement text",
+          "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticoloDefault/originario?atto.codiceRedazionale=26A04895&atto.dataPubblicazioneGazzetta=2026-09-17&atto.tipoProvvedimento=AVVISO+DI+RETTIFICA",
+          "role": "Later-correction check",
+          "locator": "26A04895; Article 8 and omitted annexes, no address-definition correction"
+        },
+        {
+          "title": "Finnish proposal identifying the original EU drafting error",
+          "url": "https://www.finlex.fi/fi/hallituksen-esitykset/2025/84",
+          "role": "Adverse novelty check; underlying EU error already known",
+          "locator": "HE 84/2025; distributed-ledger address discussion"
+        }
+      ],
+      "reviewAfter": "2027-01-01"
+    },
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "country": "Romania",
+      "countryCode": "RO",
+      "title": "Group-fund exception names ‘branches’ where the corrected EU text says ‘subsidiaries’",
+      "topic": "Investment fund management",
+      "baseAct": "Directive 2011/61/EU (AIFMD)",
+      "baseActPublished": "2011-07-01",
+      "amendingAct": "Romanian-language corrigendum of 13 October 2026",
+      "celex": "32011L0061R(05)",
+      "updateType": "Corrigendum",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": 4,
+      "stage": "research",
+      "statusLabel": "Text mismatch · legal effect qualified",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-26",
+      "evidenceLabel": "Current national consolidation independently checked",
+      "correctionDate": "2026-10-13",
+      "deadline": null,
+      "deadlineLabel": "EU correction published",
+      "summary": "Romania’s exception for group investors still names branches. The corrected Romanian-language EU text names subsidiaries, a separately defined category in the same national law.",
+      "euChange": "Article 3(1): branches replaced by subsidiaries.",
+      "nationalGap": "Law 74/2015 Article 2(1) retains sucursalele and sucursale for the manager’s and its parent companies’ branches. Article 3(25) separately defines a subsidiary. The official consolidation incorporating amendments effective 16 April 2026 preserves those words.",
+      "nationalLaw": "Law 74/2015, Article 2(1); subsidiary definition in Article 3(25).",
+      "provisions": "Directive 2011/61/EU Article 3(1); Romanian corrigendum point 1, OJ L 2026/90861, 13 October 2026; national Articles 2(1), 3(25).",
+      "consequence": "Yes, on paper. The national exception names a different group-investor category (branches) than the corrected EU text (subsidiaries). Whether interpretation or a separate national regime removes any practical effect has not been established, and no authorisation decision or manager was examined.",
+      "resolution": "The latest official national text keeps the earlier words. Targeted searches found no later correction, no equivalent interpretation by the regulator (ASF) and no published analysis identifying this precise mismatch.",
+      "caveat": "This is a textual research lead, not a finding that Romania unlawfully regulates a manager. EU Article 3(1) excludes a category from the directive; that alone does not establish a prohibition on independent national regulation of out-of-scope entities. Other national exclusions, including holding companies, remain relevant. A branch lacks separate legal personality, and conforming interpretation may matter. The corrigendum creates no fresh transposition deadline.",
+      "comparison": {
+        "beforeLabel": "Current national exception",
+        "before": "Branches of the manager or its parent companies.",
+        "afterLabel": "Corrected EU exception",
+        "after": "Subsidiaries of the manager or its parent companies.",
+        "note": "Other conditions remain; the review concerns one category word, not the complete exclusion framework."
+      },
+      "review": "Independent adverse review and final prose review passed for the narrow textual lead. Two researchers read the authentic correction and current national body, including its April 2026 amendment notes; a third independently located the same current text. Older portal and regulator copies were rejected as insufficient currentness evidence. The possibility of lawful wider national regulation is expressly retained.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "No exact prior recognition was located in the bounded searches; this does not establish first discovery or the absence of unpublished advice.",
+      "noveltySearch": {
+        "date": "2026-10-26",
+        "method": "Searched the exact branch/subsidiary phrases, correction number and ASF material; read the latest national text rather than relying on the older historical page. No precise published mismatch analysis was found.",
+        "queries": [
+          "\"2011/61\" \"2026/90861\"",
+          "\"sucursalele AFIA\" \"filialele\" \"rectificare\"",
+          "\"74/2015\" \"filialele\" \"art. 2\"",
+          "site:asfromania.ro \"art. 2 alin. (1)\" \"AFIA\" filiale"
+        ]
+      },
+      "sources": [
+        {
+          "title": "Romanian AIFMD corrigendum",
+          "url": "https://eur-lex.europa.eu/eli/dir/2011/61/corrigendum/2026-10-13/oj",
+          "role": "Authentic EU correction",
+          "locator": "OJ L 2026/90861, 13 October 2026; point 1, Article 3(1). Official Publications Office XML independently read."
+        },
+        {
+          "title": "Current Romanian fund-manager law",
+          "url": "https://legislatie.just.ro/Public/FormaPrintabila/00000G3PEIZSBUIT9PF2MEAYMVWDFYOH",
+          "role": "Current national comparison and qualifications",
+          "locator": "Articles 1(5)(a), 2(1), 3(25); body includes Law 243/2025 amendments effective 16 April 2026; checked 26 October 2026."
+        },
+        {
+          "title": "Underlying directive and original English exclusion",
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32011L0061",
+          "role": "Scope and interpretation check",
+          "locator": "Article 3(1); Article 4(1)(c), branch definition. The English original already used subsidiaries."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2015-04-23",
+          "event": "Romanian fund-manager law published.",
+          "who": "national"
+        },
+        {
+          "date": "2026-04-16",
+          "event": "Latest substantive amendments incorporated in the national body checked.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-13",
+          "event": "Romanian EU wording corrected.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-10-26",
+          "event": "Current national text and later-correction searches checked.",
+          "who": "check"
+        }
+      ]
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "title": "Routine equipment declarations still go to the national authority",
+      "topic": "Outdoor equipment and reporting",
+      "baseAct": "Directive 2000/14/EC",
+      "amendingAct": "Directive (EU) 2024/2839",
+      "celex": "32024L2839",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": "systematic25",
+      "stage": "research",
+      "statusKind": "differs",
+      "evidenceDate": "2026-10-26",
+      "evidenceLabel": "Current national law independently read",
+      "deadline": "2025-11-29",
+      "deadlineLabel": "EU application date; adoption/publication due 28 November 2025",
+      "summary": "The national-only submission remains after Hungary’s 2025 partial repeal. Its compatibility requires legal review.",
+      "euChange": "Delete the routine declaration-copy provision.",
+      "nationalGap": "Section 11(1) still requires a copy for every equipment type. The 2025 amender deleted only Section 11(2), the Commission route.",
+      "nationalLaw": "Government Decree 140/2001, Section 11(1); amending Decree 469/2025, Section 2.",
+      "provisions": [
+        "EU 2024/2839 Articles 2(1), 5(1)",
+        "National 140/2001 Sections 3, 5(3), 10(2), 11, 12(3)"
+      ],
+      "consequence": "Yes, on paper. Manufacturers or EEA representatives still owe the Government Office routine copies. No actual submission, refusal or penalty is established.",
+      "resolution": "No later removal of Section 11(1) located.",
+      "caveat": "This is a residual-text lead, not a finding that every national information duty is unlawful. The underlying directive’s harmonisation/free-movement rules support scrutiny, but lawful market-surveillance requests remain available. The national rule states no advance-submission deadline; no premarketing condition or automatic fine is inferred. Declaration preparation, retention, targeted requests and actual administrative practice are separate.",
+      "comparison": {
+        "beforeLabel": "Current national text",
+        "before": "Copy to Government Office for every type.",
+        "afterLabel": "EU simplification",
+        "after": "Routine-copy provision deleted.",
+        "note": "Targeted requests remain distinct."
+      },
+      "review": "Independent primary-law comparison, authentic amender and adverse legal-scope review passed. The coordinating researcher separately read the live current national version. Legal significance and actual enforcement remain qualified.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "Government publications acknowledge the broader reporting reform. No published source identifying this precise surviving national-only copy duty as an implementation mismatch was located; no first-discovery claim.",
+      "noveltySearch": {
+        "date": "2026-10-26",
+        "method": "Bounded exact identifier and Hungarian reporting/error searches across official sources and public commentary found enactment, explanatory memorandum, draft and generic reform summaries; none identified the precise residual national-copy mismatch.",
+        "queries": [
+          "\"140/2001\" \"2024/2839\" \"11\" \"másolat\"",
+          "\"140/2001\" \"2024/2839\" \"11\" hiba",
+          "\"469/2025\" \"zaj\" \"adatszolgáltatás\"",
+          "\"140/2001\" \"megküldeni\" \"Bizottság\" 2026"
+        ]
+      },
+      "sources": [
+        {
+          "title": "EU reporting simplification, authentic Hungarian text",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/hun",
+          "role": "EU amendment",
+          "locator": "Articles 2(1), 5(1); entire relevant clauses read."
+        },
+        {
+          "title": "Current Hungarian outdoor-equipment decree",
+          "url": "https://njt.jog.gov.hu/jogszabaly/2001-140-20-22",
+          "role": "Current national rule",
+          "locator": "Sections 3, 5(3), 10(2), 11, 12(3); current 31 December 2025 onward; live 26 October 2026."
+        },
+        {
+          "title": "Authentic 2025 partial repeal",
+          "url": "https://magyarkozlony.hu/dokumentumok/82c68f94f4b407cf9e51b594d2f43255655549c4/letoltes",
+          "role": "Enacted change",
+          "locator": "Gazette 2025 No 161, p 11721; 469/2025 Sections 1–4."
+        },
+        {
+          "title": "Official explanation of the reporting repeal",
+          "url": "https://njt.jog.gov.hu/jogszabaly/2025-469-K3-22",
+          "role": "Related government recognition",
+          "locator": "Broad reporting reform acknowledged; precise residual mismatch not identified."
+        },
+        {
+          "title": "Current EU noise directive",
+          "url": "https://eur-lex.europa.eu/eli/dir/2000/14/2026-05-30/eng",
+          "role": "Later-law and adverse-scope check",
+          "locator": "Articles 1, 6, 9, 17; Article 16 deleted; consolidation includes 2024/2749."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2024-10-23",
+          "who": "eu",
+          "event": "EU adopted reporting simplification."
+        },
+        {
+          "date": "2025-11-29",
+          "who": "eu",
+          "event": "National application date."
+        },
+        {
+          "date": "2025-12-30",
+          "who": "national",
+          "event": "Hungary published 469/2025."
+        },
+        {
+          "date": "2025-12-31",
+          "who": "national",
+          "event": "Commission-copy repeal took effect; national-copy clause remained."
+        },
+        {
+          "date": "2026-10-26",
+          "who": "check",
+          "event": "Current rule and later-law indications checked."
+        }
+      ],
+      "baseActPublished": "2000-07-03",
+      "statusDetail": "The Commission copy was removed; the national copy remains.",
+      "statusLabel": "Residual national copy duty; legal significance under review"
+    },
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "title": "Donor-screening tables still use the older measure of infection",
+      "country": "Poland",
+      "countryCode": "PL",
+      "topic": "Health and donor safety",
+      "baseAct": "Directive 2006/17/EC",
+      "baseActPublished": "2006-02-09",
+      "amendingAct": "Directive 2012/39/EU",
+      "celex": "32012L0039",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Qualified concern · current screening criterion",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-26",
+      "deadline": "2014-06-17",
+      "correctionDate": null,
+      "deadlineLabel": "Implementation deadline",
+      "summary": "The EU switched from the rate of new infections to the share of people already infected. Two reproductive-donor screening rows retain the earlier criterion; clinical duties may supply broader testing.",
+      "euChange": "HTLV-I screening: incidence → prevalence.",
+      "nationalGap": "The 2025 consolidation retains incidence in Annex 1, partner-donation table 1 row 5 and nonpartner table 2 row 6. The separate non-reproductive rule already uses prevalence.",
+      "nationalLaw": "Regulation of 23 October 2015; Dz.U. 2025 poz. 384, Annex 1; Sections 2–3.",
+      "provisions": "2012/39 Annex (2)(a)–(b), replacing 2006/17 Annex III 2.4 and 3.3; recital 3.",
+      "consequence": "Possibly. The express screening trigger differs, but individual risk assessment and necessary additional tests may supply equivalent protection. No missed test or patient harm has been established.",
+      "resolution": "No later national correction or published acknowledgment of this exact EU-to-national discrepancy was located in bounded Polish and English searches.",
+      "caveat": "Sections 2(1)(5) and 3 preserve necessary additional testing and individual risk assessment. Conforming interpretation or clinical standards may supply equivalent protection. This is an express-criterion comparison, without evidence of unsafe practice. More protective screening remains permitted.",
+      "review": "Two agents independently read the current national PDF and authentic EU wording, and challenged alternative clinical duties. Qualified concern. The coordinating researcher independently read the 2025 tables, Sections 2–3 and the current official amendment register.",
+      "comparison": {
+        "before": "Reproductive-donor tables: incidence (zachorowalność).",
+        "after": "Revised EU criterion: prevalence (chorobowość).",
+        "note": "The amendment expressly distinguishes these terms.",
+        "beforeLabel": "Current national criterion",
+        "afterLabel": "Revised EU criterion"
+      },
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "Bounded Polish and English searches on 26 October 2026 used the directive, national act numbers, both epidemiological terms and correction/incompatibility terms. Official health-technology material and public health commentary repeat incidence; no exact discrepancy analysis was located. This does not establish first discovery.",
+      "catalogueStatus": "review",
+      "evidenceLabel": "Current national PDF checked",
+      "sources": [
+        {
+          "title": "EU donor-testing revision",
+          "url": "https://eur-lex.europa.eu/legal-content/PL/TXT/PDF/?uri=CELEX%3A32012L0039",
+          "role": "EU amendment",
+          "locator": "Recital 3; Annex (2)(a)–(b); Article 2."
+        },
+        {
+          "title": "Current official reproductive-donor consolidation",
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/384/text.pdf",
+          "role": "Current national text",
+          "locator": "Printed pp. 5–6, Annex 1 tables 1–2; pp. 2–3, Sections 2–3."
+        },
+        {
+          "title": "Official principal-rule amendment history",
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1718",
+          "role": "Currentness check",
+          "locator": "2024/77 amendment and 2025/384 consolidation; checked 26 October 2026."
+        },
+        {
+          "title": "Current non-reproductive tissue and cell rule",
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/272/text.html",
+          "role": "Scope qualification",
+          "locator": "Section 3(5)(e)."
+        }
+      ],
+      "researchMetadata": {
+        "systematicAct": "2012/39",
+        "countryAssessmentComplete": true,
+        "peerNote": "research/verify-notes/pl-donor-peer.json",
+        "sourcePolicy": "No full source files saved. Primary PDFs read in memory.",
+        "recognizedMaterialNotExactMismatch": [
+          {
+            "url": "https://www.bip.aotm.gov.pl/assets/files/ppz/2024/RPT/23.06.07_RAPORT_48aa_zabezpieczenie_plodnosci.pdf",
+            "locator": "Printed p. 29 table 5 repeats old criterion, no explicit EU-to-national comparison."
+          },
+          {
+            "url": "https://www.poradnikzdrowie.pl/zdrowie/choroby-zakazne/wirus-htlv-1-czyli-wirus-ludzkiej-bialaczki-z-komorek-t-aa-4qzj-14pB-St29.html",
+            "locator": "Public 2019 health commentary cites both directives while using incidence, no discrepancy analysis located."
+          }
+        ]
+      },
+      "timeline": [
+        {
+          "date": "2012-11-27",
+          "event": "EU donor-testing revision published.",
+          "who": "eu"
+        },
+        {
+          "date": "2014-06-17",
+          "event": "Implementation deadline.",
+          "who": "eu"
+        },
+        {
+          "date": "2025-03-26",
+          "event": "Official consolidation republishes both screening rows.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-26",
+          "event": "Current official PDF and later-measure register checked.",
+          "who": "check"
+        }
+      ],
+      "researchRound": "systematic25"
+    },
+    {
+      "id": "ie-bank-ccp-quantified-plans",
+      "country": "Ireland",
+      "countryCode": "IE",
+      "title": "Irish bank rules and the new quantified clearing-risk plans",
+      "topic": "Bank supervision",
+      "baseAct": "Directive 2013/36/EU",
+      "baseActPublished": "2013-06-27",
+      "amendingAct": "Directive (EU) 2024/2994",
+      "celex": "32024L2994",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "stage": "research",
+      "statusLabel": "Current statutory comparison · supervisory equivalence needs review",
+      "statusKind": "differs",
+      "statusDetail": null,
+      "evidenceDate": "2026-10-26",
+      "evidenceLabel": "Operative national provisions and later amendment register checked",
+      "deadline": "2026-06-25",
+      "deadlineLabel": "Transposition deadline",
+      "correctionDate": null,
+      "summary": "Ireland updated its investment-firm and fund rules in June 2026. Its bank rules still use general risk-governance and concentration controls. The specific new bank-management planning requirement has not been located in those rules or in a generally binding supervisory substitute.",
+      "euChange": "Bank boards must develop quantified clearing-risk plans.",
+      "nationalGap": "Regulation 64(2)–(4) requires board attention, resources and risk reporting. Regulation 69 already covers central-counterparty concentration through written policies. The later 2026 amendment adds quantitative plans for environmental, social and governance risks; it does not add the corresponding clearing-specific requirement.",
+      "nationalLaw": "European Union (Capital Requirements) Regulations 2014, SI 158/2014, regulations 61, 64 and 69, as subsequently amended, including SI 326/2026.",
+      "provisions": "2024/2994 Article 2(2), inserting CRD 76(2), fifth subparagraph; Irish regulation 64(2)–(4), read with 61 and 69; SI 326/2026 regulation 23.",
+      "consequence": "Possibly. The statutory comparison leaves a question about the specific duty to prepare quantified clearing-risk plans. Existing risk controls continue to apply. No bank failure, excessive exposure or missing actual plan has been established.",
+      "resolution": "No later express bank-plan amendment was located. The official amendment table is updated through 13 October 2026; searches for subsequent measures through 26 October found no correction.",
+      "caveat": "This is a qualified legal comparison, not a finding that banks have no clearing-risk duties. Directly applicable EMIR 7a active-account requirements, general statutory risk policies, ECB/CBI powers and individual supervisory directions remain important. A binding generally applicable supervisory rule or EU-consistent interpretation could supply equivalence. Confidential individual decisions were not audited. The duty concerns exposures to CCPs offering services of substantial systemic importance, under the EMIR 7a conditions; no qualifying Irish bank or actual affected exposure is asserted. Later unindexed measures cannot be categorically excluded.",
+      "comparison": {
+        "beforeLabel": "Current Irish bank provisions",
+        "before": "General board risk oversight and written concentration policies; new quantified plans expressly concern ESG risks.",
+        "afterLabel": "EU bank-management update",
+        "after": "Specific CCP concentration plans with quantifiable targets.",
+        "note": "The question is the specific planning obligation, not the existence of bank supervision."
+      },
+      "review": "Two researchers independently read the EU addition, Irish regulations 64 and 69, the 2026 ESG-plan amendment and targeted public supervisory alternatives. The lead also read the authentic EU amendment and the Irish operative baseline and later regulation 23. Qualified concern: possible supervisory equivalence remains unresolved; no bank-level deficiency is established.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "Bounded searches located public discussion of EMIR3 and the correctly enacted fund/investment-firm measures, but no published identification of this precise remaining Irish bank-plan comparison. This is not a first-discovery claim.",
+      "noveltySearch": {
+        "date": "2026-10-26",
+        "method": "Exact directive, national provision, bank-plan and quantified-target searches across the Irish statute book, CBI, ECB, EBA, official transposition references and public legal commentary. General EMIR3 analysis was distinguished from identification of this exact national comparison.",
+        "queries": [
+          "Ireland \"2024/2994\" \"banks\"",
+          "Ireland \"CCP\" \"plans and quantifiable targets\"",
+          "Ireland \"Regulation 64\" \"concentration\"",
+          "Ireland \"2024/2994\" \"transposition\"",
+          "Ireland \"2024/2994\" \"October 2026\"",
+          "site:centralbank.ie \"concentration risk\" \"plans\" \"clearing\"",
+          "site:irishstatutebook.ie \"central counterparties\" \"quantifiable targets\""
+        ]
+      },
+      "sources": [
+        {
+          "title": "Authentic EMIR3 sectoral amending directive",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2994/oj/eng",
+          "role": "EU amendment",
+          "locator": "Article 2(2), new CRD 76(2) fifth subparagraph; Article 4 deadline"
+        },
+        {
+          "title": "Irish bank governance and concentration provisions",
+          "url": "https://www.irishstatutebook.ie/eli/2014/si/158/made/en/print",
+          "role": "National operative baseline",
+          "locator": "Regulations 61,64(2)–(4),69; read together with subsequent amendments, not treated as a current consolidation"
+        },
+        {
+          "title": "Later Irish bank amendment",
+          "url": "https://www.irishstatutebook.ie/eli/2026/si/326/made/en/print",
+          "role": "Later national-law check",
+          "locator": "Regulations 22,23 and27; regulation 23 adds 64(4A)–(4D) for ESG plans, while 64(2)–(4) remains"
+        },
+        {
+          "title": "Official current bank-rule amendment table",
+          "url": "https://www.irishstatutebook.ie/isbc/si2014_151-200.html#a158_2014",
+          "role": "Currentness",
+          "locator": "Instrument 158/2014; entries for 61,64 and69; updated 13 October 2026"
+        },
+        {
+          "title": "Correctly enacted Irish investment-firm planning rules",
+          "url": "https://www.irishstatutebook.ie/eli/2026/si/290/made/en/print",
+          "role": "Scope control",
+          "locator": "Regulation 4(b), inserting 26(5A); effective 25 June 2026. This record does not allege the same omission for investment firms."
+        },
+        {
+          "title": "Correctly enacted Irish fund-rule update",
+          "url": "https://www.irishstatutebook.ie/eli/2026/si/289/made/en/print",
+          "role": "Scope control",
+          "locator": "Regulations 3–4; effective 25 June 2026. Fund implementation is separate from the bank-plan question."
+        }
+      ],
+      "catalogueStatus": "review",
+      "researchRound": "systematic",
+      "timeline": [
+        {
+          "date": "2026-06-25",
+          "event": "EU transposition deadline; Irish fund and investment-firm amendments take effect.",
+          "who": "eu"
+        },
+        {
+          "date": "2026-10-13",
+          "event": "Official bank-rule amendment table cutoff; it records no clearing-plan insertion into regulation 64.",
+          "who": "national"
+        },
+        {
+          "date": "2026-10-26",
+          "event": "Current statutory chain and supervisory alternatives checked; precise equivalence remains qualified.",
+          "who": "check"
+        }
+      ]
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "country": "Latvia",
+      "countryCode": "LV",
+      "title": "Latvia kept a separate national noise-declaration copy",
+      "topic": "Outdoor equipment and reporting",
+      "baseAct": "Directive 2000/14/EC",
+      "amendingAct": "Directive (EU) 2024/2839",
+      "celex": "32024L2839",
+      "updateType": "Amendment",
+      "recordKind": "lead",
+      "catalogueStatus": "review",
+      "researchRound": "systematic25",
+      "stage": "research",
+      "statusKind": "differs",
+      "statusLabel": "Residual national copy duty; legal significance under review",
+      "evidenceDate": "2026-10-26",
+      "evidenceLabel": "Current national law independently read",
+      "deadline": "2025-11-29",
+      "deadlineLabel": "EU application date; adoption/publication due 28 November 2025",
+      "summary": "The Commission-copy clause was deleted, while a copy to the national consumer-protection authority remains.",
+      "euChange": "Delete the routine declaration-copy provision.",
+      "nationalGap": "Current point 39 requires manufacturers or representatives to send PTAC a declaration copy. Point 40 is expressly deleted. Regulation 679/2025 removed only point 40 and added the EU amendment reference.",
+      "nationalLaw": "Cabinet Regulation 163/2002, current version from 29 November 2025",
+      "provisions": "National points 13, 37–41; amender 679/2025 points 1.6, 1.8, 2; EU Articles 2(1), 5(1).",
+      "consequence": "Possibly. A national submission duty remains on paper. Whether it is permissible as a separate national rule, and whether it creates an actual filing burden, require further review.",
+      "resolution": "The current official text retains point 39. Its amendment-history list contains no later change after 679/2025.",
+      "caveat": "Retention, accompanying declarations and lawful surveillance remain separate. A deliberate national rule or EU-consistent interpretation may affect the comparison. The clause states no advance-submission deadline; no premarket condition, automatic fine or actual filing burden is inferred. The 2025 project was located, but its explanatory memorandum was not retrieved.",
+      "comparison": {
+        "beforeLabel": "Current national text",
+        "before": "Declaration copy to PTAC still required.",
+        "afterLabel": "EU simplification",
+        "after": "Routine-copy provision deleted.",
+        "note": "The national and Commission copy clauses were separate."
+      },
+      "review": "Two researchers independently reviewed the current text, authentic amender and adverse scope. The lead also read current points 37–41 and the authentic repeal of point 40. Official open-ended version and amendment list support currentness. Deliberate national design, legal equivalence and practical enforcement remain qualified.",
+      "priorRecognition": "not-located",
+      "recognizedBy": [],
+      "recognitionNote": "The government enacted and notified the reporting amendment. No published analysis identifying the precise surviving point 39 as an implementation mismatch was found in bounded official and public searches; no first-discovery claim.",
+      "noveltySearch": {
+        "date": "2026-10-26",
+        "method": "Bounded searches of exact national identifiers, point 39, the EU amendment and Latvian reporting/error terms across official sources and public commentary. Current legal texts and the adopted government project were located; no exact published mismatch analysis was found. Explanatory-memorandum access remains incomplete.",
+        "queries": [
+          "\"163\" \"2024/2839\" \"Patērētāju\"",
+          "\"2024/2839\" \"39. punktu\"",
+          "\"679\" \"trokšņa emisiju\" anotācija 2025",
+          "\"2024/2839\" \"deklarācijas kopiju\" Latvija"
+        ]
+      },
+      "sources": [
+        {
+          "title": "EU reporting simplification",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/lav",
+          "role": "EU amendment",
+          "locator": "Articles 2(1), 5(1)."
+        },
+        {
+          "title": "Current Latvian noise regulation",
+          "url": "https://m.likumi.lv/ta/id/61592-noteikumi-par-troksna-emisiju-no-iekartam-kuras-izmanto-arpus-telpam",
+          "role": "Current national rule",
+          "locator": "Points 13, 37–41 and EU reference; official in-force version from 29 November 2025 with no end."
+        },
+        {
+          "title": "Authentic Latvian partial repeal",
+          "url": "https://www.vestnesis.lv/op/2025/225.17",
+          "role": "Enacted national change",
+          "locator": "Regulation 679/2025 points 1.6, 1.8 and 2; published 21 November 2025."
+        },
+        {
+          "title": "Official amendment-history list",
+          "url": "https://m.likumi.lv/saistitie.php?id=61592&saistitie_id=468",
+          "role": "Later-law check",
+          "locator": "Six amendments; latest 679/2025."
+        },
+        {
+          "title": "Current EU noise framework",
+          "url": "https://eur-lex.europa.eu/eli/dir/2000/14/2026-05-30/eng",
+          "role": "Adverse-scope check",
+          "locator": "Articles 1, 6, 9, 17; Article 16 deleted."
+        }
+      ],
+      "timeline": [
+        {
+          "date": "2024-10-23",
+          "who": "eu",
+          "event": "EU adopted reporting simplification."
+        },
+        {
+          "date": "2025-11-19",
+          "who": "national",
+          "event": "Cabinet adopted the partial repeal."
+        },
+        {
+          "date": "2025-11-21",
+          "who": "national",
+          "event": "Regulation 679/2025 published."
+        },
+        {
+          "date": "2025-11-29",
+          "who": "national",
+          "event": "Point 40 deletion applied; point 39 remained."
+        },
+        {
+          "date": "2026-10-26",
+          "who": "check",
+          "event": "Current national clauses and later-law indications independently checked."
+        }
+      ],
+      "statusDetail": null,
+      "baseActPublished": "2000-07-03",
+      "correctionDate": null
+    }
+  ],
+  "previousFields": [
+    {
+      "id": "si-posted-worker-expenses",
+      "previousValues": {
+        "catalogueStatus": "open",
+        "caveat": "This is a scoped list omission and Commission concern, not a court finding. Other laws, collective agreements and practice were not fully audited. Longer postings receive broader rights after 12 months (18 after a motivated extension) under Article 210(6)–(7). No claim is made that every posted worker lacks these rights.",
+        "consequence": "Yes, on paper. Slovenia’s core list for workers posted into the country leaves out accommodation and expenses, which the EU now requires to be treated equally where local workers have such entitlements. Other laws, collective agreements and practice were not fully audited, and we do not claim that posted workers lack these rights.",
+        "evidenceDate": "2024-04-30",
+        "nationalGap": "The Commission identified inbound coverage gaps. Official ZDR-1 Article 210(2) omits accommodation and expense reimbursement from the core list, while Article 130(1) gives ordinary employees expense rights. The 2023 cross-border-services act lists both heads for outbound postings but refers inbound employers to ZDR-1.",
+        "recordKind": "finding",
+        "review": "Two agents checked the 2026 official-hosted unofficial consolidations and the March 2026 amendment, including the inbound omission, outbound provisions and longer-posting exception. No complete cross-statute audit was performed.",
+        "sources": [
+          {
+            "title": "Directive 2018/957: Article 1(2)(a)",
+            "url": "https://eur-lex.europa.eu/eli/dir/2018/957/oj/eng",
+            "role": "EU amendment",
+            "locator": "Article 1(2)(a), revised Article 3(1)(h)–(i); Article 3(1) deadline"
+          },
+          {
+            "title": "Commission assessment SWD(2024)320, section 3.1.1.4.4",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52024SC0320",
+            "role": "Commission implementation observation",
+            "locator": "Section 3.1.1.4.4, accommodation and reimbursement; Slovenia"
+          },
+          {
+            "title": "Official-hosted ZDR-1 unofficial consolidation",
+            "url": "https://pisrs.si/api/datoteke/integracije/358535676",
+            "role": "National law",
+            "locator": "NPB14, applies 1 January 2026; PDF pp. 84–85, Article 210(2), (6)–(7); Articles 130, 139"
+          },
+          {
+            "title": "ZČmIS-1 original publication: Articles 6(3) and 16(12)",
+            "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2023-01-1126",
+            "role": "National implementation law",
+            "locator": "Articles 6(3) and 16(12); published 3 April 2023"
+          },
+          {
+            "title": "Official-hosted current ZČmIS-1 unofficial consolidation",
+            "url": "https://pisrs.si/api/datoteke/integracije/486890556",
+            "role": "Current national framework",
+            "locator": "NPB2, applies 21 March 2026; PDF p. 7 Article 6(3), p. 16 Article 16(12)"
+          }
+        ],
+        "statusDetail": "The Commission raised concerns in 2024; the core list omits two items",
+        "statusKind": "differs",
+        "timeline": [
+          {
+            "date": "2018-06-28",
+            "event": "Amending directive adopted, adding the two core heads.",
+            "who": "eu"
+          },
+          {
+            "date": "2020-07-30",
+            "event": "General transposition/application deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2023-04-03",
+            "event": "ZČmIS-1 published with outbound rights in Article 6(3) and inbound cross-reference in Article 16(12).",
+            "who": "national"
+          },
+          {
+            "date": "2024-04-30",
+            "event": "Commission staff assessment identifies Slovenia’s inbound gaps.",
+            "who": "commission"
+          },
+          {
+            "date": "2026-01-01",
+            "event": "Effective date of the official consolidation inspected; Article 210(2) still lacks the two explicit heads.",
+            "who": "national"
+          },
+          {
+            "date": "2026-03-21",
+            "event": "Latest ZČmIS-1 consolidation applies; outbound list and inbound cross-reference remain. The March amendment concerns transport/A1 conditions.",
+            "who": "national"
+          }
+        ]
+      },
+      "addedFields": [
+        "evidenceLabel"
+      ]
+    },
+    {
+      "id": "be-jam-fruit-content",
+      "previousValues": {
+        "evidenceDate": "2026-10-01",
+        "nationalGap": "The 2004 decree used general minima of 350 g/kg for ordinary jam and 450 g/kg for extra jam. The Economy Ministry said its replacement remained forthcoming on 3 June 2026; a written ministerial answer on 8 July confirmed a delay involving national fruit-spread rules and the EU technical-notification process.",
+        "review": "Two agents checked the original national minima, government acknowledgment, written ministerial answer, EU thresholds, deadlines and stock transition. A later-remedy search located the draft but did not establish subsequent enactment; that uncertainty is preserved.",
+        "sources": [
+          {
+            "title": "EU amendment: new jam minima and dates",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32024L1438",
+            "role": "EU amendment",
+            "locator": "Article 3(4); Annex II(1)(a),PDF p.  18; Articles 5–6"
+          },
+          {
+            "title": "Current official Belgian jam standards",
+            "url": "https://www.ejustice.just.fgov.be/eli/arrete/2004/03/19/2004011150/justel",
+            "role": "Current national text",
+            "locator": "Article 1 §2(1)(a), (2)(a): 350 g / 450 g general minima; checked 25 October 2026"
+          },
+          {
+            "title": "Original Belgian decree reproduced by FAOLEX",
+            "url": "https://faolex.fao.org/docs/pdf/bel45646.pdf",
+            "role": "Original national legal text",
+            "locator": "Article 1§2(1)(a),(2)(a); PDF p.  1"
+          },
+          {
+            "title": "Belgian Economy Ministry: fourth decree pending",
+            "url": "https://news.economie.fgov.be/266258-un-nouvel-etiquetage-pour-un-dejeuner-plus-sain/",
+            "role": "Official government acknowledgment",
+            "locator": "3 June 2026; introductory fourth-decree paragraph and Confiture section"
+          },
+          {
+            "title": "Written ministerial answer explains jam-decree delay",
+            "url": "https://www.dekamer.be/doc/CCRI/html/56/ic417x.html",
+            "role": "Official parliamentary answer",
+            "locator": "8 July 2026 committee record; written question 34, 56017265C; answer on TRIS and publication"
+          },
+          {
+            "title": "Belgian replacement draft in official EU TRIS",
+            "url": "https://technical-regulation-information-system.ec.europa.eu/sv/notification/27565/text/D/FR",
+            "role": "Draft, not enacted law",
+            "locator": "Article 2§2(1)(a),(2)(a),PDF p.  4; blank enactment fields"
+          },
+          {
+            "title": "Commission October 2026 reasoned opinion",
+            "url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+            "role": "Latest official enforcement concern",
+            "locator": "Section 10 Agriculture; INFR(2026)0014; no notified Article 3/Annex II measures"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2024-05-14",
+            "event": "EU adopted the breakfast-food amendment including higher jam fruit minima.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-12-14",
+            "event": "Deadline to adopt and publish national implementing measures.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-06-03",
+            "event": "Economy Ministry said the jam decree remained forthcoming and its fruit-content change would apply later.",
+            "who": "national"
+          },
+          {
+            "date": "2026-06-14",
+            "event": "EU required application of implementing measures; transition protects earlier marketed or labelled stock.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-07-08",
+            "event": "Minister explained that national fruit-spread provisions and the TRIS process delayed the jam decree.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-01",
+            "event": "Commission issued a reasoned opinion concerning incomplete jam-rule notification.",
+            "who": "commission"
+          }
+        ]
+      },
+      "addedFields": [
+        "evidenceLabel"
+      ]
+    },
+    {
+      "id": "lv-psd2-corrigendum-optout",
+      "previousValues": {
+        "evidenceDate": "2026-10-25",
+        "review": "Two agents independently checked authentic Latvian EU correction and current official national text; the official current-version header, omitted number and Article 99¹ liability content passed. Original 2018 Gazette point 68 independently confirms insertion of Article 99¹. Targeted searches found no exact official acknowledgment; a qualified legal-review lead, not an infringement finding.",
+        "sources": [
+          {
+            "title": "EU correction: Article 61(1)",
+            "url": "https://eur-lex.europa.eu/legal-content/LV/TXT/PDF/?uri=CELEX%3A32015L2366R%2805%29",
+            "role": "EU correction",
+            "locator": "OJ L 102 (2018), pp.97–98"
+          },
+          {
+            "title": "Official current Latvian payment-services law",
+            "url": "https://likumi.lv/ta/id/206634-maksajumu-pakalpojumu-un-elektroniskas-naudas-likums",
+            "role": "Current national law",
+            "locator": "Articles 76 and 99¹; current indexed text"
+          },
+          {
+            "title": "Original Latvian Gazette insertion of payment-initiation liability",
+            "url": "https://www.vestnesis.lv/op/2018/132.13",
+            "role": "National enactment",
+            "locator": "Amending law of 20 June 2018, point 68 inserts Article 99¹"
+          },
+          {
+            "title": "PSD2 scope and harmonisation",
+            "url": "https://eur-lex.europa.eu/eli/dir/2015/2366/oj?locale=lv",
+            "role": "Scope qualification",
+            "locator": "Articles 61(1), 90 and 107(1); read with correction"
+          }
+        ],
+        "timeline": [
+          {
+            "date": "2018-04-23",
+            "event": "EU correction published.",
+            "who": "eu"
+          },
+          {
+            "date": "2018-06-20",
+            "event": "Latvian amendment inserts the separate payment-initiation Article 99¹.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "Two agents checked the current official version from 1 April 2026; Article 76 still omits Article 99¹.",
+            "who": "check"
+          }
+        ]
+      },
+      "addedFields": []
+    },
+    {
+      "id": "fr-listing-research-payment-cap",
+      "previousValues": {
+        "caveat": "A legislative-text mismatch, not a finding that any payment is unlawful. MiFID II Article 24(12) permits exceptional, justified additional national requirements subject to notification; no notification retaining this cap was located. General inducement rules, directive-consistent interpretation and supervisory practice may affect the result.",
+        "comparison": {
+          "beforeLabel": "Current French safe harbour",
+          "before": "Research on companies worth at most €1 billion over the previous 36 months.",
+          "afterLabel": "Revised EU framework",
+          "after": "No company-size cap; joint payments keep their policy, disclosure and assessment conditions.",
+          "note": "Statutory catch-up remains necessary; practical exclusion of joint payments is not established."
+        },
+        "consequence": "Yes, on paper. French law has not caught up with the EU’s wider choice of payment methods. This does not mean firms are prevented from using joint payments: the regulator (AMF) itself describes that option as available from June 2026.",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Live national law and regulator position checked",
+        "nationalGap": "Code monétaire et financier Article L533-12-4-1 I(3°), current since 28 February 2022, retains the €1 billion/36-month condition. Its safe-harbour conditions have not been replaced with the revised payment-policy framework. Current AMF Article 314-22 also retains the older own-funds/research-account routes.",
+        "recognitionNote": "Government impact assessment for bill 118 (2025–2026), printed page 118, identifies legislation on financial-research treatment as needing amendment. The current AMF explanation also acknowledges that national implementation measures are required. This is a recognised implementation matter.",
+        "recognizedBy": [
+          "French government",
+          "Autorité des marchés financiers"
+        ],
+        "review": "Two agents independently checked the national cap and revised EU provision. A third directly verified live Legifrance dated 25 October 2026. Adverse checks covered current AMF rules, its statement that joint payments are available, and Article 24(12). No practical prohibition or harm is claimed. Final independent review passed, including the practical-relief qualifications.",
+        "sources": [
+          {
+            "title": "Listing Act amendment",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/2811/oj",
+            "role": "EU amendment",
+            "locator": "Article 1(2)(b), revised 24(9a); Article 3(1)"
+          },
+          {
+            "title": "Current French research-payment safe harbour",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044502777",
+            "role": "Current national law",
+            "locator": "L533-12-4-1 I(3°); live 25 October 2026"
+          },
+          {
+            "title": "AMF research-payment and implementation explanation",
+            "url": "https://www.amf-france.org/fr/actualites-publications/dossiers-thematiques/listing-act",
+            "role": "Regulator acknowledgment and practical qualification",
+            "locator": "Les modifications des dispositions de MiFID 2 concernant la recherche"
+          },
+          {
+            "title": "Current AMF general regulation",
+            "url": "https://www.amf-france.org/fr/eli",
+            "role": "Additional national rule check",
+            "locator": "11 September 2026 version; Article 314-22"
+          },
+          {
+            "title": "Government impact assessment for bill 118",
+            "url": "https://www.senat.fr/leg/etudes-impact/pjl25-118-ei/pjl25-118-ei.pdf",
+            "role": "Government acknowledgment",
+            "locator": "Printed page 118 (PDF page 117); Article 6"
+          },
+          {
+            "title": "Pending implementation legislative dossier",
+            "url": "https://www.senat.fr/dossier-legislatif/pjl25-118.html",
+            "role": "Pending legislation check",
+            "locator": "Updated 4 September 2026; Assembly first reading"
+          },
+          {
+            "title": "MiFID II national-additions qualification",
+            "url": "https://eur-lex.europa.eu/eli/dir/2014/65/oj",
+            "role": "Scope qualification",
+            "locator": "Article 24(12)"
+          }
+        ],
+        "statusDetail": "The regulator says national measures are still needed",
+        "statusKind": "behind",
+        "statusLabel": "Current statutory mismatch · recognised implementation work",
+        "summary": "French law still limits the exemption that lets firms pay for research and trade execution together to research on companies worth at most €1 billion over the previous 36 months. The regulator (AMF) says national measures are still needed.",
+        "timeline": [
+          {
+            "date": "2022-02-28",
+            "event": "The present French joint-payment safe harbour takes effect.",
+            "who": "national"
+          },
+          {
+            "date": "2024-10-23",
+            "event": "The EU adopts the Listing Act amendment.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-11-07",
+            "event": "Government impact assessment identifies financial-research legislation needing amendment.",
+            "who": "national"
+          },
+          {
+            "date": "2026-06-05",
+            "event": "Deadline for national implementation.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "Live French text retains the issuer cap; AMF says national measures are needed.",
+            "who": "check"
+          }
+        ],
+        "title": "Research payments: old €1 billion issuer cap still in French law"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "fr-mifid-systematic-internaliser-definition",
+      "previousValues": {
+        "consequence": "Yes, on paper. French wording has not caught up with the revised EU definition. A continuing burden on firms has not been established: the European securities regulator (ESMA) says they are relieved of the fixed test.",
+        "statusDetail": "Bill pending; supervisors already relieve firms of the fixed test",
+        "statusKind": "draft",
+        "summary": "French law still defines these firms using fixed trade-count and volume tests, with no limit to equity products. A pending bill would replace the definition, and European supervisory guidance already relieves firms of the fixed tests."
+      },
+      "addedFields": []
+    },
+    {
+      "id": "es-payment-system-access-nonbanks",
+      "previousValues": {
+        "consequence": "Yes, on paper. Spanish statutes keep narrower eligibility and an express exception from the general direct-access safeguards. This does not mean all direct access is unavailable: TARGET rules allow non-banks to be admitted at discretion, and Spanish law separately protects indirect access through a participant.",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Current national law and official implementation concerns checked",
+        "nationalGap": "Law 41/1999 Article 2(c)(2°) omits the new non-bank categories. Separately, Royal Decree-law 19/2018 Article 8(2)(a) still exempts designated systems from its general access safeguards. The July bill proposes both changes. The current BOE texts retain both provisions.",
+        "review": "Two agents independently read both current national statutes and the authentic EU changes. They checked the Commission opinion, proposed remedy, and 2025/2026 TARGET rules. Independent challenge identified TARGET admission and existing indirect-access safeguards; both are preserved, with no inferred refusal or harm.",
+        "sources": [
+          {
+            "title": "Instant Payments Regulation: amendments to two directives",
+            "url": "https://eur-lex.europa.eu/eli/reg/2024/886/oj",
+            "role": "EU amendment and deadline",
+            "locator": "Article 3(2)(a), revised PSD2 Article 35(2); Article 4(1), revised Settlement Finality Directive Article 2(b); Article 5"
+          },
+          {
+            "title": "Current Spanish payment-system law",
+            "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-21980#a2",
+            "role": "Current national law",
+            "locator": "Article 2(c)(2°); latest consolidation update 18 March 2023"
+          },
+          {
+            "title": "Current Spanish access safeguards and designated-system exception",
+            "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16036#ar-8",
+            "role": "Current national law",
+            "locator": "Article 8(1), 8(2)(a), and existing indirect-access safeguards at the end of 8(2)"
+          },
+          {
+            "title": "Commission reasoned opinion concerning Spain",
+            "url": "https://spain.representation.ec.europa.eu/noticias-eventos/noticias-0/paquete-de-procedimientos-de-infraccion-de-junio-principales-decisiones-para-espana-2026-06-04_es",
+            "role": "Recognised infringement",
+            "locator": "Financial services; INFR(2025)2140; reasoned opinion, 4 June 2026"
+          },
+          {
+            "title": "Government bill proposing the national eligibility correction",
+            "url": "https://www.congreso.es/es/busqueda-de-publicaciones?_publicaciones_id_texto=%28BOCG-15-A-106-1.CODI.%29&_publicaciones_legislatura=XV&_publicaciones_mode=mostrarTextoIntegro&_publicaciones_template=PUWTZDTS.fmt&p_p_id=publicaciones&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+            "role": "Proposed remedy, not enacted law",
+            "locator": "27 July 2026; Article 2(1), pages 14–15, and Article 15(2), page 116; initiative 121/000105"
+          },
+          {
+            "title": "Dissolution of Congress in October 2026",
+            "url": "https://www.boe.es/eli/es/rd/2026/10/05/806/dof/spa/pdf",
+            "role": "Later legislative-status qualification",
+            "locator": "Article 1; publication 6 October 2026"
+          },
+          {
+            "title": "TARGET conditions: non-bank admission and express legislative-gap acknowledgement",
+            "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19591",
+            "role": "Practical-effect qualification and national recognition",
+            "locator": "Preamble; First(2), Article 4(2)(d bis); First(3), Article 5 safeguards; applies 6 October 2025"
+          },
+          {
+            "title": "May 2026 TARGET amendment",
+            "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-12414",
+            "role": "Later TARGET rules check",
+            "locator": "First(1) changes Article 4(1); Article 4(2) non-bank route remains"
+          }
+        ],
+        "statusDetail": "Commission reasoned opinion, June 2026",
+        "statusKind": "official",
+        "timeline": [
+          {
+            "date": "2024-03-13",
+            "event": "The EU adopts the payment-system eligibility expansion.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-04-09",
+            "event": "National implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-10-06",
+            "event": "Revised TARGET conditions permit discretionary non-bank admission, subject to safeguards.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-06-04",
+            "event": "Commission issues a reasoned opinion to Spain.",
+            "who": "commission"
+          },
+          {
+            "date": "2026-07-27",
+            "event": "Government bill proposing the precise eligibility amendment is published.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-06",
+            "event": "Congress is dissolved; the proposal is not an enacted correction.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "The current BOE definition and later-status sources were checked.",
+            "who": "check"
+          }
+        ]
+      },
+      "addedFields": []
+    },
+    {
+      "id": "fr-repair-warranty-extension",
+      "previousValues": {
+        "caveat": "Focus this comparison on contracts concluded after 31 July 2026 and goods actually repaired. The EU alternative for systems without a fixed liability period does not obviously fit France's express two-year period. Repair downtime, replacement rights, commercial guarantees and the separate hidden-defects remedy can provide additional protection; this is not a claim that every repaired product has only thirty months of coverage. The practical effect of consistent interpretation requires legal assessment.",
+        "comparison": {
+          "beforeLabel": "Current French repair extension",
+          "before": "Six months added after a repair.",
+          "afterLabel": "Revised EU extension",
+          "after": "Twelve months, once.",
+          "note": "New sales contracts from 31 July 2026; other remedies and downtime remain relevant."
+        },
+        "consequence": "Yes, on paper. The French extension after a repair is six months shorter than the EU one. Whether any consumer dispute or refused claim has resulted has not been established.",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Current official code and government explanation checked",
+        "nationalGap": "Article L217-13 continues to provide a six-month extension for goods repaired under the conformity warranty. The current official article, checked with a 25 October 2026 version header, has not been replaced with twelve months. Article L217-3 still makes the seller liable for defects appearing within two years of delivery. Service Public, updated 10 September 2026, expressly contrasts the forthcoming one-year extension with the existing six months and states that national transposition remains underway.",
+        "review": "Three agents checked the chain. One independently read the authentic EU amendment, transition and alternative-liability rule, French fixed liability period and exact government acknowledgment. Another read the current L217-13 in the live official code with a 25 October 2026 header. Separate hidden-defects remedies and repair downtime were considered; neither establishes a universal twelve-month extension.",
+        "sources": [
+          {
+            "title": "Repair directive: warranty amendment, transition and deadline",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/oj",
+            "role": "EU amendment",
+            "locator": "Article 16(2); Article 21; Article 22(1)"
+          },
+          {
+            "title": "Current French statutory repair extension",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142545",
+            "role": "National law",
+            "locator": "Article L217-13, first paragraph; live version at 25 October 2026"
+          },
+          {
+            "title": "Current conformity-warranty framework",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142579",
+            "role": "Alternative-liability adverse check",
+            "locator": "Article L217-3: defects appearing within two years of delivery"
+          },
+          {
+            "title": "Government acknowledges the extension awaits transposition",
+            "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19033",
+            "role": "Prior official recognition",
+            "locator": "Updated 10 September 2026; opening transposition paragraph and first warranty bullet"
+          },
+          {
+            "title": "DGCCRF explains repair downtime and separate warranty extensions",
+            "url": "https://www.economie.gouv.fr/files/files/directions_services/dgccrf/Faq/FAQ-garanties.pdf?v=1757056285",
+            "role": "Practical-effect adverse check",
+            "locator": "Printed p.9: six-month extension plus period of immobilisation"
+          }
+        ],
+        "statusDetail": "The government says the increase awaits transposition",
+        "statusKind": "behind",
+        "statusLabel": "Current statutory difference · government acknowledges pending transposition",
+        "summary": "French Consumer Code Article L217-13 still adds six months to the legal guarantee after a repair, where the EU now requires twelve. The government’s September explanation says the increase to one year awaits transposition.",
+        "timeline": [
+          {
+            "date": "2024-07-10",
+            "event": "Repair directive published.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-07-31",
+            "event": "National application deadline and cutoff for the sales-contract amendment.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-09-10",
+            "event": "Government explanation acknowledges six-month rule and pending increase.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-25",
+            "event": "Current official French six-month provision independently checked.",
+            "who": "check"
+          }
+        ],
+        "title": "Repair warranty: six extra months after repair, not twelve"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "fr-energy-sharing-legal-entity",
+      "previousValues": {
+        "consequence": "Yes, on paper. The collective-sharing route we identified still requires an organising legal entity. This does not show a general ban on private electricity transactions, a refused project or quantified harm.",
+        "review": "Three agents checked the chain. Independent adverse review identified the authorised direct-sale alternative and retained it. A third directly read the live current L315-2 and D315-9 dated 25 October 2026, confirming the legal-person requirement and the June 2026 amendment. Later entity-free routes and the difference between ordinary supply contracts and sharing safeguards were considered.",
+        "statusDetail": null,
+        "statusKind": "differs",
+        "statusLabel": "Current framework difference · legal review needed"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "lu-asbestos-company-permit-transition",
+      "previousValues": {
+        "consequence": "Yes, until 1 May 2027. The revised EU permit condition for companies starts later in national law. Whether any company, worksite or exposure outcome has been affected has not been established.",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Authentic final amendment and live current base regulation independently read",
+        "nationalGap": "Article 14 of the 19 May 2026 regulation replaces Article 11ter with a company-permit system, but Article 25 defers that change until 1 May 2027. The inspectorate confirms this transition. The Council of State had expressly objected that delaying this provision missed the EU deadline.",
+        "review": "Two researchers independently checked the EU duty/deadline, inspectorate transition and Council of State objection, and challenged old worksite-visa equivalence. A third read authentic final Articles 14 and 25 and the live principal regulation’s current version and future chronology. The permit and public-list amendment remains scheduled for 1 May 2027; current Article 11ter still concerns evidence before the worksite visa. Qualified PASS; no absence of existing safety controls asserted.",
+        "sources": [
+          {
+            "title": "Asbestos-protection amendment",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2668",
+            "role": "EU amendment and deadline",
+            "locator": "Article 1(13), new Article 15; Article 2(1)–(2)"
+          },
+          {
+            "title": "Authentic 2026 asbestos amendment",
+            "url": "https://legilux.public.lu/eli/etat/leg/rgd/2026/05/19/a246/jo",
+            "role": "National law",
+            "locator": "Article 14 (new Article 11ter), Article 25; publication 20 May 2026; independently read live"
+          },
+          {
+            "title": "Current applicable asbestos regulation and future chronology",
+            "url": "https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520",
+            "role": "Current national version and later-amendment check",
+            "locator": "Current version from 20 May 2026; Articles 11(3), 11ter; future permit version 1 May 2027, chronology checked live 25 October 2026"
+          },
+          {
+            "title": "Inspectorate explains the company-permit transition",
+            "url": "https://itm.public.lu/fr/actualites/conferences/2026/08/amiante.html",
+            "role": "Current official implementation position",
+            "locator": "13 August 2026, updated 14 August; section 1, transitional period"
+          },
+          {
+            "title": "Council of State objection to late commencement",
+            "url": "https://conseil-etat.public.lu/content/dam/conseil_etat/fr/avis/2026/20012026/62316-avis-du-20-janvier-2026.pdf",
+            "role": "Prior official recognition",
+            "locator": "Opinion 62.316, Article 25, pp.4–5"
+          },
+          {
+            "title": "Older coordinated asbestos rules and worksite visa",
+            "url": "https://itm.public.lu/dam-assets/fr/legislations/securite/conditions-types/7017-1.pdf",
+            "role": "Adverse check: existing safeguards",
+            "locator": "Articles 11(3), 11bis, 11ter; PDF pp.5–7 (July 2012 coordination, historical text)"
+          }
+        ],
+        "statusDetail": "The Council of State objected that the delay misses the EU deadline",
+        "statusKind": "postponed",
+        "timeline": [
+          {
+            "date": "2023-11-30",
+            "event": "EU amendment published.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-12-21",
+            "event": "Implementation deadline for permits.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-01-20",
+            "event": "Council of State objects to delayed commencement.",
+            "who": "national"
+          },
+          {
+            "date": "2026-05-20",
+            "event": "National amendment published.",
+            "who": "national"
+          },
+          {
+            "date": "2026-08-13",
+            "event": "Inspectorate confirms transition.",
+            "who": "national"
+          },
+          {
+            "date": "2027-05-01",
+            "event": "National company-permit requirement scheduled to start.",
+            "who": "national"
+          }
+        ]
+      },
+      "addedFields": []
+    },
+    {
+      "id": "ie-renewable-eia-scoping-deferral",
+      "previousValues": {
+        "caveat": "This does not concern the separate two-year or one-year permit-decision limits, which the 2025 instrument also introduced. EIA, habitat assessment, optional scoping and existing information duties continue. The focus is the specified guarantee for relevant projects outside acceleration areas. EU-derived enforceability and conforming interpretation need separate assessment; the deferral does not determine every applicant’s rights.",
+        "comparison": {
+          "beforeLabel": "Current national position",
+          "before": "Scoping is optional; the mandatory process and scope limit are postponed to 1 November 2026.",
+          "afterLabel": "EU requirement",
+          "after": "A scoping opinion whose scope cannot later expand.",
+          "note": "Scheduled commencement is not treated as completed implementation."
+        },
+        "consequence": "Yes, until 1 November 2026. The national rules making scoping mandatory and fixing its scope were still postponed on the date we checked. Whether any project, expanded information request or delay has resulted has not been established.",
+        "evidenceDate": "2026-10-25",
+        "evidenceLabel": "Authentic instruments and current planning-agency guide checked",
+        "nationalGap": "SI 274/2025 regulations 6,12,14 and 18 introduce the renewable-project scoping guarantees into the Planning and Development Act 2000. SI 185/2026 regulation 2 expressly postpones their commencement to 1 November 2026. SI 323/2026 also postpones its related mandatory-request amendment. The current planning-agency guide and Law Reform Commission annotations confirm that future start.",
+        "review": "Two agents independently checked the authentic instruments, current official annotations, planning guidance, the EU deadline and the alternative 2024 Act. The latter also uses a request-led process and preserves further-information powers. The separate permit-decision deadlines were distinguished from the deferred scoping rules. Scheduled commencement must be rechecked on 1 November 2026.",
+        "sources": [
+          {
+            "title": "REDIII scoping safeguard and staged deadline",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2413",
+            "role": "EU amendment",
+            "locator": "Article 1(7), inserted 16b(2); Article 5(1) second subparagraph"
+          },
+          {
+            "title": "Enacted scoping amendments",
+            "url": "https://www.irishstatutebook.ie/eli/2025/si/274/made/en/pdf",
+            "role": "National implementing instrument",
+            "locator": "Regulations 6,12,14,18,38"
+          },
+          {
+            "title": "Latest express commencement deferral",
+            "url": "https://www.irishstatutebook.ie/eli/2026/si/185/made/en/pdf",
+            "role": "National operative commencement rule",
+            "locator": "Regulation 2; signed 29 April 2026"
+          },
+          {
+            "title": "Later amendment retains the November start",
+            "url": "https://www.irishstatutebook.ie/eli/2026/si/323/made/en/pdf",
+            "role": "Adverse later-law check",
+            "locator": "Regulations 2 and 3(b); signed 9 July 2026"
+          },
+          {
+            "title": "Current revised-law annotations flag future commencement",
+            "url": "https://revisedacts.lawreform.ie/eli/2000/act/30/section/173/revised/en/html",
+            "role": "Current official consolidated-law check",
+            "locator": "F 728,F 729,C 253; prospective affecting provisions 1 November 2026"
+          },
+          {
+            "title": "Planning agency explains when mandatory scoping begins",
+            "url": "https://www.pleanala.ie/en-ie/renewable-energy-directive-iii-%281%29/renewable-energy-directive-%28red%29-iii-eia-scoping-g",
+            "role": "Current official implementation guidance and prior recognition",
+            "locator": "About this Guide and Introduction;1 November 2026"
+          },
+          {
+            "title": "Government announces the exact postponement",
+            "url": "https://www.gov.ie/en/department-of-housing-local-government-and-heritage/circulars/european-union-planning-and-development-renewable-energy-amendment-regulations-2026-circular-cepp-22026/",
+            "role": "Government prior recognition",
+            "locator": "CEPP 2/2026,30 April 2026; use instrument date, not erroneous site metadata"
+          },
+          {
+            "title": "Alternative 2024 Act remains request-led",
+            "url": "https://www.irishstatutebook.ie/eli/2024/act/34/section/233/enacted/en/html",
+            "role": "Adverse alternative-framework check",
+            "locator": "Section 233(1),(3),(5),(8); enactment is not evidence of commencement"
+          }
+        ],
+        "summary": "Ireland enacted mandatory scoping of environmental impact assessments and a limit on expanding the agreed scope later, then postponed both twice. The latest start date is 1 November 2026. Existing assessment and optional scoping procedures continue.",
+        "timeline": [
+          {
+            "date": "2024-07-01",
+            "event": "Relevant EU implementation deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-08-06",
+            "event": "Ireland makes the implementing scoping amendments with an October start.",
+            "who": "national"
+          },
+          {
+            "date": "2025-09-24",
+            "event": "SI 435/2025 moves the start to 1 May 2026.",
+            "who": "national"
+          },
+          {
+            "date": "2026-04-29",
+            "event": "SI 185/2026 postpones commencement again, to 1 November 2026.",
+            "who": "national"
+          },
+          {
+            "date": "2026-07-09",
+            "event": "Later related amendment preserves the November start.",
+            "who": "national"
+          },
+          {
+            "date": "2026-11-01",
+            "event": "Enacted scoping rules scheduled to start.",
+            "who": "national"
+          }
+        ],
+        "title": "Renewable projects: mandatory scoping safeguards postponed until November"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "pt-electricity-complaint-protection-scope",
+      "previousValues": {
+        "consequence": "Yes, on paper. The provisions we compared do not expressly state the whole safeguard, which in the EU rule also covers termination and disconnection. Portuguese law already limits termination and provides complaint and arbitration routes, and no actual termination, disconnection or consumer loss has been established.",
+        "statusDetail": null,
+        "statusKind": "differs"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "be-single-permit-unemployment-period",
+      "previousValues": {
+        "summary": "Belgium’s statute still ends residence 90 days after work authorisation ends, with no express longer period based on how long someone has held the permit.",
+        "title": "Single permit: residence still ends after 90 days without work authorisation"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "se-single-permit-unemployment-period",
+      "previousValues": {
+        "title": "Single permit: job-search period still three months"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "nl-slapp-third-country-jurisdiction",
+      "previousValues": {
+        "caveat": "The government considers existing law sufficient: public participation from a Dutch home or reputational loss there may establish jurisdiction. Article 9 supplies exceptional fallback grounds. Conforming interpretation may assist future cases. The Amsterdam court accepted jurisdiction in Greenpeace’s case under existing law; its foreign proceedings began in 2017/2019, so the directive was not applicable there. That judgment did not decide every future post-directive case. Pre-existing international agreements remain protected by EU Article 18. The January 2026 Dutch costs corrigendum is a separate issue and is not the alleged source of this jurisdiction gap.",
+        "comparison": {
+          "beforeLabel": "Current general forum",
+          "before": "A harmful event in the Netherlands; extra connections needed for purely financial loss.",
+          "afterLabel": "New EU special forum",
+          "after": "The target’s home court, for compensation claims against qualifying third-country SLAPPs.",
+          "note": "Domestic interpretation may cover many cases; whether it guarantees the complete new category remains contested."
+        },
+        "consequence": "Possibly. In some financial-loss cases the Dutch forum still depends on connections beyond the target’s domicile. The government considers existing law sufficient, and the Amsterdam court accepted jurisdiction in an older case under existing law, so this is a contested assessment of coverage, not a finding that Dutch targets lack a court.",
+        "nationalGap": "Current Rv 6(e) links tort jurisdiction to the harmful event in the Netherlands. Pure financial loss requires additional connecting circumstances. The July act left Article 6 unchanged. A proposed new 6(j) addressing this difference was withdrawn. The Ministry maintains that existing jurisdiction already suffices; the Amsterdam court and parliamentary amendment explanation identify a distinct EU domicile-based forum.",
+        "review": "Two agents independently checked the legal chain. The adverse review read EU Article 17, the final implementation act, parliamentary explanation and the Ministry’s contrary implementation table, and tested exceptional jurisdiction, conforming interpretation, pending proceedings and prior treaties. The coordinating researcher separately read the live current official Articles 6 and 9. No individual denial of access or binding infringement finding is claimed.",
+        "sources": [
+          {
+            "title": "Anti-SLAPP directive: special jurisdiction and deadline",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/1069/oj",
+            "role": "EU new safeguard",
+            "locator": "Article 17(1)–(2), Article 18, Article 22(1); recital 44"
+          },
+          {
+            "title": "Current official Dutch civil procedure code",
+            "url": "https://wetten.overheid.nl/BWBR0001827/",
+            "role": "Current national law",
+            "locator": "Live version valid from 14 July 2026; Articles 1, 6(e), 9; Article 6 ends at (i)"
+          },
+          {
+            "title": "Final Dutch anti-SLAPP implementation act",
+            "url": "https://zoek.officielebekendmakingen.nl/stb-2026-185.html",
+            "role": "Enacted implementation scope",
+            "locator": "Article I: 224a,237,353,414; no Article 6 amendment"
+          },
+          {
+            "title": "Implementation commencement",
+            "url": "https://zoek.officielebekendmakingen.nl/stb-2026-197.html",
+            "role": "Commencement",
+            "locator": "Published 13 July 2026; Article I, following-day commencement"
+          },
+          {
+            "title": "Ministry’s post-enactment implementation position",
+            "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26595.html",
+            "role": "Contrary official assessment",
+            "locator": "20 July 2026; transposition-table Article 17(1), relying on Rv 1/6(e)"
+          },
+          {
+            "title": "Proposed separate forum and explanation of the mismatch",
+            "url": "https://zoek.officielebekendmakingen.nl/kst-36731-11.html",
+            "role": "Prior recognition and proposed remedy",
+            "locator": "Received 29 June, published 2 July 2026; proposed Rv 6(j), explanation, notes 4–7"
+          },
+          {
+            "title": "Official record: jurisdiction amendment withdrawn",
+            "url": "https://www.tweedekamer.nl/kamerstukken/detail?did=2026D48041&id=2026D48041",
+            "role": "Adverse legislative outcome check",
+            "locator": "2 July 2026 votes; amendment 11 withdrawn; only amendment 8 adopted"
+          },
+          {
+            "title": "Amsterdam court explains the Greenpeace jurisdiction decision",
+            "url": "https://www.rechtspraak.nl/organisatie-en-contact/organisatie/rechtbanken/rechtbank-amsterdam/nieuws/2026/06/rechtbank-amsterdam-bevoegd-te-oordelen-over-zaak-greenpeace-tegen-pijpleidingbedrijven",
+            "role": "Judicial context and limits",
+            "locator": "3 June 2026; existing-law jurisdiction accepted; directive not yet applicable to the older foreign proceedings"
+          },
+          {
+            "title": "Government’s explanation of existing jurisdiction",
+            "url": "https://zoek.officielebekendmakingen.nl/kst-36731-3.html",
+            "role": "Adverse interpretation and existing protections",
+            "locator": "Section 3.5 under Article 17; pure financial loss and additional circumstances; consultation response"
+          }
+        ],
+        "summary": "The July implementation act added security and full costs, but no separate home-court forum for targets of abusive lawsuits brought outside the EU. General Dutch jurisdiction can already cover many cases; whether its extra connection requirements leave gaps is disputed.",
+        "timeline": [
+          {
+            "date": "2024-04-16",
+            "event": "New anti-SLAPP directive published.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-05-07",
+            "event": "Transposition deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-06-03",
+            "event": "Amsterdam court distinguishes the new special forum while accepting jurisdiction under existing law in Greenpeace’s older case.",
+            "who": "court"
+          },
+          {
+            "date": "2026-07-02",
+            "event": "Proposed specific jurisdiction amendment withdrawn.",
+            "who": "national"
+          },
+          {
+            "date": "2026-07-14",
+            "event": "Implementation act enters force without changing Article 6.",
+            "who": "national"
+          },
+          {
+            "date": "2026-07-20",
+            "event": "Ministry continues to identify existing general jurisdiction as sufficient.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current official code and competing legal assessments independently checked.",
+            "who": "check"
+          }
+        ],
+        "title": "Abusive lawsuits (SLAPPs): Dutch courts rely on general rules, not the new special forum"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "hu-bank-capital-leverage-trigger",
+      "previousValues": {
+        "caveat": "Supervisory decisions, guidance or EU-consistent interpretation may supply the correct outcome; no bank inadequacy is alleged. Hpt 186(10) allows higher proportions. The directly applicable CRR baseline leverage requirement is distinct from this Pillar-2 add-on. NJT’s separate subsection (8) drafting note concerns another provision. Actual leverage-related supervisory requirements remain unverified.",
+        "comparison": {
+          "beforeLabel": "Current Hungarian statute",
+          "before": "Entirely Tier 1 capital for every risk except excessive leverage.",
+          "afterLabel": "Corrected EU trigger",
+          "after": "Entirely Tier 1 capital for the risk of excessive leverage (borrowing too much).",
+          "note": "Supervisory discretion and actual practice require separate assessment."
+        },
+        "consequence": "Yes, on paper. Hungary’s law and the corrected EU rule say opposite things, so the national law does not yet match the EU rule. Whether any bank is affected in practice has not been established.",
+        "nationalGap": "It selects non-leverage risks. Subsection (9) supplies general capital proportions; (10) permits higher supervisory requirements.",
+        "resolution": "Nothing yet. The official Hungarian law was still unchanged on 26 October 2026.",
+        "review": "Independent primary-law and adverse checks passed. Current NJT and EU composition rules were checked, including later CRD VI. Actual supervisory decisions remain unaudited.",
+        "sources": [
+          {
+            "title": "Authentic Hungarian CRD corrigendum, 6 August 2026",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/878/corrigendum/2026-08-06/oj/hun/pdf",
+            "role": "EU correction",
+            "locator": "Sole correction: new Article 104a(4), second subparagraph; OJ 2026/90670"
+          },
+          {
+            "title": "Current official Hungarian banking statute",
+            "url": "https://njt.jog.gov.hu/jogszabaly/2013-237-00-00",
+            "role": "Current national law",
+            "locator": "Version 1 October–19 November 2026; Section 186(9)–(12), footnotes 605–606. Navigate to Section 186 to load its text."
+          },
+          {
+            "title": "Official 2025 amendment inserting the retained wording",
+            "url": "https://njt.jog.gov.hu/jogszabaly/2025-100-00-00.0",
+            "role": "National enactment",
+            "locator": "Section 192(1), inserting Hpt Section 186(9a)"
+          },
+          {
+            "title": "Official financial gazette reproducing the national amendment",
+            "url": "https://jog.gov.hu/files/AGAZATI_KOZLONY/PENZUGYI_KOZLONY/2026/1/PK_2026_001.pdf",
+            "role": "Independent official enactment check",
+            "locator": "Printed page 120, Section 192(1)"
+          },
+          {
+            "title": "CRD amendment: composition and higher supervisory requirements",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/878/2020-12-28/eng",
+            "role": "EU context and adverse check",
+            "locator": "Article 1(33), new Article 104a(4), all subparagraphs"
+          },
+          {
+            "title": "Official rationale for the 2025 national amendment",
+            "url": "https://njt.jog.gov.hu/jogszabaly/2025-100-K0-00.0",
+            "role": "Prior-recognition check",
+            "locator": "Explanation to Section 192: capital-quality clarification; does not identify this risk-trigger mismatch"
+          },
+          {
+            "title": "Current CRD composition after CRD VI",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A02013L0036-20260111",
+            "role": "Later EU amendment check",
+            "locator": "Current Article 104a(4), second subparagraph; CRD VI leaves paragraph (4) unchanged."
+          }
+        ],
+        "statusDetail": null,
+        "statusKind": "differs",
+        "summary": "On 6 August 2026 the EU corrected a wording error in the Hungarian version of a bank-capital rule. Hungary’s law, adopted in December 2025, uses the old wording and, when last checked on 26 October 2026, still says the opposite of the corrected rule.",
+        "timeline": [
+          {
+            "date": "2025-12",
+            "event": "Hungary adds the bank-capital clause at issue to its banking law (Act C of 2025, subsection 9a).",
+            "who": "national"
+          },
+          {
+            "date": "2026-08-06",
+            "event": "The EU corrects the Hungarian-language text of the directive.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "We check the current Hungarian law: still unchanged.",
+            "who": "check"
+          }
+        ],
+        "title": "Bank-capital rule: national law still has the wording the EU has corrected"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "fr-electricity-fixed-price-entitlement",
+      "previousValues": {
+        "comparison": {
+          "beforeLabel": "Current national obligations",
+          "before": "Dynamic-price offers from large suppliers and a one-year contract option, which does not have to be at a fixed price.",
+          "afterLabel": "EU requirement",
+          "after": "A right to a fixed-price contract.",
+          "note": "Commercial fixed-price offers already exist."
+        },
+        "consequence": "Yes, on paper. France has no statutory right to a fixed-price contract from large suppliers, which the EU now requires. Fixed-price offers already exist on the market and existing contracts are not affected; no refusal or customer loss has been investigated."
+      },
+      "addedFields": []
+    },
+    {
+      "id": "cz-financial-human-explanation-deferral",
+      "previousValues": {
+        "comparison": {
+          "beforeLabel": "Current national provision",
+          "before": "Concerns contract terms and communication channels; the human-explanation right is enacted but starts on 1 January 2027.",
+          "afterLabel": "EU requirement",
+          "after": "Human intervention when online tools are used.",
+          "note": "Compare the currently missing commencement, not a future interpretation dispute."
+        },
+        "summary": "Czechia enacted the specific right to a human explanation when online tools are used, but postponed it until January 2027.",
+        "title": "Online financial services: right to a human explanation starts only in 2027"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "previousValues": {
+        "consequence": "Yes, on paper. The national decree still requires the specified routine submission route. Whether it is being enforced has not been established.",
+        "statusDetail": "The government has consulted on implementing the reporting simplification.",
+        "statusKind": "draft",
+        "title": "A routine noise declaration copy still goes through the environmental authority"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "pt-romanian-nurse-upgrade-recognition",
+      "previousValues": {
+        "caveat": "General recognition, EU primacy, consistent interpretation and the professional order’s broad certificate-of-conformity procedure may protect individual applicants. The comparison concerns the missing express special route, not exclusion of all Romanian nurses. The proposal retains potentially significant practice-certificate wording and is not presented as a verified remedy.",
+        "comparison": {
+          "beforeLabel": "Current special provision",
+          "before": "Older Romanian qualifications plus a three-in-five-years practice certificate.",
+          "afterLabel": "EU-added route",
+          "after": "Specified upgrades without that certificate.",
+          "note": "Other recognition routes and individual outcomes remain separate."
+        },
+        "consequence": "Yes, on paper: the special statutory route still lacks the upgrade exception. EU law and the conformity-certificate procedure may nevertheless protect individual applicants; no actual refusal was established.",
+        "nationalGap": "Law 9/2009 Article 30(3) lists three older qualifications, each subject to three consecutive years of Romanian practice within five years. The upgraded-diploma and competence-revaluation routes are absent. The current official consolidation records its latest amendment in May 2021.",
+        "review": "Independent adverse review passed: current statute, professional-order procedure and alternative recognition routes checked by two researchers. Coordinating researcher independently read live DRE currentness at 26 October 2026; Article 30 last changed in 2017.",
+        "sources": [
+          {
+            "title": "EU nursing amendment",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/505/oj/eng",
+            "role": "EU amendment",
+            "locator": "Article 1(2), new Article 33a(2)(b)–(c); Article 2 deadline."
+          },
+          {
+            "title": "Current Portuguese professional-qualification law",
+            "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-107094734",
+            "role": "Current national text",
+            "locator": "Article 30(3), last amended in 2017; live version at 26 October 2026, latest statutory amendment 24 May 2021. General recognition in Articles 17/20."
+          },
+          {
+            "title": "Official legislative amendment register",
+            "url": "https://diariodarepublica.pt/dr/analise-juridica/modificacoes/lei/9-2009-604779",
+            "role": "Later-law check",
+            "locator": "Live current DRE version history lists 2021, 2017, 2014, 2012 and original 2009; no later Article 30 update located."
+          },
+          {
+            "title": "Government nursing-recognition proposal",
+            "url": "https://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa.aspx?BID=356612",
+            "role": "Official recognition and proposal status",
+            "locator": "Proposal 71/XVII/1; introduced 21 April 2026, general approval/committee referral 25 September 2026; linked original text Article 2, proposed Article 30."
+          },
+          {
+            "title": "Government consultation text",
+            "url": "https://bte.gep.mtsss.gov.pt/separatas/sep7_2026.pdf",
+            "role": "Proposed statutory wording",
+            "locator": "Proposed amendment to Article 30; proposal, not enacted law."
+          },
+          {
+            "title": "Current Nurses’ Statute",
+            "url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-70937797-898996117",
+            "role": "Adverse alternative-route check",
+            "locator": "Article 12(1) makes recognition governed by Law 9/2009."
+          },
+          {
+            "title": "Professional-order recognition procedure",
+            "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/371-2025-911688722",
+            "role": "Adverse alternative-route check",
+            "locator": "Article 6(1)(c), Article 16 and Annex II(g): conformity-certificate procedure; no express upgraded Romanian exception located."
+          }
+        ],
+        "statusDetail": "The statutory route is missing; a government proposal is still under consideration and its adequacy has not been established.",
+        "statusKind": "draft",
+        "statusLabel": "Current statutory route missing; government proposal identified",
+        "summary": "Portugal’s special Romanian nursing provision still contains only the practice-based route. A government proposal has not become law in the sources checked.",
+        "timeline": [
+          {
+            "date": "2024-02-12",
+            "event": "Nursing amendment published.",
+            "who": "eu"
+          },
+          {
+            "date": "2025-03-04",
+            "event": "National transposition deadline.",
+            "who": "eu"
+          },
+          {
+            "date": "2026-04-21",
+            "event": "Government proposal introduced.",
+            "who": "national"
+          },
+          {
+            "date": "2026-09-25",
+            "event": "General approval and committee referral recorded.",
+            "who": "national"
+          },
+          {
+            "date": "2026-10-26",
+            "event": "Current statute and alternative recognition procedures compared.",
+            "who": "check"
+          }
+        ],
+        "title": "Romanian nursing upgrades still lack the express recognition route without practice evidence"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "de-pv-business-waste-financing-date",
+      "previousValues": {
+        "caveat": "Only panels otherwise within WEEE scope are compared; equipment excluded under Article2(4), including qualifying large-scale fixed installations, is excluded. This concerns genuinely exclusive non-household equipment. Dual-use panels fall within the broader household category even when bought by businesses. EU Article 13(2) permits alternative financing agreements, and national 19(3) also permits contractual variation. Individual contracts, conformity with EU law and official practice need assessment. The 2012 onward rule was not first invented in 2024; the amendment restates differentiated dates after C-181/20’s pre-2012 invalidity finding. This is a qualified comparison, not a demonstrated uncovered disposal or adjudicated breach.",
+        "consequence": "Yes, on paper: the financing default can differ for otherwise in-scope panels used exclusively by businesses and first marketed from 13 August 2012 to 23 October 2015. No actual panel, disposal charge or refused collection was established.",
+        "peerReviewStatus": "passed",
+        "review": "Independent adverse review passed for the narrow comparison: a second researcher read current definitions and 19(3), dual-use scope, the pre-2012 judgment limitation and financing-agreement option. Further practice and contractual assessment remain necessary. A second researcher also reviewed the final complete record and found no blocking issue. A final scope challenge added the large-scale fixed-installation exclusion. No actual panel escaping every exclusion was established.",
+        "sources": [
+          {
+            "title": "WEEE financing amendment",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/884/oj",
+            "role": "EU changed rule and date",
+            "locator": "Article 1(3), revised 13(1);Article 2;recitals 4–9. Full official English original read."
+          },
+          {
+            "title": "Current German electrical-waste law",
+            "url": "https://www.gesetze-im-internet.de/elektrog_2015/BJNR173910015.html",
+            "role": "Current national comparison",
+            "locator": "3(4)(b),3(5),19(3); last amended 25 November 2025, checked 26 October 2026."
+          },
+          {
+            "title": "Federal implementation notice",
+            "url": "https://www.recht.bund.de/bgbl/1/2024/118/VO.html",
+            "role": "Contrary official position",
+            "locator": "Notice 9 April 2024, BGBl I 118 published 15 April 2024; official one-page PDF personally read."
+          },
+          {
+            "title": "Delegated authority’s photovoltaic classification guidance",
+            "url": "https://www.stiftung-ear.de/fileadmin/Dokumente/learn/DL-Workshop-ElektroG2018_201709.pdf",
+            "role": "Scope qualification",
+            "locator": "2017 workshop identifies exclusively non-household PV category; independent reviewer read. No particular panel classification established."
+          },
+          {
+            "title": "Original directive agreement option",
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012L0019",
+            "role": "Financing qualification",
+            "locator": "Article 13(2), not replaced by 2024/884."
+          }
+        ],
+        "statusDetail": "The dates differ for a narrowly defined business-use cohort; the ministry considers existing law sufficient.",
+        "statusKind": "differs",
+        "summary": "Germany’s historical-waste cutoff remains 24 October 2015 for solar panels. A narrow business-use cohort therefore differs from the revised EU financing dates.",
+        "title": "Exclusive business-use solar panels retain a later financing cutoff"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "previousValues": {
+        "caveat": "Direct-use partner donations are outside this EU timing requirement. Third-party donation has separate rules. Current Code Articles R1211-25 and R1211-26, clinical risk assessment and additional testing remain relevant; no equivalent binding three-month partner rule was identified. This does not assess individual treatment safety.",
+        "comparison": {
+          "before": "First partner sample: three months before donation.",
+          "after": "Current national first-sample window: six months.",
+          "note": "The 2014 transposition expressly shortened the window; the current replacement annex widens it again.",
+          "beforeLabel": "Revised EU requirement",
+          "afterLabel": "Current national rule"
+        },
+        "consequence": "The first-sample window is wider for relevant partner treatment. No actual outdated test, infection or patient harm has been established.",
+        "review": "Independent adverse review passed: current Code donor rules do not establish a three-month partner-treatment cure; root independently read the current binding annex.",
+        "sources": [
+          {
+            "title": "EU donor-testing amendment",
+            "url": "https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX%3A32012L0039",
+            "role": "EU requirement",
+            "locator": "Annex (2)(c); Article 2."
+          },
+          {
+            "title": "Current binding assisted-reproduction rules",
+            "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+            "role": "Current national rule",
+            "locator": "Annex II-5.1 and footnote 93; current header 26 October 2026, latest change 11 October 2023."
+          },
+          {
+            "title": "Earlier express transposition of the EU timing change",
+            "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029069103",
+            "role": "National legislative chain",
+            "locator": "Order of 2 June 2014, Article 1(1); published 12 June 2014."
+          },
+          {
+            "title": "Replacement of the entire assisted-reproduction annex",
+            "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048178648",
+            "role": "National legislative chain",
+            "locator": "Order of 5 October 2023, Article 1; annex II-5.1 and preamble; published 10 October 2023."
+          },
+          {
+            "title": "Third-party definition of gamete donation",
+            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006686232",
+            "role": "Alternative-route scope check",
+            "locator": "Code de la santé publique, L1244-1; current definition since 7 August 2004."
+          },
+          {
+            "title": "Current donor testing rules",
+            "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006160951",
+            "role": "Alternative-route check",
+            "locator": "Subsection 2, R1211-25 and R1211-26, current since 1 January 2022."
+          }
+        ],
+        "title": "First fertility-treatment blood sample can be six months old"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "ee-lead-legacy-exposure-cutoff",
+      "previousValues": {
+        "comparison": {
+          "before": "Exposure before national commencement:16 May 2026.",
+          "after": "Exposure before 9 April 2026.",
+          "note": "Only the cut-off differs in this comparison; other safeguards remain.",
+          "beforeLabel": "Current national exception",
+          "afterLabel": "EU qualifying cut-off"
+        },
+        "consequence": "Exposure during 9 April–15 May could qualify for continued work above the ordinary blood limit. Actual eligibility and any practical effect remain unverified."
+      },
+      "addedFields": []
+    },
+    {
+      "id": "at-noise-declaration-copy-retained",
+      "previousValues": {
+        "consequence": "On paper, a routine submission duty remains. Current enforcement and the effect of EU primacy remain unverified.",
+        "stage": "national",
+        "statusDetail": "The government has proposed the exact deletion; no enacted repeal was located.",
+        "statusKind": "draft"
+      },
+      "addedFields": []
+    },
+    {
+      "id": "ee-asbestos-low-risk-permit-exception",
+      "previousValues": {
+        "caveat": "This concerns removal/demolition within EU scope, not every low-risk activity. General prevention, exposure limits, training and health surveillance remain. Section 6(4) and consistent interpretation may constrain the exception; actual administrative practice requires legal assessment.",
+        "comparison": {
+          "before": "Low-risk exception reaches the whole permit section.",
+          "after": "Low-risk derogation limited to notification.",
+          "note": "Only the newly introduced permit coverage is compared.",
+          "beforeLabel": "Current national scope",
+          "afterLabel": "EU exception scope"
+        },
+        "consequence": "Possibly. The express exception could bypass permit scrutiny for otherwise covered low-risk removal. No company, operation or harm has been established.",
+        "nationalGap": "Section 5(3) permits omission of the whole of Section 6 for qualifying low-risk work. New Section 6(4)–(6) contains the permit and public-list provisions, potentially excluding qualifying low-risk asbestos removal.",
+        "review": "Two agents and the lead independently checked the clauses, EU derogation and current parent statute. Qualified concern.",
+        "sources": [
+          {
+            "title": "EU asbestos worker-protection revision",
+            "url": "https://eur-lex.europa.eu/eli/dir/2023/2668/oj/eng",
+            "role": "EU amendment",
+            "locator": "Article 1(3)(b) limits the low-risk derogation to notification under Article 4; Article 1(13) replaces Article 15 with prior permits and a public list. Authentic English and Estonian publications read."
+          },
+          {
+            "title": "Current official asbestos regulation",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004/blob-html",
+            "role": "Current national text",
+            "locator": "Version 25 January 2026–20 December 2029; whole body, especially Sections 5(2)–(3),6(1)/(4)–(6),8/12/13."
+          },
+          {
+            "title": "Official current-version metadata",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/122012026004?leiaKehtiv=true",
+            "role": "Currentness check",
+            "locator": "Current ID 122012026004; checked 26 October 2026; future 2029 microscopy version distinguished."
+          },
+          {
+            "title": "Current parent occupational-health statute",
+            "url": "https://www.riigiteataja.ee/public-api/api/v1/akt/116102026003/blob-html",
+            "role": "Alternative-safeguard check",
+            "locator": "Current 26 October 2026; Sections 4(5)/(7),12–13¹; no independent universal company-permit route located."
+          },
+          {
+            "title": "Government transposition explanation and comparison table",
+            "url": "https://adr.rik.ee/mkm/dokument/18283351",
+            "role": "Contrary interpretation and recognition check",
+            "locator": "Original public 31 December 2025 signed bundle actually read; explanatory pp 9–10; comparison table Article 3(3) and new 15. It treats the low-risk notification exception as compliant, without addressing its reach into the new permit subsections."
+          },
+          {
+            "title": "Current Labour Inspectorate asbestos guidance",
+            "url": "https://www.tooelu.ee/et/129/asbest",
+            "role": "Administrative-context check",
+            "locator": "Updated 20 February 2026; low-risk-work section describes notification/work-plan exemption, without an express separate low-risk permit procedure."
+          }
+        ],
+        "statusDetail": null,
+        "statusKind": "differs",
+        "summary": "The unchanged low-risk exception reaches the whole section containing the newly introduced permit.",
+        "title": "Low-risk asbestos exception still reaches the new permit clause"
+      },
+      "addedFields": []
+    }
+  ]
+}

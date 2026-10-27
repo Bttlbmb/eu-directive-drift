@@ -1,0 +1,45 @@
+{
+  "startedAt": "2026-10-27T03:23:35Z",
+  "targetAt": "2026-10-27T04:53:35Z",
+  "baseline": {
+    "entries": 53,
+    "findings": 6,
+    "leads": 47,
+    "notLocated": 14,
+    "complete": 205,
+    "partial": 59,
+    "pending": 411
+  },
+  "candidateChecks": [
+    {
+      "id": "cz-extra-jelly-fruit-minima",
+      "nationalSource": "https://e-sbirka.gov.cz/sb/2021/397",
+      "history": "Current14June2026; only358/2025amender, officialfullhistoryread.",
+      "actualRead": "Current §§1–8, Annex1 entirefruitminimetable andAnnex2 entirequalitytable; whole358/2025relevantpoints1–26 plusArticleIIstocktransition andIVapplication. Extra-jelly450/350/180/230/80vsEU500/450/280/290/100. §5(6)directtablehook; §2(i)nohigherquantity.",
+      "peer": "referencepersonallyreadwholeauthenticEU2024AnnexII+originaljellycrossrefsandMZeactual358amendertable; qualifiedPASS.",
+      "recognition": "Actual whole Commission C(2025)5317 final, Czech reply TRIS2025/2131 and general information2025/2028 read; comments only mutual recognition of non-harmonised goods, separate conformity assessment reserved. Whole visible June2026 confectionery-jelly article is unrelated. No precise prior report located; unpublished knowledge unknown.",
+      "status": "published as qualified lead; actual current text and peer passed; disclosed Commission correspondence independently read, no precise mismatch recognition located"
+    },
+    {
+      "id": "sk-jelly-fruit-minima",
+      "nationalSource": "https://static.slov-lex.sk/pdf/SK/ZZ/2012/44/ZZ_2012_44_20260614.pdf",
+      "actualRead": "Whole44currentHTMLall§§1–8andAnnex1/2;whole3992025all29points;PDFcurrentalloperativeclausesandtablepp5–6actuallyreadandvisuallychecked. Onlyjam/extraweightsupdated.",
+      "peer": "verifyactualbindingcurrenttable+wholeamenderPASS; referenceactualEUcrossrefsPASS.",
+      "status": "published as qualified lead; binding PDF and authentic full amender independently read"
+    },
+    {
+      "id": "hr-reduced-sugar-floor",
+      "status": "hold",
+      "reason": "Article5(1)later1924exceptioncanoverrideold55%5(2);noauthoritativecurrentrestrictivecohort. Root/verifyindependentlyreadwhole2019base+2025amender."
+    }
+  ],
+  "sourcePolicy": "Temporaryfullbodies/PDFsin/tmp;onlycompactlinks/notesretained.",
+  "interimPublicAdds": [
+    "cz-extra-jelly-fruit-minima",
+    "sk-jelly-fruit-minima",
+    "si-jam-cashew-pomegranate",
+    "hr-toy-cobalt-permission"
+  ],
+  "jamFormalAssessment": "All 27 countries and 13 changed groups assessed; not a conformity finding. Legal interpretation qualifications retained.",
+  "priorCatalogueCheck": "Read-only GitHub API GET of current reference catalogue: 127 acts; 2001/113 not in that snapshot. No changes to either reference repository. Temporary full reference catalogue only in /tmp."
+}

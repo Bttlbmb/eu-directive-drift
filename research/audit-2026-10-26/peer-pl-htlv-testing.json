@@ -1,0 +1,53 @@
+{
+  "id": "pl-reproductive-donor-htlv-prevalence",
+  "reviewDate": "2026-10-26",
+  "reviewer": "agent-01-23",
+  "recommendation": "withdraw-public-research-only",
+  "conclusion": "The incidence/prevalence text difference is real, but a concrete missing testing result is not established after reading the binding parent duties and exact legislative mapping. Withdraw conservatively; retain the discrepancy internally. This is not a declaration of complete transposition or safe practice.",
+  "reasoning": [
+    "Binding parent Article 3(1) requires current medical knowledge. Articles 29(1)(1)–(2) and 30(1)(2)–(3) impose medical justification, necessary examinations and donor/recipient/child risk safeguards as cumulative conditions. Regulation section 2(1)(5) requires other necessary tests and section 3 risk assessment. The incidence rows do not expressly permit withholding another necessary test.",
+    "The original government transposition table reproduces corrected prevalence in EU Annex III 2.4 and 3.3 and maps the donor-selection/testing blocks to these statutory duties. Its same legislative package includes draft annex rows saying incidence. This is positive contemporaneous evidence of an intended binding prevalence route, beyond an unrelated generic health provision.",
+    "No primary interpretation, official clinical instruction or reasoned legal example was established showing that Polish law permits a test omission in an EU prevalence category after applying those mandatory duties. An actual patient case is unnecessary: concrete legal or authoritative clinical demonstration would suffice."
+  ],
+  "strongestRetentionCounterargument": "The EU rule is categorical. A high-prevalence/low-or-unknown-incidence donor might fall outside a literal table row; individual clinical necessity is not automatically identical to the categorical rule. Explanatory mapping does not amend the regulation or prove current compliance. Preserve this credible research question, without claiming it disproved.",
+  "conservativeDecision": "Once the specific binding parent route and its express prevalence mapping are considered, the entry does not identify an uncovered legally operative category. Research-only is preferable under the requested threshold. Absence of patient harm is not the reason.",
+  "primaryEvidence": [
+    {
+      "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2012-82248",
+      "pinpoint": "Authentic EU 2012/39 recitals 1–3; Annex 2(a)–(b); Article 2",
+      "scope": "Fresh complete operative text read via official EU publication mirror; categorical prevalence change and 17 June 2014 deadline verified."
+    },
+    {
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/384/text.pdf",
+      "pinpoint": "Printed pp. 2–3 sections 2(1)(5), 2(4), 3; pp. 5–6 tables 1 row 5 and 2 row 6",
+      "scope": "Fresh full official PDF downloaded/extracted; incidence rows and additional necessary-testing/risk requirements independently read."
+    },
+    {
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/442/text.pdf",
+      "pinpoint": "Printed p. 5 Article 3(1); pp. 10–11 Articles 29(1)(1)–(2), 30(1)(2)–(3); p. 14 Article 35",
+      "scope": "Fresh official parent-statute PDF downloaded; binding provisions independently read."
+    },
+    {
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1087",
+      "pinpoint": "In-force metadata; amenders 2016/960, 2019/730, 2019/1590; latest consolidation 2020/442; print 3245",
+      "scope": "Fresh complete metadata read; bounded register currentness, not proof against every unindexed enactment."
+    },
+    {
+      "url": "https://api.sejm.gov.pl/sejm/term7/prints/3245",
+      "pinpoint": "Official print metadata; attachment 3245.pdf",
+      "scope": "Fresh official source record read; supplied the working attachment."
+    },
+    {
+      "url": "https://api.sejm.gov.pl/sejm/term7/prints/3245/3245.pdf",
+      "pinpoint": "Transposition table printed pp. 39–40 and 43–44; PDF pages 390 and 393 contain prevalence; corresponding statutory column; later draft laboratory annex",
+      "scope": "Fresh full 3.8 MB PDF downloaded/read. Prevalence blocks map to Articles 29–30 and related safeguards; do not imply each individual line has a separate statutory pinpoint. Senate mirror returned 403; this official attachment closes the access limit."
+    }
+  ],
+  "limits": [
+    "No authoritative national interpretation or clinical standard conclusively resolves the categorical-result question.",
+    "The separate non-reproductive prevalence rule is not assumed to apply universally to reproductive donors.",
+    "Mapping establishes governmental awareness and intended statutory route; it does not bind courts or establish effective compliance.",
+    "No actual unsafe practice, missed test or harm demonstrated; that absence is not by itself grounds for withdrawal."
+  ],
+  "reopenWhen": "A precise legal analysis, authoritative interpretation or binding clinical instruction establishes that an EU-category donor may lawfully go untested under the full reproductive-donor framework. No actual adverse event required."
+}

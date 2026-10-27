@@ -1,0 +1,93 @@
+{
+  "request": "Another two hours reviewing already engaged EU acts and all-change national coverage for the selected 25 shortest individual directives.",
+  "startedAt": "2026-10-26T06:22:24Z",
+  "requestedEndAt": "2026-10-26T08:22:24Z",
+  "agentSourceCutoff": "2026-10-26T08:19:00Z",
+  "finalPublicationCheckedAt": "2026-10-26T11:06:11.165777+00:00",
+  "baseline": {
+    "complete": 169,
+    "inProgress": 50,
+    "pending": 456,
+    "countryActPairs": 675
+  },
+  "finalCounts": {
+    "acts": 25,
+    "countries": 27,
+    "countryActPairs": 675,
+    "complete": 205,
+    "inProgress": 59,
+    "pending": 411
+  },
+  "additionalCompletedAssessments": 36,
+  "completionMeaning": "Every inventoried changed-meaning ID assessed within each explicitly stated formal-law scope. Qualified or inconclusive conclusions remain possible; this is not a compliance or enforcement certificate. Source blockers remain partial.",
+  "overallReviewComplete": false,
+  "portfolios": {
+    "root": {
+      "complete": 14,
+      "newWork": "German firearms row mapped across all 30 groups but remains partial; new pass-duration lead independently challenged."
+    },
+    "reference": {
+      "complete": 41,
+      "baselineComplete": 33
+    },
+    "research": {
+      "complete": 73,
+      "baselineComplete": 54
+    },
+    "verify": {
+      "complete": 77,
+      "baselineComplete": 68
+    }
+  },
+  "publicCatalogue": {
+    "total": 53,
+    "recordKinds": {
+      "finding": 6,
+      "lead": 47
+    },
+    "recognition": {
+      "recognized": 39,
+      "not-located": 14
+    },
+    "newThisPass": [
+      "de-firearms-pass-ten-year-exception"
+    ],
+    "retainedAuditExclusions": 16
+  },
+  "newCase": "German AWaffV Section 33 retains a narrow initial ten-year European firearms-pass term. Authentic 2008/51 Article 1(1)(e) removed that exception, due 28 July 2010; later EU texts retain five years. Qualified document-validity lead, with no actual issued pass, journey or possession outcome established.",
+  "adverseControls": [
+    {
+      "id": "de-firearms-category-b-negation",
+      "decision": "Private HOLD: official NWR classification matrix supplies the intended category; no residual operational consent/classification failure established."
+    },
+    {
+      "id": "ie-ofb-partial-licensing-relief",
+      "decision": "Private HOLD: mandatory APT5 certification may route any licensed producer into small-producer cooperation conditions, closing the apparent statutory residual."
+    },
+    {
+      "id": "nl-posted-worker-housing",
+      "decision": "Private HOLD: official employer-housing guidance and broader national routes; no uncovered cohort established."
+    }
+  ],
+  "independentReview": "Three agents challenged each other and root. The new firearms-pass concern has two independent EU/national-source checks plus a third bounded EU-side derogation review. Bounded peer review is distinguished from a full independent national audit.",
+  "concurrentAudit": "Conservative audit released shared public/generated files after preserving 16 exclusions and catalogue-overlay priority. No withdrawn record was restored.",
+  "validation": {
+    "npmRunCheck": "passed",
+    "completedInventoryIds": "All 205 completed rows contain every inventory ID; no explicit unresolved source blocker in completed rows.",
+    "browserCasePages": 53,
+    "browserCountryActViews": 675,
+    "browserFailures": 0,
+    "browserConsoleErrors": 0,
+    "recognitionFilter": "14 of 53 cases",
+    "screenshot": "research/firearms-pass-case-2026-10-26.png"
+  },
+  "durableSources": [
+    "research/root-bundle.json",
+    "research/reference-bundle.json",
+    "research/research-bundle.json",
+    "research/verify-bundle.json",
+    "research/catalogue-decisions.json"
+  ],
+  "remainingWork": "470 country-act pairs remain incomplete: 59 partial and 411 pending. German firearms technical/pass/companion routes, Italian donor regional dependencies and other explicitly identified current-source or sector blockers remain.",
+  "evidencePolicy": "Only compact comparisons, dated pinpoints and links retained. Downloaded original source bodies are temporary; no evidence archive or original reference-repository changes."
+}

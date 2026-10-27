@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_24_46",
+  "finding": "ie-renewable-eia-scoping-deferral",
+  "recommendation": "Retain qualified statutory-transition lead; existing requested-scoping rights must be foregrounded. The concrete residual is mandatory coverage and the specific fixed-scope protection for the same adequately described project, not availability of an opinion.",
+  "exactEuRule": {
+    "locator": "Directive2023/2413 Article1(7), inserted REDArticle16b(2), not16c(3)",
+    "result": "Outside acceleration areas, when the relevant EIA is required, the authority must issue an opinion defining scope/detail; the scope cannot subsequently be extended. The provision specifies no separate numerical deadline for giving that opinion.",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32023L2413",
+    "retrieval": "Fresh official indexed authentic text read; direct browser/PDF endpoints returned anti-bot content or an empty download. The full relevant paragraph was available in the official search result."
+  },
+  "bindingAlternatives": [
+    {
+      "url": "https://revisedacts.lawreform.ie/eli/2000/act/30/section/37D/revised/en/html",
+      "locator": "37D(1)–(4), F344/F347/F348, C114/C115",
+      "assessment": "A requested opinion is already mandatory for the authority and must be supplied as soon as practicable. Existing3A requires the report to be based on it. July2026 permits earlier requests during consultation. But4 preserves all other functions and prevents reliance on the opinion in planning/legal proceedings; the new specific non-extension rule3B remains deferred. This is positive contrary statutory text, beyond mere omission of new words."
+    },
+    {
+      "url": "https://revisedacts.lawreform.ie/eli/2000/act/30/section/173/revised/en/html",
+      "locator": "173(2)/(3):a(i)–(iii),aa,b; F728/F729/C253",
+      "assessment": "Existing request-led duties already require opinions before the application/report, and reports must be based on them. Paragraphs b expressly preserve further-information powers. The mandatory applicant-request and express non-extension rules ab are deferred. Those pre-existing duties establish a real scoping route, but no independently identified binding limit equivalent to the specific new guarantee."
+    },
+    {
+      "url": "https://revisedacts.lawreform.ie/eli/2024/act/34/section/233/revised/en/html",
+      "locator": "233(1),(3),(5),(7),(8)",
+      "assessment": "Alternative enacted framework remains request-led; report consistency/reasonably required information and further-information powers coexist. Its exact current commencement was not independently exhaustively established in this focused pass; even assuming applicable, its text alone supplies no demonstrated fixed-scope equivalence."
+    }
+  ],
+  "authenticDeferral": [
+    {
+      "url": "https://www.irishstatutebook.ie/eli/2025/si/274/made/en/pdf",
+      "locator": "Regulations6,12,14,18,38",
+      "assessment": "Downloaded official PDF and freshly extracted/read exact amendments: mandatory request plus non-extension protections are distinct changes. Regulation38 originally restricted their application to specified applications/requests on or after1October2025."
+    },
+    {
+      "url": "https://www.irishstatutebook.ie/eli/2026/si/185/made/en/pdf",
+      "locator": "Regulation2",
+      "assessment": "Fresh authentic PDF substitutes38(2), making Regulations6,12,14,18 operative1November2026."
+    },
+    {
+      "url": "https://www.irishstatutebook.ie/eli/2026/si/323/made/en/pdf",
+      "locator": "Regulations2,3(a)–(c)",
+      "assessment": "Fresh authentic PDF: early request and practicability provisions changed in July; related mandatory-request adjustment3(b) starts1November. It does not supply the deferred fixed-scope rule sooner."
+    }
+  ],
+  "guidanceAndLimits": {
+    "url": "https://www.pleanala.ie/en-ie/renewable-energy-directive-iii-%281%29/renewable-energy-directive-%28red%29-iii-eia-scoping-g",
+    "locator": "About this Guide; Introduction; KeyProceduralConsiderations/TimelineForOpinion/ChangesPostScoping;4.3.1;10",
+    "assessment": "Current-facing guide confirms November mandatory start and says no numerical scoping deadline exists. It describes the non-extension rule but also says material changes beyond scoped design parameters with different/additional likely significant effects can require fresh scoping. Its express guidance-only status and future-start explanation do not establish the deferred rule is already a binding domestic guarantee. No guide passage or judgment found proving equivalence under the older provisions."
+  },
+  "concreteResidual": [
+    "A developer could use the current statutory route without requesting a scoping opinion; the revised EU framework requires an opinion when the relevant EIA is required.",
+    "For a requested opinion on an unchanged, adequately described project, the older binding framework contains non-reliance/further-information reservations rather than an identified prohibition on later expansion. The express new limit is still deferred.",
+    "Existing requested scoping supplies much of the result, and EU-derived enforceability/conforming interpretation may protect individuals. No practical widening, missed deadline, project delay or denial of an enforceable EU right has been established."
+  ],
+  "proposedTargetedEdits": {
+    "euChange": "For relevant renewable projects outside acceleration areas requiring EIA, Article16b(2) requires a scoping opinion and limits subsequent enlargement of its scope.",
+    "nationalGapAddition": "Existing sections37D and173 already require an opinion when requested and require the report to be based on it. Section37D(4) nevertheless preserves other powers and prevents reliance on the opinion; section173 preserves further-information powers. The specific mandatory coverage and non-extension protections are the deferred changes.",
+    "caveatAddition": "This does not mean no binding scoping procedure exists. Further information within the agreed scope remains distinct from enlarging it; materially changed projects producing new or different likely significant effects may require fresh scoping. No general immunity from further environmental information is claimed.",
+    "consequenceOption": "Yes, on paper, until1November2026: mandatory coverage and the specific non-extension safeguard remain deferred. Existing requested-scoping rights continue, and no actual expanded information request or project delay has been established."
+  },
+  "conservativeAssessment": "The issue survives the same equivalence test used for withdrawals because identifiable existing statutory reservations concern the exact legal certainty the new safeguard supplies, and developers without a request remain a concrete uncovered procedural cohort. Recognition of the deferral is corroboration, not the sole ground. Preserve qualified statutory framing; no claim of absent EIA oversight or a required verbatim national form.",
+  "publicEdits": false
+}

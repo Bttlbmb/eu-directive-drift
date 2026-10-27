@@ -1,0 +1,126 @@
+{
+  "id": "at-noise-declaration-copy-retained",
+  "country": "Austria",
+  "countryCode": "AT",
+  "title": "Austria still requires routine noise-declaration copies",
+  "topic": "Outdoor equipment and reporting",
+  "baseAct": "Directive 2000/14/EC",
+  "amendingAct": "Directive (EU) 2024/2839",
+  "celex": "32024L2839",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "catalogueStatus": "review",
+  "researchRound": "systematic25",
+  "stage": "national",
+  "statusKind": "draft",
+  "statusLabel": "Deletion proposed; current copy clause remains",
+  "evidenceDate": "2026-10-26",
+  "evidenceLabel": "Current national law independently read",
+  "deadline": "2025-11-29",
+  "deadlineLabel": "EU application date; adoption/publication due 28 November 2025",
+  "summary": "A government draft proposes removing the copy duty, but the published regulation still contains it.",
+  "euChange": "Delete the routine declaration-copy provision.",
+  "nationalGap": "Section 6(3) requires manufacturers or representatives to send a declaration copy to the Commission and competent Member State authority. For Austria it names the ministry. The 2026 draft would delete this paragraph.",
+  "nationalLaw": "BGBl. II No 249/2001, as amended through No 347/2006",
+  "provisions": [
+    "National Section 6(3); separate Sections 5(4), 6(4)",
+    "Directive 2024/2839 Articles 2(1), 5(1)"
+  ],
+  "consequence": "Yes, on paper: a routine submission duty remains. Whether it is still enforced or must be disapplied requires legal review.",
+  "resolution": "Draft point 8 would remove Section 6(3). No later enacted deletion was located in the current regulation or official Gazette API search on 26 October 2026.",
+  "caveat": "The copy clause states no prior-submission deadline; no premarketing condition, automatic fine or actual filing burden is inferred. Declaration preparation, ten-year retention and reasoned market-surveillance requests remain separate. EU primacy or consistent interpretation may protect operators. The Commission procedure concerns implementation notification and does not decide this specific clause’s legality.",
+  "comparison": {
+    "beforeLabel": "Current national rule",
+    "before": "Routine copies to Commission and Member State authority.",
+    "afterLabel": "EU simplification",
+    "after": "Routine-copy provision deleted.",
+    "note": "Retention and targeted requests are distinct."
+  },
+  "review": "Independent current-law, government-draft and adverse-scope reviews passed. Official Gazette API title and implementing-reference searches checked for later enactment; practical enforcement remains unverified.",
+  "priorRecognition": "recognized",
+  "recognizedBy": [
+    "Government",
+    "Commission"
+  ],
+  "recognitionNote": "Government explanatory point 8 identifies the exact repeal. The Commission’s implementation procedure is broader and does not specifically adjudicate Section 6(3).",
+  "noveltySearch": {
+    "date": "2026-10-26",
+    "method": "Bounded official and public identifier searches located the exact government draft and explanation. Official Gazette API checked both the regulation title and EU implementing reference for later enactment.",
+    "queries": [
+      "\"Geräuschemissionen\" \"2026\" \"249/2001\"",
+      "\"2024/2839\" \"249/2001\"",
+      "\"Geräuschemissionen\" \"2026\" \"entfällt\""
+    ]
+  },
+  "sources": [
+    {
+      "title": "EU reporting simplification",
+      "url": "https://eur-lex.europa.eu/eli/dir/2024/2839/oj/eng",
+      "role": "EU amendment",
+      "locator": "Articles 2(1), 5(1)."
+    },
+    {
+      "title": "Current Austrian outdoor-equipment regulation",
+      "url": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001417",
+      "role": "Current national rule",
+      "locator": "Sections 4–6; returned official version 22 October 2026; last amendment 347/2006."
+    },
+    {
+      "title": "Government draft published by the Austrian Economic Chamber",
+      "url": "https://www.wko.at/oe/news/0281-ak-entwurf-geraeuschemissionen.pdf",
+      "role": "Proposed remedy",
+      "locator": "Point 8, deletion of Section 6(3); points 3 and 6 provide context."
+    },
+    {
+      "title": "Government explanation of the proposed repeal",
+      "url": "https://www.wko.at/oe/news/0281-ak-erlaeuterungen-geraeuschemissionen.pdf",
+      "role": "Precise prior recognition",
+      "locator": "Explanation of point 8, page 2."
+    },
+    {
+      "title": "Official Austrian Gazette API, regulation-title query",
+      "url": "https://data.bka.gv.at/ris/api/v2.6/Bundesrecht?Applikation=BgblAuth&Titel=Ger%C3%A4uschemissionen&DokumenteProSeite=OneHundred",
+      "role": "Later-enactment check",
+      "locator": "26 October 2026 query returned three entries, none enacted in 2026."
+    },
+    {
+      "title": "Commission July 2026 infringement decisions",
+      "url": "https://malta.representation.ec.europa.eu/news/july-infringements-package-key-decisions-2026-07-08_en",
+      "role": "Broader recognized implementation concern",
+      "locator": "8 July 2026; INFR(2026)0007."
+    },
+    {
+      "title": "Current EU noise directive",
+      "url": "https://eur-lex.europa.eu/eli/dir/2000/14/2026-05-30/eng",
+      "role": "Adverse legal-scope check",
+      "locator": "Articles 1, 6, 9, 17; Article 16 deleted."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024-10-23",
+      "who": "eu",
+      "event": "EU adopted reporting simplification."
+    },
+    {
+      "date": "2025-11-29",
+      "who": "eu",
+      "event": "National application date."
+    },
+    {
+      "date": "2026-05-15",
+      "who": "national",
+      "event": "Consultation deadline for the proposed deletion."
+    },
+    {
+      "date": "2026-07-08",
+      "who": "commission",
+      "event": "Reasoned opinion INFR(2026)0007."
+    },
+    {
+      "date": "2026-10-26",
+      "who": "check",
+      "event": "Current clause, draft and later enactments checked."
+    }
+  ]
+}

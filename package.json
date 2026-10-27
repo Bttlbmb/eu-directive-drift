@@ -5,6 +5,6 @@
   "description": "A lean research catalogue of EU amendments and national implementation gaps",
   "scripts": {
     "start": "python3 scripts/serve.py",
-    "check": "node --check docs/app.js && node --check docs/systematic.js && python3 scripts/validate.py"
+    "check": "node --check docs/app.js && node --check docs/systematic.js && python3 scripts/validate.py && python3 scripts/test_catalogue_safeguards.py"
   }
 }

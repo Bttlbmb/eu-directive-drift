@@ -1,0 +1,1009 @@
+{
+  "status": "complete",
+  "startedAt": "2026-10-26T05:25:52Z",
+  "requestedDurationMinutes": 120,
+  "completedAt": "2026-10-26T07:29:02Z",
+  "scope": "Conservative review of the 68 issues listed at the start, using three research agents, a separate challenge pass for every record, and lead review of disputed conclusions. No new public issues added.",
+  "threshold": "A wording difference alone is insufficient. Consider binding alternatives, lawful national variation, scope and transitions; withdraw a public concern when no specific residual right, duty or legal-certainty question is supported. Withdrawal is not a certificate of national compliance.",
+  "counts": {
+    "originalRecords": 68,
+    "primaryReviews": 68,
+    "independentChallenges": 68,
+    "withdrawn": 16,
+    "revisedRetained": 24,
+    "unchangedRetained": 28,
+    "publicRecords": 52,
+    "countries": 21,
+    "euChanges": 27,
+    "findings": 6,
+    "leads": 46
+  },
+  "decisionsFile": "research/catalogue-decisions.json",
+  "recoveryFile": "research/audit-2026-10-26/catalogue-before-review.json",
+  "verification": {
+    "automatedCheck": "npm run check: JavaScript syntax, dataset and timeline validation, source pinpoints, decision references, coverage corrections and two isolated regression tests.",
+    "browserChecks": {
+      "casePagesChecked": 52,
+      "casePageFailures": 0,
+      "coverageSelectorCombinationsChecked": 675,
+      "coverageSelectorFailures": 0,
+      "consoleErrorsObserved": 0,
+      "otherChecks": [
+        "Recognition filter shows 13 of 52 records.",
+        "Withdrawn deep link describes removal for insufficient support as well as resolution.",
+        "Polish coverage correction replaces the older conclusion in the leading display.",
+        "French partner-sampling EU and national comparison columns corrected and visibly verified.",
+        "Both data files revalidate on load; final fresh-preview totals and conditional requests verified."
+      ],
+      "finalCoverageStates": {
+        "complete": 187,
+        "inProgress": 52,
+        "pending": 436
+      },
+      "caseSourceLinksRendered": 352
+    },
+    "sourceAvailability": "One availability pass checked 355 unique source URLs during the earlier 64-record stage. HEAD/anti-bot failures were not treated as legal disproof; the dead EAR workshop source was replaced with current primary sources."
+  },
+  "limits": [
+    "Some primary publishers blocked direct retrieval; each focused note distinguishes live text, official indexed text and unread attachments.",
+    "Alternative routes may protect individual applicants or operators; actual decisions, contracts, patient files, enforcement and harm were not comprehensively audited.",
+    "Recognition searches are bounded and do not establish first discovery.",
+    "The separate 675-cell systematic review remains in progress; its completion flags do not certify compliance.",
+    "Changes remain local; no deployment, push or commit performed in this audit."
+  ],
+  "records": [
+    {
+      "id": "sk-traineeship-guidelines",
+      "countryCode": "SK",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "si-posted-worker-expenses",
+      "countryCode": "SI",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "revise"
+      },
+      "reason": "The statutory list omits two items, but general reimbursement and longer-posting routes are material. Downgrade to a research lead and leave equivalence open."
+    },
+    {
+      "id": "dk-environmental-information-corrigendum",
+      "countryCode": "DK",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "The corrected wording is documented, but no unresolved implementation defect is established. Ministry instructions apply the EU definition despite the national wording, and the wider domestic wording does not establish reduced access. Retain as an excluded textual-variation control rather than an unresolved public issue."
+    },
+    {
+      "id": "hu-emf-corrigendum",
+      "countryCode": "HU",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue."
+    },
+    {
+      "id": "be-jam-fruit-content",
+      "countryCode": "BE",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain-qualified-currentness"
+      },
+      "reason": "Fresh Justel text still displays the old general minima. State the bounded currentness check and distinguish the Commission notification concern from proof of continuing legislative absence."
+    },
+    {
+      "id": "de-waste-prevention-definition",
+      "countryCode": "DE",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "Ministry confirms the planned terminology update, but neither its explanation nor the record establishes a narrower operative duty or outcome. An acknowledged editorial alignment, with possibly broader current wording, is insufficient for the conservative unresolved-implementation catalogue."
+    },
+    {
+      "id": "lv-emf-corrigendum",
+      "countryCode": "LV",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue."
+    },
+    {
+      "id": "lt-emf-corrigendum",
+      "countryCode": "LT",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "The two reported national formulas produce lower exposure limits throughout the compared 10–400 Hz ranges. Directive 2013/35/EU recital 8 expressly permits lower national exposure/action limits. The mismatch alone therefore supplies no unresolved failure to implement an EU protection; deliberate national intent need not be proven to avoid an adverse public issue."
+    },
+    {
+      "id": "de-hazardous-waste-separation",
+      "countryCode": "DE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "nl-psd2-corrigendum-optout",
+      "countryCode": "NL",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "fr-psd2-corrigendum-optout",
+      "countryCode": "FR",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "dk-psd2-corrigendum-optout",
+      "countryCode": "DK",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "lv-psd2-corrigendum-optout",
+      "countryCode": "LV",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Two reviewers read the latest September amendment, effective 15 October; it changes neither relevant article. Disclose that full live consolidation access timed out during this later check."
+    },
+    {
+      "id": "si-rohs-two-wheel-scope",
+      "countryCode": "SI",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "Keep the literal difference internally, but remove from public unresolved implementation issues pending a demonstrated incompatibility. EU scope exclusion does not itself establish that an independent wider national hazardous-substance rule is impermissible; the possible notification/free-movement issue was not established. This is an evidence-threshold exclusion, not a finding that every wider national rule is lawful."
+    },
+    {
+      "id": "ie-biomass-sustainability-threshold",
+      "countryCode": "IE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "be-dac8-ledger-address-reference",
+      "countryCode": "BE",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "Fresh texts substantiate a stale citation but no reporting transaction excluded, unintelligible obligation, or missing administrative collection was established. Treat as an editorial-reference control rather than a substantive unresolved implementation issue."
+    },
+    {
+      "id": "hu-toy-cobalt-permission",
+      "countryCode": "HU",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "es-energy-audit-sme-exclusion",
+      "countryCode": "ES",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "lu-dac8-ledger-address-reference",
+      "countryCode": "LU",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "reason": "The statute expressly includes the relevant outbound-transfer reporting category despite its incorrect external citation. The tax authority now supplies an operational TransferWallet reporting field with required amount/unit data. Keep the typo internally; a missing or unintelligible reporting obligation is not established."
+    },
+    {
+      "id": "it-lead-exposure-limit-2024-amendment",
+      "countryCode": "IT",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "it-biomass-verification-transition",
+      "countryCode": "IT",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "fr-listing-research-payment-cap",
+      "countryCode": "FR",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "retain-only-narrow-recognised-legal-alignment-question"
+      },
+      "reason": "AMF announces the wider payment option, and binding existing rules already allow combined collection under research-account safeguards. The remaining recognised issue is legal alignment with the new non-account route; no payment ban or missing client protection is established."
+    },
+    {
+      "id": "fr-mifid-systematic-internaliser-definition",
+      "countryCode": "FR",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-01-23.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-01-23.json",
+        "recommendation": "revise-as-first-reviewer"
+      },
+      "reason": "Current national definition retains volume tests, but ESMA expressly relieves firms of performing them. Keep only a qualified statutory-alignment concern and foreground that relief."
+    },
+    {
+      "id": "cy-asbestos-exposure-limit-2023-amendment",
+      "countryCode": "CY",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "de-energy-efficient-utilities-procurement",
+      "countryCode": "DE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "ie-new-residential-charging-infrastructure",
+      "countryCode": "IE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "fr-diisocyanate-binding-limit",
+      "countryCode": "FR",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "es-payment-system-access-nonbanks",
+      "countryCode": "ES",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Binding TARGET and indirect routes provide real access. The published SNCE membership rules identify a more specific residual eligibility question; no universal access ban or individual refusal is established."
+    },
+    {
+      "id": "pl-biomass-sustainability-threshold",
+      "countryCode": "PL",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "fr-repair-warranty-extension",
+      "countryCode": "FR",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "agree-revise"
+      },
+      "reason": "The live code still specifies six months, but a current official consumer-guide page states twelve months. The public record omitted this contrary official evidence. Retain only as a qualified statutory wording concern, not a conclusion about uniform current practice."
+    },
+    {
+      "id": "fr-energy-sharing-legal-entity",
+      "countryCode": "FR",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "agree-revise"
+      },
+      "reason": "Live French L315-2 and D315-9 retain an organising legal person for collective self-consumption. EU Article 15a also permits private agreements. An authorised direct-sale route already exists; whole-framework equivalence is unresolved, so consequence should be possible and status open."
+    },
+    {
+      "id": "fr-offset-claim-blacklist",
+      "countryCode": "FR",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "pl-green-transition-commencement",
+      "countryCode": "PL",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "se-energy-sharing-deduction-deferral",
+      "countryCode": "SE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "de-biomass-electricity-support-threshold",
+      "countryCode": "DE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "es-online-withdrawal-function",
+      "countryCode": "ES",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "fr-dac8-ledger-address-reference",
+      "countryCode": "FR",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "agree-remove"
+      },
+      "reason": "Live Article 1649 AC bis II.D(i) retains the1114 citation; EU corrigendum changes the ledger-address reference to1113. This establishes a drafting mismatch, but no substantive reporting omission, scope change or unresolved compliance problem has been demonstrated. Remove from public issues pending such evidence; preserve research."
+    },
+    {
+      "id": "lu-asbestos-company-permit-transition",
+      "countryCode": "LU",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Existing worksite visas and capacity evidence are substantial protections. Limit the possible gap to visa-exempt removal work before the general company permit starts, and make the status open."
+    },
+    {
+      "id": "nl-heat-cost-benefit-analysis-threshold",
+      "countryCode": "NL",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "ie-renewable-eia-scoping-deferral",
+      "countryCode": "IE",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Existing law already guarantees an opinion on request. Limit the statutory-transition concern to broader mandatory coverage and the specific non-extension safeguard, with material project changes and within-scope clarification distinguished."
+    },
+    {
+      "id": "at-dac8-ledger-address-reference",
+      "countryCode": "AT",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "agree-remove"
+      },
+      "reason": "Current RIS§§ 4(7),18(1)Z3(i) retains1114 while EU corrigendum specifies1113. However official explanation directs OECD CARF-consistent interpretation, and binding KDVO§ 4 routes filings to published technical specifications. No substantive scope or reporting failure demonstrated. Remove public issue pending evidence; retain drafting research."
+    },
+    {
+      "id": "fi-green-claim-old-stock-transition",
+      "countryCode": "FI",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "de-residential-charging-commencement",
+      "countryCode": "DE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "retain-qualified"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "retain"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "it-dac8-ledger-address-reference",
+      "countryCode": "IT",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "agree-remove"
+      },
+      "reason": "Authentic Decree194/2025 Article 6(1)(ee) retains1114 address definition, and Article 13 requires external transfer reports. Literal citation mismatch holds, but there is no demonstrated reporting omission or practical ambiguity. Remove from public issues until substantive evidence; preserve research."
+    },
+    {
+      "id": "pt-electricity-complaint-protection-scope",
+      "countryCode": "PT",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "agree-revise"
+      },
+      "reason": "The billing-limited wording is confirmed, but the legal effect depends on the whole framework, including termination restrictions and dispute remedies. 'Yes, on paper' overstates a comparison whose equivalence remains expressly unresolved."
+    },
+    {
+      "id": "be-single-permit-unemployment-period",
+      "countryCode": "BE",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-24-46.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-24-46.json",
+        "recommendation": "agree-revise"
+      },
+      "reason": "The statute and current Flemish guidance support the stated 90-day/three-month wording. The title should attribute the period to those sources instead of announcing that residence necessarily ends despite overriding EU rights."
+    },
+    {
+      "id": "se-single-permit-unemployment-period",
+      "countryCode": "SE",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Attribute the three-month period to the national rule rather than implying that EU rights cannot protect an individual."
+    },
+    {
+      "id": "nl-slapp-third-country-jurisdiction",
+      "countryCode": "NL",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-open-contested"
+      },
+      "reason": "Dutch domicile normally satisfies the fallback connection test. Narrow the unresolved question to its separate unacceptable-foreign-forum condition, preserving the Ministry’s equivalence view and the actual success under existing law."
+    },
+    {
+      "id": "pt-online-withdrawal-function",
+      "countryCode": "PT",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "de-trafficking-nonsexual-service-use",
+      "countryCode": "DE",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "hu-bank-capital-leverage-trigger",
+      "countryCode": "HU",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "revise-open-administrative-route"
+      },
+      "reason": "The supervisor’s manual already specifies the correct minimum Tier 1 treatment. Its expressly non-binding status and the reversed statutory selector leave only an open legal-clarity question; no capital shortfall is established."
+    },
+    {
+      "id": "pl-water-abstraction-criminalisation",
+      "countryCode": "PL",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "fr-electricity-fixed-price-entitlement",
+      "countryCode": "FR",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "The authentic EU amendment gives a fixed-term/fixed-price entitlement distinct from France’s one-year-duration option. The current code was independently read by the24–46 agent and still ends atL332-7; the Senate dossier remains pending. Bound the absence claim to inspected provisions."
+    },
+    {
+      "id": "cz-financial-human-explanation-deferral",
+      "countryCode": "CZ",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Make the sectoral scope visible in the title and summary; existing sectoral explanation rights and other safeguards remain."
+    },
+    {
+      "id": "ro-aifm-group-investor-corrigendum",
+      "countryCode": "RO",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "remove"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "agree-remove"
+      },
+      "reason": "The branch/subsidiary difference is real, but the operative EU clause defines an exclusion from AIFMD, not an independently demonstrated ban on national regulation of excluded managers. No affected manager, decision, restriction of an EU passport or specific contrary EU obligation is established. Under the requested conservative threshold, hold the textual drafting lead in research rather than list it publicly as an unresolved implementation issue."
+    },
+    {
+      "id": "pt-repair-warranty-extension",
+      "countryCode": "PT",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "pt-outdoor-noise-declaration-copy-duty",
+      "countryCode": "PT",
+      "disposition": "retained",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Retained after the primary review and independent challenge; its existing scope and qualifications remain."
+    },
+    {
+      "id": "fi-outdoor-noise-declaration-copy-duty",
+      "countryCode": "FI",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Attribute the route to the national rule rather than actual filing practice. Keep the abolished Commission reporting chain as an open concern; practical enforcement and the precise draft rationale are unverified."
+    },
+    {
+      "id": "pt-romanian-nurse-upgrade-recognition",
+      "countryCode": "PT",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "revise-open-alternative-routes"
+      },
+      "reason": "Binding conformity-certificate and European Professional Card procedures may already supply recognition. Present an open equivalence question, without claiming refusal or absence of all recognition routes."
+    },
+    {
+      "id": "de-pv-business-waste-financing-date",
+      "countryCode": "DE",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "revise-open-conditional-cohort"
+      },
+      "reason": "Make the conditional non-household category explicit and disclose conflicting current register and environmental-agency guidance. Replace the dead workshop source with current primary sources."
+    },
+    {
+      "id": "hu-noise-national-copy-retained",
+      "countryCode": "HU",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "agree-open"
+      },
+      "reason": "The automatic national copy requirement is verified, but the Commission reporting route has been repealed. The EU simplification and harmonisation provisions give grounds for scrutiny; they do not, without further analysis, establish that this remaining national surveillance rule is prohibited. No premarketing condition, disproportionate filing requirement or specific official acknowledgment of an unlawful residual duty was established. Withhold as a public issue pending a reasoned legal-effect assessment."
+    },
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "countryCode": "PL",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "remove-to-research-only-pending-non-equivalence-analysis"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "The incidence/prevalence difference is real, but the current parent statute also imposes binding current-medical-knowledge, necessary-testing and clinical-risk duties. The original official transposition table expressly maps EU prevalence screening to those duties. No residual EU-category test omission permissible under the complete framework was established. Keep the wording observation research-only pending a reasoned non-equivalence analysis."
+    },
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "countryCode": "FR",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Limit the issue to initial partner collection outside direct use, disclose differing provider protocols and continuing clinical safeguards, and correct the reversed EU/national comparison-column assignment."
+    },
+    {
+      "id": "ee-lead-legacy-exposure-cutoff",
+      "countryCode": "EE",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "Fresh official current regulation13(5) refers to exposure before national commencement16May2026; authentic EU AnnexIIIa1.1.1 fixes9April2026. The37-day extension follows arithmetically. Initial suspension, medical surveillance and declining blood levels remain conditions, not proof of actual unsafe practice."
+    },
+    {
+      "id": "at-noise-declaration-copy-retained",
+      "countryCode": "AT",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "retain"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "retain-qualified"
+      },
+      "reason": "The government has proposed an exact repeal, not enacted a corrective act. Correct the evidence category and retain only an open concern about the obsolete reporting chain and its unverified legal effect."
+    },
+    {
+      "id": "ee-asbestos-low-risk-permit-exception",
+      "countryCode": "EE",
+      "disposition": "revised",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "revise-open-add-contrary-guidance"
+      },
+      "reason": "Fresh current5(3) refers to all of6, which now contains permit subsections. Authentic EU low-risk derogation is confined to notification; new15 requires prior permits. However, national6(4)’s explicit prior-permit sentence and official compliant-transposition assessment create an interpretation question. Put that uncertainty in the title/status."
+    },
+    {
+      "id": "ie-bank-ccp-quantified-plans",
+      "countryCode": "IE",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "remove-to-research-only"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "remove-insufficient-residual-duty-proof"
+      },
+      "reason": "Binding CBI licence conditions already require board risk strategy, documented quantitative risk appetite, monitoring, remedial action and contingency plans. Together with the existing CCP concentration rule and directly applicable EMIR requirements, these provide a plausible route to the changed EU result. No residual missing obligation beyond absent express statutory wording has been established. Withdraw pending a reasoned assessment of non-equivalence."
+    },
+    {
+      "id": "lv-noise-national-copy-retained",
+      "countryCode": "LV",
+      "disposition": "withdrawn",
+      "primaryReview": {
+        "file": "research/audit-2026-10-26/agent-47-68.json",
+        "recommendation": "revise"
+      },
+      "independentChallenge": {
+        "file": "research/audit-2026-10-26/peer-47-68.json",
+        "recommendation": "agree-open"
+      },
+      "reason": "The automatic national copy requirement is verified, but the Commission reporting route has been repealed. The EU simplification and harmonisation provisions give grounds for scrutiny; they do not, without further analysis, establish that this remaining national surveillance rule is prohibited. No premarketing condition, disproportionate filing requirement or specific official acknowledgment of an unlawful residual duty was established. Withhold as a public issue pending a reasoned legal-effect assessment."
+    }
+  ],
+  "elapsedWallMinutes": 123.18
+}

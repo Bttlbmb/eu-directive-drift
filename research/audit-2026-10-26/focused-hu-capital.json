@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "id": "hu-bank-capital-leverage-trigger",
+  "reviewer": "audit_records_24_46",
+  "recommendation": "retain-open-statutory-clarity-only",
+  "conclusion": "A specific statutory-clarity concern survives. Current Hpt186(9a) selects non-leverage risks where the corrected EU sentence selects excessive-leverage risks. The precise EU capital-quality result is already MNB’s published supervisory position, and binding individual requirements can be imposed under186(10). Neither the non-binding manual nor an unexamined possibility of individual decisions establishes a generally binding cure of the reversed statutory trigger. No capital shortage, deficient bank or incorrect supervisory decision is established.",
+  "evidence": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/dir/2019/878/corrigendum/2026-08-06/oj/hun/pdf",
+      "pinpoint": "Sole correction, new104a(4),second subparagraph;OJ2026/90670",
+      "access": "Fresh official indexed authentic PDF text",
+      "assessment": "The correction removes the words excluding excessive-leverage risks from the entirely-Tier1 rule."
+    },
+    {
+      "url": "https://njt.jog.gov.hu/jogszabaly/2013-237-00-00",
+      "pinpoint": "Current1October–19November2026,Section186(9),(9a),(10)",
+      "access": "Fresh live official rendered browser; searched unique phrase to load section",
+      "assessment": "Subsection9 supplies at least75%Tier1 composition. Subsection9a mandates entirelyTier1 for non-leverage risks. Subsection10 authorises a higher Tier1/CET1 proportion when the supervisor considers it necessary in the individual institution’s circumstances. The power can produce a binding bank-specific result; the inspected wording is discretionary and does not itself replace the general risk selector."
+    },
+    {
+      "url": "https://www.mnb.hu/letoltes/icaap-ilaap-bma-kezikonyv-2025q4.docx",
+      "pinpoint": "December2025 manual,VI.1.4.7–10, especially VI.1.4.9 (OLRR)",
+      "access": "Official file freshly linked from current index; parent-downloaded transient text independently read",
+      "assessment": "VI.1.4.7 describes leverage-specific Pillar2 requirements since2023. VI.1.4.9 says leverage-ratio requirements must be met with at leastTier1 quality, with higher quality possible for additional requirements. VI.1.4.10 repeats minimumTier1 for leverage guidance. This is the exact corrected capital-quality result, not merely generic supervision.",
+      "shortExtract": "minimum T1 minőségű tőkével szükséges teljesíteni"
+    },
+    {
+      "url": "https://www.mnb.hu/felugyelet/szabalyozas/felugyeleti-szabalyozo-eszkozok/modszertani-kezikonyvek/icaap-ilaap-bma-felugyeleti-felulvizsgalatok",
+      "pinpoint": "Current December2025 update and link63",
+      "access": "Fresh official web text",
+      "assessment": "MNB states it will conduct2026ICAAP/ILAAPreviews in accordance with this manual."
+    },
+    {
+      "url": "https://www.mnb.hu/felugyelet/szabalyozas/felugyeleti-szabalyozo-eszkozok",
+      "pinpoint": "First substantive paragraphs below heading,especially paragraphs3–4",
+      "access": "Fresh official full page; web lines181–185",
+      "assessment": "MNB expressly states these supervisory instruments do not rest on legal obligation and compliance cannot be enforced, though it examines/evaluates application. The next paragraph expressly includes methodological manuals among the instruments communicating its interpretation and expectations. This is direct official evidence of the manual category’s non-binding character."
+    },
+    {
+      "url": "https://njt.jog.gov.hu/jogszabaly/2013-139-00-00",
+      "pinpoint": "MNBAct13(2)(i),current27September2026",
+      "access": "Fresh official web text",
+      "assessment": "The statute separately characterises MNB recommendations as non-binding. This is corroborating context only: do not automatically equate every manual with that formal recommendation power."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/SUM/?uri=celex%3A61996CJ0197",
+      "pinpoint": "CommissionvFrance,C-197/96,official judgment summary points3–4",
+      "access": "Fresh official indexed summary; direct page anti-bot",
+      "assessment": "CJEU distinguishes binding national implementation from alterable administrative practice and recognises legal certainty can remain impaired by retained incompatible legislation. This general principle supports a statutory-clarity question, not an adjudication that this Hungarian arrangement breaches EU law."
+    }
+  ],
+  "reasoningLimits": [
+    "Do not describe the manual as absent, generic or requiring only an undefined level of leverage oversight: it states minimumTier1 precisely.",
+    "Do not infer that MNB cannot impose or has not imposed a fully compliant binding requirement in any individual decision.",
+    "Do not infer that the statutory non-leverageTier1 rule is itself unlawful: higher supervisory capital-quality requirements may be permitted.",
+    "The unresolved point is whether a clear generally binding rule supplies the corrected leverage trigger despite186(9a),not whether every national provision reproduces the EU words.",
+    "The manual has appropriate public visibility; the concern relies on its expressly non-binding character and the contrary statutory selector,not on secrecy."
+  ],
+  "proposedPatch": {
+    "statusKind": "open",
+    "statusLabel": "Statutory wording differs · supervisory practice follows EU rule",
+    "summary": "Hungary’s statute retains the reversed risk selector corrected in the EU text. MNB’s current manual nevertheless directs at leastTier1 capital for leverage-ratio requirements. The remaining concern is statutory clarity; individual supervisory requirements can supply the required result.",
+    "nationalGap": "Hpt186(9a) expressly selects risks other than excessive leverage. MNB’s published2026 supervisory manual states the correct minimumTier1 treatment for leverage-ratio requirements, and186(10) permits a binding higher-quality requirement for an individual institution. MNB describes methodological manuals as non-binding supervisory instruments. Whether another generally binding measure cures the statutory selector remains unresolved.",
+    "consequence": "The statutory wording and the EU correction differ. Published MNB supervision follows the correctedTier1 composition, so no capital shortfall or incorrect bank requirement is established. A limited legal-certainty question remains about the general statutory rule."
+  }
+}

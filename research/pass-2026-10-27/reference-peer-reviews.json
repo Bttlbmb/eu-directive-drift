@@ -1,0 +1,292 @@
+{
+  "reviewer": "reference",
+  "date": "2026-10-27",
+  "scope": "Bounded actual-source peer reviews. Each entry states which currentness or wider mapping evidence belongs to another researcher. None certifies administrative practice.",
+  "reviews": [
+    {
+      "id": "fr-cobalt-192",
+      "result": "PASS, bounded source-level",
+      "actualRead": [
+        "Authentic July 27 amender, JORF30 July 2026, entire Articles 1–3 and Appendix row",
+        "EU 2026/192 Articles 1–2 and inserted cobalt row"
+      ],
+      "sources": [
+        "https://publications.europa.eu/resource/cellar/55dab512-6270-4162-87e2-1dfcc749a949.0001.01/DOC_1"
+      ],
+      "conclusion": "All three uses and magnet non-ingestion/non-inhalation condition match; applies 29 August 2026. One-day publication delay is historical and resolved. Current principal/AnnexII closure was personally read by root, not reread by this reviewer."
+    },
+    {
+      "id": "si-cobalt-192",
+      "result": "PASS, bounded source-level",
+      "actualRead": [
+        "Current PISRS registry metadata and NPB8 main Article 4(1)",
+        "Actual current AnnexII attachment, III4(c)/5 and entire AppendixA cobalt row",
+        "EU 2026/192 Articles 1–2"
+      ],
+      "sources": [
+        "https://pisrs.si/api/rezultat/zbirka/id/URED5326",
+        "https://pisrs.si/api/rezultat/neuradno-precisceno-besedilo/629021880",
+        "https://pisrs.si/api/datoteke/integracije/629623302"
+      ],
+      "conclusion": "Current AnnexII has all three permissions and magnet condition. Registry identifies applicable NPB 8 from 29 August 2026. This is not an audit of every unchanged toy provision or administrative communication."
+    },
+    {
+      "id": "lt-cobalt-192",
+      "result": "PASS, bounded source-level",
+      "actualRead": [
+        "Authentic Order 4-239, all text and annexes from DOCX word/document.xml, especially1.2.15/Annex 3 row2 and Article 2",
+        "EU 2026/192 inserted row and application date"
+      ],
+      "sources": [
+        "https://publications.europa.eu/resource/cellar/e661dee7-db27-4fe7-ac3a-3279c13caae1.0001.01/DOC_1"
+      ],
+      "conclusion": "All three uses and magnet condition match; applies 29 August 2026. Source is DOCX, not a one-page PDF. Root independently read current e-tar principal/appendix and full amendment register; this review did not repeat that current principal read."
+    },
+    {
+      "id": "be-cobalt-192",
+      "result": "PASS, bounded source-level",
+      "actualRead": [
+        "Authentic July 19 decree, Moniteur30 July 2026 p41278, entire Articles 1–4 and visually inspected both NL/FR AppendixA tables",
+        "EU 2026/192 Articles 1–2"
+      ],
+      "sources": [
+        "https://publications.europa.eu/resource/cellar/572c29b5-92f0-4025-949e-a853eccc2c83.0001.01/DOC_1"
+      ],
+      "conclusion": "All three cobalt uses and magnet condition match. Article 3 applies 29 August 2026. One-day publication delay is resolved. Root independently read current Justel principal, latest history and AppendixA; this review is not a second full current-principal audit."
+    },
+    {
+      "id": "be-cadmium-1416",
+      "result": "PASS, bounded source-level",
+      "actualRead": [
+        "Authentic December 5 decree, Moniteur24 December 2024 pp141419–141420, entire Articles 1–4 and both NL/FR39(a)/(b) tables",
+        "EU 2024/1416 entire Articles 1–4 and Annex"
+      ],
+      "sources": [
+        "https://publications.europa.eu/resource/cellar/ca1f4fe8-024d-43b7-bf58-1af3a8effc47.0001.01/DOC_1",
+        "https://publications.europa.eu/resource/cellar/b14fd45e-170c-11ef-a251-01aa75ed71a1.0006.03/DOC_1"
+      ],
+      "conclusion": "Both concentration/surface and device limits, expiry dates and January 2025 application match. Root current Justel Art 4/39 and owner latest June 2026 lead-only amendment read are separately credited. No fresh LT/PT-language-correction audit by this reviewer."
+    },
+    {
+      "id": "de-cm1-maritime-surveillance",
+      "result": "PASS, bounded decisive-route source review",
+      "actualRead": [
+        "Current ArbSchG1(2), ArbMedVV 1/5(3)/AnnexPart1(3)–(4), SeeArbG99/114/118",
+        "Current BGVerkehr maritime applicability guidance",
+        "EU 2017/2398 Article 1(2)(a) replacing14(1)"
+      ],
+      "sources": [
+        "https://www.gesetze-im-internet.de/arbschg/__1.html",
+        "https://www.gesetze-im-internet.de/arbmedvv/__5.html",
+        "https://www.gesetze-im-internet.de/arbmedvv/anhang.html",
+        "https://www.gesetze-im-internet.de/seearbg/__99.html",
+        "https://www.gesetze-im-internet.de/seearbg/__114.html",
+        "https://www.gesetze-im-internet.de/seearbg/__118.html",
+        "https://www.bg-verkehr.de/arbeitssicherheit-gesundheit/branchen/seeschifffahrt-und-fischerei/seeschifffahrt/sicherheit-und-gesundheit"
+      ],
+      "conclusion": "Maritime exception is conditional on corresponding rules; no exclusive fitness-exam substitute removes chemical post-exposure surveillance in the clauses read. AnnexPart 1(4) permits specified AMR variations and must remain within owner assessment. Correct EU locator is 1(2)(a), not 1(1)(a). No second all 17-group or actual-practice audit."
+    },
+    {
+      "id": "cz-extra-jelly-1438",
+      "result": "PASS, bounded actual-source/adverse wording review",
+      "actualRead": [
+        "Original2001/113 AnnexI jelly/extra-jelly cross-links",
+        "Entire2024/1438 AnnexII and Articles 5–6",
+        "Binding Ministry reproduction of358/2025 relevant whole amending points and new Annex 1/2",
+        "First candidate entry in jelly-candidates.json"
+      ],
+      "sources": [
+        "https://publications.europa.eu/resource/cellar/fae3a3ab-dfb3-4769-9985-c4f77234ce61.0004.05/DOC_1",
+        "https://publications.europa.eu/resource/cellar/263d0199-1968-11ef-a251-01aa75ed71a1.0006.03/DOC_1",
+        "https://mze.gov.cz/public/portal/mze/legislativa/vap104648-92"
+      ],
+      "conclusion": "Extra-jelly 450/350/180/230/80 conflicts with preserved extra-jam link to 500/450/280/290/100. Mixture and water-deduction notes do not cure that different rate. Root current e-Sbirka/history read supplies currentness. Draft stock, interpretation and no-actual-product limitations are adequate. Shared EU 1438 source budget needs compact aggregation across all records."
+    },
+    {
+      "id": "mt-jam-1438",
+      "result": "PASS, actual full current and amending source review",
+      "actualRead": [
+        "Entire current SL449.41, six pages, all schedules",
+        "Entire LN71/2026, six pages, Articles 1–12",
+        "EU 2024/1438 entire AnnexII and Articles 5–6; original2001/113 jelly links"
+      ],
+      "sources": [
+        "https://legislation.mt/eli/sl/449.41/eng/pdf",
+        "https://legislation.mt/eli/ln/2026/71/eng/pdf"
+      ],
+      "conclusion": "All five ordinary/extra minima, preserved jelly links, conditional names, reduced-sugar and national naming option, FIC/additives, permitted juices, sulphite-treatment deletion and placed-or-labelled stock transition match the changed meanings. Applies 14 June 2026. Current header lists 71/2026 as sole amender. No discrepancy identified in those formal changed groups; no administrative-performance certification."
+    },
+    {
+      "id": "eu-jam-corrigendum-202690217",
+      "result": "Honey-only negative scope control",
+      "actualRead": [
+        "Entire authentic Greek one-page2024/1438R01,19 March 2026"
+      ],
+      "sources": [
+        "https://publications.europa.eu/resource/cellar/4f9cfb04-2336-11f1-8c3a-01aa75ed71a1.0005.01/DOC_1"
+      ],
+      "conclusion": "Only Article 1(4) honey amendments are corrected: plural annex heading and AnnexII cross-reference to AnnexI 3 fourthindent. No jam/jelly/minimum-fruit/sugar change. The selected 2001/113 jam inventory is unaffected; broader 1438 honey history must include the correction."
+    },
+    {
+      "id": "fi-weee-53-aland",
+      "result": "PASS, bounded decisive-source review; erroneous date concern withdrawn",
+      "actualRead": [
+        "Entire authentic188/2026 section 53, and adjacent53a",
+        "Current Åland2018:83 sections 1–4",
+        "Current Åland2018:92 entire sections 1–6 and amendment history"
+      ],
+      "sources": [
+        "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute/2026/188/fin%40",
+        "https://www.regeringen.ax/alandsk-lagstiftning/alex/201883",
+        "https://www.regeringen.ax/alandsk-lagstiftning/alex/201892"
+      ],
+      "conclusion": "Åland expressly applies mainland law/regulation amendments when they take effect nationally, with no read EEE-specific exception removing the changed financing dates. Section 53 differentiates three cohorts and preserves business cost-sharing contracts. Its first historic non-household exception says before 14 August 2005, which is equivalent to the authentic EU requirement after 13 August 2005. The reviewer initially misstated EU wording as from; verify independently caught the error and that false concern is withdrawn. Owner marking-scope interpretation remains separately qualified. No actual charge/product cohort established; not a second all-eight/current-mainland-body audit."
+    },
+    {
+      "id": "hr-cobalt-192",
+      "result": "PASS, bounded decisive-source and final prose review",
+      "actualRead": [
+        "OriginalNN83/2014 Articles 10,12–16; AnnexIIIII3–7 and AppendixA",
+        "EntireNN38/2015 and entirelatestNN140/2022",
+        "EntireSeptember 2026officialdraft",
+        "EU 2026/192 operative amendment and dates",
+        "Final hr-toy-cobalt-permission candidate prose"
+      ],
+      "sources": [
+        "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_83_1618.html",
+        "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_04_38_792.html",
+        "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_140_2129.html",
+        "https://zdravlje.gov.hr/UserDocsImages/2026_Savjetovanje%20s%20javno%C5%A1%C4%87u/Nacrt%20pravilnika%20o%20izmjeni%20i%20dopuni%20Pravilnika%20o%20sigurnosti%20igra%C4%8Daka.pdf"
+      ],
+      "conclusion": "Commission permission and national listing are conjunctive underIII 4(c)/5(c); actual 2015 list is nickel-only and actual 2022 latest amendment only adds aniline. Owner separately read all four intervening amenders, current Ministry chain and bounded later Gazette search. Independent low-concentration/inaccessibility alternatives and CE/free-movement/consistent interpretation remain material. Draft 25 November date is prospective. Narrow formal-list comparison passes, without actual refusal/sale/harm claim or reviewer claiming a second full six-amender audit."
+    },
+    {
+      "id": "lv-cadmium-1416",
+      "result": "PASS, bounded actual-source assessment with stated qualifications",
+      "actualRead": [
+        "Current actual Likumi255230 points3–7, especially5/6.3/7, Annex 3rows47/47.1; embedded selected-version list01 July 2026–12 August 2027; whole authentic EU 1416 previously read"
+      ],
+      "sources": [
+        "https://likumi.lv/ta/id/255230-noteikumi-par-atsevisku-bistamu-kimisku-vielu-lietosanas-ierobezojumiem-elektriskajas-un-elektroniskajas-iekartas"
+      ],
+      "conclusion": "Both caps, conjunctive device ceiling, expiry dates, exemptions and renewal routes match. Future13 August 2027 edition is separate. Original852/2024 and248/2026 chain belongs to verify; no second whole-chain audit."
+    },
+    {
+      "id": "si-air-299",
+      "result": "PASS, bounded actual-source assessment with stated qualifications",
+      "actualRead": [
+        "Whole actual current main13Articles, entire Annex 1two pages andAnnex3four pages; whole authentic EU 2024/299"
+      ],
+      "sources": [
+        "https://pisrs.si/api/datoteke/integracije/358061988"
+      ],
+      "conclusion": "Main7/9 bind annexes. Annex 1TableC NFR projections/biennial15 March; grid/LPS GNFR/four-year1 May. Annex 3Part2point2 NFR, justified aggregation inIIR and scenarios match. Root separately read current registry; no administrative-report-performance certificate."
+    },
+    {
+      "id": "cy-cashew-negative-control",
+      "result": "PASS, bounded actual-source assessment with stated qualifications",
+      "actualRead": [
+        "Actual original483/2004FirstAnnex1–2/6(iv), visual page4103; entire 79/2026four pages; whole EU 1438 jam amendment previously read"
+      ],
+      "sources": [
+        "https://www.cylaw.org/KDP/data/2004_1_483.pdf"
+      ],
+      "conclusion": "Original national cashew minimum already230g. Its omission from2026 numerical replacement is correct, not a missed update. Current complete-chain review belongs to root; no second full21page principal audit."
+    },
+    {
+      "id": "hr-cadmium-1416",
+      "result": "PASS, bounded actual-source assessment with stated qualifications",
+      "actualRead": [
+        "Actual base Article4(1–6), entire 151/2024 and entirelatest49/2026; whole authentic EU 1416"
+      ],
+      "sources": [
+        "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_151_2487.html"
+      ],
+      "conclusion": "Base4(3)(3) bindsAnnexIII; spare-part route preserved.151 inserts correct39a/b limits, conjunction, expiries and1 January 2025 force.49/2026 changes only6/7, force1 July 2026. Verify read all intervening amenders/current ministry list; reconstruction, not a current consolidation personally read."
+    },
+    {
+      "id": "de-blood-monitoring-869",
+      "result": "PASS, bounded actual-source assessment with stated qualifications",
+      "actualRead": [
+        "CurrentArbMedVV6 entire; actualBMASAMR6.2whole operative1–7 including4.2/5/6; fresh authentic EU 869whole operativeAnnexes"
+      ],
+      "sources": [
+        "https://www.gesetze-im-internet.de/arbmedvv/__6.html"
+      ],
+      "conclusion": "Recognised methods, appropriate selection, laboratory expertise and quality assurance are real routes. Exact absorption-spectrometry equivalence, blood-ceiling and legacy-cutoff equivalence remain legally inconclusive on the owner full chain. AMR is2013, bookletMay 2015, not a new2026 rule. No clinical-practice certification."
+    },
+    {
+      "id": "ro-cobalt-192-current",
+      "result": "PASS, bounded actual-source review",
+      "actualRead": [
+        "Actual current312556 selected29 August 2026 header, Articles 1–3,10,50(3),Annex 2III3–7 and entireAppendixA cobalt row"
+      ],
+      "sources": [
+        "https://legislatie.just.ro/Public/DetaliiDocument/312556"
+      ],
+      "conclusion": "All three uses and magnet condition match the previously freshly read authentic EU 192. Original1103 link returned error here; verify whole original-Gazette read is separately credited. No current gap identified from these targets."
+    },
+    {
+      "id": "gr-air-299",
+      "result": "PASS, bounded actual-source review",
+      "actualRead": [
+        "Entire authentic127236/2923/2024 Articles 1–3/TableC/method",
+        "Actual2018base Articles 8 and10 entire",
+        "Current ministry2026programme page",
+        "Whole authentic EU 299 previously read"
+      ],
+      "sources": [
+        "https://publications.europa.eu/resource/cellar/06ce20fc-fabf-45b2-8898-b14a21d40242.0001.01/DOC_1",
+        "https://ypen.gov.gr/wp-content/uploads/2023/10/%CE%A6%CE%95%CE%9A-%CE%92%CE%844740.pdf"
+      ],
+      "conclusion": "NFR projection row, biennial15 March, aggregation justification/IIR and scenarios match. Base8/10 binds annex reporting. Root separately read2026programme operative repeal and later search; this review does not certify reporting performance. LPS acronym printsGFNR, not treated as an omitted projection change."
+    },
+    {
+      "id": "it-air-299",
+      "result": "PASS, bounded actual-source review",
+      "actualRead": [
+        "Actual current27 October 2026 Normattiva observed cookie-session whole export: Articles 6,8,11 entire;AnnexI whole;AnnexIV whole",
+        "Whole authentic EU 299 previously read"
+      ],
+      "sources": [
+        "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-30;81!vig=",
+        "https://www.normattiva.it/esporta/attoCompleto?atto.dataPubblicazioneGazzetta=2018-07-02&atto.codiceRedazionale=18G00096"
+      ],
+      "conclusion": "NFR projections, dates and method match, and annexes are integral. Root independently read14 January 2025 target edition/history. No current target gap; no submission-performance or every-unchanged-article certificate."
+    },
+    {
+      "id": "de-asbestos-21-bounded",
+      "result": "PASS for completed formal assessment with explicit legal-equivalence uncertainties",
+      "actualRead": [
+        "Current GefStoffV 11a,25(4–9),AnnexI3.6–3.7",
+        "Actual TRGS 519 whole Annexes 3–5 and14.4–15.2",
+        "Entire four-page BMAS 21 May 2026 instructions and whole six-page6 December 2024 bridge",
+        "Fresh authentic EU 2668 whole operative text and entire AnnexIa",
+        "All 21 provisionChecks and uncertainty statements in verify bundle, logical review"
+      ],
+      "sources": [
+        "https://www.gesetze-im-internet.de/gefstoffv_2010/__11a.html",
+        "https://gewerbeaufsicht.baden-wuerttemberg.de/documents/20121/56990/5_519.pdf",
+        "https://verbraucherschutz.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/LAV_Verbraucherschutz/Arbeitsschutz/formulare/Bekanntmachung_BMAS_-Anzeige_und_dazugeh%C3%B6rige_Musterformulare-TRGS-519__21.05.2026_.pdf",
+        "https://www.bgbau.de/fileadmin/Medien-Objekte/Medien/Sonstige_Medien/Infoblatt_Ueberleitungshilfe_TRGS_519.pdf"
+      ],
+      "conclusion": "Instructions retain2027 qualification-proof and20 December 2026 low/medium permission-proof transitions. Bridge preserves old qualifications subject to refreshers, but does not postpone risk-based protection generally. Exact training/certificate, low-exposure, ceiling/stop and disease-register questions remain expressly inconclusive. No hard unread operative-source blocker identified in the described formal mapping; not a second all 21 national-source audit or performance certificate."
+    },
+    {
+      "id": "cz-tris-commission-july2025",
+      "scope": "Actual whole 3-page Commission C(2025)5317final dated24July2025, message112558/EN ZIP PDF; independently downloaded and personally read.",
+      "sources": [
+        "https://technical-regulation-information-system.ec.europa.eu/en/notification/26870/message/112558/EN"
+      ],
+      "conclusion": "The comments concern mutual recognition of non-harmonised fruit/vegetable requirements only. No jelly or extra-jelly fruit-minimum discrepancy is identified. This does not change the bounded recognition classification of the Czech lead; it is not evidence that no other prior analysis exists."
+    },
+    {
+      "id": "bg-cobalt-dated-compilation-source-peer",
+      "scope": "Personally read official agency integrated Articles 1–5 and50–53, Annex5 entire cobalt row and Decree 60 commencement. Header chain ends8May2026; footer11 May.",
+      "sources": [
+        "https://www.damtn.government.bg/wp-content/uploads/naredbi/naredba_za_sastestvenite_iziskvania_i_otseniavane_saotvetstvieto_na_igrachkite.pdf"
+      ],
+      "conclusion": "All three cobalt uses and magnet conditions match EU 2026/192; the row applies29August2026. This dated compilation alone does not close later-currentness. Owner retains partial assessment until that independent source question is resolved; no current gap inferred."
+    }
+  ]
+}

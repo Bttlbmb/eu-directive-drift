@@ -1,0 +1,128 @@
+{
+  "id": "ie-asbestos-low-risk-permit-exception",
+  "title": "Low-risk asbestos removal bypasses the combined permit provision",
+  "country": "Ireland",
+  "countryCode": "IE",
+  "topic": "Worker health and safety",
+  "baseAct": "Directive 2009/148/EC",
+  "baseActPublished": "2009-12-16",
+  "amendingAct": "Directive (EU) 2023/2668",
+  "celex": "32023L2668",
+  "updateType": "Amendment",
+  "recordKind": "lead",
+  "stage": "research",
+  "statusLabel": "Qualified concern · permit scope",
+  "statusKind": "differs",
+  "statusDetail": null,
+  "evidenceDate": "2026-10-26",
+  "deadline": "2025-12-21",
+  "correctionDate": null,
+  "deadlineLabel": "General implementation deadline",
+  "summary": "The combined notification/permit exception potentially reaches an undertaking doing only qualifying low-risk removal without any existing valid approval.",
+  "euChange": "Prior removal permits; the low-risk derogation concerns notification only.",
+  "nationalGap": "New Regulation 5(b) disapplies the whole of Regulation 11 for qualifying sporadic low-intensity work, including intact removal of non-degraded matrix-bound materials. Regulation 11(1)(a)(iv) now requires an HSA permit number, expressly subject to Regulation 5(b); paragraph (b) establishes the public list.",
+  "nationalLaw": "S.I. 386/2006 as amended by S.I. 589/2010 and S.I. 632/2025; current Regulations 5(b), 11, 15–17.",
+  "provisions": "S.I. 632/2025 Regulations 9(2), 13 and 18; EU 2023/2668 Article 1(3)(b)/(13), revised 2009/148 Articles 3(3) and 15.",
+  "consequence": "Possibly, for an otherwise covered undertaking carrying out only qualifying low-risk removal and lacking a valid permit from another notification or approval. The EU requires undertaking approval, not a new permit for every job. No such undertaking, operation or harm has been established.",
+  "resolution": "Official amendment histories updated 13 October 2026 list the 2025 amendments and no later cure. Current HSA guidance links each permit number to a notification. Bounded later-law searches located no separate universal permit route.",
+  "caveat": "Only removal/demolition otherwise within EU scope is compared, not every low-risk task. A valid undertaking permit obtained through another notification or approval could already satisfy the EU requirement. Risk assessment, ability evidence, written work plans, training, exposure limits, health surveillance and enforcement remain. Regulation 3(2) additionally applies more favourable chemical-agent and CMR rules; these actual current rules were separately read and no universal prior asbestos-company permit was located there. Other relevant permits, EU-consistent interpretation and enforceable EU rights may affect an individual case. Waste-collection permissions and customer-facing ability evidence are not assumed to be universal prior removal permission. No unconditional permission to perform unsafe work is inferred.",
+  "review": "Qualified adverse review passed. Root independently read the entire actual S.I. 632/2025, all Regulations 1–28 and annex, and authentic EU Article 1(3)(b)/(13). A second peer independently read the exact national Regulations 9/13. The first reviewer checked the 2010 amendment, relevant original safeguards, current histories, complete asbestos Code and current HSA procedure. No actual affected undertaking or operation was established.",
+  "comparison": {
+    "beforeLabel": "Current national exception",
+    "before": "Qualifying low-risk removal is outside the combined notification/permit regulation.",
+    "afterLabel": "EU permit scope",
+    "after": "The low-risk notification derogation does not extend to prior removal permits.",
+    "note": "General safety obligations and separate competence evidence continue."
+  },
+  "priorRecognition": "not-located",
+  "recognizedBy": [],
+  "recognitionNote": "Bounded searches of the statutory instrument, low-risk exception, permit and EU provisions located descriptions of the new procedure, but no precise published analysis identifying the surviving exception as a mismatch. Current HSA guidance describes the notification exception and a permit number per notification; this is administrative context, not an acknowledgment of incompatibility. No first-discovery claim.",
+  "catalogueStatus": "review",
+  "evidenceLabel": "Actual enacted clauses, official history and current HSA procedure checked",
+  "sources": [
+    {
+      "title": "EU asbestos worker-protection revision",
+      "url": "https://eur-lex.europa.eu/eli/dir/2023/2668/oj/eng",
+      "role": "EU amendment",
+      "locator": "Article 1(3)(b) limits the low-risk derogation to Article 4 notification; Article 1(13) replaces Article 15 with prior permits and a public list. Authentic original read in the shared review."
+    },
+    {
+      "title": "Irish enacted 2025 asbestos amendment",
+      "url": "https://www.irishstatutebook.ie/eli/2025/si/632/made/en/print",
+      "role": "Exact operative comparison",
+      "locator": "Entire amender read. Regulation 9(2) replaces 5(b); 13 replaces 11(1)–(2), including express subject-to clause, prior permit number and list; 18 preserves ability evidence. Commences 21 December 2025 under Regulation 3."
+    },
+    {
+      "title": "Irish principal asbestos safety regulations",
+      "url": "https://www.irishstatutebook.ie/eli/2006/si/386/made/en/print",
+      "role": "Alternative duties and scope",
+      "locator": "Original Regulations 5, 11, 15–17, 20–25 read with the enacted amendments; ongoing prevention, training, health and work-plan duties distinguished."
+    },
+    {
+      "title": "Irish 2010 asbestos amendment",
+      "url": "https://www.irishstatutebook.ie/eli/2010/si/589/made/en/print",
+      "role": "Earlier work-plan and competence safeguards",
+      "locator": "Entire operative amendment read; Regulation 3(c) notification and 3(d) full work-plan/clearance requirements, later amended by 2025 instrument."
+    },
+    {
+      "title": "Current HSA notification and permit procedure",
+      "url": "https://www.hsa.ie/your_industry/chemicals/legislation_enforcement/asbestos/asbestos_notifications/asbestos_notifications/",
+      "role": "Administrative alternative-route check",
+      "locator": "Current page says the low-risk Regulation 5(b) criteria affect notification and a unique permit number is issued for each processed notification. It requires risk assessment, work plan, training records and medical-assessment dates."
+    },
+    {
+      "title": "Official amendment history of principal regulation",
+      "url": "https://www.irishstatutebook.ie/isbc/si2006_351-400.html",
+      "role": "Later-law check",
+      "locator": "Entry 386 lists the 2010 and 2025 amendments, including Regulations 5(b), 11(1)–(2), and no later replacement. Register updated 13 October 2026."
+    },
+    {
+      "title": "Official amendment history of 2025 instrument",
+      "url": "https://www.irishstatutebook.ie/isbc/si2025_601-650.html",
+      "role": "Additional currentness check",
+      "locator": "Entry 632: not affected, as at register update 13 October 2026."
+    },
+    {
+      "title": "Current asbestos exposure-limit code",
+      "url": "https://www.hsa.ie/media/p2qnvsyo/2025-code-of-practice-for-the-safety-health-and-welfare-at-work-exposure-to-asbestos-regulations-2006-2025.pdf",
+      "role": "Continuing protection and adverse check",
+      "locator": "Entire actual eight-page Code read; effective21December2025,0.01fibres/cm³current, personal representative sampling and respirator fit testing. It addresses exposure/air monitoring, not a separate universal permit."
+    }
+  ],
+  "researchMetadata": {
+    "systematicAct": "2009/148",
+    "countryAssessmentComplete": false,
+    "peerReview": "Root independently read the entire amender and authentic EU provisions; Reference independently read the exact national exception and permit clauses. Qualified PASS, with currentness and alternative-route limitations retained.",
+    "assessmentScope": "Exact current formal-law comparison and bounded alternative-route/later-law review; not an administrative compliance audit.",
+    "laterLawSearch": "Official principal/amender history updated 13 October 2026 plus bounded later official searches and current HSA procedure read 26 October 2026.",
+    "noveltyQueries": [
+      "Ireland asbestos permit \"low risk\" \"2023/2668\"",
+      "\"632/2025\" asbestos permit exemption",
+      "\"asbestos\" \"Regulation 5(b)\" \"permit\" Ireland",
+      "\"asbestos\" Ireland \"Article 15\" exempt"
+    ],
+    "scopeControl": "Only the newly introduced undertaking-permit coverage for otherwise covered undertakings lacking an existing valid permit. Not a demand for a new permit on every job; no separate claim about old work-plan exemptions or general absence of protection."
+  },
+  "timeline": [
+    {
+      "date": "2025-12-21",
+      "who": "eu",
+      "event": "General EU implementation deadline."
+    },
+    {
+      "date": "2025-12-21",
+      "who": "national",
+      "event": "The 2025 instrument states commencement; new permit and low-risk cross-reference apply together."
+    },
+    {
+      "date": "2025-12-30",
+      "who": "national",
+      "event": "Notice of making published in Iris Oifigiúil."
+    },
+    {
+      "date": "2026-10-26",
+      "who": "check",
+      "event": "Operative provisions, amendment histories and current administrative procedure checked."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "request": "Two more hours reviewing EU acts already engaged with, prioritising all-change national coverage for the25shortest individual directives.",
+  "startedAt": "2026-10-26T04:06:32Z",
+  "requestedEndAt": "2026-10-26T06:06:32Z",
+  "checkpointAt": "2026-10-26T06:02:08.628282+00:00",
+  "baseline": {
+    "complete": 55,
+    "inProgress": 42,
+    "countryActPairs": 675
+  },
+  "checkpointCounts": {
+    "acts": 25,
+    "countries": 27,
+    "countryActPairs": 675,
+    "complete": 169,
+    "inProgress": 50,
+    "pending": 456
+  },
+  "completionMeaning": "All inventoried changed meanings assessed within each explicitly stated formal-law scope. Legal conclusions can remain inconclusive. Not a certification of compliance, actual notifications, enforcement outcomes or all unchanged original law.",
+  "overallReviewComplete": false,
+  "durableSources": [
+    "research/root-bundle.json",
+    "research/reference-bundle.json",
+    "research/research-bundle.json",
+    "research/verify-bundle.json"
+  ],
+  "independentReview": "Three research agents and root challenged national routes, currentness and EU applicability. Per-row notes distinguish source rereads from bounded methodological review. A separate human-authorised conservative audit owns final website publication and exclusions.",
+  "newPrivateResearch": [
+    {
+      "id": "ie-asbestos-low-risk-permit-exception",
+      "decision": "Qualified lead; national and EU clauses independently reread. Requires an undertaking doing only qualifying low-risk removal without an existing valid undertaking permit. No actual such business or harm established."
+    },
+    {
+      "id": "se-private-environment-unfinished-notice",
+      "decision": "Qualified private-body notice question. Original2003recast duty; not a missed Swedish implementation of a Finnish correction. Government contrary service-duty view and possible equivalent routes explicit."
+    },
+    {
+      "id": "lt-partner-donor-htlv-prevalence",
+      "decision": "HOLD/negative control. Exact Lithuanian EU terminology differs from national27.2, but national30 imports correct28.4for stored/cultured gametes. No uncovered mandatory cohort established."
+    }
+  ],
+  "controls": [
+    "Belgian and Slovenian national noise-copy requirements actually repealed; do not publish resolved cases.",
+    "Lithuanian actualedition hashes can point to stale versions. Follow canonical/asr and read body date, not metadata alone.",
+    "Finlex old XML body can coexist with newer amendment metadata; actual current body must be verified.",
+    "A base-act assessment must depend on all relevant sibling amending-act assessments; unfinished current source stays partial.",
+    "Stricter testing intervals and lower exposure limits do not automatically establish failure to transpose."
+  ],
+  "remainingWork": "Large unfinished national comparisons remain, particularly firearms, excise and jam rules, and source/currentness or legal-route blockers in existing partial rows. No25-by27comprehensive completion claim.",
+  "siteOwnership": "The concurrently authorised conservative audit will regenerate coverage from the latest durable bundles and decide public inclusion. Do not restore its exclusions.",
+  "evidencePolicy": "Lean comparisons, pinpoints and links retained. Downloaded source bodies remain transient under/tmp.",
+  "publishedCounts": {
+    "complete": 169,
+    "inProgress": 50,
+    "pending": 456,
+    "countryActPairs": 675
+  },
+  "concurrentCatalogueAudit": {
+    "publicRecords": 55,
+    "documentedExclusions": 13,
+    "note": "Conservative audit rebuilt current coverage from all frozen bundles and carries exclusion decisions into comparisons through a durable overlay. Irish quantified CCP-plan lead withdrawn: binding CBI2015 governance conditions plus statutory policies and EMIR7a provide a plausible result-based alternative."
+  },
+  "validation": "npm run check passed:55public records,13documented exclusions and675ledger cells; actual browser view confirmed169/50/456.",
+  "screenshot": "research/coverage-2026-10-26.png",
+  "researchWindowCompletedAt": "2026-10-26T06:06:43.855454+00:00"
+}

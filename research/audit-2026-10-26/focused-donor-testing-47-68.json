@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-26",
+  "reviewer": "audit_records_47_68",
+  "scope": "Focused final adverse review of the two existing donor-testing leads; binding alternative duties and credible residual cohorts. No new cases or public data edits.",
+  "records": [
+    {
+      "id": "pl-reproductive-donor-htlv-prevalence",
+      "recommendation": "withdraw-to-research-only-pending-non-equivalence-analysis",
+      "decisionReason": "The explicit incidence/prevalence difference is verified and epidemiologically meaningful. However, the full current infertility statute imposes binding current-medical-knowledge and necessary-testing duties in addition to the table. This review did not establish that a donor whom EU law categorically requires to be tested could lawfully remain untested under all those duties. Under the requested conservative threshold, preserve the wording observation internally while withholding a public missed-obligation issue. This does not establish complete or correct transposition.",
+      "changedEUResult": "Directive 2012/39 recital 3 distinguishes new-case incidence from the proportion already affected and deliberately replaces the former criterion to ensure consistent HTLV testing. Annex (2)(a)–(b) requires HTLV-I antibody testing for the specified high-prevalence geographic and family/partner categories. This is more than a translation-label comparison.",
+      "verifiedNationalText": "The 2025 consolidated reproductive-donor regulation retains zachorowalności (incidence) in Annex 1 table 1 row 5 and table 2 row 6. The additional-test and clinical-risk clauses remain mandatory, and the parent statute supplies further operative duties that the current website card does not fully identify.",
+      "bindingAlternativeRoutes": [
+        {
+          "law": "Infertility Act, Article 3(1)",
+          "operativeExcerpt": "zgodnie z aktualną wiedzą medyczną",
+          "effect": "Infertility treatment, including medically assisted procreation, must follow current medical knowledge."
+        },
+        {
+          "law": "Infertility Act, Article 29(1)(1)–(2)",
+          "operativeExcerpt": "niezbędnych badań lekarskich i laboratoryjnych",
+          "effect": "Partner procurement requires medical justification based on current knowledge and necessary examinations/tests, with control of donor, recipient and child adverse-event risks."
+        },
+        {
+          "law": "Infertility Act, Article 30(1)(2)–(3)",
+          "operativeExcerpt": "na podstawie aktualnego stanu wiedzy medycznej",
+          "effect": "Nonpartner procurement similarly requires current-knowledge justification, necessary tests and limits on recipient/child health risks."
+        },
+        {
+          "law": "Reproductive-donor regulation, Section 2(1)(5), Section 3",
+          "operativeExcerpt": "innych niezbędnych badań lekarskich i laboratoryjnych",
+          "effect": "Additional necessary examinations/tests depend on the interview/history; health qualification assesses donor, recipient and child risks. These are legally binding safeguards, not optional clinic guidance."
+        }
+      ],
+      "strongestRetentionArgument": "A donor from a high-prevalence but low-incidence region, without another individual risk signal, illustrates why the categorical triggers may differ. A duty to order tests clinically necessary in an individual assessment does not expressly reproduce an automatic geography-based test. EU recital 3 specifically sought consistent screening, so the generic clinical duties must not be described as a proven complete cure. Agent24 independently favours retaining an open/Possibly criterion lead on this basis.",
+      "whyThatDoesNotYetResolveConservativeThreshold": "The hypothetical establishes an epidemiological distinction, but this review did not establish that omitting HTLV testing in it would satisfy the binding current-knowledge and risk duties. No binding clinical standard, authoritative legal interpretation or reasoned application was located that demonstrates this residual omission would be allowed. Lack of an actual harmed patient is not the withdrawal reason.",
+      "historicalTranspositionContext": "The full official 2015 parliamentary package is now accessible at the Sejm print API and was independently read from the first reviewer’s transient download. Printed mapping pages39–40 and43–44 reproduce the EU prevalence requirements alongside the parent-law medical-knowledge, necessary-test and risk provisions. The same package’s draft regulation uses incidence. This coexistence predates the current consolidation and strengthens the need to examine operative equivalence; it is not a present conformity ruling or proof the table is correct.",
+      "separateTissueRule": "The separate tissue-bank rule uses prevalence and the 2014 amender expressly implements Directive 2012/39. Its statutory route differs from the reproductive-donor system. The current Transplant Act excludes reproductive procurement/transplantation in Article 1(2)(1); this review did not establish that its tissue-bank rule universally cures reproductive-donor screening. Do not claim it does.",
+      "fallbackPublicPatchIfRetained": {
+        "statusKind": "open",
+        "statusLabel": "Qualified concern · clinical duties may supply screening",
+        "statusDetail": "The explicit criterion differs; the effect of binding clinical duties remains unresolved",
+        "summary": "Two reproductive-donor screening rows retain incidence where the EU uses prevalence. Binding duties to follow current medical knowledge and perform necessary tests may supply screening beyond the table; equivalence remains unresolved.",
+        "consequence": "Possibly. The automatic geographic screening criterion differs, but the parent infertility statute and regulation require current medical knowledge, necessary tests and individual risk control. Whether those duties already supply the EU result has not been resolved. No missed test or patient harm has been established.",
+        "caveat": "Infertility Act Articles 3(1),29(1)(1)–(2),30(1)(2)–(3), and regulation Sections 2(1)(5) and3 impose binding clinical duties. A high-prevalence/low-incidence scenario explains the textual concern but does not prove an omission would be lawful under those duties. The separate tissue-bank rule should not be assumed to apply universally to reproductive donors."
+      },
+      "sources": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/f23ce6a3-3a53-11e2-b7ce-01aa75ed71a1.0006.04/DOC_1",
+          "pinpoint": "Fresh authentic Directive 2012/39, recital3 and Annex(2)(a)–(b)."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2025/384/text.pdf",
+          "pinpoint": "Fresh full official PDF; printed pp2–3 Sections2–3; pp5–6 Annex1 tables1row5 and2row6."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/442/text.pdf",
+          "pinpoint": "Fresh full official current parent consolidation; printed p5 Article3(1),p10 Article29,p11 Article30,p14 Article35."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1087",
+          "pinpoint": "Fresh current parent metadata: latest consolidation2020/442, amenders through2019; no later amender listed."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/sejm/term7/prints/3245/3245.pdf",
+          "pinpoint": "Full official parliamentary package independently read from agent01’s transient download after the Senate endpoint failed. Printed mapping pp39–40 and43–44 reproduce prevalence beside the parent-law clinical-duty provisions; draft regulation in same package retains incidence."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/772/text.pdf",
+          "pinpoint": "Fresh official indexed amender Section1 introduces prevalence into the separate tissue-bank rule; implementation footnote expressly cites2012/39."
+        },
+        {
+          "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/1185/text.pdf",
+          "pinpoint": "Fresh full official Transplant Act consolidation; Article1(2)(1) reproductive procurement/transplantation scope exclusion."
+        }
+      ],
+      "limits": [
+        "No legally authoritative application of the generic medical duties to the hypothetical donor was located.",
+        "No patient file, missed test or safety outcome examined.",
+        "No proof of full equivalence or categorical non-equivalence is claimed.",
+        "Agent01 independently challenges withdrawal; source-access gap on the historical mapping has now been closed."
+      ]
+    },
+    {
+      "id": "fr-partner-gamete-first-blood-sampling",
+      "recommendation": "retain-narrow-qualified-lead",
+      "decisionReason": "The binding current annex expressly accepts first blood screening within six months before initial partner parental-AMP collection. The EU timing rule is three months for partner donation outside direct use. A first partner semen collection intended for storage/banking provides a legally credible scope overlap, without relying on third-party donation or purely direct use. No binding universal three-month override was located.",
+      "credibleResidualCohort": "A man in a declared intimate relationship supplies semen for the couple’s parental AMP with banking/storage (or for an IVF pathway resulting in cryopreserved embryos). The first negative screening sample is four months before that first collection and no intervening risk is identified. The French annex’s six-month clause accepts that timing; the EU three-month first-donation condition does not. This is a legal-scope illustration, not an identified patient or proof that a clinician would choose that interval.",
+      "scopeAndAlternatives": [
+        "Authentic Directive2006/17 Article1(b) defines partner donation by the declared intimate relationship; Article1(c) defines direct use as donation and use without banking. AnnexIII2 expressly includes processed/stored reproductive cells and cells leading to embryo cryopreservation.",
+        "Agent24 independently live-read the current opposable French annex: it covers intraconjugal and third-party AMP. II-5.1 has a separate six-month first parental-AMP collection bullet, not merely a later-use rule for previously preserved material.",
+        "Footnote93 defines an attempt to include insemination,IVF,embryo transfer or collection for future use; it does not replace six months with three.",
+        "II-5.1 requires repeat tests when interviews identify an intervening contamination risk. That is a material clinical safeguard, but does not impose a universal three-month maximum where no such risk is identified.",
+        "II-5.2 expressly addresses third-party donors. CodeL1244-1 defines domestic gamete donation as third-party contribution. CurrentR1211-25/26 andR2141-23 accordingly do not establish a general partner three-month override.",
+        "The 2014 amending order formerly shortened the annex to three months. The 2023 order replaced the entire annex; the old amender is not an independent surviving override of the current six-month text."
+      ],
+      "contraryPracticeEvidence": "Antoine-Béclère AP-HP’s current page, updated1October2025, requires screening under three months for a first attempt. Conversely, the current Diaconesses Croix Saint-Simon dossier expressly accepts under six months for both partners’ first AMP attempt, discussingFIV/ICSI/TEC. These first-party policies show that an unstated universal clinical three-month practice must not be assumed. Neither page establishes compliance or noncompliance in any patient case, nor does a provider policy itself settle national law.",
+      "suggestedPatch": {
+        "title": "First blood sample for some partner fertility treatment can be six months old",
+        "consequence": "The current annex allows a six-month first-sample window for relevant partner collection, while the EU requires three months for partner donations outside direct use, including banked material. Additional clinical testing duties and stricter local protocols remain relevant. No actual outdated test, infection or patient harm has been established.",
+        "caveat": "Direct-use partner donations are outside this EU timing requirement; third-party donation has separate rules. The concern is limited to an initial partner collection with banking/storage or relevant embryo cryopreservation. Interview-based risk assessment and additional testing continue, and some hospitals require three months. No equivalent binding nationwide three-month partner rule was identified. This does not assess individual treatment safety."
+      },
+      "sources": [
+        {
+          "url": "https://publications.europa.eu/resource/cellar/6078f8c9-bd97-4fd0-86c8-5fe7621822ab.0005.03/DOC_1",
+          "pinpoint": "Fresh authentic2006/17 Article1(b)–(c); AnnexIII1,2,2.1–2.2; stored material and cryopreserved embryos."
+        },
+        {
+          "url": "https://publications.europa.eu/resource/cellar/f23ce6a3-3a53-11e2-b7ce-01aa75ed71a1.0006.04/DOC_1",
+          "pinpoint": "Fresh authentic2012/39 Annex(2)(c), revisedIII4.2; first partner sample within three months; later sampling rules distinguished."
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000018829426/",
+          "pinpoint": "Agent24 fresh live26October2026 current header; latest amendment11October2023; opposable annex introduction,II-5.1/footnote93,II-5.2,partner cryopreservation scope. Durable independent note: research/audit-2026-10-26/focused-fr-partner-sampling.json."
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006686232/2026-02-19",
+          "pinpoint": "Fresh official indexedL1244-1, unchanged since7August2004: gamete donation defined as third-party contribution."
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006145468/2026-04-22/",
+          "pinpoint": "Fresh official indexed currentR1211-25/26 donor rules;R1211-26 current since1January2022; renewal at donor collection/ovarian stimulation, not a general partner three-month rule."
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044968847/2026-02-19",
+          "pinpoint": "Fresh official indexedR2141-23: donation of initially conserved material triggers separate donation rules; does not itself override ordinary partner-collection timing."
+        },
+        {
+          "url": "https://hopital-antoine-beclere.aphp.fr/biologie-de-la-reproduction-amp",
+          "pinpoint": "Fresh full first-party hospital page; updated1October2025; complete first-treatment dossier requires viral serology under3months."
+        },
+        {
+          "url": "https://hopital-dcss.org/notre-dossier-fertilite",
+          "pinpoint": "Fresh full first-party hospital page; dossier réglementaire, both partners’ first-attempt HIV/HBV/HCV serology under6months, then1year;FIV/ICSI/TEC context."
+        }
+      ],
+      "limits": [
+        "The current French annex was independently read live by agent24; this agent’s direct Legifrance fetch remained blocked.",
+        "Selected current Code provisions were freshly read through official search-index text, with version limits stated in URLs.",
+        "No universal census of binding clinical standards, provider protocols or patient files.",
+        "No inference that every first fertility-treatment sample may be six months old or that six-month testing is clinically unsafe."
+      ]
+    }
+  ]
+}
